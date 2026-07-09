@@ -11,7 +11,7 @@ genre: ''
 
 ## 加藤珈琲店 しゃちブレンド 2種飲み比べ コーヒー 豆のまま 1kg 2kg | 愛知県 名古屋市 楽天ふるさと納税 返礼品 お礼の品 コーヒー 珈琲 おいしいコーヒー 飲み比べ 飲み比べセット 詰め合わせセット セット 美味しい
 
-![加藤珈琲店 しゃちブレンド 2種飲み比べ コーヒー 豆のまま 1kg 2kg | 愛知県 名古屋市 楽天ふるさと納税 返礼品 お礼の品 コーヒー 珈琲 おいしいコーヒー 飲み比べ 飲み比べセット 詰め合わせセット セット 美味しい](https://thumbnail.image.rakuten.co.jp/@0_mall/f231002-nagoya/cabinet/frp_goods/frp036/24058954.jpg?_ex=128x128)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f231002-nagoya/cabinet/frp_goods/frp036/24058954.jpg?_ex=128x128" alt="加藤珈琲店 しゃちブレンド 2種飲み比べ コーヒー 豆のまま 1kg 2kg | 愛知県 名古屋市 楽天ふるさと納税 返礼品 お礼の品 コーヒー 珈琲 おいしいコーヒー 飲み比べ 飲み比べセット 詰め合わせセット セット 美味しい" border="0" />
 
 👉 [加藤珈琲店 しゃちブレンド 2種飲み比べ コーヒー 豆のまま 1kg 2kg | 愛知県 名古屋市 楽天ふるさと納税 返礼品 お礼の品 コーヒー 珈琲 おいしいコーヒー 飲み比べ 飲み比べセット 詰め合わせセット セット 美味しい の詳細・ご購入はこちら](https://hb.afl.rakuten.co.jp/hgc/g00u3241.ve2q5392.g00u3241.ve2q6545/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff231002-nagoya%2Fca001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff231002-nagoya%2Fi%2F10000410%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
