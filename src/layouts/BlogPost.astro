@@ -11,6 +11,34 @@ type Props = CollectionEntry<'blog'>['data'] & { genre?: string };
 
 const { title, description, pubDate, updatedDate, heroImage, genre, sidebarProducts } = Astro.props;
 
+const defaultProducts = [
+	{
+		title: '★テレビで話題★＼楽天1位／コーヒードリッパー コーヒーフィルター ステンレス製 メッシュ二重構造フィルター ペーパーレス',
+		url: 'https://hb.afl.rakuten.co.jp/hgc/g00tsoq1.ve2q5b75.g00tsoq1.ve2q61cb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flonglife-global%2Fcd21761%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flonglife-global%2Fi%2F10000009%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b',
+		imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/longlife-global/cabinet/08208996/08211510/imgrc0113115449.jpg?_ex=600x600',
+		price: 1980
+	},
+	{
+		title: '【ふるさと納税】HARIO V60 ガラス of コーヒードリッパーセット「V60 Glass Brewing Kit」',
+		url: 'https://hb.afl.rakuten.co.jp/hgc/g00s6nv1.ve2q5786.g00s6nv1.ve2q6d3f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff082040-koga%2F5701-30034959%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff082040-koga%2Fi%2F10000731%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b',
+		imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f082040-koga/cabinet/hario/5701-30034959-01.jpg?_ex=600x600',
+		price: 10000
+	},
+	{
+		title: '【レビュー特典＆おまけ付き】キントー ブリューワースタンドセット SCS-S02 4杯用 KINTO SLOW COFFEE STYLE',
+		url: 'https://hb.afl.rakuten.co.jp/hgc/g00raig1.ve2q59cb.g00raig1.ve2q6626/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fganbareokusan%2Fyy-4963264500852%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fganbareokusan%2Fi%2F10071185%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b',
+		imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/ganbareokusan/cabinet/09809396/th-4963264500852_x1.jpg?_ex=600x600',
+		price: 17600
+	}
+];
+
+const products = sidebarProducts && sidebarProducts.length > 0
+	? [
+			...sidebarProducts,
+			...defaultProducts.slice(sidebarProducts.length)
+		].slice(0, 3)
+	: defaultProducts;
+
 // 過去の投稿（最新記事・今見ている記事を除く10件）を取得
 const allPosts = (await getCollection('blog')).sort(
 	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
@@ -443,30 +471,24 @@ const sidebarPosts = allPosts.filter(post => post.id !== excludeId).slice(0, 10)
 						<!-- 広告1: 特選おすすめ商品/バナー -->
 						<div class="sidebar-widget ad-widget">
 							<div class="ad-label">SPONSORED</div>
-							{sidebarProducts && sidebarProducts.length > 0 ? (
+							{products && products.length > 0 && (
 								<div class="sidebar-product-card">
-									{sidebarProducts[0].imageUrl && (
-										<a href={sidebarProducts[0].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-image-link">
-											<img src={sidebarProducts[0].imageUrl} alt={sidebarProducts[0].title} class="sidebar-product-image" />
+									{products[0].imageUrl && (
+										<a href={products[0].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-image-link">
+											<img src={products[0].imageUrl} alt={products[0].title} class="sidebar-product-image" />
 										</a>
 									)}
-									<a href={sidebarProducts[0].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-title-link">
-										{sidebarProducts[0].title}
+									<a href={products[0].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-title-link">
+										{products[0].title}
 									</a>
-									{sidebarProducts[0].price && (
+									{products[0].price && (
 										<div class="sidebar-product-price">
-											{sidebarProducts[0].price.toLocaleString()}円
+											{products[0].price.toLocaleString()}円
 										</div>
 									)}
-									<a class="banner-button" href={sidebarProducts[0].url} target="_blank" rel="nofollow noopener noreferrer">
+									<a class="banner-button" href={products[0].url} target="_blank" rel="nofollow noopener noreferrer">
 										詳細を見る
 									</a>
-								</div>
-							) : (
-								<div class="dummy-ad-box premium-ad-gradient-1">
-									<span class="ad-title">☕ コーヒー暮らし特選</span>
-									<p class="ad-desc">店主厳選の極上ドリップバッグセット</p>
-									<a class="banner-button" href="/contact">詳細をチェックする</a>
 								</div>
 							)}
 						</div>
@@ -494,25 +516,24 @@ const sidebarPosts = allPosts.filter(post => post.id !== excludeId).slice(0, 10)
 						<!-- 広告2: 汎用アフィリエイトプレースホルダー -->
 						<div class="sidebar-widget ad-widget">
 							<div class="ad-label">SPONSORED</div>
-							{sidebarProducts && sidebarProducts.length > 1 ? (
+							{products && products.length > 1 && (
 								<div class="sidebar-product-card">
-									{sidebarProducts[1].imageUrl && (
-										<a href={sidebarProducts[1].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-image-link">
-											<img src={sidebarProducts[1].imageUrl} alt={sidebarProducts[1].title} class="sidebar-product-image" />
+									{products[1].imageUrl && (
+										<a href={products[1].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-image-link">
+											<img src={products[1].imageUrl} alt={products[1].title} class="sidebar-product-image" />
 										</a>
 									)}
-									<a href={sidebarProducts[1].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-title-link">
-										{sidebarProducts[1].title}
+									<a href={products[1].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-title-link">
+										{products[1].title}
 									</a>
-									<a class="banner-button" href={sidebarProducts[1].url} target="_blank" rel="nofollow noopener noreferrer">
+									{products[1].price && (
+										<div class="sidebar-product-price">
+											{products[1].price.toLocaleString()}円
+										</div>
+									)}
+									<a class="banner-button" href={products[1].url} target="_blank" rel="nofollow noopener noreferrer">
 										詳細を見る
 									</a>
-								</div>
-							) : (
-								<div class="dummy-ad-box premium-ad-gradient-2">
-									<span class="ad-title">🎁 おすすめアフィリエイト</span>
-									<p class="ad-desc">手軽に始める、おうち焙煎スターターキット</p>
-									<a class="banner-button" href="/contact">キャンペーンを見る</a>
 								</div>
 							)}
 						</div>
@@ -520,25 +541,24 @@ const sidebarPosts = allPosts.filter(post => post.id !== excludeId).slice(0, 10)
 						<!-- 広告3: 最下部追従広告 -->
 						<div class="sidebar-widget ad-widget">
 							<div class="ad-label">SPONSORED</div>
-							{sidebarProducts && sidebarProducts.length > 2 ? (
+							{products && products.length > 2 && (
 								<div class="sidebar-product-card">
-									{sidebarProducts[2].imageUrl && (
-										<a href={sidebarProducts[2].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-image-link">
-											<img src={sidebarProducts[2].imageUrl} alt={sidebarProducts[2].title} class="sidebar-product-image" />
+									{products[2].imageUrl && (
+										<a href={products[2].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-image-link">
+											<img src={products[2].imageUrl} alt={products[2].title} class="sidebar-product-image" />
 										</a>
 									)}
-									<a href={sidebarProducts[2].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-title-link">
-										{sidebarProducts[2].title}
+									<a href={products[2].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-title-link">
+										{products[2].title}
 									</a>
-									<a class="banner-button" href={sidebarProducts[2].url} target="_blank" rel="nofollow noopener noreferrer">
+									{products[2].price && (
+										<div class="sidebar-product-price">
+											{products[2].price.toLocaleString()}円
+										</div>
+									)}
+									<a class="banner-button" href={products[2].url} target="_blank" rel="nofollow noopener noreferrer">
 										詳細を見る
 									</a>
-								</div>
-							) : (
-								<div class="dummy-ad-box premium-ad-gradient-3">
-									<span class="ad-title">🔔 お得な限定案件</span>
-									<p class="ad-desc">無料登録でコーヒー豆増量クーポン配布中！</p>
-									<a class="banner-button" href="/contact">限定クーポンを取得</a>
 								</div>
 							)}
 						</div>
