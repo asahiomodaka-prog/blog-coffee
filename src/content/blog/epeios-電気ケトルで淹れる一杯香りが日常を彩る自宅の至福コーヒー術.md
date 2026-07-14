@@ -4,6 +4,19 @@ description: '自宅コーヒーの味が安定しない、温度管理が面倒
 pubDate: '2026-07-13'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/mpowjapan/cabinet/cp001/sp/nek2952-2.jpg?_ex=600x600'
 genre: 'coffee'
+sidebarProducts:
+  - title: '[250円OFFクーポン/暑さ対策フェア]【公式は2年保証】電気ケトル おしゃれ ドリップ 一人暮らし コーヒー ケトル 600ml 0.6Lドリップケトル IKE-C601T-HA IKE-C601T-CW IKE-C800T ケトル 電気ケトル 電気 電気ポット [安心延長保証対象]'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00t3zt1.ve2q5891.g00t3zt1.ve2q6431/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firisplaza-r%2F513875%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Firisplaza-r%2Fi%2F10107672%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/irisplaza-r/cabinet/11073544/11567353/imgrc0106734606.jpg?_ex=600x600'
+    price: 7480
+  - title: '「15%OFFクーポン付き」電気ケトル EPEIOS エペイオス【高評価4.68】コーヒーケトル 0.9L｜1℃単位温度調節＆保温機能付き 細口 ステンレス製 ドリップケトル 空焚き防止 おしゃれデザイン 湯沸かし やかん 電気ポット（Lite）'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00tqke1.ve2q53d8.g00tqke1.ve2q6270/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmpowjapan%2Fcp004agjp1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmpowjapan%2Fi%2F10000907%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/mpowjapan/cabinet/cp004/sp/cp004.jpg?_ex=600x600'
+    price: 8980
+  - title: '【1等最大100％ポイントバックキャンペーン】 珈琲考具 『 ドリップポット 』 コーヒードリップポット コーヒー ケトル ITTEKI 日本製 ドリップ ドリッパー ポット ステンレス スタイリッシュ コーヒーポット コーヒー器具 おしゃれ ih 対応 細口 ギフト プレゼント 贈り物'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00t7ao1.ve2q5bd3.g00t7ao1.ve2q6e3a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsimomura-kihan%2F40437%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsimomura-kihan%2Fi%2F10000504%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/simomura-kihan/cabinet/06439098/imgrc0082959276.jpg?_ex=600x600'
+    price: 6050
 ---
 
 ※本ページはプロモーションが含まれています。
