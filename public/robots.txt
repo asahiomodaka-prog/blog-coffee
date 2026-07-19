@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://coffeegurasi.ariawriter.com/sitemap-index.xml
