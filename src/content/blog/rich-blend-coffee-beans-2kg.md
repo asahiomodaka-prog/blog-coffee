@@ -1,5 +1,5 @@
 ---
-title: '楽天モバイル最強感謝祭！GURAMUリッチブレンド2kgは「薄い」「濃い」どっち？本音レビュー'
+title: 'IGURAMUリッチブレンド2kg本音レビュー。日常使いのコスパとコクを徹底検証'
 description: '楽天モバイル感謝祭で2kg3,999円！GURAMUリッチブレンドは、芳醇な香りと甘み・コク、心地よいほろ苦さが特徴のベトナムコーヒー。豆のまま・中細挽きを選べ、カフェオレにも最適です。大容量で毎日惜しみなく楽しめます。'
 pubDate: '2026-07-21'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/kkonlinestore/cabinet/upload/12930034/567-3999.jpg?_ex=600x600'
