@@ -1,0 +1,146 @@
+---
+import Layout from '../layouts/BlogPost.astro';
+---
+
+<Layout
+	title="プロフィール・当ブログについて"
+	description="自宅ドリップと自家焙煎に魅せられた管理人のプロフィールと、当ブログ『コーヒー暮らし』のこだわりについてご紹介します。"
+	pubDate={new Date('July 26 2026')}
+>
+	<div class="profile-container">
+		<section class="profile-hero">
+			<div class="profile-image-box">
+				<img src="/images/profile-beans.png" alt="自家焙煎したコーヒー豆の保管棚" class="hero-img" />
+				<span class="img-caption">自宅のキャニスターに並ぶ、自家焙煎した深煎りコーヒー豆たち</span>
+			</div>
+		</section>
+
+		<section class="profile-content">
+			<h2>はじめまして、「コーヒー暮らし」管理人の僕です</h2>
+			<p>
+				当ブログ「コーヒー暮らし」にお越しいただき、ありがとうございます。<br />
+				ここは、自宅で淹れる一杯のドリップコーヒーに魅せられたオフィスワーカー（中の人）が、日々試行錯誤しているコーヒー豆や器具、ドリップ技術の検証結果を記録している個人の雑記・レビューブログです。
+			</p>
+
+			<h3>コーヒーにハマったきっかけと「自家焙煎」へのこだわり</h3>
+			<p>
+				元々は仕事の合間に気休めで飲んでいた缶コーヒーやインスタントでした。<br />
+				しかしある休日、ふらっと立ち寄った自家焙煎店で挽きたての豆を買って自宅でドリップした瞬間、部屋中に広がる豊かな香りと口いっぱいに広がる芳醇なコクに衝撃を受けました。
+			</p>
+			<p>
+				「お湯の温度が2℃変わるだけで、なぜこんなに味わいが激変するのか？」<br />
+				「挽き目やドリッパーの構造によって、どう対流が変わるのか？」
+			</p>
+			<p>
+				そんな好奇心から理科の実験感覚でドリップを追求するようになり、気づけば生豆を買い込んで自宅で焙煎し、密閉ガラス瓶に何種類もの焙煎豆をストックするほどのコーヒー沼にどっぷり浸かっていました。（上の写真は自宅の棚の一角です）
+			</p>
+
+			<h3>当ブログの発信方針とこだわり</h3>
+			<ul>
+				<li><strong>一次情報とリアルな体験談</strong>: 実際に購入して使った器具、淹れて飲んだ豆の本音レビューをお届けします。</li>
+				<li><strong>科学的根拠と論理的アプローチ</strong>: お湯の温度、抽出時間、比率（ドリップ比率）、豆の粒度など、再現性のある淹れ方を解説します。</li>
+				<li><strong>現実的なコストと使い勝手</strong>: 洗いやすさ、パーツの耐久性、1杯あたりのコスパなど、毎日の暮らしに無理なく取り入れられる視点を大切にします。</li>
+			</ul>
+
+			<h3>お気に入りアイテム・検証記事</h3>
+			<p>
+				当ブログでは、初心者向けの入門器具から、プロも愛用する一生モノの器具まで幅広くレビューしています。<br />
+				ぜひ気になる記事から覗いてみてくださいね。
+			</p>
+
+			<div class="cta-box">
+				<a href="/archive" class="btn-archive">過去の記事一覧を見る</a>
+				<a href="/contact" class="btn-contact">お問い合わせはこちら</a>
+			</div>
+		</section>
+	</div>
+</Layout>
+
+<style>
+	.profile-container {
+		max-width: 780px;
+		margin: 0 auto;
+		line-height: 1.8;
+		color: #334155;
+	}
+	.profile-hero {
+		margin-bottom: 2.5rem;
+		text-align: center;
+	}
+	.profile-image-box {
+		display: inline-block;
+		width: 100%;
+		border-radius: 16px;
+		overflow: hidden;
+		box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+		background-color: #f8fafc;
+		border: 1px solid #e2e8f0;
+	}
+	.hero-img {
+		width: 100%;
+		height: auto;
+		max-height: 480px;
+		object-fit: cover;
+		display: block;
+	}
+	.img-caption {
+		display: block;
+		padding: 0.6rem 1rem;
+		font-size: 0.85rem;
+		color: #64748b;
+		background: #f1f5f9;
+		border-top: 1px solid #e2e8f0;
+	}
+	.profile-content h2 {
+		font-size: 1.6rem;
+		color: #1e293b;
+		border-bottom: 2px solid #a16207;
+		padding-bottom: 0.5rem;
+		margin-top: 2rem;
+		margin-bottom: 1.2rem;
+	}
+	.profile-content h3 {
+		font-size: 1.25rem;
+		color: #334155;
+		margin-top: 2rem;
+		margin-bottom: 0.8rem;
+	}
+	.profile-content ul {
+		background: #f8fafc;
+		border-left: 4px solid #a16207;
+		padding: 1.2rem 1.5rem 1.2rem 2.5rem;
+		border-radius: 0 8px 8px 0;
+		margin: 1.5rem 0;
+	}
+	.profile-content li {
+		margin-bottom: 0.6rem;
+	}
+	.cta-box {
+		display: flex;
+		gap: 1rem;
+		margin-top: 3rem;
+		justify-content: center;
+		flex-wrap: wrap;
+	}
+	.btn-archive, .btn-contact {
+		display: inline-block;
+		padding: 0.8rem 1.8rem;
+		border-radius: 8px;
+		font-weight: 700;
+		text-decoration: none;
+		transition: transform 0.2s ease, box-shadow 0.2s ease;
+	}
+	.btn-archive {
+		background: linear-gradient(135deg, #a16207, #78350f);
+		color: #ffffff !important;
+		box-shadow: 0 4px 12px rgba(120, 53, 15, 0.25);
+	}
+	.btn-contact {
+		background: #ffffff;
+		color: #475569 !important;
+		border: 1px solid #cbd5e1;
+	}
+	.btn-archive:hover, .btn-contact:hover {
+		transform: translateY(-2px);
+	}
+</style>
