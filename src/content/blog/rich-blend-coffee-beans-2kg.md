@@ -41,13 +41,13 @@ sidebarProducts:
 
 ## 日々のコーヒー習慣を豊かにするコストパフォーマンス
 
-![＼楽天モバイル最強感謝祭 2kgで3,999円／コーヒー 珈琲 コーヒー豆 コーヒー粉 豆のまま 1kg 2kg リッチブレンド 珈琲豆 大容量 ベトナムコーヒー GURAMU](https://thumbnail.image.rakuten.co.jp/@0_mall/kkonlinestore/cabinet/upload/12930034/567-3999.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/kkonlinestore/cabinet/upload/12930034/567-3999.jpg?_ex=600x600" alt="＼楽天モバイル最強感謝祭 2kgで3,999円／コーヒー 珈琲 コーヒー豆 コーヒー粉 豆のまま 1kg 2kg リッチブレンド 珈琲豆 大容量 ベトナムコーヒー GURAMU" />
 
 大容量のコーヒー豆を選ぶ最大のメリットは、やはりそのコストパフォーマンスにある。このリッチブレンドは2kgで3,999円（楽天モバイル最強感謝祭価格）と、非常に手頃な価格だ。仮に1杯10gの豆を使うとして、2kgで200杯淹れられることになる。つまり、1杯あたりのコストは約20円。コンビニコーヒー1杯が100円〜200円だと考えると、その差は歴然だ。自宅で淹れる手間を考えても、この価格差は地味にありがたい。
 
 僕の場合、毎朝必ず1杯、そして仕事の合間や食後にさらに1杯と、日に2〜3杯は飲む。週に約15杯とすると、月に約60杯。この豆なら月に1kgあれば十分賄える計算になる。自宅でこれだけのクオリティのコーヒーを、このコストで毎日楽しめるというのは、かなり満足度が高い。
 
-[![＼楽天モバイル最強感謝祭 2kgで3,999円／コーヒー 珈琲 コーヒー豆 コーヒー粉 豆のまま 1kg 2kg リッチブレンド 珈琲豆 大容量 ベトナムコーヒー GURAMU 画像](https://thumbnail.image.rakuten.co.jp/@0_mall/kkonlinestore/cabinet/upload/12930034/567-3999.jpg?_ex=600x600)](https://hb.afl.rakuten.co.jp/hgc/g00uq011.ve2q5db8.g00uq011.ve2q68c9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkkonlinestore%2Fcafe07%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkkonlinestore%2Fi%2F10000001%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00uq011.ve2q5db8.g00uq011.ve2q68c9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkkonlinestore%2Fcafe07%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkkonlinestore%2Fi%2F10000001%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/kkonlinestore/cabinet/upload/12930034/567-3999.jpg?_ex=600x600" alt="＼楽天モバイル最強感謝祭 2kgで3,999円／コーヒー 珈琲 コーヒー豆 コーヒー粉 豆のまま 1kg 2kg リッチブレンド 珈琲豆 大容量 ベトナムコーヒー GURAMU 画像" /></a>
 
 ## 大容量だからこそ工夫したい鮮度維持とアレンジの幅
 

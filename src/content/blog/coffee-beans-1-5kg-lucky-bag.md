@@ -35,7 +35,7 @@ sidebarProducts:
 
 今回、僕が注目したのは、グルメコーヒー豆専門!加藤珈琲店が提供する「[コーヒー豆 コーヒー 1.5kg 福袋 組み合わせ自由な福袋(各500g)](https://hb.afl.rakuten.co.jp/hgc/g00pl5f1.ve2q5fd0.g00pl5f1.ve2q6f99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F2699%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10007479%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)」だ。この福袋の最大の魅力は、アイスコーヒーに最適な豆を含む14種類のラインナップから、自分の好みに合わせて3種類を各500g選べる点にある。まるで、自分だけのコーヒー研究所のようだ。
 
-![コーヒー豆 コーヒー 1.5kg 福袋 組み合わせ自由な福袋(各500g)](https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/2600/2699r.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/2600/2699r.jpg?_ex=600x600" alt="コーヒー豆 コーヒー 1.5kg 福袋 組み合わせ自由な福袋(各500g)" />
 
 僕がこの福袋で試したかったのは、普段あまり手にしない豆と、定番の深煎り豆の組み合わせだった。具体的には、透明感のある酸味を求めて「ケニアAA」、芳醇なフルーツ感を期待して「ホヌコペスペシャルティ・インドネシア・マンデリンゴールド」、そして、毎日のリラックスタイムに欠かせない「ビターブレンド（luxury）」を選んでみた。
 
@@ -77,7 +77,7 @@ sidebarProducts:
 
 僕が最近試しているのは、[浅煎りタンザニアAA](/blog/tanzania-aa-light-roast-coffee-beans/)を使った抽出だ。お湯の温度を少し変えるだけで、香りが全く違う表情を見せるのが面白い。この福袋で選んだケニアAAも、同様に温度による香りの変化を楽しんでみたいと思っている。
 
-[![コーヒー豆 コーヒー 1.5kg 福袋 組み合わせ自由な福袋(各500g) 画像](https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/2600/2699r.jpg?_ex=600x600)](https://hb.afl.rakuten.co.jp/hgc/g00pl5f1.ve2q5fd0.g00pl5f1.ve2q6f99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F2699%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10007479%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00pl5f1.ve2q5fd0.g00pl5f1.ve2q6f99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F2699%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10007479%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/2600/2699r.jpg?_ex=600x600" alt="コーヒー豆 コーヒー 1.5kg 福袋 組み合わせ自由な福袋(各500g) 画像" /></a>
 
 ## 最高のコーヒー体験を演出する組み合わせの妙
 

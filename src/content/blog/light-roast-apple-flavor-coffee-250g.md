@@ -33,7 +33,7 @@ sidebarProducts:
 
 今回試してみたのは、「コーヒーばかの店」さんの[浅煎りコーヒー 『リンゴのような甘く爽やかな風味 』アメリカンブレンド(浅煎り)-250g メール便 コーヒー豆](https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-1000-ameri%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000193%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)。「リンゴのような甘く爽やかな風味」という言葉に惹かれて購入したこの豆は、ブラジル、コロンビア、マンデリン、ホンジュラスのブレンドだという。浅煎りの豆は、その華やかな果実香やフローラルな香りを最大限に引き出すために、抽出温度とスピードが鍵となる。
 
-![浅煎りコーヒー 『リンゴのような甘く爽やかな風味 』アメリカンブレンド(浅煎り)-250g メール便 コーヒー豆](https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/2019/imgrc0082131311.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/2019/imgrc0082131311.jpg?_ex=600x600" alt="浅煎りコーヒー 『リンゴのような甘く爽やかな風味 』アメリカンブレンド(浅煎り)-250g メール便 コーヒー豆" />
 
 僕がこの豆で試したのは、高水温（92℃）でのスピーディーな抽出。使用したのは円錐形ペーパードリッパー、ハリオV60だ。まず、少量のお湯で粉全体を湿らせ、20秒ほど蒸らす。この蒸らしで、コーヒーの成分が引き出しやすい状態になる。そして、ここからが肝心だ。勢いよくお湯を注ぎすぎず、細く、均一に「の」の字を描くように注湯する。
 
@@ -55,7 +55,7 @@ sidebarProducts:
 
 この豆は、サイフォン、台形ドリッパー、円錐ドリッパーなど、様々な淹れ方に対応しているのも嬉しい点だ。気分や時間に合わせて、器具を変えてみるのも楽しい。
 
-[![浅煎りコーヒー 『リンゴのような甘く爽やかな風味 』アメリカンブレンド(浅煎り)-250g メール便 コーヒー豆 画像](https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/2019/imgrc0082131311.jpg?_ex=600x600)](https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-1000-ameri%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000193%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-1000-ameri%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000193%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/2019/imgrc0082131311.jpg?_ex=600x600" alt="浅煎りコーヒー 『リンゴのような甘く爽やかな風味 』アメリカンブレンド(浅煎り)-250g メール便 コーヒー豆 画像" /></a>
 
 ## プロの技に触れる「コーヒーばかの店」のこだわり
 

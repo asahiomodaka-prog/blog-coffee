@@ -39,13 +39,13 @@ sidebarProducts:
 
 ## 珈琲の奥深さを知る「ブレンダーの妙」
 
-![当店1番人気 1日6キロ 希少高級豆を惜しみなくブレンド 貴方だけのブレンド 焙煎技術とブレンダー技術が詰まった ／珈琲豆 コーヒー豆 cee コーヒー 自家焙煎 コーヒー粉](https://thumbnail.image.rakuten.co.jp/@0_mall/liberty55/cabinet/biiino/item/main-image/20240303155808_1.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/liberty55/cabinet/biiino/item/main-image/20240303155808_1.jpg?_ex=600x600" alt="当店1番人気 1日6キロ 希少高級豆を惜しみなくブレンド 貴方だけのブレンド 焙煎技術とブレンダー技術が詰まった ／珈琲豆 コーヒー豆 cee コーヒー 自家焙煎 コーヒー粉" />
 
 「重量半端な豆のブレンド」と聞くと、もしかしたら少しネガティブな印象を持つ人もいるかもしれない。でも、そこには熟練のブレンダーの技術と哲学が詰まっている。単に余った豆を混ぜるのではなく、その日手元にある豆の中から、互いの個性を引き出し、調和させる組み合わせを見つけ出しているのだろう。それはまるで、オーケストラの指揮者が、様々な楽器の音色を組み合わせて一つの美しいハーモニーを奏でるかのようだ。
 
 このお店ではカリタまたはコーノドリッパーを推奨しているそうだが、僕個人としては、クレバーやフレンチプレスのような浸漬式で、じっくりと豆の成分を溶け出させる方法が、このブレンドの「一期一会」の魅力を最大限に引き出すように感じている。特にハニープロセスの豆が含まれている日は、ハチミツのような優しい甘みと丸みのある口当たりが際立ち、思わずため息が出るようなまろやかなコクが楽しめる。
 
-[![当店1番人気 1日6キロ 希少高級豆を惜しみなくブレンド 貴方だけのブレンド 焙煎技術とブレンダー技術が詰まった ／珈琲豆 コーヒー豆 cee コーヒー 自家焙煎 コーヒー粉 画像](https://thumbnail.image.rakuten.co.jp/@0_mall/liberty55/cabinet/biiino/item/main-image/20240303155808_1.jpg?_ex=600x600)](https://hb.afl.rakuten.co.jp/hgc/g00tgnt1.ve2q5121.g00tgnt1.ve2q69fb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fliberty55%2Firoiroblend_1000g%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fliberty55%2Fi%2F10000798%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00tgnt1.ve2q5121.g00tgnt1.ve2q69fb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fliberty55%2Firoiroblend_1000g%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fliberty55%2Fi%2F10000798%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/liberty55/cabinet/biiino/item/main-image/20240303155808_1.jpg?_ex=600x600" alt="当店1番人気 1日6キロ 希少高級豆を惜しみなくブレンド 貴方だけのブレンド 焙煎技術とブレンダー技術が詰まった ／珈琲豆 コーヒー豆 cee コーヒー 自家焙煎 コーヒー粉 画像" /></a>
 
 ## 毎日のコーヒー代を劇的に変えるコストパフォーマンス
 

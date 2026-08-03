@@ -37,7 +37,7 @@ sidebarProducts:
 
 ## 毎日の一杯を特別な時間にするコスパの妙
 
-![エチオピアモカ・ラデュース500g×3袋セット(ラデュ×3)/グルメコーヒー豆専門加藤珈琲店/珈琲豆](https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/0600/0630-15r.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/0600/0630-15r.jpg?_ex=600x600" alt="エチオピアモカ・ラデュース500g×3袋セット(ラデュ×3)/グルメコーヒー豆専門加藤珈琲店/珈琲豆" />
 
 正直なところ、自宅で毎日コーヒーを淹れるとなると、気になるのはやはりコストだ。こだわりの豆となると、それなりに値が張るものも多い。しかし、この[エチオピアモカ・ラデュース500g×3袋セット(ラデュ×3)/グルメコーヒー豆専門加藤珈琲店/珈琲豆](https://hb.afl.rakuten.co.jp/hgc/g00pl5f1.ve2q5fd0.g00pl5f1.ve2q6f99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F0630-15%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10003833%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)は、その点でも僕の期待をいい意味で裏切ってくれた。500g×3袋で4,698円という価格設定は、スペシャルティコーヒーとしては破格と言えるだろう。
 
@@ -49,7 +49,7 @@ sidebarProducts:
 | 販売ショップ | グルメコーヒー豆専門!加藤珈琲店 |
 | レビュー評価 | 4.68 (280件) |
 
-[![エチオピアモカ・ラデュース500g×3袋セット(ラデュ×3)/グルメコーヒー豆専門加藤珈琲店/珈琲豆 画像](https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/0600/0630-15r.jpg?_ex=600x600)](https://hb.afl.rakuten.co.jp/hgc/g00pl5f1.ve2q5fd0.g00pl5f1.ve2q6f99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F0630-15%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10003833%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00pl5f1.ve2q5fd0.g00pl5f1.ve2q6f99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F0630-15%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10003833%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/0600/0630-15r.jpg?_ex=600x600" alt="エチオピアモカ・ラデュース500g×3袋セット(ラデュ×3)/グルメコーヒー豆専門加藤珈琲店/珈琲豆 画像" /></a>
 
 ## 万人受けはしないかもしれない、それでも僕がこの豆を選ぶ理由
 

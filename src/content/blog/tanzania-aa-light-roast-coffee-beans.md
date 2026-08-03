@@ -33,7 +33,7 @@ sidebarProducts:
 
 ## キリマンジャロの雪解け水を思わせる透明感、その秘密を紐解く
 
-![浅煎りコーヒー豆 上品な酸味と黒糖のような甘い香り タンザニア・AA(キリマンジャロ)浅煎り(シナモンロースト)-180g-メール便 内祝い お中元ギフト](https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/2019/imgrc0082051036.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/2019/imgrc0082051036.jpg?_ex=600x600" alt="浅煎りコーヒー豆 上品な酸味と黒糖のような甘い香り タンザニア・AA(キリマンジャロ)浅煎り(シナモンロースト)-180g-メール便 内祝い お中元ギフト" />
 
 このタンザニア・AAの浅煎り豆を初めて淹れた時、その透明感のあるクリアな酸味に驚いた。まるでキリマンジャロの雪解け水がそのままカップに注がれたような、澄み渡るような後味。これは一体どういうことだろうと、すぐにその抽出メカニズムについて考察を始めた。浅煎り豆の抽出で最も重視されるのは、やはり「酸味」と「香りの成分」をいかにバランス良く引き出すかだ。特にこの豆の場合、「上品な酸味」という表現が使われていることからも、嫌な刺激ではなく、心地よいフルーティーな酸味を狙っていることが伺える。
 
@@ -73,7 +73,7 @@ sidebarProducts:
 
 正直な本音を言うと、浅煎り豆の抽出は深煎り豆よりも少し繊細な調整が必要になる。お湯の温度、注ぎ方、抽出時間、そして挽き目。これら全ての要素が完璧に合致した時に初めて、この豆が持つ真のポテンシャルを引き出すことができる。でも、その試行錯誤のプロセスこそが、自宅でコーヒーを淹れる楽しさの一つでもある。僕の過去記事で紹介した[陶器製カリタ ロト](https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-1000-tanzania%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000163%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)のようなドリッパーも、安定した抽出を助けてくれるだろう。
 
-[![浅煎りコーヒー豆 上品な酸味と黒糖のような甘い香り タンザニア・AA(キリマンジャロ)浅煎り(シナモンロースト)-180g-メール便 内祝い お中元ギフト 画像](https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/2019/imgrc0082051036.jpg?_ex=600x600)](https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-1000-tanzania%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000163%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-1000-tanzania%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000163%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/2019/imgrc0082051036.jpg?_ex=600x600" alt="浅煎りコーヒー豆 上品な酸味と黒糖のような甘い香り タンザニア・AA(キリマンジャロ)浅煎り(シナモンロースト)-180g-メール便 内祝い お中元ギフト 画像" /></a>
 
 ## 浅煎りキリマンジャロを最高に味わう、抽出器具との相性
 

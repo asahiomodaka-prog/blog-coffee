@@ -35,7 +35,7 @@ sidebarProducts:
 
 そんな僕の悩みを解決してくれたのが、[極細3.4mmノズル ドリップポット(コーヒードリップポット) 350ml 1〜2人用 コーヒー](https://hb.afl.rakuten.co.jp/hgc/g00thr51.ve2q5bd7.g00thr51.ve2q62e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff152048-sanjo%2F017s004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff152048-sanjo%2Fi%2F10001188%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)だ。このポットの最大の特徴は、内径3.4mmという極細のノズル。これが本当に素晴らしい。まるで絵を描く筆先のように、狙った一点に糸のような細さでお湯を落とし込める。先端がわずかに下がった独自形状のノズルは、弧を描かず真下へ、まさに狙い通りに湯を注ぐことを可能にする。これによって、粉全体に均一にお湯を行き渡らせる「蒸らし」の工程が格段に安定した。高濃度のコーヒー液層をじっくりと作り出すことができ、結果として雑味のない、クリアでまろやかなコーヒーが抽出できるようになったのだ。
 
-![極細3.4mmノズル ドリップポット(コーヒードリップポット) 350ml 1〜2人用 コーヒー](https://thumbnail.image.rakuten.co.jp/@0_mall/f152048-sanjo/cabinet/sanjof/10000_4/imgrc0103201400.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f152048-sanjo/cabinet/sanjof/10000_4/imgrc0103201400.jpg?_ex=600x600" alt="極細3.4mmノズル ドリップポット(コーヒードリップポット) 350ml 1〜2人用 コーヒー" />
 
 中煎りの豆でフレンチプレスやクレバーなどの浸漬式を使う時も、このポットは活躍する。浸漬式は豆本来の甘み、特にβ-ダマセノンという成分を丸ごと包み込むように抽出するのが醍醐味だが、最初のお湯を注ぐ際に粉全体を優しく湿らせ、ムラなく浸漬させるために、細く均一な湯は非常に有効だ。豆のポテンシャルを最大限に引き出すためには、どんな淹れ方においても、丁寧な注湯が欠かせないことを改めて実感させられる。
 
@@ -53,7 +53,7 @@ sidebarProducts:
 
 そして、気になるコストパフォーマンス。例えば、普段カフェで一杯500円のドリップコーヒーを飲んでいるとしよう。月に20日飲めば、それだけで10,000円だ。しかし、良質な豆を自分で購入し、このポットで淹れれば、一杯あたりのコストはぐっと抑えられる。仮に高品質な豆を100gあたり800円とすると、一杯10g使うとして80円。フィルター代や電気代を含めても、一杯あたり100円程度で、カフェに負けない、いやそれ以上の極上のコーヒーが自宅で味わえるのだ。初期投資19,000円は決して安くはないが、毎日飲むことを考えれば数ヶ月で元が取れてしまう計算になる。しかも、自宅で淹れるコーヒーは、時間や場所を選ばず、いつでも自分のペースで楽しめる。この「いつでも」の価値は、計り知れない。
 
-[![極細3.4mmノズル ドリップポット(コーヒードリップポット) 350ml 1〜2人用 コーヒー 画像](https://thumbnail.image.rakuten.co.jp/@0_mall/f152048-sanjo/cabinet/sanjof/10000_4/imgrc0103201400.jpg?_ex=600x600)](https://hb.afl.rakuten.co.jp/hgc/g00thr51.ve2q5bd7.g00thr51.ve2q62e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff152048-sanjo%2F017s004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff152048-sanjo%2Fi%2F10001188%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00thr51.ve2q5bd7.g00thr51.ve2q62e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff152048-sanjo%2F017s004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff152048-sanjo%2Fi%2F10001188%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f152048-sanjo/cabinet/sanjof/10000_4/imgrc0103201400.jpg?_ex=600x600" alt="極細3.4mmノズル ドリップポット(コーヒードリップポット) 350ml 1〜2人用 コーヒー 画像" /></a>
 
 ### 完璧を求めすぎない、自分だけのコーヒー時間
 

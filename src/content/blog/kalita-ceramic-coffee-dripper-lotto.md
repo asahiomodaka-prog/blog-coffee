@@ -39,7 +39,7 @@ sidebarProducts:
 
 そこでこの3つ穴が効いてくる。お湯が滞留しすぎることなく、しかし決して早すぎない速度でコーヒー液が落ちていく。これにより、豆から溶け出す旨味成分（良味要素）を効率的に抽出しつつ、抽出後半に出やすい不要な雑味（阻害要素）の抽出を穏やかにカットしてくれる。特に深煎り豆で、丸みのある甘さと香ばしい余韻を狙うなら、この適度な抽出速度は非常にありがたい。
 
-![コーヒードリッパー ロト カリタ 陶器 コーヒー](https://thumbnail.image.rakuten.co.jp/@0_mall/cocopla/cabinet/item/005/cxy0120e0001_a001.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/cocopla/cabinet/item/005/cxy0120e0001_a001.jpg?_ex=600x600" alt="コーヒードリッパー ロト カリタ 陶器 コーヒー" />
 
 中煎りの豆なら、豆本来の甘み（β-ダマセノン）を最大限に引き出す抽出が理想だ。浸漬式ドリッパーが推奨されるのは、成分バランスに優れた中煎り豆の良さを丸ごと包み込むように抽出するため。このロトのような透過式ドリッパーでも、3つ穴によるスムーズな抽出は、中煎り豆が持つクリアな甘みを濁らせることなく引き出すのに貢献してくれる。まさに、抽出における絶妙なバランスを、ドリッパーの構造自体がサポートしてくれる感覚だ。
 
@@ -57,7 +57,7 @@ sidebarProducts:
 | 販売ショップ | CocoPlatz interior |
 | レビュー評価 | 4.82 (79件) |
 
-[![コーヒードリッパー ロト カリタ 陶器 コーヒー 画像](https://thumbnail.image.rakuten.co.jp/@0_mall/cocopla/cabinet/item/005/cxy0120e0001_a001.jpg?_ex=600x600)](https://hb.afl.rakuten.co.jp/hgc/g00u0011.ve2q5ff5.g00u0011.ve2q656e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocopla%2F101-cxy0120e0001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocopla%2Fi%2F10001024%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00u0011.ve2q5ff5.g00u0011.ve2q656e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocopla%2F101-cxy0120e0001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocopla%2Fi%2F10001024%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/cocopla/cabinet/item/005/cxy0120e0001_a001.jpg?_ex=600x600" alt="コーヒードリッパー ロト カリタ 陶器 コーヒー 画像" /></a>
 
 ## 完璧ではないからこそ、愛着が湧く
 
