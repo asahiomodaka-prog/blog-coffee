@@ -46,7 +46,7 @@ sidebarProducts:
 
 深煎りだからといって、一辺倒に苦いだけではない。豆それぞれの個性が、焙煎によって新たな表情を見せる。本お試しセットは、そのような深煎りの奥深さを、まさに舌と鼻で体験できる良い機会を提供する。
 
-![コーヒー豆 深煎り お試し 1000円ポッキリ](https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/fuku/imgrc0128685941.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/fuku/imgrc0128685941.jpg?_ex=600x600" alt="コーヒー豆 深煎り お試し 1000円ポッキリ" />
 
 ## 日常への馴染みやすさと賢い選択：1000円ポッキリで叶えるコストパフォーマンスと利便性
 

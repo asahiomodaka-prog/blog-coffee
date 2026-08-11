@@ -85,7 +85,7 @@ KOTENブレンドは、密閉式の容器に入れ、直射日光の当たらな
 
 自宅で淹れるコーヒーの満足度は、単に味だけではないと僕は考えている。自分で豆を選び、自分で挽き、自分で淹れるという一連のプロセスそのものが、心の充足につながる。KOTENブレンドは、その「自分で淹れる喜び」を存分に味わえる、非常にバランスの取れたブレンドだと感じた。カフェで飲むような特別な一杯も魅力的だが、日常の中で気軽に、そして美味しく飲めるコーヒーこそが、僕たちの生活を豊かにする要素の一つである。
 
-[![コーヒー豆 ブレンドコーヒー 500g 豆のまま 細挽き 画像](https://thumbnail.image.rakuten.co.jp/@0_mall/auc-koten/cabinet/coffee_01.jpg?_ex=600x600)](https://hb.afl.rakuten.co.jp/hgc/g00qpzd1.ve2q531d.g00qpzd1.ve2q6b51/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-koten%2Fco-koten-001_1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-koten%2Fi%2F10002453%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+[<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/auc-koten/cabinet/coffee_01.jpg?_ex=600x600" alt="コーヒー豆 ブレンドコーヒー 500g 豆のまま 細挽き 画像" />](https://hb.afl.rakuten.co.jp/hgc/g00qpzd1.ve2q531d.g00qpzd1.ve2q6b51/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-koten%2Fco-koten-001_1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-koten%2Fi%2F10002453%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 ## KOTENブレンドはどんなライフスタイルにフィットするのか？
 

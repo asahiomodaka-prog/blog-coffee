@@ -84,7 +84,7 @@ sidebarProducts:
 
 日々の多忙な生活の中で、自宅で淹れる一杯のコーヒーは、単なる飲み物以上の価値を持つ。この福袋は、そうした日常に、ささやかな贅沢と、飽きのこない風味の探求という喜びを提供してくれるだろう。
 
-![コーヒー豆 深煎り お試し 福袋](https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/fuku/imgrc0116107610.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/fuku/imgrc0116107610.jpg?_ex=600x600" alt="コーヒー豆 深煎り お試し 福袋" />
 
 ## 高評価が示す深煎りの魅力：筆者が自宅で感じる確かな手応え
 
