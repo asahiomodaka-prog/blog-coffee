@@ -41,7 +41,7 @@ sidebarProducts:
 
 今回注目する定期便は、このような多種多様な産地のスペシャルティコーヒーを月替わりで届けてくれる。その時々で変わるブレンドは、さながら百花繚乱のごとく、飲むたびに新しい発見がある。届く豆は焙煎後1週間程度で手元に届く。スペシャルティコーヒーの多くは、焙煎後数日から2週間程度で風味が安定し、最も魅力的なキャラクターを発揮するとされるため、このタイミングで届く豆は「飲み頃」に入っていると判断できる。さらに、富士山の湧き水で洗い磨かれ、加熱水蒸気を利用した専用のガス窯で自家焙煎されていると聞けば、その品質へのこだわりが伺える。
 
-[ガイアの夜明けで紹介されました！ スペシャルティ コーヒー 400g 選べる ＼豆 粉／ 定期便 ＼2～12ヶ月／ 定期便 珈琲 200g×2袋 自家焙煎 コーヒー 富士山 湧き水 加熱水蒸気 ブルマン ハワイコナ メール便発送 ランキング](https://hb.afl.rakuten.co.jp/hgc/g00srlw1.ve2q5245.g00srlw1.ve2q6667/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff192023-fujiyoshida%2Ff178%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff192023-fujiyoshida%2Fi%2F10001052%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+[自家焙煎 スペシャルティコーヒー定期便 400g](https://hb.afl.rakuten.co.jp/hgc/g00srlw1.ve2q5245.g00srlw1.ve2q6667/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff192023-fujiyoshida%2Ff178%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff192023-fujiyoshida%2Fi%2F10001052%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 ## 抽出の妙技：豆のポテンシャルを最大限に引き出すドリップ術
 
@@ -89,4 +89,4 @@ sidebarProducts:
 
 豆の種類も、焙煎度合いも、そして抽出方法も、その日の気分や体調に合わせて探求できるのが、自宅ドリップの醍醐味だ。時には華やかな酸味で気分をリフレッシュし、またある時には深いコクで心を落ち着かせる。この定期便は、高品質なスペシャルティコーヒーを日常に取り入れ、日々の生活を豊かに彩る有効な手段となるだろう。産地の多様性、焙煎度合い、そして抽出方法による味わいの変化を自宅で探求することは、コーヒー愛好家にとって尽きない喜びをもたらす。毎日のコーヒータイムを、より深く、より豊かな体験へと昇華させたいと考えるなら、この定期便の利用は一考に値する。
 
-[ガイアの夜明けで紹介されました！ スペシャルティ コーヒー 400g 選べる ＼豆 粉／ 定期便 ＼2～12ヶ月／ 定期便 珈琲 200g×2袋 自家焙煎 コーヒー 富士山 湧き水 加熱水蒸気 ブルマン ハワイコナ メール便発送 ランキング](https://hb.afl.rakuten.co.jp/hgc/g00srlw1.ve2q5245.g00srlw1.ve2q6667/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff192023-fujiyoshida%2Ff178%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff192023-fujiyoshida%2Fi%2F10001052%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+[自家焙煎 スペシャルティコーヒー定期便 400g](https://hb.afl.rakuten.co.jp/hgc/g00srlw1.ve2q5245.g00srlw1.ve2q6667/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff192023-fujiyoshida%2Ff178%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff192023-fujiyoshida%2Fi%2F10001052%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)

@@ -100,7 +100,7 @@ sidebarProducts:
 *   **食後のデザートとして:** 重厚な味わいは、チョコレート系のデザートや焼き菓子との相性も良好だ。食後の満足感をさらに高めてくれる。
 *   **自宅でカフェ気分を味わいたい人:** アイスコーヒーやカフェオレなど、様々なアレンジが楽しめるため、自宅にいながらにして、まるでカフェにいるかのような贅沢な時間を演出できる。
 
-このように、この[＼ ／ コーヒー豆 珈琲豆](https://hb.afl.rakuten.co.jp/hgc/g00tgnt1.ve2q5121.g00tgnt1.ve2q69fb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fliberty55%2Flibertyblendhukairi%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fliberty55%2Fi%2F10000355%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)は、淹れ方一つでその表情を大きく変え、飲む人の多様なニーズに応えてくれる。
+このように、この[リバティブレンド深煎りコーヒー豆](https://hb.afl.rakuten.co.jp/hgc/g00tgnt1.ve2q5121.g00tgnt1.ve2q69fb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fliberty55%2Flibertyblendhukairi%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fliberty55%2Fi%2F10000355%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)は、淹れ方一つでその表情を大きく変え、飲む人の多様なニーズに応えてくれる。
 
 ## 深煎り豆と向き合う：知っておきたいことと、その先の楽しみ方
 
@@ -124,6 +124,6 @@ sidebarProducts:
 
 「リバティブレンド深煎り」は、単なる深煎りコーヒー豆ではなく、日々の生活に深みと安らぎ、そして確かな満足感をもたらしてくれる存在である。ブラジル、コロンビア、メキシコの豆が織りなす、重厚でありながらも奥深い味わいは、思考を整理し、感情を豊かにするきっかけとなる。
 
-高価なワインや豪華な食事も素晴らしいが、毎日手の届く範囲で、これほどのクオリティと満足感を得られるものはそう多くはないだろう。コンビニコーヒーやチェーン店のコーヒーで済ませていた日常を、少しだけ丁寧に、少しだけ贅沢に変えてくれるのが、この[＼ ／ コーヒー豆 珈琲豆](https://hb.afl.rakuten.co.jp/hgc/g00tgnt1.ve2q5121.g00tgnt1.ve2q69fb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fliberty55%2Flibertyblendhukairi%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fliberty55%2Fi%2F10000355%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)である。
+高価なワインや豪華な食事も素晴らしいが、毎日手の届く範囲で、これほどのクオリティと満足感を得られるものはそう多くはないだろう。コンビニコーヒーやチェーン店のコーヒーで済ませていた日常を、少しだけ丁寧に、少しだけ贅沢に変えてくれるのが、この[リバティブレンド深煎りコーヒー豆](https://hb.afl.rakuten.co.jp/hgc/g00tgnt1.ve2q5121.g00tgnt1.ve2q69fb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fliberty55%2Flibertyblendhukairi%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fliberty55%2Fi%2F10000355%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)である。
 
 自宅で手軽に、しかし本格的な味わいを求める人にとって、この豆は魅力的な選択肢の一つとなるだろう。もしあなたが深煎りの奥深い世界に興味があるなら、この一杯が、あなたの日常をより豊かなものにするきっかけとなることを願う。

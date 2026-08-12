@@ -33,7 +33,7 @@ sidebarProducts:
 
 浅煎りコーヒーは、一般的な深煎りや中煎りとは一線を画す、独特の魅力を持つ。生豆が持つ本来の個性を最大限に引き出し、フルーティーな酸味、フローラルなアロマ、ハーブやスパイスのような複雑なノートを楽しむことができるのが特徴である。焙煎度が浅いため、豆の密度が高く、抽出には繊細な技術が求められるが、その分、成功した時の透明感とクリーンな味わいは格別である。今回、筆者が体験したのは、そのような浅煎りの世界を多角的に楽しめる飲み比べセットであった。
 
-[コーヒー豆 浅煎り 福袋 お試しセット おすすめ 飲み比べ エチオピア モカ ナチュラル 120g. キリマンジャロ の雫80g. マンデリン ブレンド 清流長良川80g 計280g メール便 珈琲豆 粉 お中元ギフト 御中元 グルメ コーヒー福袋 コーヒー粉 お得 花以外](https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-prom-bm2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000178%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+[浅煎りコーヒー豆 3種飲み比べお試し福袋](https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-prom-bm2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000178%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 福袋には3種類の浅煎り豆が同梱されていた。それぞれの豆が持つ個性と、浅煎りという焙煎度がもたらす風味の変化について詳しく見ていこう。
 
@@ -89,4 +89,4 @@ sidebarProducts:
 
 浅煎りコーヒーは抽出に繊細さが求められる場合もあるが、本稿で紹介した抽出術や注意点を参考にすれば、初心者でもその魅力を十分に引き出すことが可能である。この福袋が、あなたのコーヒーライフに新たな発見と豊かな体験をもたらすことを期待する。自宅で淹れる一杯のコーヒーが、日々の喧騒を忘れさせ、心安らぐ時間となることを願う。
 
-[コーヒー豆 浅煎り 福袋 お試しセット おすすめ 飲み比べ エチオピア モカ ナチュラル 120g. キリマンジャロ の雫80g. マンデリン ブレンド 清流長良川80g 計280g メール便 珈琲豆 粉 お中元ギフト 御中元 グルメ コーヒー福袋 コーヒー粉 お得 花以外](https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-prom-bm2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000178%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd65daad98b)
+[浅煎りコーヒー豆 3種飲み比べお試し福袋](https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-prom-bm2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000178%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd65daad98b)

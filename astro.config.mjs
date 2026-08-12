@@ -7,6 +7,8 @@ import { defineConfig, fontProviders } from 'astro/config';
 // https://astro.build/config
 export default defineConfig({
 	redirects: {
+		'/blog/ポーレックス-コーヒーミルプロフェッショナル本音レビュー挽き目の安定でコーヒーの味が激変': '/blog/porlex-coffee-mill-professional',
+		'/blog/ブラジル深煎り400g自家焙煎コーヒー豆苦すぎる悩みを解決する本音レビュー': '/blog/brazil-dark-roast-coffee-beans-400g',
 		'/blog/epeios-電気ケトルで淹れる一杯香りが日常を彩る自宅の至福コーヒー術': '/blog/epeios-electric-kettle-home-coffee',
 		'/blog/guramuで毎日淹れたてを味わう贅沢香りとコクが私のコーヒー生活を豊かにする理由': '/blog/guramu-luxury-fresh-coffee',
 		'/blog/どこでも挽きたてコードレス臼式電動コーヒーミルが叶える私だけの贅沢な香り': '/blog/cordless-burr-coffee-grinder',

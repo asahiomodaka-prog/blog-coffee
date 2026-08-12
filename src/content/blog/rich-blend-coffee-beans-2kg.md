@@ -29,7 +29,7 @@ sidebarProducts:
 
 自宅でのコーヒー習慣は、日常に豊かな彩りをもたらす。特に、深いコクと香りが特徴の深煎り大容量コーヒー豆は、コストパフォーマンスに優れるだけでなく、様々な抽出方法やアレンジでその表情を変え、日々の気分やシーンに合わせた一杯を追求できる点が魅力である。
 
-本稿では、ベトナム産の深煎り豆をブレンドした[＼楽天モバイル最強感謝祭 2kgで3,999円／コーヒー 珈琲 コーヒー豆 コーヒー粉 豆のまま 1kg 2kg リッチブレンド 珈琲豆 大容量 ベトナムコーヒー GURAMU](https://hb.afl.rakuten.co.jp/hgc/g00uq011.ve2q5db8.g00uq011.ve2q68c9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkkonlinestore%2Fcafe07%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkkonlinestore%2Fi%2F10000001%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)のリッチブレンドに焦点を当て、その深い味わいの探求、日々の習慣に取り入れる上でのコストメリット、そして大容量豆を賢く使いこなすための鮮度維持とアレンジの幅について、コーヒー専門エディターの視点から解説する。
+本稿では、ベトナム産の深煎り豆をブレンドした[GURAMU リッチブレンド 2kg](https://hb.afl.rakuten.co.jp/hgc/g00uq011.ve2q5db8.g00uq011.ve2q68c9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkkonlinestore%2Fcafe07%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkkonlinestore%2Fi%2F10000001%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)のリッチブレンドに焦点を当て、その深い味わいの探求、日々の習慣に取り入れる上でのコストメリット、そして大容量豆を賢く使いこなすための鮮度維持とアレンジの幅について、コーヒー専門エディターの視点から解説する。
 
 ## 大容量深煎り豆で探る、奥行きのあるコーヒーの世界
 
@@ -89,7 +89,7 @@ sidebarProducts:
 
 ## 結論：深煎り大容量コーヒー豆が拓く、豊かなコーヒーライフ
 
-本稿で紹介した[＼楽天モバイル最強感謝祭 2kgで3,999円／コーヒー 珈琲 コーヒー豆 コーヒー粉 豆のまま 1kg 2kg リッチブレンド 珈琲豆 大容量 ベトナムコーヒー GURAMU](https://hb.afl.rakuten.co.jp/hgc/g00uq011.ve2q5db8.g00uq011.ve2q68c9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkkonlinestore%2Fcafe07%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkkonlinestore%2Fi%2F10000001%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)のリッチブレンドは、深煎り豆ならではの重厚なコクと香ばしさを持ち合わせ、低温抽出やネルドリップといった手法でその真価を発揮する。1杯あたり約20円という優れたコストパフォーマンスは、日常的に高品質なコーヒーを楽しむ上で大きな魅力となる。
+本稿で紹介した[GURAMU リッチブレンド 2kg](https://hb.afl.rakuten.co.jp/hgc/g00uq011.ve2q5db8.g00uq011.ve2q68c9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkkonlinestore%2Fcafe07%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkkonlinestore%2Fi%2F10000001%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)のリッチブレンドは、深煎り豆ならではの重厚なコクと香ばしさを持ち合わせ、低温抽出やネルドリップといった手法でその真価を発揮する。1杯あたり約20円という優れたコストパフォーマンスは、日常的に高品質なコーヒーを楽しむ上で大きな魅力となる。
 
 また、大容量であるがゆえの鮮度維持の工夫は必要となるものの、ミルク系アレンジや水出しコーヒー、デザートの材料としてもその風味を活かせる汎用性の高さは、日々のコーヒーライフに多様な選択肢をもたらす。
 
