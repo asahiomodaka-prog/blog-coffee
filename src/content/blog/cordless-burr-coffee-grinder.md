@@ -3,7 +3,7 @@ title: 'どこでも、挽きたて。コードレス臼式電動コーヒーミ
 description: '「コードレス臼式電動コーヒーミル」で挽きたての本格コーヒーを。手挽きの苦労や場所の悩みを解決する3980円の高性能ミル。均一な粒度で雑味なく、いつでもどこでも美味しい一杯を楽天で。'
 pubDate: '2026-07-11'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/riccado/cabinet/cg430/cg400_th_flag2.jpg?_ex=600x600'
-genre: 'coffee'
+genre: 'ミル・グラインダー'
 sidebarProducts:
   - title: '【ふるさと納税】＜選べるサイズ＞ポーレックス コーヒーミル・プロフェッショナル(トール・ミニ) コーヒーミル 手動 手挽きミル アウトドア 携帯 コーヒー豆挽き 珈琲ミル 正規品 日本 Japan Porlex【ジャパンポーレックス】'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00t3qr1.ve2q5358.g00t3qr1.ve2q658e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff462187-kirishima%2Fk-199%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff462187-kirishima%2Fi%2F10001452%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -17,6 +17,7 @@ sidebarProducts:
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00s6nv1.ve2q5786.g00s6nv1.ve2q6d3f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff082040-koga%2F57122-30067835%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff082040-koga%2Fi%2F10002746%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f082040-koga/cabinet/kalita/57122-30067835-01.jpg?_ex=600x600'
     price: 25000
+mediaType: 'grinder'
 ---
 
 <!-- PR -->

@@ -3,7 +3,7 @@ title: '「コーヒー ドリッパー」で解決！毎回味がブレる悩�
 description: '紙フィルター不要の「コーヒー ドリッパー 1〜3人用」。高品質ステンレス製二重メッシュがコーヒー本来の風味をダイレクトに抽出します。経済的でエコ、目詰まりしにくい快適設計で、毎日の本格的な一杯が手軽に。'
 pubDate: '2026-08-15'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/unibuy/cabinet/biiino/item/main-image/20220203132121_1.jpg?_ex=600x600'
-genre: 'coffee'
+genre: 'ドリッパー・器具'
 sidebarProducts:
   - title: '【1等最大100％ポイントバックキャンペーン】 茶考具 ドリッパー＆スタンドドリップ スタンド お茶 緑茶 日本茶 煎茶 日本製コーヒードリッパー スタンド ドリッパー おしゃれ こしき ストレーナー サーバー コーヒー 珈琲 茶こし 茶漉し ステンレス 珈琲考具 KOGU'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00t7ao1.ve2q5bd3.g00t7ao1.ve2q6e3a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsimomura-kihan%2F40619%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsimomura-kihan%2Fi%2F10000251%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/simomura-kihan/cabinet/06700296/imgrc0082938261.jpg?_ex=600x600'
     price: 2750
     microCopy: '詳細を見る'
+mediaType: 'dripper'
 ---
 
 <!-- PR: 本ページはアフィリエイト広告を利用しています -->
@@ -48,7 +49,7 @@ sidebarProducts:
 
 コーヒー豆に熱湯を注ぎ、粉がゆっくりと膨らむ「蒸らし」の工程は、豆からガスを放出し、粉全体にお湯を均一に行き渡らせる準備段階である。この時、ペーパーフィルターと異なり、ステンレスメッシュは粉の層をしっかりと支えつつ、スムーズなガス放出を促す。その後の「の」の字を描くようにゆっくりとお湯を注ぐ際も、あや織りメッシュが均一な湯の流れを可能にし、一部にだけお湯が集中して味が偏る「チャネリング」を防ぐ効果も期待できる。この緻密な構造と素材特性が、一杯のコーヒーに込められた豆のポテンシャルを最大限に引き出し、五感に訴えかける豊かな香り立ちと、奥深い味わいを創出するのである。
 
-![＼ランキング入賞／人気商品！コーヒー ドリッパー 1〜 3人用](https://thumbnail.image.rakuten.co.jp/@0_mall/unibuy/cabinet/biiino/item/main-image/20220203132121_1.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/unibuy/cabinet/biiino/item/main-image/20220203132121_1.jpg?_ex=600x600" alt="＼ランキング入賞／人気商品！コーヒー ドリッパー 1〜 3人用" loading="lazy" decoding="async" />
 
 ## 日々の暮らしに寄り添う手軽さと経済性
 

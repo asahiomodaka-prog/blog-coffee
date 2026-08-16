@@ -3,7 +3,7 @@ title: 'エチオピアモカ・ラデュースで、いつものコーヒーが
 description: '加藤珈琲店「エチオピアモカ・ラデュース500g×3袋セット」は、モカ特有のフルーティーで上品な香りが特徴。中煎りで豆本来の甘みを味わえ、豊かな香りと深い味わいが好評です。業務用1.5kgが4698円と高コスパで、毎日のコーヒーにおすすめ。'
 pubDate: '2026-07-27'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/0600/0630-15r.jpg?_ex=600x600'
-genre: 'coffee'
+genre: 'コーヒー豆・粉'
 sidebarProducts:
   - title: '【送料無料】大容量 コーヒー豆 2kg 業務用 エチオピア モカ・シダモ 500g × 4袋 ＊業務卸 カフェ・喫茶店・レストラン・シングルオリジン・ブレンド原料に最適！＊'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00tysw1.ve2q59e0.g00tysw1.ve2q6d49/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falphasynodia%2Fcoffee_ethiopia_sidamo_500gx4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falphasynodia%2Fi%2F10000085%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f282073-itami/cabinet/d_202104/52750078_01_web_s.jpg?_ex=600x600'
     price: 40000
     microCopy: '詳細を見る'
+mediaType: 'beans'
 ---
 
 <!-- PR -->

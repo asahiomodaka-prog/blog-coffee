@@ -3,7 +3,7 @@ title: '浅煎り「アメリカンブレンド」で失敗しない！お湯の
 description: '浅煎りコーヒー「アメリカンブレンド」250g。リンゴのような甘く爽やかな風味を2680円（税込）で楽しめるコーヒー豆。メール便で手軽にお届け。抽出温度とスピードで変わる繊細な味わいを解説します。'
 pubDate: '2026-07-26'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/2019/imgrc0082131311.jpg?_ex=600x600'
-genre: 'coffee'
+genre: 'コーヒー豆・粉'
 sidebarProducts:
   - title: 'コーヒー豆 浅煎り 福袋 送料無料 お試しセット おすすめ 飲み比べ エチオピア モカ ナチュラル 120g. キリマンジャロ の雫80g. マンデリン ブレンド 清流長良川80g 計280g メール便 珈琲豆 粉 お中元ギフト 御中元 グルメ コーヒー福袋 コーヒー粉 お得 花以外'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-prom-bm2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000178%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/2019/imgrc0082051036.jpg?_ex=600x600'
     price: 1880
     microCopy: '詳細を見る'
+mediaType: 'beans'
 ---
 
 <!-- PR -->

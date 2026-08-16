@@ -3,7 +3,7 @@ title: 'デロンギ ラ・スペシャリスタ・プレスティージオで�
 description: '「自宅コーヒーの味が安定しない」「温度管理が面倒」そんな悩みに。デロンギ ラ・スペシャリスタ・プレスティージオは、豆から挽けるグラインダー付きで安定抽出を実現します。本格エスプレッソやカフェラテ、ラテアートも自宅で簡単に。その魅力を徹底解説。'
 pubDate: '2026-07-09'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/delonghi/cabinet/06618479/item/12570740/0132126050.jpg?_ex=600x600'
-genre: 'coffee'
+genre: 'エスプレッソ・マシン'
 sidebarProducts:
   - title: '【14％OFF】【数量限定】【販路限定モデル】＼楽天ランキング1位／デロンギ マグニフィカS 全自動コーヒーマシン エスプレッソメーカー [ECAM22112W] | デロンギコーヒーメーカー 豆から挽く エスプレッソ カプチーノ カフェラテ 全自動 コーヒー豆 コーヒーマシン 公式'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00t7tc1.ve2q5883.g00t7tc1.ve2q6e3b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdelonghi%2F0132213170%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdelonghi%2Fi%2F10002653%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -17,6 +17,7 @@ sidebarProducts:
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00t7tc1.ve2q5883.g00t7tc1.ve2q6e3b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdelonghi%2F0132104225%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdelonghi%2Fi%2F10002790%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/delonghi/cabinet/06618479/item/0132104225/imgrc0104164976.jpg?_ex=600x600'
     price: 19380
+mediaType: 'machine'
 ---
 
 <!-- PR -->

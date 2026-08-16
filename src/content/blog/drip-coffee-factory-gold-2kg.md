@@ -3,7 +3,7 @@ title: 'プレミアム「ゴールド＆クラシック2kg」は買い？毎日
 description: 'DRIP COFFEE FACTORY「ゴールド＆クラシック ブレンド プレミアムシリーズ アソート」2kgをレビュー。中深煎り・深煎りの2種で、深い苦味と甘さの余韻を比較検証。楽天で人気のコーヒー豆2kgを失敗せずに選びたい方へ、大容量でも飽きない魅力やコスパを徹底解説。'
 pubDate: '2026-07-19'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/dripcoffee/cabinet/it01/limited/rc_premium/0400003300075_ne50p.jpg?_ex=600x600'
-genre: 'coffee'
+genre: 'コーヒー豆・粉'
 sidebarProducts:
   - title: '【店内全品ポイント5倍中】(要エントリー)(〜26日1:59)2kg最安値に挑戦!2kgで3,980円！コーヒー豆 コーヒー 豆 粉 2kg / 1kg ハウスブレンド ( 500g × 4袋 or 2袋 ) 深煎り 珈琲 珈琲豆 送料無料 ドリップコーヒーファクトリー'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00tbho1.ve2q5bdd.g00tbho1.ve2q671b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdripcoffee%2Fhouse-500-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdripcoffee%2Fi%2F10000572%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f282260-awaji/cabinet/kakou2/at14004s01.jpg?_ex=600x600'
     price: 15000
     microCopy: '詳細を見る'
+mediaType: 'beans'
 ---
 
 <!-- PR -->

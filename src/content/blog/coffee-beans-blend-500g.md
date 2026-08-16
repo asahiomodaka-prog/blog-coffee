@@ -3,7 +3,7 @@ title: '「ブレンドコーヒー500g」を細挽きで淹れる！温度と�
 description: 'KOTENブレンドのオリジナルコーヒー豆500gが楽天で1,650円。インドネシア、ブラジル、コロンビア産の豆をブレンドした深煎りで、豆のまま・細挽きが選べます。専門卸問屋ドリームコーヒーとの共同開発で、煎りたて挽きたての美味しさをお届けします。'
 pubDate: '2026-08-03'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/auc-koten/cabinet/coffee_01.jpg?_ex=600x600'
-genre: 'coffee'
+genre: 'ミル・グラインダー'
 sidebarProducts:
   - title: 'ブラジル 400g コーヒー豆 粉 送料無料 深煎り コーヒー豆 フレンチ ドリップ ドリップコーヒー 珈琲豆 コーヒー粉 自家焙煎 コーヒー 珈琲 送料無料 コーヒー ギフト アイスコーヒー おしゃれ おすすめ お試し プレゼント ブラックフライデー'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00tf3i1.ve2q51d6.g00tf3i1.ve2q64f2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmellowcoffee%2F010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmellowcoffee%2Fi%2F10000012%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/hiroshimacoffee/cabinet/2017/1bn167.jpg?_ex=600x600'
     price: 6890
     microCopy: '詳細を見る'
+mediaType: 'grinder'
 ---
 
 <!-- PR -->

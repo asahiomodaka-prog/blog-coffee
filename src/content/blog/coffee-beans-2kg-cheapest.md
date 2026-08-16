@@ -3,7 +3,7 @@ title: '2kg最安値コーヒー豆の正直レビュー！味のブレ・鮮度
 description: '楽天年間受賞！2kgで3,980円のコーヒー豆。1杯約26円で楽しめる、苦味とコクが際立つフレンチローストの深煎り。コスパ重視の普段飲みに最適。豆・粉を選べます。'
 pubDate: '2026-08-13'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/dripcoffee/cabinet/it01/4571621611730_a.jpg?_ex=600x600'
-genre: 'coffee'
+genre: 'コーヒー豆・粉'
 sidebarProducts:
   - title: '【焙煎人珈琲豆也のエチオピア　ゲイシャ ガニチ農園 豆でも粉でも可 1キロ】エチオピア コーヒー ゲイシャ コーヒー豆 珈琲豆 スペシャルティコーヒー'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00tgnt1.ve2q5121.g00tgnt1.ve2q69fb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fliberty55%2Fgeisya1k%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fliberty55%2Fi%2F10000560%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f282260-awaji/cabinet/kakou2/at14003s01.jpg?_ex=600x600'
     price: 15000
     microCopy: '詳細を見る'
+mediaType: 'beans'
 ---
 
 <!-- PR: 本ページはアフィリエイト広告を利用しています -->
@@ -44,7 +45,7 @@ sidebarProducts:
 
 私自身、様々な抽出方法と微調整を試してきたが、このハウスブレンドはハンドドリップにおける細かな調整によく応える。日によって挽き目をわずかに変えたり、湯温を1℃下げてみたりといった些細な調整が、カップの中の味わいに微妙ながらも明確な変化をもたらす。例えば、いつもより少し高温で抽出した日は、よりシャープな苦味とキレを、逆に少し低温でゆっくり抽出した日は、まろやかなコクと深みを味わうことができる。こうした調整は、まるでコーヒー豆という素材のポテンシャルを探求する、知的な実験のようであり、自宅でコーヒーを淹れる醍醐味の一つと言えるだろう。
 
-![2kg最安値に挑戦!2kgで3,980円！コーヒー豆 コーヒー 豆 粉](https://thumbnail.image.rakuten.co.jp/@0_mall/dripcoffee/cabinet/it01/4571621611730_a.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/dripcoffee/cabinet/it01/4571621611730_a.jpg?_ex=600x600" alt="2kg最安値に挑戦!2kgで3,980円！コーヒー豆 コーヒー 豆 粉" loading="lazy" decoding="async" />
 
 ## 1杯あたり約26円という経済性：日々のコーヒーライフへの影響
 

@@ -3,7 +3,7 @@ title: '一杯の贅沢。珈琲考具 ワンドリッパーでゆっくり味�
 description: '自宅コーヒーの味がブレる、温度管理が面倒…そんな悩みを解決！珈琲考具 ワンドリッパーなら、注ぎ方を気にせず誰でも簡単に安定した美味しい一杯を淹れられます。本格コーヒーが楽天で2,310円。手間なく満足のいく味を。'
 pubDate: '2026-07-12'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/simomura-kihan/cabinet/06700296/42158-60.jpg?_ex=600x600'
-genre: 'coffee'
+genre: 'ドリッパー・器具'
 sidebarProducts:
   - title: '【楽天ランキング125週連続1位獲得！】 COFIL コーヒードリッパー コーヒーフィルター セラミックフィルター 円錐 おしゃれ ペーパーレス コーヒー キャンプ ギフト ドリップ 器具 プレゼント 紙フィルター 不要 コフィル 陶器 波佐見焼 有田焼 アウトドア エコ レビュー特典'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00t7qf1.ve2q54fe.g00t7qf1.ve2q62b1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fimaritogei%2F13904002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fimaritogei%2Fi%2F10000062%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -17,6 +17,7 @@ sidebarProducts:
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00u0011.ve2q5ff5.g00u0011.ve2q656e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocopla%2F101-cxy0120e0001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocopla%2Fi%2F10001024%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/cocopla/cabinet/item/005/cxy0120e0001_a001.jpg?_ex=600x600'
     price: 1690
+mediaType: 'dripper'
 ---
 
 <!-- PR -->

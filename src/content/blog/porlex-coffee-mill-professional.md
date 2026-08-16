@@ -3,7 +3,7 @@ title: 'ポーレックス コーヒーミル・プロ本音レビュー。粒�
 description: '自宅コーヒーの味が安定しない？ポーレックス コーヒーミル・プロフェッショナルが、手動手挽きミルのイメージを覆します。プロ仕様の粒度均一性で、いつでも狙い通りの安定した味を実現。高価格(4万円)でも選ばれる理由、アウトドアでの携帯性も解説。'
 pubDate: '2026-07-17'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f462187-kirishima/cabinet/nt01/k-199_nt.jpg?_ex=600x600'
-genre: 'coffee'
+genre: 'ミル・グラインダー'
 sidebarProducts:
   - title: '【ふるさと納税】電動コーヒーミル CM-50（ブラック）｜kalita カリタ 珈琲 coffee ミル グラインダー 家電 キッチン キッチン用品 ギフト 贈答 贈り物 プレゼント お祝い ご褒美 記念日 景品 茨城県 古河市 _EW03'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00s6nv1.ve2q5786.g00s6nv1.ve2q6d3f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff082040-koga%2F57122-30067835%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff082040-koga%2Fi%2F10002746%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f152048-sanjo/cabinet/sanjof/10000_3/imgrc0101036774.jpg?_ex=600x600'
     price: 15000
     microCopy: '詳細を見る'
+mediaType: 'grinder'
 ---
 
 <!-- PR -->

@@ -3,7 +3,7 @@ title: '加藤珈琲店 しゃちブレンド2種。豆のまま挽く悦び、�
 description: '加藤珈琲店「しゃちブレンド2種」飲み比べを本音レビュー。豆のまま挽く鮮度と奥深い香りの違いを徹底解説します。自宅で好みの味を見つけ、楽天で買える人気ブレンドで毎日の珈琲時間を充実させましょう。'
 pubDate: '2026-07-06'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f231002-nagoya/cabinet/frp_goods/frp036/24058954.jpg?_ex=600x600'
-genre: 'coffee'
+genre: 'ミル・グラインダー'
 sidebarProducts:
   - title: 'コーヒー豆 ブレンドコーヒー 500g 豆のまま 細挽き 中挽き 粗挽き 深煎り コーヒー 珈琲 珈琲豆 オリジナルブレンド KOTENブレンド【メール便送料無料】[M便 1/1]'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00qpzd1.ve2q531d.g00qpzd1.ve2q6b51/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-koten%2Fco-koten-001_1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-koten%2Fi%2F10002453%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -17,6 +17,7 @@ sidebarProducts:
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-prom-mharu12%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000214%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/fuku/imgrc0128685941.jpg?_ex=600x600'
     price: 1000
+mediaType: 'grinder'
 ---
 
 <!-- PR -->

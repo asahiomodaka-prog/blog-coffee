@@ -3,7 +3,7 @@ title: 'ガイアの夜明けで話題！自家焙煎スペシャルティコー
 description: 'ガイアの夜明けで紹介されたスペシャルティコーヒーの定期便。富士山の湧き水で自家焙煎した豆・粉400gを2〜12ヶ月お届け。ブルマンやハワイコナなど、世界トップクラスの希少な味わいを毎月堪能できます。'
 pubDate: '2026-07-21'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f192023-fujiyoshida/cabinet/08108464/08108466/f069-t341-t713-s-r-a.jpg?_ex=600x600'
-genre: 'coffee'
+genre: 'コーヒー豆・粉'
 sidebarProducts:
   - title: '＼最安値挑戦★2kgで3,999円／コーヒー 珈琲 コーヒー豆 コーヒー粉 豆のまま 1kg 2kg リッチブレンド 珈琲豆 大容量 ベトナムコーヒー 送料無料 GURAMU'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00uq011.ve2q5db8.g00uq011.ve2q68c9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkkonlinestore%2Fcafe07%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkkonlinestore%2Fi%2F10000001%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/dripcoffee/cabinet/it01/limited/rc_premium/0400003300020_ne50p.jpg?_ex=600x600'
     price: 5500
     microCopy: '詳細を見る'
+mediaType: 'beans'
 ---
 
 <!-- PR -->

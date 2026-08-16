@@ -3,7 +3,7 @@ title: 'ステンレスコーヒーミルは本当に買い？手挽きなのに
 description: '燕三条製の「ステンレスコーヒーミル」は、オールステンレスとセラミック刃で均一な粉が挽け、手動ならではの深い香りが楽しめます。15,000円で楽天市場にて購入可能。アウトドアにも最適です。'
 pubDate: '2026-07-31'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f152048-sanjo/cabinet/sanjof/10000_3/imgrc0101036774.jpg?_ex=600x600'
-genre: 'coffee'
+genre: 'ミル・グラインダー'
 sidebarProducts:
   - title: '【挽きたて1杯で上質な時間を】 電動コーヒーミル コードレス 臼式 コニカル式 電動 コーヒーミル 電動 コーヒーグラインダー USB 充電式 水洗い可能 Coffee grinder コーヒー 電動ミル 珈琲ミル 小型 コンパクト 【エスプレッソ対応/39段階粒度調整/1年保証】'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00s9pt1.ve2q54eb.g00s9pt1.ve2q6157/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Friccado%2F1014%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Friccado%2Fi%2F10000389%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/superdeal/cabinet/09061004/09905634/4901369611196-01.jpg?_ex=600x600'
     price: 36980
     microCopy: '詳細を見る'
+mediaType: 'grinder'
 ---
 
 <!-- PR -->

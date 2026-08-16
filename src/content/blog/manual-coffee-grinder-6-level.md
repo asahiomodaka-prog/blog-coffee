@@ -3,7 +3,7 @@ title: '手挽き コーヒーミル 6段階調整で味のブレ解消！本音
 description: '自宅で挽きたてコーヒーの贅沢を。「手挽き コーヒーミル 6段階調整」が2980円。セラミック刃で熱を抑え、豆本来の香りを引き出します。エスプレッソからフレンチプレスまで対応する6段階調整で、あなた好みの挽き目を追求。'
 pubDate: '2026-08-07'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/mameshiba/cabinet/nichiyou/coffeegrinder00.jpg?_ex=600x600'
-genre: 'coffee'
+genre: 'ミル・グラインダー'
 sidebarProducts:
   - title: '最安値挑戦／コーヒーサーバー コーヒードリッパー コーヒードリップセット コーヒー ドリッパー 器具 お茶 耐熱ガラス 透明 目盛り付き ステンレスフィルター付き 2層メッシュ ハンドドリップコーヒーサーバー ペーパーフィルター不要 電子レンジ可 ティー コーヒー'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00ugac1.ve2q5b87.g00ugac1.ve2q6b89/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fanshinseikatu%2Fy1117%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fanshinseikatu%2Fi%2F10002897%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/daysunny/cabinet/13460032/imgrc0128595442.jpg?_ex=600x600'
     price: 3300
     microCopy: '詳細を見る'
+mediaType: 'grinder'
 ---
 
 <!-- PR: 本ページはアフィリエイト広告を利用しています -->

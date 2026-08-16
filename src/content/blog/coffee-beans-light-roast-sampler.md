@@ -3,7 +3,7 @@ title: '【浅煎りコーヒー福袋】エチオピア、キリマンジャロ
 description: '3種の浅煎りコーヒー豆福袋が3980円！エチオピアモカの華やかさ、キリマンジャロの澄んだ酸味、マンデリンブレンドの深いコクを飲み比べ。メール便で手軽にお試しください。'
 pubDate: '2026-07-22'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/fuku/imgrc0116238751.jpg?_ex=600x600'
-genre: 'coffee'
+genre: 'コーヒー豆・粉'
 sidebarProducts:
   - title: '浅煎りコーヒー 送料無料『リンゴのような甘く爽やかな風味！』アメリカンブレンド(浅煎り)-250g メール便 コーヒー豆 レギュラーコーヒー アラビカ豆 コヒー豆 ポイント消化 内祝い お中元ギフト 御中元 花以外 男性 グルメ コーヒー粉 コーヒー豆 浅煎り お中元人気'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-1000-ameri%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000193%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/2019/imgrc0082051036.jpg?_ex=600x600'
     price: 1880
     microCopy: '詳細を見る'
+mediaType: 'beans'
 ---
 
 <!-- PR -->

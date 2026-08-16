@@ -3,7 +3,7 @@ title: '極細3.4mmノズル ドリップポット本音レビュー！湯量調
 description: '極細3.4mmノズルが特徴の「ドリップポット 350ml」は、狙い通りの湯量と速度で抽出可能。浅煎り豆のクリアな酸味も引き出しやすく、プロのような味わいを自宅で実現します。楽天で19,000円。'
 pubDate: '2026-07-29'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f152048-sanjo/cabinet/sanjof/10000_4/imgrc0103201400.jpg?_ex=600x600'
-genre: 'coffee'
+genre: 'ケトル・ポット'
 sidebarProducts:
   - title: '【ふるさと納税】HARIO 点滴式水出しコーヒー器具「スロードリップブリューワーハリオ 雫」［SBS-5B］｜ハリオ 耐熱 ガラス キッチン 日用品 キッチン用品 日本製 おしゃれ かわいい 点滴式 水出し コーヒー お茶 ギフト プレゼント お祝 _BE40'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00s6nv1.ve2q5786.g00s6nv1.ve2q6d3f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff082040-koga%2F5701-30043016%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff082040-koga%2Fi%2F10000848%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f172014-kanazawa/cabinet/frp_goods/frp003/17180297.jpg?_ex=600x600'
     price: 10000
     microCopy: '詳細を見る'
+mediaType: 'kettle'
 ---
 
 <!-- PR -->

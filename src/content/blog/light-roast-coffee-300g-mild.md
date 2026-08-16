@@ -3,7 +3,7 @@ title: '浅煎りコーヒー豆は酸っぱくない？苦味ゼロの秘訣と
 description: 'Specialtycoffee蒼の「浅煎り コーヒー豆 300g 苦くない」は、苦味や尖った酸味が苦手な方へ。果実のような甘みと澄み切った後味を両立し、軽やかなコーヒータイムを実現。楽天で3530円で手軽に高品質なスペシャルティコーヒーをお試しください。'
 pubDate: '2026-08-12'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/speciltycoffeesoh/cabinet/asa/asa-niga-1.jpg?_ex=600x600'
-genre: 'coffee'
+genre: 'コーヒー豆・粉'
 sidebarProducts:
   - title: 'コーヒー豆 浅煎り 福袋 送料無料 お試しセット おすすめ 飲み比べ エチオピア モカ ナチュラル 120g. キリマンジャロ の雫80g. マンデリン ブレンド 清流長良川80g 計280g メール便 珈琲豆 粉 お中元ギフト 御中元 グルメ コーヒー福袋 コーヒー粉 お得 花以外'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-prom-bm2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000178%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/2019/imgrc0082051036.jpg?_ex=600x600'
     price: 1880
     microCopy: '詳細を見る'
+mediaType: 'beans'
 ---
 
 <!-- PR: 本ページはアフィリエイト広告を利用しています -->
@@ -36,7 +37,7 @@ sidebarProducts:
 
 実際に抽出してみると、湯を注いだ瞬間に立ち上るアロマは、まさに「果実的」と表現できるものであった。一般的な浅煎りにありがちな、柑橘系や青リンゴのようなシャープな香りを想像していたが、この豆からはベリー系の甘酸っぱさや、蜜のような優しい香りが感じられる。抽出後のカップからは、透明感のある赤みがかった茶色の液体が顔を出す。一口飲むと、舌の先に感じるのは、じんわりと広がる甘みと、心地よい酸味の調和である。決して「すっぱい」と顔をしかめるようなことはなく、むしろ口の中を爽やかにリフレッシュしてくれるような感覚がある。そして、喉元を過ぎた後に残るのは、驚くほど澄んだ後味である。口の中に嫌な苦味や雑味が一切残らず、次の一口を自然と誘う。これはまさに、Specialtycoffee蒼が追求する「飲み疲れしないこと」というコンセプトが、そのまま味わいとして具現化されている証拠である。
 
-![浅煎り コーヒー豆 300g 苦くない](https://thumbnail.image.rakuten.co.jp/@0_mall/speciltycoffeesoh/cabinet/asa/asa-niga-1.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/speciltycoffeesoh/cabinet/asa/asa-niga-1.jpg?_ex=600x600" alt="浅煎り コーヒー豆 300g 苦くない" loading="lazy" decoding="async" />
 
 ## 日常使いにおけるスマートな運用と経済性：一杯のコーヒーにかかるコスト
 

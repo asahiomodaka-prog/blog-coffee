@@ -3,7 +3,7 @@ title: '波佐見焼COFILで深める、コーヒーの愉しみ。ペーパー�
 description: '波佐見焼COFILセラミックドリッパーで、自宅コーヒーの味が安定！ペーパーレスで豆本来の旨味やコーヒーオイルを最大限に引き出し、ワンランク上の味わいを手軽に。お湯の温度管理に悩むことなく、いつもの一杯が格段に美味しくなります。楽天で4620円。'
 pubDate: '2026-07-09'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/imaritogei/cabinet/07150405/imgrc0092879771.jpg?_ex=600x600'
-genre: 'coffee'
+genre: 'ドリッパー・器具'
 sidebarProducts:
   - title: '★テレビで話題★＼楽天1位／コーヒードリッパー コーヒーフィルター ステンレス製 メッシュ二重構造フィルター ペーパーレス ステンレスフィルター くり返し使える おしゃれ ハンドドリップ 道具 ドリッパー フィルター不要 キャンプ アウトドア'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00tsoq1.ve2q5b75.g00tsoq1.ve2q61cb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flonglife-global%2Fcd21761%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flonglife-global%2Fi%2F10000009%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -17,6 +17,7 @@ sidebarProducts:
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00raig1.ve2q59cb.g00raig1.ve2q6626/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fganbareokusan%2Fyy-4963264500852%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fganbareokusan%2Fi%2F10071185%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/ganbareokusan/cabinet/09809396/th-4963264500852_x1.jpg?_ex=600x600'
     price: 17600
+mediaType: 'dripper'
 ---
 
 <!-- PR -->

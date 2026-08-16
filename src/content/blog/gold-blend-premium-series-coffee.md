@@ -3,7 +3,7 @@ title: 'ゴールドブレンドプレミアムの香りと味わい。毎朝の
 description: '自宅コーヒーの「味のブレ」に終止符を。風味バランスに優れた「ゴールド ブレンド プレミアムシリーズ」なら、毎日安定して美味しい一杯を楽しめます。ブラジル・コロンビア他をブレンドした中深煎りで、楽天にて5500円。品質と使いやすさを両立。'
 pubDate: '2026-07-05'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/dripcoffee/cabinet/it01/limited/rc_premium/0400003300020_ne50p.jpg?_ex=600x600'
-genre: 'coffee'
+genre: 'コーヒー豆・粉'
 sidebarProducts:
   - title: 'コーヒー豆 ブレンドコーヒー 500g 豆のまま 細挽き 中挽き 粗挽き 深煎り コーヒー 珈琲 珈琲豆 オリジナルブレンド KOTENブレンド【メール便送料無料】[M便 1/1]'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00qpzd1.ve2q531d.g00qpzd1.ve2q6b51/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-koten%2Fco-koten-001_1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-koten%2Fi%2F10002453%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -17,6 +17,7 @@ sidebarProducts:
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-prom-mharu12%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000214%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/fuku/imgrc0128685941.jpg?_ex=600x600'
     price: 1000
+mediaType: 'beans'
 ---
 
 <!-- PR -->

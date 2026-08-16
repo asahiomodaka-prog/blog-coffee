@@ -3,7 +3,7 @@ title: 'コーヒー豆1.5kg福袋で味が劇的に変わる！好みの豆で�
 description: '厳選14種から選べる！楽天のコーヒー豆1.5kg福袋（5238円）。アイスコーヒー向け含む多彩な豆の中から、あなただけのベスト3（各500g）をお届け。好みの味わいを自宅で毎日楽しめます。'
 pubDate: '2026-08-02'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/2600/2699r.jpg?_ex=600x600'
-genre: 'coffee'
+genre: 'コーヒー豆・粉'
 sidebarProducts:
   - title: '【ゲイシャ100% エチオピア産】スペシャルティコーヒー G1 ジャスミンの香り 200g 20杯用 | 600g 60杯用 高級コーヒー豆 送料無料 豆/粉選択可 ギフト お試し'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00tha71.ve2q5a91.g00tha71.ve2q6884/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgc-coffee%2F011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgc-coffee%2Fi%2F10000004%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f232271-takahama/cabinet/imgrc0122484129.jpg?_ex=600x600'
     price: 12000
     microCopy: '詳細を見る'
+mediaType: 'beans'
 ---
 
 <!-- PR -->

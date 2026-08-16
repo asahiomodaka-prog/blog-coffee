@@ -3,7 +3,7 @@ title: 'カリタ陶器製コーヒードリッパー101/102検証。3つ穴抽�
 description: '【本日23:59まで半額】カリタ 陶器製ドリッパー「ロト101/102」が1380円。三つ穴構造で雑味を抑え、豆本来の旨みを最大限に引き出す抽出を実現。喫茶店のような本格コーヒーを自宅で手軽に楽しみたい方におすすめです。'
 pubDate: '2026-07-25'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/shopworld/cabinet/05902777/08018768/09649287/imgrc0157561782.jpg?_ex=600x600'
-genre: 'coffee'
+genre: 'ドリッパー・器具'
 sidebarProducts:
   - title: '【Kalita】コーヒードリッパー ロト カリタ 陶器 コーヒー ドリップ おしゃれ セラミック 101 102 1人 2人 3人 4人 1杯 2杯 3杯 4杯 ブラウン 白 黒 キッチン ダイニング ブラウン プレゼント ギフト インテリア カフェ 新生活 ハンドドリップ おすすめ'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00u0011.ve2q5ff5.g00u0011.ve2q656e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocopla%2F101-cxy0120e0001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocopla%2Fi%2F10001024%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/longlife-global/cabinet/08208996/08211510/imgrc0113115449.jpg?_ex=600x600'
     price: 1980
     microCopy: '詳細を見る'
+mediaType: 'dripper'
 ---
 
 <!-- PR -->

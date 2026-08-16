@@ -3,7 +3,7 @@ title: 'EPEIOS 電気ケトルで淹れる一杯。香りが日常を彩る、�
 description: '自宅コーヒーの味が安定しない、温度管理が面倒と感じていませんか？EPEIOS 電気ケトル（14,960円）がプロの技を再現。細やかな温度設定と注ぎやすい構造で、誰でもブレない美味しい一杯を自宅で手軽に。'
 pubDate: '2026-07-13'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/mpowjapan/cabinet/cp001/sp/nek2952-2.jpg?_ex=600x600'
-genre: 'coffee'
+genre: 'ケトル・ポット'
 sidebarProducts:
   - title: '[250円OFFクーポン/暑さ対策フェア]【公式は2年保証】電気ケトル おしゃれ ドリップ 一人暮らし コーヒー ケトル 600ml 0.6Lドリップケトル IKE-C601T-HA IKE-C601T-CW IKE-C800T ケトル 電気ケトル 電気 電気ポット [安心延長保証対象]'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00t3zt1.ve2q5891.g00t3zt1.ve2q6431/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Firisplaza-r%2F513875%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Firisplaza-r%2Fi%2F10107672%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -17,6 +17,7 @@ sidebarProducts:
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00t7ao1.ve2q5bd3.g00t7ao1.ve2q6e3a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsimomura-kihan%2F40437%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsimomura-kihan%2Fi%2F10000504%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/simomura-kihan/cabinet/06439098/imgrc0082959276.jpg?_ex=600x600'
     price: 6050
+mediaType: 'kettle'
 ---
 
 <!-- PR -->

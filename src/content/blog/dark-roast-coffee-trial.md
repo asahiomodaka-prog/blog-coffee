@@ -3,7 +3,7 @@ title: '「深煎りお試しコーヒー」は本当に買い？味のブレに
 description: '楽天「コーヒー豆 深煎り お試し 1000円ポッキリ」を体験。グアテマラ・マンデリンブレンドなど深煎り豆140gが、送料込み1000円で試せる。重厚な苦味と甘み、長く続く余韻を自宅で手軽に。高品質な一杯を求める方へ。'
 pubDate: '2026-08-06'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/fuku/imgrc0128685941.jpg?_ex=600x600'
-genre: 'coffee'
+genre: 'コーヒー豆・粉'
 sidebarProducts:
   - title: 'コーヒー豆 ブレンドコーヒー 500g 豆のまま 細挽き 中挽き 粗挽き 深煎り コーヒー 珈琲 珈琲豆 オリジナルブレンド KOTENブレンド【メール便送料無料】[M便 1/1]'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00qpzd1.ve2q531d.g00qpzd1.ve2q6b51/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-koten%2Fco-koten-001_1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-koten%2Fi%2F10002453%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/liberty55/cabinet/biiino/item/main-image/20260724123324_1.jpg?_ex=600x600'
     price: 1600
     microCopy: '詳細を見る'
+mediaType: 'beans'
 ---
 
 <!-- PR: 本ページはアフィリエイト広告を利用しています -->

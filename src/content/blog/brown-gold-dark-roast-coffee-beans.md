@@ -3,7 +3,7 @@ title: 'ブラウンゴールド深煎りコーヒー豆セット本音レビュ
 description: '楽天の深煎りコーヒー豆「ブラウンゴールドセット」はカフェオレに最適。苦味とコクがミルクに負けず、深煎り好きも満足の味わい。ヨーロピアンブレンドなど3種500g×3で6,890円。'
 pubDate: '2026-07-24'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/hiroshimacoffee/cabinet/2017/1bn167.jpg?_ex=600x600'
-genre: 'coffee'
+genre: 'コーヒー豆・粉'
 sidebarProducts:
   - title: 'コーヒー豆 ブレンドコーヒー 500g 豆のまま 細挽き 中挽き 粗挽き 深煎り コーヒー 珈琲 珈琲豆 オリジナルブレンド KOTENブレンド【メール便送料無料】[M便 1/1]'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00qpzd1.ve2q531d.g00qpzd1.ve2q6b51/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-koten%2Fco-koten-001_1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-koten%2Fi%2F10002453%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -20,6 +20,7 @@ sidebarProducts:
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/fuku/imgrc0116107610.jpg?_ex=600x600'
     price: 3980
     microCopy: '詳細を見る'
+mediaType: 'beans'
 ---
 
 <!-- PR -->
