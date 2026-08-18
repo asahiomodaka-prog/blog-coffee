@@ -29,6 +29,37 @@ mediaType: 'beans'
 
 本稿では、そんな深煎りコーヒー愛好家のために、私が最近深く納得している珈琲工房リバティの「リバティブレンド深煎り」を紹介する。ブラジル、コロンビア、メキシコ産の豆が織りなすこのブレンドは、深煎りならではの奥深さと、日常に寄り添う優れた汎用性を兼ね備えている。深いコクと調和の取れた味わいを求めるなら、ぜひ注目してほしい一品である。
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/liberty55/cabinet/biiino/item/main-image/20260724123324_1.jpg?_ex=600x600" alt="コーヒー豆 珈琲豆は温度で味が変わる！味のブレ解決する淹れ方レビュー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                コーヒー豆 珈琲豆は温度で味が変わる！味のブレ解決する淹れ方レビュー
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>楽天で1600円。「リバティブレンド深煎り」は、ブラジル・コロンビア・メキシコ豆をブレンドした本格珈琲豆。深いコクと長く続く余韻が特徴で、アイス・ミルク・砂糖とも相性抜群。多様な飲み方で満足できる一杯を求める方へ。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%2520%25E7%258F%2588%25E7%2590%25B2%25E8%25B1%2586%25E3%2581%25AF%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E8%25A7%25A3%25E6%25B1%25BA%25E3%2581%2599%25E3%2582%258B%25E6%25B7%25B9%25E3%2582%258C%25E6%2596%25B9%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00qpzd1.ve2q531d.g00qpzd1.ve2q6b51/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-koten%2Fco-koten-001_1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-koten%2Fi%2F10002453%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%2520%25E7%258F%2588%25E7%2590%25B2%25E8%25B1%2586%25E3%2581%25AF%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E8%25A7%25A3%25E6%25B1%25BA%25E3%2581%2599%25E3%2582%258B%25E6%25B7%25B9%25E3%2582%258C%25E6%2596%25B9%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## 深煎りの調和が生み出す、五感に響くハーモニー
 
 珈琲工房リバティの「リバティブレンド深煎り」は、ブラジル、コロンビア、メキシコの豆がブレンドされた、深みのある味わいが特徴だ。深煎りに対して、単に苦みが強いという印象を持つかもしれない。しかし、このブレンドは苦味、甘み、コクが緻密に調和し、豊かな風味を生み出している。
@@ -118,6 +149,37 @@ mediaType: 'beans'
 また、自宅でコーヒーを淹れる際にグラインダー（コーヒーミル）を持っていない人もいるかもしれない。もし可能であれば、電動でも手動でも良いので、ぜひグラインダーの導入を検討してほしい。挽きたての豆から立ち上るアロマは、パックされた粉とは全く別次元のものだ。深煎り豆は特に、挽いた瞬間の香ばしさが格別で、それだけでコーヒータイムの満足度が大きく向上する。
 
 これらは決して「手間」ではなく、この深煎りブレンドが持つ魅力を最大限に引き出し、コーヒーとの「対話」を深めるための工夫である。少しの知識と工夫で、あなたのコーヒーライフはより豊かになるだろう。
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/liberty55/cabinet/biiino/item/main-image/20260724123324_1.jpg?_ex=600x600" alt="コーヒー豆 珈琲豆は温度で味が変わる！味のブレ解決する淹れ方レビュー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                コーヒー豆 珈琲豆は温度で味が変わる！味のブレ解決する淹れ方レビュー
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>楽天で1600円。「リバティブレンド深煎り」は、ブラジル・コロンビア・メキシコ豆をブレンドした本格珈琲豆。深いコクと長く続く余韻が特徴で、アイス・ミルク・砂糖とも相性抜群。多様な飲み方で満足できる一杯を求める方へ。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%2520%25E7%258F%2588%25E7%2590%25B2%25E8%25B1%2586%25E3%2581%25AF%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E8%25A7%25A3%25E6%25B1%25BA%25E3%2581%2599%25E3%2582%258B%25E6%25B7%25B9%25E3%2582%258C%25E6%2596%25B9%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00qpzd1.ve2q531d.g00qpzd1.ve2q6b51/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-koten%2Fco-koten-001_1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-koten%2Fi%2F10002453%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%2520%25E7%258F%2588%25E7%2590%25B2%25E8%25B1%2586%25E3%2581%25AF%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E8%25A7%25A3%25E6%25B1%25BA%25E3%2581%2599%25E3%2582%258B%25E6%25B7%25B9%25E3%2582%258C%25E6%2596%25B9%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## 一杯のコーヒーが彩る、日々の選択肢
 

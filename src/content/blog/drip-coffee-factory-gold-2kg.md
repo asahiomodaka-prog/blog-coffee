@@ -34,6 +34,37 @@ mediaType: 'beans'
 
 [DRIP COFFEE FACTORY ゴールド＆クラシック ブレンド](https://hb.afl.rakuten.co.jp/hgc/g00tbho1.ve2q5bdd.g00tbho1.ve2q671b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdripcoffee%2Fgc-500-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdripcoffee%2Fi%2F10000188%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/dripcoffee/cabinet/it01/limited/rc_premium/0400003300075_ne50p.jpg?_ex=600x600" alt="プレミアム「ゴールド＆クラシック2kg」は買い？毎日のコーヒーマンネリ打破レポ" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                プレミアム「ゴールド＆クラシック2kg」は買い？毎日のコーヒーマンネリ打破レポ
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>DRIP COFFEE FACTORY「ゴールド＆クラシック ブレンド プレミアムシリーズ アソート」2kgをレビュー。中深煎り・深煎りの2種で、深い苦味と甘さの余韻を比較検証。楽天で人気のコーヒー豆2kgを失敗せずに選びたい方へ、大容量で</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2597%25E3%2583%25AC%25E3%2583%259F%25E3%2582%25A2%25E3%2583%25A0%25E3%2580%258C%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25EF%25BC%2586%25E3%2582%25AF%25E3%2583%25A9%25E3%2582%25B7%25E3%2583%2583%25E3%2582%25AF2kg%25E3%2580%258D%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E6%25AF%258E%25E6%2597%25A5%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259E%25E3%2583%25B3%25E3%2583%258D%25E3%2583%25AA%25E6%2589%2593%25E7%25A0%25B4%25E3%2583%25AC%25E3%2583%259D" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00tbho1.ve2q5bdd.g00tbho1.ve2q671b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdripcoffee%2Fhouse-500-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdripcoffee%2Fi%2F10000572%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2597%25E3%2583%25AC%25E3%2583%259F%25E3%2582%25A2%25E3%2583%25A0%25E3%2580%258C%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25EF%25BC%2586%25E3%2582%25AF%25E3%2583%25A9%25E3%2582%25B7%25E3%2583%2583%25E3%2582%25AF2kg%25E3%2580%258D%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E6%25AF%258E%25E6%2597%25A5%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259E%25E3%2583%25B3%25E3%2583%258D%25E3%2583%25AA%25E6%2589%2593%25E7%25A0%25B4%25E3%2583%25AC%25E3%2583%259D" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## 深煎り「クラシックブレンド」と中深煎り「ゴールドブレンド」：2種類の豊かな味わいを紐解く
 
 このアソートセットには、異なる個性を持つ「クラシックブレンド」と「ゴールドブレンド」が、それぞれ1kgずつ（500g×2袋）含まれる。
@@ -134,6 +165,37 @@ mediaType: 'beans'
 *   **豆のまま購入:** 今回のように豆のまま購入し、淹れる直前にコーヒーミルで挽くのが、最も新鮮な香りと風味を楽しむための秘訣である。粉の状態で購入すると、表面積が増えるため酸化のスピードが格段に速くなる。
 
 また、今回は深煎りと中深煎りのブレンドであるため、華やかな酸味やフルーティーな香りを特に重視する方には、若干物足りなく感じられるかもしれない。そういった場合は、同じDRIP COFFEE FACTORYの他の浅煎りブレンドを試すか、このアソートの豆と好みの浅煎り豆をブレンドして、自分だけの味わいを見つけるのも有効な方法となるだろう。
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/dripcoffee/cabinet/it01/limited/rc_premium/0400003300075_ne50p.jpg?_ex=600x600" alt="プレミアム「ゴールド＆クラシック2kg」は買い？毎日のコーヒーマンネリ打破レポ" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                プレミアム「ゴールド＆クラシック2kg」は買い？毎日のコーヒーマンネリ打破レポ
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>DRIP COFFEE FACTORY「ゴールド＆クラシック ブレンド プレミアムシリーズ アソート」2kgをレビュー。中深煎り・深煎りの2種で、深い苦味と甘さの余韻を比較検証。楽天で人気のコーヒー豆2kgを失敗せずに選びたい方へ、大容量で</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2597%25E3%2583%25AC%25E3%2583%259F%25E3%2582%25A2%25E3%2583%25A0%25E3%2580%258C%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25EF%25BC%2586%25E3%2582%25AF%25E3%2583%25A9%25E3%2582%25B7%25E3%2583%2583%25E3%2582%25AF2kg%25E3%2580%258D%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E6%25AF%258E%25E6%2597%25A5%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259E%25E3%2583%25B3%25E3%2583%258D%25E3%2583%25AA%25E6%2589%2593%25E7%25A0%25B4%25E3%2583%25AC%25E3%2583%259D" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00tbho1.ve2q5bdd.g00tbho1.ve2q671b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdripcoffee%2Fhouse-500-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdripcoffee%2Fi%2F10000572%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2597%25E3%2583%25AC%25E3%2583%259F%25E3%2582%25A2%25E3%2583%25A0%25E3%2580%258C%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25EF%25BC%2586%25E3%2582%25AF%25E3%2583%25A9%25E3%2582%25B7%25E3%2583%2583%25E3%2582%25AF2kg%25E3%2580%258D%25E3%2581%25AF%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E6%25AF%258E%25E6%2597%25A5%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259E%25E3%2583%25B3%25E3%2583%258D%25E3%2583%25AA%25E6%2589%2593%25E7%25A0%25B4%25E3%2583%25AC%25E3%2583%259D" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## 毎日のコーヒー時間を、より豊かにする選択肢として
 

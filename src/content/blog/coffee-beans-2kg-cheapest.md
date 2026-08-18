@@ -25,6 +25,37 @@ mediaType: 'beans'
 
 <!-- PR: 本ページはアフィリエイト広告を利用しています -->
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/dripcoffee/cabinet/it01/4571621611730_a.jpg?_ex=600x600" alt="2kg最安値コーヒー豆の正直レビュー！味のブレ・鮮度はどう？" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                2kg最安値コーヒー豆の正直レビュー！味のブレ・鮮度はどう？
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>楽天年間受賞！2kgで3,980円のコーヒー豆。1杯約26円で楽しめる、苦味とコクが際立つフレンチローストの深煎り。コスパ重視の普段飲みに最適。豆・粉を選べます。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D2kg%25E6%259C%2580%25E5%25AE%2589%25E5%2580%25A4%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2581%25AE%25E6%25AD%25A3%25E7%259B%25B4%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25BB%25E9%25AE%25AE%25E5%25BA%25A6%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00tgnt1.ve2q5121.g00tgnt1.ve2q69fb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fliberty55%2Fgeisya1k%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fliberty55%2Fi%2F10000560%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D2kg%25E6%259C%2580%25E5%25AE%2589%25E5%2580%25A4%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2581%25AE%25E6%25AD%25A3%25E7%259B%25B4%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25BB%25E9%25AE%25AE%25E5%25BA%25A6%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## 日常使いの深煎りコーヒー豆を探求する私が辿り着いた、コストパフォーマンスと満足度の両立
 
 毎日のコーヒータイムに、豆選びで妥協したくない。しかし、コストも抑えたい。こうした悩みは、コーヒーを日常的に楽しむ多くの方が抱えるものではないだろうか。DRIP COFFEE FACTORYが提供する「2kg最安値に挑戦!2kgで3,980円！コーヒー豆 コーヒー 豆 粉」は、この二律背反とも思える課題に対し、一つの明確な解答を提示している。このハウスブレンドは、苦味とコク、そして心地よい余韻が三位一体となったフレンチローストの深煎りでありながら、1杯あたり約26円という驚くべき価格を実現している。手軽に本格的な深煎りコーヒーを日常に取り入れたいと願う方々にとって、そのニーズに応える決定版と言えるだろう。
@@ -102,6 +133,37 @@ DRIP COFFEE FACTORYのこのハウスブレンドは、楽天ショップ・オ�
 また、このコーヒーはフレンチローストの深煎りであるため、華やかな酸味やフルーティーな風味を重視する方には、正直なところ不向きかもしれない。あくまで、力強い苦味とコク、そして香ばしさを追求したブレンドであると理解しておくべきだ。もし、酸味と苦味のバランスが取れたミディアムローストを好むのであれば、他の選択肢を検討する方が賢明である。
 
 もう一つ、豆のまま購入するか、挽き売りで購入するか、という選択も重要である。挽き売りは手軽であるものの、やはり香りの飛びは避けられない。もし可能であれば、豆のまま購入し、飲む直前に自宅でグラインダーを使って挽くのが、このハウスブレンドの真価を最も引き出す方法だと私は考えている。私自身も、毎朝グラインダーを回す音と、その瞬間に広がる芳醇な香りが、日々の生活に欠かせない喜びとなっている。多少の手間はかかるが、そのひと手間が、淹れたてのコーヒーの味わいを格段に向上させることは確かである。
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/dripcoffee/cabinet/it01/4571621611730_a.jpg?_ex=600x600" alt="2kg最安値コーヒー豆の正直レビュー！味のブレ・鮮度はどう？" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                2kg最安値コーヒー豆の正直レビュー！味のブレ・鮮度はどう？
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>楽天年間受賞！2kgで3,980円のコーヒー豆。1杯約26円で楽しめる、苦味とコクが際立つフレンチローストの深煎り。コスパ重視の普段飲みに最適。豆・粉を選べます。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D2kg%25E6%259C%2580%25E5%25AE%2589%25E5%2580%25A4%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2581%25AE%25E6%25AD%25A3%25E7%259B%25B4%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25BB%25E9%25AE%25AE%25E5%25BA%25A6%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00tgnt1.ve2q5121.g00tgnt1.ve2q69fb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fliberty55%2Fgeisya1k%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fliberty55%2Fi%2F10000560%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D2kg%25E6%259C%2580%25E5%25AE%2589%25E5%2580%25A4%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2581%25AE%25E6%25AD%25A3%25E7%259B%25B4%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25BB%25E9%25AE%25AE%25E5%25BA%25A6%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## 日々のコーヒーを豊かに彩る、現実的な選択肢
 

@@ -37,6 +37,37 @@ mediaType: 'dripper'
 
 [波佐見焼COFIL](https://hb.afl.rakuten.co.jp/hgc/g00t7qf1.ve2q54fe.g00t7qf1.ve2q62b1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fimaritogei%2F13904002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fimaritogei%2Fi%2F10000062%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/imaritogei/cabinet/07150405/imgrc0092879771.jpg?_ex=600x600" alt="波佐見焼COFILで深める、コーヒーの愉しみ。ペーパーレスが叶える至福の味覚体験" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                波佐見焼COFILで深める、コーヒーの愉しみ。ペーパーレスが叶える至福の味覚体験
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>波佐見焼COFILセラミックドリッパーで、自宅コーヒーの味が安定！ペーパーレスで豆本来の旨味やコーヒーオイルを最大限に引き出し、ワンランク上の味わいを手軽に。お湯の温度管理に悩むことなく、いつもの一杯が格段に美味しくなります。楽天で4620</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B3%25A2%25E4%25BD%2590%25E8%25A6%258B%25E7%2584%25BCCOFIL%25E3%2581%25A7%25E6%25B7%25B1%25E3%2582%2581%25E3%2582%258B%25E3%2580%2581%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%25AE%25E6%2584%2589%25E3%2581%2597%25E3%2581%25BF%25E3%2580%2582%25E3%2583%259A%25E3%2583%25BC%25E3%2583%2591%25E3%2583%25BC%25E3%2583%25AC%25E3%2582%25B9%25E3%2581%258C%25E5%258F%25B6%25E3%2581%2588%25E3%2582%258B%25E8%2587%25B3%25E7%25A6%258F%25E3%2581%25AE%25E5%2591%25B3%25E8%25A6%259A%25E4%25BD%2593%25E9%25A8%2593" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00tsoq1.ve2q5b75.g00tsoq1.ve2q61cb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flonglife-global%2Fcd21761%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flonglife-global%2Fi%2F10000009%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25B3%25A2%25E4%25BD%2590%25E8%25A6%258B%25E7%2584%25BCCOFIL%25E3%2581%25A7%25E6%25B7%25B1%25E3%2582%2581%25E3%2582%258B%25E3%2580%2581%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%25AE%25E6%2584%2589%25E3%2581%2597%25E3%2581%25BF%25E3%2580%2582%25E3%2583%259A%25E3%2583%25BC%25E3%2583%2591%25E3%2583%25BC%25E3%2583%25AC%25E3%2582%25B9%25E3%2581%258C%25E5%258F%25B6%25E3%2581%2588%25E3%2582%258B%25E8%2587%25B3%25E7%25A6%258F%25E3%2581%25AE%25E5%2591%25B3%25E8%25A6%259A%25E4%25BD%2593%25E9%25A8%2593" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## 多孔質セラミックが実現する「もう一歩先の抽出」
 
 波佐見焼COFILのようなセラミックドリッパーは、なぜコーヒーの味わいを深めることができるのだろうか。
@@ -144,6 +175,37 @@ COFILを約2年半使い続ければ、ペーパーフィルター代の節約�
 *   **定期的なメンテナンス:** 目詰まりを防ぐためには、定期的な手入れが不可欠である。月に一度程度、熱湯で煮沸したり、重曹水に漬け込んだりすることで、孔の奥に詰まった微粉や油分を分解し、購入時のような抽出能力を取り戻せる。
 *   **粉の処理方法:** 使用後は、スプーンで残った粉を掻き出すか、ドリッパーを軽く叩いてゴミ箱に捨てるようにすると、排水溝への負荷を軽減できる。
 *   **用途を割り切る:** 持ち運びには不向きなため、自宅でのゆったりとしたコーヒータイム専用として割り切って使うのが賢明である。急ぐ際には別の器具を使用するなど、状況に応じた使い分けも有効な方法となるだろう。
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/imaritogei/cabinet/07150405/imgrc0092879771.jpg?_ex=600x600" alt="波佐見焼COFILで深める、コーヒーの愉しみ。ペーパーレスが叶える至福の味覚体験" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                波佐見焼COFILで深める、コーヒーの愉しみ。ペーパーレスが叶える至福の味覚体験
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>波佐見焼COFILセラミックドリッパーで、自宅コーヒーの味が安定！ペーパーレスで豆本来の旨味やコーヒーオイルを最大限に引き出し、ワンランク上の味わいを手軽に。お湯の温度管理に悩むことなく、いつもの一杯が格段に美味しくなります。楽天で4620</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B3%25A2%25E4%25BD%2590%25E8%25A6%258B%25E7%2584%25BCCOFIL%25E3%2581%25A7%25E6%25B7%25B1%25E3%2582%2581%25E3%2582%258B%25E3%2580%2581%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%25AE%25E6%2584%2589%25E3%2581%2597%25E3%2581%25BF%25E3%2580%2582%25E3%2583%259A%25E3%2583%25BC%25E3%2583%2591%25E3%2583%25BC%25E3%2583%25AC%25E3%2582%25B9%25E3%2581%258C%25E5%258F%25B6%25E3%2581%2588%25E3%2582%258B%25E8%2587%25B3%25E7%25A6%258F%25E3%2581%25AE%25E5%2591%25B3%25E8%25A6%259A%25E4%25BD%2593%25E9%25A8%2593" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00tsoq1.ve2q5b75.g00tsoq1.ve2q61cb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flonglife-global%2Fcd21761%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flonglife-global%2Fi%2F10000009%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25B3%25A2%25E4%25BD%2590%25E8%25A6%258B%25E7%2584%25BCCOFIL%25E3%2581%25A7%25E6%25B7%25B1%25E3%2582%2581%25E3%2582%258B%25E3%2580%2581%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%25AE%25E6%2584%2589%25E3%2581%2597%25E3%2581%25BF%25E3%2580%2582%25E3%2583%259A%25E3%2583%25BC%25E3%2583%2591%25E3%2583%25BC%25E3%2583%25AC%25E3%2582%25B9%25E3%2581%258C%25E5%258F%25B6%25E3%2581%2588%25E3%2582%258B%25E8%2587%25B3%25E7%25A6%258F%25E3%2581%25AE%25E5%2591%25B3%25E8%25A6%259A%25E4%25BD%2593%25E9%25A8%2593" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## 毎日のコーヒーを深めるための選択肢
 

@@ -25,6 +25,37 @@ mediaType: 'beans'
 
 <!-- PR: 本ページはアフィリエイト広告を利用しています -->
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/fuku/imgrc0116107610.jpg?_ex=600x600" alt="深煎りお試し福袋で味が変わる！苦味の悩みを解決する本音レビュー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                深煎りお試し福袋で味が変わる！苦味の悩みを解決する本音レビュー
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>コーヒー豆 深煎り お試し福袋は、楽天で人気の3種深煎り豆を3980円で体験。タンザニア、コロンビアなど、個性豊かな香りとコクを少量ずつ試せ、失敗なく新しい深煎りの世界を探求できます。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2581%258A%25E8%25A9%25A6%25E3%2581%2597%25E7%25A6%258F%25E8%25A2%258B%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25EF%25BC%2581%25E8%258B%25A6%25E5%2591%25B3%25E3%2581%25AE%25E6%2582%25A9%25E3%2581%25BF%25E3%2582%2592%25E8%25A7%25A3%25E6%25B1%25BA%25E3%2581%2599%25E3%2582%258B%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00qpzd1.ve2q531d.g00qpzd1.ve2q6b51/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-koten%2Fco-koten-001_1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-koten%2Fi%2F10002453%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2581%258A%25E8%25A9%25A6%25E3%2581%2597%25E7%25A6%258F%25E8%25A2%258B%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25EF%25BC%2581%25E8%258B%25A6%25E5%2591%25B3%25E3%2581%25AE%25E6%2582%25A9%25E3%2581%25BF%25E3%2582%2592%25E8%25A7%25A3%25E6%25B1%25BA%25E3%2581%2599%25E3%2582%258B%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## 自宅で深煎りの奥深さを探求する：選び方の壁を越える「お試し福袋」の真価
 
 「いつもの深煎りも良いが、未体験の風味に出会いたい。しかし、いきなり大容量の豆を購入して失敗するのは避けたい」
@@ -146,6 +177,37 @@ mediaType: 'beans'
 また、公式説明にもある通り、ネスレのバリスタなどインスタントコーヒー用マシンには利用できない。あくまで、レギュラーコーヒーとして、豆を挽いて抽出するタイプのコーヒーメーカーや、様々な手動抽出器具に対応している。これは、本格的なドリップコーヒーを自宅で楽しむための豆である、という製品の立ち位置を示している。もしインスタントコーヒー専用のマシンを使用している場合、この豆はそのままでは使えないため、手挽きミルやドリッパーなどの基本的な器具を揃える必要が生じる。これは初期投資として考えると、一部の読者にとっては障壁となるかもしれないが、その分、自宅で淹れるコーヒーのクオリティは格段に向上する。
 
 これらの点を理解した上で、この「コーヒー豆 深煎り お試し 福袋」を選択すれば、きっと期待以上のコーヒー体験が待っているはずである。完璧を求めすぎず、この福袋が提供してくれる深煎りの多様な世界を、肩肘張らずに楽しむことが、賢い活用法と言えるだろう。
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/fuku/imgrc0116107610.jpg?_ex=600x600" alt="深煎りお試し福袋で味が変わる！苦味の悩みを解決する本音レビュー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                深煎りお試し福袋で味が変わる！苦味の悩みを解決する本音レビュー
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>コーヒー豆 深煎り お試し福袋は、楽天で人気の3種深煎り豆を3980円で体験。タンザニア、コロンビアなど、個性豊かな香りとコクを少量ずつ試せ、失敗なく新しい深煎りの世界を探求できます。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2581%258A%25E8%25A9%25A6%25E3%2581%2597%25E7%25A6%258F%25E8%25A2%258B%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25EF%25BC%2581%25E8%258B%25A6%25E5%2591%25B3%25E3%2581%25AE%25E6%2582%25A9%25E3%2581%25BF%25E3%2582%2592%25E8%25A7%25A3%25E6%25B1%25BA%25E3%2581%2599%25E3%2582%258B%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00qpzd1.ve2q531d.g00qpzd1.ve2q6b51/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-koten%2Fco-koten-001_1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-koten%2Fi%2F10002453%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2581%258A%25E8%25A9%25A6%25E3%2581%2597%25E7%25A6%258F%25E8%25A2%258B%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25EF%25BC%2581%25E8%258B%25A6%25E5%2591%25B3%25E3%2581%25AE%25E6%2582%25A9%25E3%2581%25BF%25E3%2582%2592%25E8%25A7%25A3%25E6%25B1%25BA%25E3%2581%2599%25E3%2582%258B%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## 深煎りの冒険への招待：自宅コーヒーの質を高める確かな選択
 

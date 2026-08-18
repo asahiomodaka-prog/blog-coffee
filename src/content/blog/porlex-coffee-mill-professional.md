@@ -32,6 +32,37 @@ mediaType: 'grinder'
 
 [ポーレックス コーヒーミル・プロフェッショナル（ふるさと納税）](https://hb.afl.rakuten.co.jp/hgc/g00t3qr1.ve2q5358.g00t3qr1.ve2q658e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff462187-kirishima%2Fk-199%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff462187-kirishima%2Fi%2F10001452%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd64d98b)
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f462187-kirishima/cabinet/nt01/k-199_nt.jpg?_ex=600x600" alt="ポーレックス コーヒーミル・プロ本音レビュー。粒度の安定でコーヒーの味が劇変" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                ポーレックス コーヒーミル・プロ本音レビュー。粒度の安定でコーヒーの味が劇変
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>自宅コーヒーの味が安定しない？ポーレックス コーヒーミル・プロフェッショナルが、手動手挽きミルのイメージを覆します。プロ仕様の粒度均一性で、いつでも狙い通りの安定した味を実現。高価格(4万円)でも選ばれる理由、アウトドアでの携帯性も解説。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259D%25E3%2583%25BC%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%25E3%2583%25BB%25E3%2583%2597%25E3%2583%25AD%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2580%2582%25E7%25B2%2592%25E5%25BA%25A6%25E3%2581%25AE%25E5%25AE%2589%25E5%25AE%259A%25E3%2581%25A7%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%25AE%25E5%2591%25B3%25E3%2581%258C%25E5%258A%2587%25E5%25A4%2589" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00s6nv1.ve2q5786.g00s6nv1.ve2q6d3f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff082040-koga%2F57122-30067835%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff082040-koga%2Fi%2F10002746%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%259D%25E3%2583%25BC%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%25E3%2583%25BB%25E3%2583%2597%25E3%2583%25AD%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2580%2582%25E7%25B2%2592%25E5%25BA%25A6%25E3%2581%25AE%25E5%25AE%2589%25E5%25AE%259A%25E3%2581%25A7%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%25AE%25E5%2591%25B3%25E3%2581%258C%25E5%258A%2587%25E5%25A4%2589" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## プロの技を自宅で：ポーレックス コーヒーミル・プロフェッショナルの技術的な深掘り
 
 このミルが「プロフェッショナル」と名付けられた背景には、その内部構造とセラミック刃の卓越した性能が挙げられる。コーヒーの味わいを決定づける要素の一つである「粒度」を精密にコントロールする技術が、随所に凝縮されている。
@@ -157,6 +188,37 @@ mediaType: 'grinder'
 
 公式説明にも記載されている通り、「生豆に近い状態の水分が多く残っている浅煎り豆の場合、湿った粘り気により細かく挽くことができない場合がある」。これはミルの性能限界というよりも、豆の特性に起因する現象である。特に焙煎直後で水分が多く残る浅煎り豆は、粘性によりミルの刃に詰まりやすい傾向がある。
 しかし、これは「極めて細かく挽くことが難しい」というだけであり、中挽きや粗挽きであれば問題なく挽ける場合が多い。この点を理解し、豆の状態や挽き具合に応じて適切に使用すれば、浅煎り豆の持つ複雑な風味も最大限に引き出すことが可能である。
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f462187-kirishima/cabinet/nt01/k-199_nt.jpg?_ex=600x600" alt="ポーレックス コーヒーミル・プロ本音レビュー。粒度の安定でコーヒーの味が劇変" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                ポーレックス コーヒーミル・プロ本音レビュー。粒度の安定でコーヒーの味が劇変
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>自宅コーヒーの味が安定しない？ポーレックス コーヒーミル・プロフェッショナルが、手動手挽きミルのイメージを覆します。プロ仕様の粒度均一性で、いつでも狙い通りの安定した味を実現。高価格(4万円)でも選ばれる理由、アウトドアでの携帯性も解説。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259D%25E3%2583%25BC%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%25E3%2583%25BB%25E3%2583%2597%25E3%2583%25AD%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2580%2582%25E7%25B2%2592%25E5%25BA%25A6%25E3%2581%25AE%25E5%25AE%2589%25E5%25AE%259A%25E3%2581%25A7%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%25AE%25E5%2591%25B3%25E3%2581%258C%25E5%258A%2587%25E5%25A4%2589" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00s6nv1.ve2q5786.g00s6nv1.ve2q6d3f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff082040-koga%2F57122-30067835%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff082040-koga%2Fi%2F10002746%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%259D%25E3%2583%25BC%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%25E3%2583%25BB%25E3%2583%2597%25E3%2583%25AD%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2580%2582%25E7%25B2%2592%25E5%25BA%25A6%25E3%2581%25AE%25E5%25AE%2589%25E5%25AE%259A%25E3%2581%25A7%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%25AE%25E5%2591%25B3%25E3%2581%258C%25E5%258A%2587%25E5%25A4%2589" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## 総評：あなたの「コーヒー追求」への確かな一歩
 

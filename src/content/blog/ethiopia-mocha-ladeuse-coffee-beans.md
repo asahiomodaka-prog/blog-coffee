@@ -30,6 +30,37 @@ mediaType: 'beans'
 
 日々の生活において、一杯のコーヒーは単なる嗜好品に留まらない。特に朝の一杯は、一日の始まりを豊かに彩る重要な要素である。上質な香りと味わいを手軽に、かつ継続的に楽しみたいと願うコーヒー愛好家にとって、豆選びは妥協できないプロセスである。本記事で紹介する[エチオピアモカ・ラデュース500g×3袋セット(ラデュ×3)/グルメコーヒー豆専門加藤珈琲店/珈琲豆](https://hb.afl.rakuten.co.jp/hgc/g00pl5f1.ve2q5fd0.g00pl5f1.ve2q6f99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F0630-15%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10003833%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)は、その華やかな香りと優れたコストパフォーマンスで、多くのコーヒー愛飲家から高い評価を得ている一品である。本稿では、このエチオピアモカ・ラデュースが日々のコーヒータイムにもたらす価値を、多角的に検証する。
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/0600/0630-15r.jpg?_ex=600x600" alt="エチオピアモカ・ラデュースで、いつものコーヒーが劇的変化！味のブレなし淹れ方レビ" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                エチオピアモカ・ラデュースで、いつものコーヒーが劇的変化！味のブレなし淹れ方レビ
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>加藤珈琲店「エチオピアモカ・ラデュース500g×3袋セット」は、モカ特有のフルーティーで上品な香りが特徴。中煎りで豆本来の甘みを味わえ、豊かな香りと深い味わいが好評です。業務用1.5kgが4698円と高コスパで、毎日のコーヒーにおすすめ。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A8%25E3%2583%2581%25E3%2582%25AA%25E3%2583%2594%25E3%2582%25A2%25E3%2583%25A2%25E3%2582%25AB%25E3%2583%25BB%25E3%2583%25A9%25E3%2583%2587%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%25A7%25E3%2580%2581%25E3%2581%2584%25E3%2581%25A4%25E3%2582%2582%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%258C%25E5%258A%2587%25E7%259A%2584%25E5%25A4%2589%25E5%258C%2596%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2581%25AA%25E3%2581%2597%25E6%25B7%25B9%25E3%2582%258C%25E6%2596%25B9%25E3%2583%25AC%25E3%2583%2593" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00tysw1.ve2q59e0.g00tysw1.ve2q6d49/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falphasynodia%2Fcoffee_ethiopia_sidamo_500gx4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falphasynodia%2Fi%2F10000085%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25A8%25E3%2583%2581%25E3%2582%25AA%25E3%2583%2594%25E3%2582%25A2%25E3%2583%25A2%25E3%2582%25AB%25E3%2583%25BB%25E3%2583%25A9%25E3%2583%2587%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%25A7%25E3%2580%2581%25E3%2581%2584%25E3%2581%25A4%25E3%2582%2582%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%258C%25E5%258A%2587%25E7%259A%2584%25E5%25A4%2589%25E5%258C%2596%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2581%25AA%25E3%2581%2597%25E6%25B7%25B9%25E3%2582%258C%25E6%2596%25B9%25E3%2583%25AC%25E3%2583%2593" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## 珈琲豆に宿る記憶を呼び覚ます至福の香り：エチオピアモカ・ラデュースの魅力
 
 コーヒーの起源とされるエチオピアは、その多様な在来種と独特の精製方法により、世界中で愛される個性豊かなコーヒーを生み出している。「モカ」と称されるコーヒーは、かつてイエメンのモカ港から出荷されたコーヒーに由来するが、現代においてはエチオピア産の高品質なコーヒーを指す場合も多い。その中でも、[エチオピアモカ・ラデュース](https://hb.afl.rakuten.co.jp/hgc/g00pl5f1.ve2q5fd0.g00pl5f1.ve2q6f99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F0630-15%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10003833%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)は、その華やかなアロマとバランスの取れた味わいで、筆者の日々のコーヒータイムを格上げする存在となっている。
@@ -71,6 +102,37 @@ mediaType: 'beans'
 しかし、筆者のように、朝の始まりにそっと寄り添ってくれるような、優しく華やかなコーヒーを求めている層には、この豆が深く響くものがあるだろう。この豆は、日々の喧騒から一歩離れ、穏やかで心地よい日常を演出してくれる。カフェインの刺激が強すぎず、香りの余韻を長く楽しめるため、リラックスしたい時間帯や、繊細な味わいをじっくりと堪能したい場面に適している。
 
 筆者自身、日によって深煎りのエスプレッソを飲んだり、浅煎りのシングルオリジンをハンドドリップで楽しんだりと、気分やシーンに合わせて様々なコーヒーを淹れ分けている。このような多様なコーヒーライフの中で、エチオピアモカ・ラデュースは「穏やかで心地よい日常」を演出する確かな存在として、その役割を果たしている。その軽やかでフルーティーな特性は、特にフルーツや軽めのスイーツとのペアリングにも適しており、コーヒータイムをさらに豊かに彩るだろう。
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/0600/0630-15r.jpg?_ex=600x600" alt="エチオピアモカ・ラデュースで、いつものコーヒーが劇的変化！味のブレなし淹れ方レビ" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                エチオピアモカ・ラデュースで、いつものコーヒーが劇的変化！味のブレなし淹れ方レビ
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>加藤珈琲店「エチオピアモカ・ラデュース500g×3袋セット」は、モカ特有のフルーティーで上品な香りが特徴。中煎りで豆本来の甘みを味わえ、豊かな香りと深い味わいが好評です。業務用1.5kgが4698円と高コスパで、毎日のコーヒーにおすすめ。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A8%25E3%2583%2581%25E3%2582%25AA%25E3%2583%2594%25E3%2582%25A2%25E3%2583%25A2%25E3%2582%25AB%25E3%2583%25BB%25E3%2583%25A9%25E3%2583%2587%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%25A7%25E3%2580%2581%25E3%2581%2584%25E3%2581%25A4%25E3%2582%2582%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%258C%25E5%258A%2587%25E7%259A%2584%25E5%25A4%2589%25E5%258C%2596%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2581%25AA%25E3%2581%2597%25E6%25B7%25B9%25E3%2582%258C%25E6%2596%25B9%25E3%2583%25AC%25E3%2583%2593" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00tysw1.ve2q59e0.g00tysw1.ve2q6d49/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falphasynodia%2Fcoffee_ethiopia_sidamo_500gx4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falphasynodia%2Fi%2F10000085%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25A8%25E3%2583%2581%25E3%2582%25AA%25E3%2583%2594%25E3%2582%25A2%25E3%2583%25A2%25E3%2582%25AB%25E3%2583%25BB%25E3%2583%25A9%25E3%2583%2587%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%25A7%25E3%2580%2581%25E3%2581%2584%25E3%2581%25A4%25E3%2582%2582%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%258C%25E5%258A%2587%25E7%259A%2584%25E5%25A4%2589%25E5%258C%2596%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2581%25AA%25E3%2581%2597%25E6%25B7%25B9%25E3%2582%258C%25E6%2596%25B9%25E3%2583%25AC%25E3%2583%2593" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## 日常を彩る、小さな贅沢への投資：エチオピアモカ・ラデュースがもたらす価値
 

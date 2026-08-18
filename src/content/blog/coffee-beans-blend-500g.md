@@ -34,6 +34,37 @@ mediaType: 'grinder'
 
 この記事では、コーヒー愛好家である僕がKOTENブレンドを実際に試した経験を元に、その抽出のコツ、味わいの魅力、そしてどのようなライフスタイルに適しているかを詳しく解説する。日々のコーヒーに満足感を求めつつ、経済的な負担を抑えたいと考えているなら、ぜひ参考にしてほしい。
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/auc-koten/cabinet/coffee_01.jpg?_ex=600x600" alt="「ブレンドコーヒー500g」を細挽きで淹れる！温度と挽き目で味が激変するってホン" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                「ブレンドコーヒー500g」を細挽きで淹れる！温度と挽き目で味が激変するってホン
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>KOTENブレンドのオリジナルコーヒー豆500gが楽天で1,650円。インドネシア、ブラジル、コロンビア産の豆をブレンドした深煎りで、豆のまま・細挽きが選べます。専門卸問屋ドリームコーヒーとの共同開発で、煎りたて挽きたての美味しさをお届けし</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC500g%25E3%2580%258D%25E3%2582%2592%25E7%25B4%25B0%25E6%258C%25BD%25E3%2581%258D%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25EF%25BC%2581%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A8%25E6%258C%25BD%25E3%2581%258D%25E7%259B%25AE%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E6%25BF%2580%25E5%25A4%2589%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A3%25E3%2581%25A6%25E3%2583%259B%25E3%2583%25B3" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00tf3i1.ve2q51d6.g00tf3i1.ve2q64f2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmellowcoffee%2F010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmellowcoffee%2Fi%2F10000012%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2580%258C%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC500g%25E3%2580%258D%25E3%2582%2592%25E7%25B4%25B0%25E6%258C%25BD%25E3%2581%258D%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25EF%25BC%2581%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A8%25E6%258C%25BD%25E3%2581%258D%25E7%259B%25AE%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E6%25BF%2580%25E5%25A4%2589%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A3%25E3%2581%25A6%25E3%2583%259B%25E3%2583%25B3" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## KOTENブレンドが紡ぎ出す、深煎りのコクと香りの秘密
 
 今回僕が試したのは、[KOTENブレンド オリジナルブレンド コーヒー 500g 珈琲豆](https://hb.afl.rakuten.co.jp/hgc/g00qpzd1.ve2q531d.g00qpzd1.ve2q6b51/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-koten%2Fco-koten-001_1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-koten%2F10002453%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)だ。このブレンドはインドネシア、ブラジル、コロンビア産の豆が使用されており、ドリームコーヒーとKOTENの共同開発によるオリジナルブレンドである。公式サイトの説明には「アイスにすると苦みが強く出る」とあるように、焙煎度合いは深煎り寄りの中煎り、あるいは中煎り寄りの深煎りと推測される。
@@ -115,6 +146,37 @@ KOTENブレンドに限らず、深煎り系のコーヒー豆全般に言える
 また、アイスコーヒーとして飲む際には、公式サイトにもある通り、牛乳で割るのが非常に有効だ。深煎りの持つ苦味とコクが、牛乳の甘みとクリーミーさでまろやかになり、バランスの取れたカフェオレになる。夏場などは、水出しコーヒーとして淹れてみるのも面白いだろう。水出しコーヒーは、低温でじっくりと抽出するため、苦味や雑味が少なく、まろやかでクリアな味わいに仕上がる。 [HARIO 雫 SBS-5Bで激変！水出しコーヒーの味が決まる秘密と本音レビュー](/blog/hario-cold-brew-dripper-shizuku/)のような器具を使えば、自宅で簡単に美味しい水出しコーヒーが楽しめる。
 
 KOTENブレンドは、確かに深煎り系の味わいだが、淹れ方や飲み方を工夫することで、様々な表情を見せてくれる奥深さがある。この「どうすれば美味しくなるか」を探求する過程そのものが、コーヒーの醍醐味の一つだと僕は考えている。
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/auc-koten/cabinet/coffee_01.jpg?_ex=600x600" alt="「ブレンドコーヒー500g」を細挽きで淹れる！温度と挽き目で味が激変するってホン" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                「ブレンドコーヒー500g」を細挽きで淹れる！温度と挽き目で味が激変するってホン
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>KOTENブレンドのオリジナルコーヒー豆500gが楽天で1,650円。インドネシア、ブラジル、コロンビア産の豆をブレンドした深煎りで、豆のまま・細挽きが選べます。専門卸問屋ドリームコーヒーとの共同開発で、煎りたて挽きたての美味しさをお届けし</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC500g%25E3%2580%258D%25E3%2582%2592%25E7%25B4%25B0%25E6%258C%25BD%25E3%2581%258D%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25EF%25BC%2581%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A8%25E6%258C%25BD%25E3%2581%258D%25E7%259B%25AE%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E6%25BF%2580%25E5%25A4%2589%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A3%25E3%2581%25A6%25E3%2583%259B%25E3%2583%25B3" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00tf3i1.ve2q51d6.g00tf3i1.ve2q64f2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmellowcoffee%2F010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmellowcoffee%2Fi%2F10000012%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2580%258C%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC500g%25E3%2580%258D%25E3%2582%2592%25E7%25B4%25B0%25E6%258C%25BD%25E3%2581%258D%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25EF%25BC%2581%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A8%25E6%258C%25BD%25E3%2581%258D%25E7%259B%25AE%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E6%25BF%2580%25E5%25A4%2589%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A3%25E3%2581%25A6%25E3%2583%259B%25E3%2583%25B3" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## 毎日のコーヒー体験を豊かにするKOTENブレンドの価値
 

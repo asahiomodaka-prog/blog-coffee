@@ -29,6 +29,37 @@ mediaType: 'grinder'
 
 こうした課題に対し、豆のまま購入し、淹れる直前に挽くという方法は、コーヒーの風味を最大限に引き出すための確実な解決策である。加藤珈琲店の「しゃちブレンド2種」飲み比べセットは、この「豆のまま」の利点を最大限に享受できるだけでなく、異なる焙煎度のブレンドを自宅で手軽に味わえる画期的な選択肢を提供する。本記事では、このセットを実際に試し、その魅力と、自宅で豆から挽くコーヒーの奥深さについて解説する。
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f231002-nagoya/cabinet/frp_goods/frp036/24058954.jpg?_ex=600x600" alt="加藤珈琲店 しゃちブレンド2種。豆のまま挽く悦び、違いを楽しむ大人の珈琲時間" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                加藤珈琲店 しゃちブレンド2種。豆のまま挽く悦び、違いを楽しむ大人の珈琲時間
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>加藤珈琲店「しゃちブレンド2種」飲み比べを本音レビュー。豆のまま挽く鮮度と奥深い香りの違いを徹底解説します。自宅で好みの味を見つけ、楽天で買える人気ブレンドで毎日の珈琲時間を充実させましょう。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%258A%25A0%25E8%2597%25A4%25E7%258F%2588%25E7%2590%25B2%25E5%25BA%2597%2520%25E3%2581%2597%25E3%2582%2583%25E3%2581%25A1%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%25892%25E7%25A8%25AE%25E3%2580%2582%25E8%25B1%2586%25E3%2581%25AE%25E3%2581%25BE%25E3%2581%25BE%25E6%258C%25BD%25E3%2581%258F%25E6%2582%25A6%25E3%2581%25B3%25E3%2580%2581%25E9%2581%2595%25E3%2581%2584%25E3%2582%2592%25E6%25A5%25BD%25E3%2581%2597%25E3%2582%2580%25E5%25A4%25A7%25E4%25BA%25BA%25E3%2581%25AE%25E7%258F%2588%25E7%2590%25B2%25E6%2599%2582%25E9%2596%2593" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00qpzd1.ve2q531d.g00qpzd1.ve2q6b51/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-koten%2Fco-koten-001_1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-koten%2Fi%2F10002453%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%258A%25A0%25E8%2597%25A4%25E7%258F%2588%25E7%2590%25B2%25E5%25BA%2597%2520%25E3%2581%2597%25E3%2582%2583%25E3%2581%25A1%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%25892%25E7%25A8%25AE%25E3%2580%2582%25E8%25B1%2586%25E3%2581%25AE%25E3%2581%25BE%25E3%2581%25BE%25E6%258C%25BD%25E3%2581%258F%25E6%2582%25A6%25E3%2581%25B3%25E3%2580%2581%25E9%2581%2595%25E3%2581%2584%25E3%2582%2592%25E6%25A5%25BD%25E3%2581%2597%25E3%2582%2580%25E5%25A4%25A7%25E4%25BA%25BA%25E3%2581%25AE%25E7%258F%2588%25E7%2590%25B2%25E6%2599%2582%25E9%2596%2593" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## 豆のまま購入がもたらす、コーヒーの新たな扉
 
 多くのコーヒー愛好家が「豆は飲む直前に挽く」というこだわりを持つことには、科学的な裏付けがある。コーヒー豆の風味成分は、挽いた瞬間に空気に触れる表面積が格段に増え、急速な酸化や香りの揮発が始まる。具体的には、豆を挽くことで表面積が数千倍にも増加するとされ、これにより風味劣化のスピードは飛躍的に加速されるのだ。これを防ぐためには、豆のまま保存し、必要な分だけを淹れる直前に挽くことが不可欠である。この一手間を加えるだけで、カップに注がれるコーヒーの香りの豊かさ、風味の深さは格別なものとなる。
@@ -135,6 +166,37 @@ mediaType: 'grinder'
 | 寄付金額 | 9,000円 (1kgセットの場合) / 17,000円 (2kgセットの場合) |
 | 販売場所 | 楽天ふるさと納税 (楽天市場) |
 | 保存方法 | 密閉容器に入れ冷暗所、一部は小分けにして冷凍保存がおすすめ |
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f231002-nagoya/cabinet/frp_goods/frp036/24058954.jpg?_ex=600x600" alt="加藤珈琲店 しゃちブレンド2種。豆のまま挽く悦び、違いを楽しむ大人の珈琲時間" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                加藤珈琲店 しゃちブレンド2種。豆のまま挽く悦び、違いを楽しむ大人の珈琲時間
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>加藤珈琲店「しゃちブレンド2種」飲み比べを本音レビュー。豆のまま挽く鮮度と奥深い香りの違いを徹底解説します。自宅で好みの味を見つけ、楽天で買える人気ブレンドで毎日の珈琲時間を充実させましょう。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E5%258A%25A0%25E8%2597%25A4%25E7%258F%2588%25E7%2590%25B2%25E5%25BA%2597%2520%25E3%2581%2597%25E3%2582%2583%25E3%2581%25A1%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%25892%25E7%25A8%25AE%25E3%2580%2582%25E8%25B1%2586%25E3%2581%25AE%25E3%2581%25BE%25E3%2581%25BE%25E6%258C%25BD%25E3%2581%258F%25E6%2582%25A6%25E3%2581%25B3%25E3%2580%2581%25E9%2581%2595%25E3%2581%2584%25E3%2582%2592%25E6%25A5%25BD%25E3%2581%2597%25E3%2582%2580%25E5%25A4%25A7%25E4%25BA%25BA%25E3%2581%25AE%25E7%258F%2588%25E7%2590%25B2%25E6%2599%2582%25E9%2596%2593" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00qpzd1.ve2q531d.g00qpzd1.ve2q6b51/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-koten%2Fco-koten-001_1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-koten%2Fi%2F10002453%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%258A%25A0%25E8%2597%25A4%25E7%258F%2588%25E7%2590%25B2%25E5%25BA%2597%2520%25E3%2581%2597%25E3%2582%2583%25E3%2581%25A1%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%25892%25E7%25A8%25AE%25E3%2580%2582%25E8%25B1%2586%25E3%2581%25AE%25E3%2581%25BE%25E3%2581%25BE%25E6%258C%25BD%25E3%2581%258F%25E6%2582%25A6%25E3%2581%25B3%25E3%2580%2581%25E9%2581%2595%25E3%2581%2584%25E3%2582%2592%25E6%25A5%25BD%25E3%2581%2597%25E3%2582%2580%25E5%25A4%25A7%25E4%25BA%25BA%25E3%2581%25AE%25E7%258F%2588%25E7%2590%25B2%25E6%2599%2582%25E9%2596%2593" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## まとめ：好みの味を探求する楽しさを
 

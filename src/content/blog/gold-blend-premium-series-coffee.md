@@ -31,6 +31,37 @@ mediaType: 'beans'
 
 本稿では、私が実際にこのブレンドを抽出し、その味わいの特徴、再現性、そして大容量ならではの活用術と注意点まで、専門的な視点から深掘りしていく。
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/dripcoffee/cabinet/it01/limited/rc_premium/0400003300020_ne50p.jpg?_ex=600x600" alt="ゴールドブレンドプレミアムの香りと味わい。毎朝の一杯を格上げする本音レビュー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                ゴールドブレンドプレミアムの香りと味わい。毎朝の一杯を格上げする本音レビュー
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>自宅コーヒーの「味のブレ」に終止符を。風味バランスに優れた「ゴールド ブレンド プレミアムシリーズ」なら、毎日安定して美味しい一杯を楽しめます。ブラジル・コロンビア他をブレンドした中深煎りで、楽天にて5500円。品質と使いやすさを両立。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2583%2597%25E3%2583%25AC%25E3%2583%259F%25E3%2582%25A2%25E3%2583%25A0%25E3%2581%25AE%25E9%25A6%2599%25E3%2582%258A%25E3%2581%25A8%25E5%2591%25B3%25E3%2582%258F%25E3%2581%2584%25E3%2580%2582%25E6%25AF%258E%25E6%259C%259D%25E3%2581%25AE%25E4%25B8%2580%25E6%259D%25AF%25E3%2582%2592%25E6%25A0%25BC%25E4%25B8%258A%25E3%2581%2592%25E3%2581%2599%25E3%2582%258B%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00qpzd1.ve2q531d.g00qpzd1.ve2q6b51/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-koten%2Fco-koten-001_1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-koten%2Fi%2F10002453%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2583%2597%25E3%2583%25AC%25E3%2583%259F%25E3%2582%25A2%25E3%2583%25A0%25E3%2581%25AE%25E9%25A6%2599%25E3%2582%258A%25E3%2581%25A8%25E5%2591%25B3%25E3%2582%258F%25E3%2581%2584%25E3%2580%2582%25E6%25AF%258E%25E6%259C%259D%25E3%2581%25AE%25E4%25B8%2580%25E6%259D%25AF%25E3%2582%2592%25E6%25A0%25BC%25E4%25B8%258A%25E3%2581%2592%25E3%2581%2599%25E3%2582%258B%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## 日常の満足度を高めるブレンドの設計思想
 
 コーヒー豆の味のブレは、生豆の品質やロット差、そして焙煎の安定性など、多岐にわたる要因によって引き起こされる。単一の産地から収穫されるシングルオリジン豆は、その土地固有の個性を強く表現する一方で、気候や収穫状況によって毎年、あるいはロットごとに風味が変動しやすい特性を持つ。
@@ -131,6 +162,37 @@ mediaType: 'beans'
 | レビュー評価 | 4.68 (450件) |
 
 ---
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/dripcoffee/cabinet/it01/limited/rc_premium/0400003300020_ne50p.jpg?_ex=600x600" alt="ゴールドブレンドプレミアムの香りと味わい。毎朝の一杯を格上げする本音レビュー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                ゴールドブレンドプレミアムの香りと味わい。毎朝の一杯を格上げする本音レビュー
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>自宅コーヒーの「味のブレ」に終止符を。風味バランスに優れた「ゴールド ブレンド プレミアムシリーズ」なら、毎日安定して美味しい一杯を楽しめます。ブラジル・コロンビア他をブレンドした中深煎りで、楽天にて5500円。品質と使いやすさを両立。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2583%2597%25E3%2583%25AC%25E3%2583%259F%25E3%2582%25A2%25E3%2583%25A0%25E3%2581%25AE%25E9%25A6%2599%25E3%2582%258A%25E3%2581%25A8%25E5%2591%25B3%25E3%2582%258F%25E3%2581%2584%25E3%2580%2582%25E6%25AF%258E%25E6%259C%259D%25E3%2581%25AE%25E4%25B8%2580%25E6%259D%25AF%25E3%2582%2592%25E6%25A0%25BC%25E4%25B8%258A%25E3%2581%2592%25E3%2581%2599%25E3%2582%258B%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00qpzd1.ve2q531d.g00qpzd1.ve2q6b51/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-koten%2Fco-koten-001_1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-koten%2Fi%2F10002453%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2583%2597%25E3%2583%25AC%25E3%2583%259F%25E3%2582%25A2%25E3%2583%25A0%25E3%2581%25AE%25E9%25A6%2599%25E3%2582%258A%25E3%2581%25A8%25E5%2591%25B3%25E3%2582%258F%25E3%2581%2584%25E3%2580%2582%25E6%25AF%258E%25E6%259C%259D%25E3%2581%25AE%25E4%25B8%2580%25E6%259D%25AF%25E3%2582%2592%25E6%25A0%25BC%25E4%25B8%258A%25E3%2581%2592%25E3%2581%2599%25E3%2582%258B%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## 毎日のコーヒー体験を底上げする、堅実な選択
 

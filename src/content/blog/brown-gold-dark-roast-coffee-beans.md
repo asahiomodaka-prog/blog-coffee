@@ -32,6 +32,37 @@ mediaType: 'beans'
 
 本記事では、カフェオレのために厳選された深煎りコーヒー豆セット「ブラウンゴールドセット」を紹介する。このセットは、ミルクと調和し、奥深い味わいを求めるコーヒー愛好家にとって理想的な選択肢となり得る。その特徴と、深煎りコーヒーを最大限に活かす抽出方法、そしてコストパフォーマンスについて解説する。
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/hiroshimacoffee/cabinet/2017/1bn167.jpg?_ex=600x600" alt="ブラウンゴールド深煎りコーヒー豆セット本音レビュー。味の変化とコクを徹底検証" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                ブラウンゴールド深煎りコーヒー豆セット本音レビュー。味の変化とコクを徹底検証
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>楽天の深煎りコーヒー豆「ブラウンゴールドセット」はカフェオレに最適。苦味とコクがミルクに負けず、深煎り好きも満足の味わい。ヨーロピアンブレンドなど3種500g×3で6,890円。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%25B3%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2580%2582%25E5%2591%25B3%25E3%2581%25AE%25E5%25A4%2589%25E5%258C%2596%25E3%2581%25A8%25E3%2582%25B3%25E3%2582%25AF%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00qpzd1.ve2q531d.g00qpzd1.ve2q6b51/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-koten%2Fco-koten-001_1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-koten%2Fi%2F10002453%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%25B3%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2580%2582%25E5%2591%25B3%25E3%2581%25AE%25E5%25A4%2589%25E5%258C%2596%25E3%2581%25A8%25E3%2582%25B3%25E3%2582%25AF%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## 深煎りが織りなす、カフェオレのための調和
 
 スーパーやコンビニで手軽に購入できるコーヒーも選択肢の一つであるが、ミルクと合わせた際にコーヒーの存在感が薄れてしまうと感じることもある。カフェオレにおいては、ミルクの風味に負けないしっかりとした「骨格」を持つコーヒーが不可欠である。初めて「ブラウンゴールドセット」を試した際、その深煎り豆が持つ力強い風味に魅了された。
@@ -75,6 +106,37 @@ mediaType: 'beans'
 まず推奨されるのは、お湯の温度を少し低めに設定し、いつもよりゆっくりと抽出することである。もし「苦味が強い」と感じた場合は、抽出の後半で粉にお湯を注ぐのを早めに切り上げるのも有効な方法だ。これにより、苦味成分が出過ぎるのを抑え、よりまろやかな口当たりを残すことができる。
 
 また、「ブラウンゴールドセット」はカフェオレに最適な深煎り豆が揃っているため、ミルクの種類や量を変えてみるのも面白い試みである。牛乳だけでなく、オーツミルクやアーモンドミルクを試すことで、それぞれのミルクが持つ個性とコーヒーの風味がどのように調和するのかを発見できるだろう。日々のこうした探求が、コーヒーライフをより豊かなものにする。
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/hiroshimacoffee/cabinet/2017/1bn167.jpg?_ex=600x600" alt="ブラウンゴールド深煎りコーヒー豆セット本音レビュー。味の変化とコクを徹底検証" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                ブラウンゴールド深煎りコーヒー豆セット本音レビュー。味の変化とコクを徹底検証
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>楽天の深煎りコーヒー豆「ブラウンゴールドセット」はカフェオレに最適。苦味とコクがミルクに負けず、深煎り好きも満足の味わい。ヨーロピアンブレンドなど3種500g×3で6,890円。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%25B3%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2580%2582%25E5%2591%25B3%25E3%2581%25AE%25E5%25A4%2589%25E5%258C%2596%25E3%2581%25A8%25E3%2582%25B3%25E3%2582%25AF%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00qpzd1.ve2q531d.g00qpzd1.ve2q6b51/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-koten%2Fco-koten-001_1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-koten%2Fi%2F10002453%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%25B3%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2580%2582%25E5%2591%25B3%25E3%2581%25AE%25E5%25A4%2589%25E5%258C%2596%25E3%2581%25A8%25E3%2582%25B3%25E3%2582%25AF%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## 自宅で楽しむ、深煎りカフェオレの魅力
 

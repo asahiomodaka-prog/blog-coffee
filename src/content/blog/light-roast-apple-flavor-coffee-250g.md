@@ -32,6 +32,37 @@ mediaType: 'beans'
 
 特に、その製品名が謳う「リンゴのような甘く爽やかな風味」を実際に引き出すための具体的な抽出テクニックにも焦点を当て、浅煎り豆が持つ魅力を深く探求する。適切な抽出理論を理解し実践することで、日常のコーヒータイムが、一段と豊かな体験へと昇華するだろう。
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/2019/imgrc0082131311.jpg?_ex=600x600" alt="浅煎り「アメリカンブレンド」で失敗しない！お湯の温度で味が変わる本音レビュー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                浅煎り「アメリカンブレンド」で失敗しない！お湯の温度で味が変わる本音レビュー
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>浅煎りコーヒー「アメリカンブレンド」250g。リンゴのような甘く爽やかな風味を2680円（税込）で楽しめるコーヒー豆。メール便で手軽にお届け。抽出温度とスピードで変わる繊細な味わいを解説します。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B5%2585%25E7%2585%258E%25E3%2582%258A%25E3%2580%258C%25E3%2582%25A2%25E3%2583%25A1%25E3%2583%25AA%25E3%2582%25AB%25E3%2583%25B3%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2580%258D%25E3%2581%25A7%25E5%25A4%25B1%25E6%2595%2597%25E3%2581%2597%25E3%2581%25AA%25E3%2581%2584%25EF%25BC%2581%25E3%2581%258A%25E6%25B9%25AF%25E3%2581%25AE%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-prom-bm2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000178%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25B5%2585%25E7%2585%258E%25E3%2582%258A%25E3%2580%258C%25E3%2582%25A2%25E3%2583%25A1%25E3%2583%25AA%25E3%2582%25AB%25E3%2583%25B3%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2580%258D%25E3%2581%25A7%25E5%25A4%25B1%25E6%2595%2597%25E3%2581%2597%25E3%2581%25AA%25E3%2581%2584%25EF%25BC%2581%25E3%2581%258A%25E6%25B9%25AF%25E3%2581%25AE%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## 浅煎り豆が織りなす「リンゴ」の風味プロファイルと抽出の科学
 
 本稿で焦点を当てるのは、「コーヒーばかの店」が提供する[浅煎りコーヒー 『リンゴのような甘く爽やかな風味 』アメリカンブレンド(浅煎り)-250g メール便 コーヒー豆](https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-1000-ameri%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000193%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad9b)。「リンゴのような甘く爽やかな風味」という魅力的なフレーズに惹かれ、筆者はこの製品を試した。このアメリカンブレンドは、ブラジル、コロンビア、マンデリン、ホンジュラスという異なる産地の豆をブレンドしたものである。
@@ -77,6 +108,37 @@ mediaType: 'beans'
 彼らが3種類の焙煎機を使い分け、豆の個性を最大限に引き出すというアプローチは、コーヒーのプロフェッショナルとしての深い知識と経験の表れである。豆の種類や産地、さらにはその日の気候や湿度といった微細な要因に合わせて最適な焙煎を行うことは、決して容易なことではない。異なる焙煎機を使い分けることで、豆本来の酸味、甘み、苦味、コクといった風味要素を理想的なバランスで引き出し、ブレンドとしての完成度を高めていると推察される。
 
 正直なところ、筆者はこれまで「アメリカンブレンド」という名称のコーヒーに対して、ライトすぎて物足りない、あるいは特徴が希薄であるというイメージを抱いていた。これは、深煎り主体のブレンドやシングルオリジンに慣れ親しんでいたことも一因であろう。しかし、この[浅煎りコーヒー 『リンゴのような甘く爽やかな風味 』アメリカンブレンド(浅煎り)-250g メール便 コーヒー豆](https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-1000-ameri%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000193%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)は、筆者のアメリカンコーヒーに対する従来の認識を大きく変革させるものであった。浅煎りならではの華やかな酸味と果実感が前面に出つつも、単なる軽さにとどまらない、しっかりとしたコクと奥行きが感じられるのだ。これは、各産地の豆が持つ個性を見極め、巧みにブレンドされた結果であると言える。ブラジルの柔らかな甘みとボディ、コロンビアのバランスの取れた酸味、マンデリンのどっしりとしたコク、ホンジュラスのクリーンな後味。これらが織りなすハーモニーが、この「アメリカンブレンド」に新たな価値を与えている。
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/2019/imgrc0082131311.jpg?_ex=600x600" alt="浅煎り「アメリカンブレンド」で失敗しない！お湯の温度で味が変わる本音レビュー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                浅煎り「アメリカンブレンド」で失敗しない！お湯の温度で味が変わる本音レビュー
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>浅煎りコーヒー「アメリカンブレンド」250g。リンゴのような甘く爽やかな風味を2680円（税込）で楽しめるコーヒー豆。メール便で手軽にお届け。抽出温度とスピードで変わる繊細な味わいを解説します。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B5%2585%25E7%2585%258E%25E3%2582%258A%25E3%2580%258C%25E3%2582%25A2%25E3%2583%25A1%25E3%2583%25AA%25E3%2582%25AB%25E3%2583%25B3%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2580%258D%25E3%2581%25A7%25E5%25A4%25B1%25E6%2595%2597%25E3%2581%2597%25E3%2581%25AA%25E3%2581%2584%25EF%25BC%2581%25E3%2581%258A%25E6%25B9%25AF%25E3%2581%25AE%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-prom-bm2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000178%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25B5%2585%25E7%2585%258E%25E3%2582%258A%25E3%2580%258C%25E3%2582%25A2%25E3%2583%25A1%25E3%2583%25AA%25E3%2582%25AB%25E3%2583%25B3%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2580%258D%25E3%2581%25A7%25E5%25A4%25B1%25E6%2595%2597%25E3%2581%2597%25E3%2581%25AA%25E3%2581%2584%25EF%25BC%2581%25E3%2581%258A%25E6%25B9%25AF%25E3%2581%25AE%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## 日常を豊かにする一杯の選択
 

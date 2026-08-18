@@ -65,3 +65,34 @@ mediaType: 'kettle'
 しかし、このポットは、コーヒーを淹れる行為そのものを深く味わい、探求したいと願う人にとって、非常に価値ある道具となる。時間と手間をかけることによって得られる喜び、そしてその先に待つ至高の一杯は、日々の生活に確かな豊かさをもたらす。このポットを使い始めてから、筆者はより一層コーヒーと向き合う時間の大切さを実感している。
 
 もしあなたが、日々の喧騒から離れ、自分だけの静かな時間をコーヒーとともに過ごしたいと考えるのであれば、この[極細3.4mmノズル ドリップポット(コーヒードリップポット) 350ml 1〜2人用 コーヒー](https://hb.afl.rakuten.co.jp/hgc/g00thr51.ve2q5bd7.g00thr51.ve2q62e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff152048-sanjo%2F017s004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff152048-sanjo%2Fi%2F10001188%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)は、その体験をより一層深めるための有力な選択肢となるであろう。自身のコーヒーライフにおける優先順位を考慮し、この精密な注湯器具がもたらす価値について検討してみてはいかがだろうか。
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f152048-sanjo/cabinet/sanjof/10000_4/imgrc0103201400.jpg?_ex=600x600" alt="極細3.4mmノズル ドリップポット本音レビュー！湯量調整で味は変わる？" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                極細3.4mmノズル ドリップポット本音レビュー！湯量調整で味は変わる？
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>極細3.4mmノズルが特徴の「ドリップポット 350ml」は、狙い通りの湯量と速度で抽出可能。浅煎り豆のクリアな酸味も引き出しやすく、プロのような味わいを自宅で実現します。楽天で19,000円。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25A5%25B5%25E7%25B4%25B03.4mm%25E3%2583%258E%25E3%2582%25BA%25E3%2583%25AB%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2583%259D%25E3%2583%2583%25E3%2583%2588%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E6%25B9%25AF%25E9%2587%258F%25E8%25AA%25BF%25E6%2595%25B4%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%25AF%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00s6nv1.ve2q5786.g00s6nv1.ve2q6d3f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff082040-koga%2F5701-30043016%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff082040-koga%2Fi%2F10000848%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25A5%25B5%25E7%25B4%25B03.4mm%25E3%2583%258E%25E3%2582%25BA%25E3%2583%25AB%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2583%259D%25E3%2583%2583%25E3%2583%2588%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E6%25B9%25AF%25E9%2587%258F%25E8%25AA%25BF%25E6%2595%25B4%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%25AF%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+

@@ -30,6 +30,37 @@ mediaType: 'beans'
 
 自宅で淹れる一杯のコーヒーは、日々の生活に小さな贅沢と深い満足をもたらす。しかし、高品質なスペシャルティコーヒーを常に新鮮な状態で手に入れる手間や、多種多様な豆の中から自分好みのものを見つける難しさに直面する愛好家も少なくない。本記事では、このような課題を解決し、厳選されたスペシャルティコーヒーを毎月自宅に届けてくれる定期便の魅力を深掘りする。安定した品質と新鮮な豆がもたらす、豊かなコーヒー体験について考察する。
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f192023-fujiyoshida/cabinet/08108464/08108466/f069-t341-t713-s-r-a.jpg?_ex=600x600" alt="ガイアの夜明けで話題！自家焙煎スペシャルティコーヒー定期便、お湯の温度で味ブレ解" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                ガイアの夜明けで話題！自家焙煎スペシャルティコーヒー定期便、お湯の温度で味ブレ解
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>ガイアの夜明けで紹介されたスペシャルティコーヒーの定期便。富士山の湧き水で自家焙煎した豆・粉400gを2〜12ヶ月お届け。ブルマンやハワイコナなど、世界トップクラスの希少な味わいを毎月堪能できます。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AC%25E3%2582%25A4%25E3%2582%25A2%25E3%2581%25AE%25E5%25A4%259C%25E6%2598%258E%25E3%2581%2591%25E3%2581%25A7%25E8%25A9%25B1%25E9%25A1%258C%25EF%25BC%2581%25E8%2587%25AA%25E5%25AE%25B6%25E7%2584%2599%25E7%2585%258E%25E3%2582%25B9%25E3%2583%259A%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25AB%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E5%25AE%259A%25E6%259C%259F%25E4%25BE%25BF%25E3%2580%2581%25E3%2581%258A%25E6%25B9%25AF%25E3%2581%25AE%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A7%25E5%2591%25B3%25E3%2583%2596%25E3%2583%25AC%25E8%25A7%25A3" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00uq011.ve2q5db8.g00uq011.ve2q68c9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkkonlinestore%2Fcafe07%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkkonlinestore%2Fi%2F10000001%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AC%25E3%2582%25A4%25E3%2582%25A2%25E3%2581%25AE%25E5%25A4%259C%25E6%2598%258E%25E3%2581%2591%25E3%2581%25A7%25E8%25A9%25B1%25E9%25A1%258C%25EF%25BC%2581%25E8%2587%25AA%25E5%25AE%25B6%25E7%2584%2599%25E7%2585%258E%25E3%2582%25B9%25E3%2583%259A%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25AB%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E5%25AE%259A%25E6%259C%259F%25E4%25BE%25BF%25E3%2580%2581%25E3%2581%258A%25E6%25B9%25AF%25E3%2581%25AE%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A7%25E5%2591%25B3%25E3%2583%2596%25E3%2583%25AC%25E8%25A7%25A3" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+
 ## 珈琲が織りなす香りのシンフォニー：産地の個性を愉しむ贅沢
 
 スペシャルティコーヒーの真髄は、その土地が育んだ個性豊かな風味にある。生産地の風土、精製方法、そして焙煎士の哲学が凝縮された一杯には、独自の物語が宿る。コーヒー豆の風味を決定づける重要な要素の一つが「精製方法」であり、主なものとしてウォッシュドプロセス、ナチュラルプロセス、ハニープロセスが挙げられる。
@@ -83,6 +114,37 @@ mediaType: 'beans'
 また、届くブレンドはその時々で変わるため、「今日は特定の産地の豆が飲みたい」といった明確な好みやこだわりがある人にとっては、選択肢の幅が物足りなく感じるかもしれない。しかし、この点を「デメリット」と捉えるだけでなく、「新たな味覚との出会い」や「コーヒーの多様性を知る機会」として前向きに捉えることも可能である。普段自分では選ばないような豆に出会うことは、コーヒーの知識を深め、味覚の幅を広げる上でも貴重な経験となるだろう。
 
 多様な豆が届くからこそ、様々な抽出器具を試してみるのも一興である。浅煎りのフルーティーな酸味を際立たせたいなら、円錐形ドリッパーがその本領を発揮する。中煎りの優しい甘みを引き出すなら、フレンチプレスやクレバーのような浸漬式でじっくりと淹れるのがおすすめだ。深煎りの重厚なコクを堪能したいなら、ネルドリップや金属フィルターを試してみるのも良い。一つの豆でも、抽出器具を変えるだけで驚くほど表情が変わるのがコーヒーの面白いところであり、定期便の豆は多様な抽出方法を探求する絶好の機会を提供する。
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
+            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f192023-fujiyoshida/cabinet/08108464/08108466/f069-t341-t713-s-r-a.jpg?_ex=600x600" alt="ガイアの夜明けで話題！自家焙煎スペシャルティコーヒー定期便、お湯の温度で味ブレ解" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                ガイアの夜明けで話題！自家焙煎スペシャルティコーヒー定期便、お湯の温度で味ブレ解
+            </h4>
+            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>ガイアの夜明けで紹介されたスペシャルティコーヒーの定期便。富士山の湧き水で自家焙煎した豆・粉400gを2〜12ヶ月お届け。ブルマンやハワイコナなど、世界トップクラスの希少な味わいを毎月堪能できます。</p>
+            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AC%25E3%2582%25A4%25E3%2582%25A2%25E3%2581%25AE%25E5%25A4%259C%25E6%2598%258E%25E3%2581%2591%25E3%2581%25A7%25E8%25A9%25B1%25E9%25A1%258C%25EF%25BC%2581%25E8%2587%25AA%25E5%25AE%25B6%25E7%2584%2599%25E7%2585%258E%25E3%2582%25B9%25E3%2583%259A%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25AB%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E5%25AE%259A%25E6%259C%259F%25E4%25BE%25BF%25E3%2580%2581%25E3%2581%258A%25E6%25B9%25AF%25E3%2581%25AE%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A7%25E5%2591%25B3%25E3%2583%2596%25E3%2583%25AC%25E8%25A7%25A3" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                    🛒 Amazon
+                </a>
+                <a href="https://hb.afl.rakuten.co.jp/hgc/g00uq011.ve2q5db8.g00uq011.ve2q68c9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkkonlinestore%2Fcafe07%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkkonlinestore%2Fi%2F10000001%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AC%25E3%2582%25A4%25E3%2582%25A2%25E3%2581%25AE%25E5%25A4%259C%25E6%2598%258E%25E3%2581%2591%25E3%2581%25A7%25E8%25A9%25B1%25E9%25A1%258C%25EF%25BC%2581%25E8%2587%25AA%25E5%25AE%25B6%25E7%2584%2599%25E7%2585%258E%25E3%2582%25B9%25E3%2583%259A%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25AB%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E5%25AE%259A%25E6%259C%259F%25E4%25BE%25BF%25E3%2580%2581%25E3%2581%258A%25E6%25B9%25AF%25E3%2581%25AE%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A7%25E5%2591%25B3%25E3%2583%2596%25E3%2583%25AC%25E8%25A7%25A3" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 ## 毎日の「一杯」を、心豊かな「体験」に変える投資
 
