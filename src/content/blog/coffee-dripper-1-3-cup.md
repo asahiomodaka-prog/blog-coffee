@@ -1,25 +1,15 @@
 ---
-title: '「コーヒー ドリッパー」で解決！毎回味がブレる悩みを本音レビュー'
-description: '紙フィルター不要の「コーヒー ドリッパー 1〜3人用」。高品質ステンレス製二重メッシュがコーヒー本来の風味をダイレクトに抽出します。経済的でエコ、目詰まりしにくい快適設計で、毎日の本格的な一杯が手軽に。'
+title: 「コーヒー ドリッパー」で解決！毎回味がブレる悩みを本音レビュー
+description: 紙フィルター不要の「コーヒー ドリッパー 1〜3人用」。高品質ステンレス製二重メッシュがコーヒー本来の風味をダイレクトに抽出します。経済的でエコ、目詰まりしにくい快適設計で、毎日の本格的な一杯が手軽に。
 pubDate: '2026-08-15'
-heroImage: '/images/coffee-dripper-1-3-cup.jpg'
-genre: 'ドリッパー・器具'
+heroImage: /images/coffee-dripper-1-3-cup.jpg
+genre: ドリッパー・器具
 sidebarProducts:
   - title: 'で解決 毎回味がブレる悩みを'
     url: ''
     imageUrl: '/images/coffee-dripper-1-3-cup.jpg'
     microCopy: '詳細を見る'
-  - title: '★テレビで話題★＼楽天1位／コーヒードリッパー コーヒーフィルター ステンレス製 メッシュ二重構造フィルター ペーパーレス ステンレスフィルター くり返し使える おしゃれ ハンドドリップ 道具 ドリッパー フィルター不要 キャンプ アウトドア'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00tsoq1.ve2q5b75.g00tsoq1.ve2q61cb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flonglife-global%2Fcd21761%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flonglife-global%2Fi%2F10000009%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/longlife-global/cabinet/08208996/08211510/imgrc0113115449.jpg?_ex=600x600'
-    price: 1980
-    microCopy: '詳細を見る'
-  - title: '【1等最大100％ポイントバックキャンペーン】 珈琲考具 ドリッパー 大 日本製 ステンレスドリッパー コーヒードリッパー ハンドドリップ ハンドドリッパー ステンレスコーヒードリッパー 丈夫 コーヒー器具 コーヒー おしゃれ モダン ステンレス プレゼント KOGU 燕三条'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00t7ao1.ve2q5bd3.g00t7ao1.ve2q6e3a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsimomura-kihan%2F42157%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsimomura-kihan%2Fi%2F10000868%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/simomura-kihan/cabinet/06700296/imgrc0082938261.jpg?_ex=600x600'
-    price: 2750
-    microCopy: '詳細を見る'
-mediaType: 'dripper'
+mediaType: dripper
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

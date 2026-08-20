@@ -1,25 +1,15 @@
 ---
-title: '極細3.4mmノズル ドリップポット本音レビュー！湯量調整で味は変わる？'
-description: '極細3.4mmノズルが特徴の「ドリップポット 350ml」は、狙い通りの湯量と速度で抽出可能。浅煎り豆のクリアな酸味も引き出しやすく、プロのような味わいを自宅で実現します。楽天で19,000円。'
+title: 極細3.4mmノズル ドリップポット本音レビュー！湯量調整で味は変わる？
+description: 極細3.4mmノズルが特徴の「ドリップポット 350ml」は、狙い通りの湯量と速度で抽出可能。浅煎り豆のクリアな酸味も引き出しやすく、プロのような味わいを自宅で実現します。楽天で19,000円。
 pubDate: '2026-07-29'
-heroImage: '/images/ultra-fine-drip-pot-350ml-coffee.jpg'
-genre: 'ケトル・ポット'
+heroImage: /images/ultra-fine-drip-pot-350ml-coffee.jpg
+genre: ケトル・ポット
 sidebarProducts:
   - title: '極細3 4mmノズル ドリップポット'
     url: ''
     imageUrl: '/images/ultra-fine-drip-pot-350ml-coffee.jpg'
     microCopy: '詳細を見る'
-  - title: '【ふるさと納税】 珈琲考具 割れにくいフレンチプレス【 ギフト コーヒープレス フレンチプレスコーヒーメーカー コーヒーメーカーおしゃれ ポット コーヒー コーヒー器具 道具 キャンプ アウトドア バリスタ 下村企販 新潟県 燕市 燕三条 】'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00u4bj1.ve2q5131.g00u4bj1.ve2q6a6e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff152137-tsubame%2F10002610%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff152137-tsubame%2Fi%2F10002439%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f152137-tsubame/cabinet/henreihin4/10002610_m.jpg?_ex=600x600'
-    price: 10000
-    microCopy: '詳細を見る'
-  - title: '【ふるさと納税】コーヒーマートオンラインストアで使えるクーポン　3000円分 | コーヒーマート クーポン 珈琲 飲料 コーヒー豆　自家焙煎 コーヒー コーヒー器具 人気 おすすめ 送料無料'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00sbxq1.ve2q5b8e.g00sbxq1.ve2q6469/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff172014-kanazawa%2Fhl006%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff172014-kanazawa%2Fi%2F10002710%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f172014-kanazawa/cabinet/frp_goods/frp003/17180297.jpg?_ex=600x600'
-    price: 10000
-    microCopy: '詳細を見る'
-mediaType: 'kettle'
+mediaType: kettle
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

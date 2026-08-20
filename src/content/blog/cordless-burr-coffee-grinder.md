@@ -1,23 +1,15 @@
 ---
-title: 'どこでも、挽きたて。コードレス臼式電動コーヒーミルが叶える、私だけの贅沢な香り'
-description: '「コードレス臼式電動コーヒーミル」で挽きたての本格コーヒーを。手挽きの苦労や場所の悩みを解決する3980円の高性能ミル。均一な粒度で雑味なく、いつでもどこでも美味しい一杯を楽天で。'
+title: どこでも、挽きたて。コードレス臼式電動コーヒーミルが叶える、私だけの贅沢な香り
+description: 「コードレス臼式電動コーヒーミル」で挽きたての本格コーヒーを。手挽きの苦労や場所の悩みを解決する3980円の高性能ミル。均一な粒度で雑味なく、いつでもどこでも美味しい一杯を楽天で。
 pubDate: '2026-07-11'
-heroImage: '/images/cordless-burr-coffee-grinder.jpg'
-genre: 'ミル・グラインダー'
+heroImage: /images/cordless-burr-coffee-grinder.jpg
+genre: ミル・グラインダー
 sidebarProducts:
   - title: 'どこでも、挽きたて。コードレス臼式電動コーヒ'
     url: ''
     imageUrl: '/images/cordless-burr-coffee-grinder.jpg'
     microCopy: '詳細を見る'
-  - title: 'カリタ 電動コーヒーミル NEXT G2'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00t81x1.ve2q5d6d.g00t81x1.ve2q6fb3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuperdeal%2F12495kalitanextg22303%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuperdeal%2Fi%2F10002885%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/superdeal/cabinet/12592494/12696131/imgrc0340341815.jpg?_ex=600x600'
-    price: 52800
-  - title: '【ふるさと納税】電動コーヒーミル CM-50（ブラック）｜kalita カリタ 珈琲 coffee ミル グラインダー 家電 キッチン キッチン用品 ギフト 贈答 贈り物 プレゼント お祝い ご褒美 記念日 景品 茨城県 古河市 _EW03'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00s6nv1.ve2q5786.g00s6nv1.ve2q6d3f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff082040-koga%2F57122-30067835%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff082040-koga%2Fi%2F10002746%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f082040-koga/cabinet/kalita/57122-30067835-01.jpg?_ex=600x600'
-    price: 25000
-mediaType: 'grinder'
+mediaType: grinder
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

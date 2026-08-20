@@ -1,20 +1,15 @@
 ---
-title: 'コーヒードリップセットで味がブレる？初心者でも失敗しない淹れ方【本音レビュー】'
-description: '【楽天】「最安値挑戦」コーヒーサーバー＆ドリッパーセットが3060円。耐熱ガラス製でレンジOK、2層ステンレスメッシュでペーパー不要、洗ってエコ。オフィス・家庭で本格ドリップを楽しみたい方へ。'
+title: コーヒードリップセットで味がブレる？初心者でも失敗しない淹れ方【本音レビュー】
+description: 【楽天】「最安値挑戦」コーヒーサーバー＆ドリッパーセットが3060円。耐熱ガラス製でレンジOK、2層ステンレスメッシュでペーパー不要、洗ってエコ。オフィス・家庭で本格ドリップを楽しみたい方へ。
 pubDate: '2026-08-08'
-heroImage: '/images/coffee-server-dripper-set.jpg'
-genre: 'ドリッパー・器具'
+heroImage: /images/coffee-server-dripper-set.jpg
+genre: ドリッパー・器具
 sidebarProducts:
   - title: 'コーヒードリップセットで味がブレる'
     url: ''
     imageUrl: '/images/coffee-server-dripper-set.jpg'
     microCopy: '詳細を見る'
-  - title: '最安値挑戦／コーヒーサーバー コーヒードリッパー コーヒードリップセット コーヒー ドリッパー 器具 お茶 耐熱ガラス 透明 目盛り付き ステンレスフィルター付き 2層メッシュ ハンドドリップコーヒーサーバー ペーパーフィルター不要 電子レンジ可 ティー コーヒー'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00uot61.ve2q5c10.g00uot61.ve2q6305/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdaysunny%2F20260624lzj55%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdaysunny%2Fi%2F10001496%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/daysunny/cabinet/13460032/imgrc0128595442.jpg?_ex=600x600'
-    price: 3300
-    microCopy: '詳細を見る'
-mediaType: 'dripper'
+mediaType: dripper
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

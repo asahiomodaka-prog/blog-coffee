@@ -1,25 +1,15 @@
 ---
-title: '陶器製カリタ ロトのレビュー！「お湯の温度で味が変わる」を解決？'
-description: 'カリタの陶器製コーヒードリッパー「ロト」は、雑味を抑える3つ穴構造で、安定した美味しいハンドドリップを実現。保温性に優れ、初心者でも均一な抽出が可能です。価格1550円（楽天）。'
+title: 陶器製カリタ ロトのレビュー！「お湯の温度で味が変わる」を解決？
+description: カリタの陶器製コーヒードリッパー「ロト」は、雑味を抑える3つ穴構造で、安定した美味しいハンドドリップを実現。保温性に優れ、初心者でも均一な抽出が可能です。価格1550円（楽天）。
 pubDate: '2026-07-28'
-heroImage: '/images/kalita-ceramic-coffee-dripper-lotto.jpg'
-genre: 'ドリッパー・器具'
+heroImage: /images/kalita-ceramic-coffee-dripper-lotto.jpg
+genre: ドリッパー・器具
 sidebarProducts:
   - title: '陶器製カリタ ロトのレビュー を解決'
     url: ''
     imageUrl: '/images/kalita-ceramic-coffee-dripper-lotto.jpg'
     microCopy: '詳細を見る'
-  - title: '【ランキング入賞！】 【1等最大100％ポイントバックキャンペーン】 珈琲考具 ワンドリッパーコーヒードリッパー ステンレス ハンドドリップ 珈琲ドリッパーコーヒー coffee カ'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00t7ao1.ve2q5bd3.g00t7ao1.ve2q6e3a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsimomura-kihan%2F42158%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsimomura-kihan%2Fi%2F10000869%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/simomura-kihan/cabinet/06700296/42158-60.jpg?_ex=600x600'
-    price: 2310
-    microCopy: '詳細を見る'
-  - title: '＼ランキング入賞／人気商品！コーヒー ドリッパー 1〜 3人用　ペーパーレス ステンレス コーヒードリップ コーヒー フィルター ペーパー 不要 アウトドア ステンレス 食洗機対応 1-4杯用'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00tfsm1.ve2q5232.g00tfsm1.ve2q62c7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funibuy%2Fcoffee-field%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funibuy%2Fi%2F10000214%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/unibuy/cabinet/biiino/item/main-image/20220203132121_1.jpg?_ex=600x600'
-    price: 1980
-    microCopy: '詳細を見る'
-mediaType: 'dripper'
+mediaType: dripper
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

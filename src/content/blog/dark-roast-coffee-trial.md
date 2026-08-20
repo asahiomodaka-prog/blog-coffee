@@ -1,25 +1,15 @@
 ---
-title: '「深煎りお試しコーヒー」は本当に買い？味のブレに悩む人への本音レビュー'
-description: '楽天「コーヒー豆 深煎り お試し 1000円ポッキリ」を体験。グアテマラ・マンデリンブレンドなど深煎り豆140gが、送料込み1000円で試せる。重厚な苦味と甘み、長く続く余韻を自宅で手軽に。高品質な一杯を求める方へ。'
+title: 「深煎りお試しコーヒー」は本当に買い？味のブレに悩む人への本音レビュー
+description: 楽天「コーヒー豆 深煎り お試し 1000円ポッキリ」を体験。グアテマラ・マンデリンブレンドなど深煎り豆140gが、送料込み1000円で試せる。重厚な苦味と甘み、長く続く余韻を自宅で手軽に。高品質な一杯を求める方へ。
 pubDate: '2026-08-06'
-heroImage: '/images/dark-roast-coffee-trial.jpg'
-genre: 'コーヒー豆・粉'
+heroImage: /images/dark-roast-coffee-trial.jpg
+genre: コーヒー豆・粉
 sidebarProducts:
   - title: 'は本当に買い 味のブレに悩む人への'
     url: ''
     imageUrl: '/images/dark-roast-coffee-trial.jpg'
     microCopy: '詳細を見る'
-  - title: 'ブラジル 400g コーヒー豆 粉 送料無料 深煎り コーヒー豆 フレンチ ドリップ ドリップコーヒー 珈琲豆 コーヒー粉 自家焙煎 コーヒー 珈琲 送料無料 コーヒー ギフト アイスコーヒー おしゃれ おすすめ お試し プレゼント ブラックフライデー'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00tf3i1.ve2q51d6.g00tf3i1.ve2q64f2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmellowcoffee%2F010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmellowcoffee%2Fi%2F10000012%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/mellowcoffee/cabinet/07316465/07434623/010_main1.jpg?_ex=600x600'
-    price: 2200
-    microCopy: '詳細を見る'
-  - title: '＼送料無料／【深煎りコーヒー豆 リバティブレンド 200g 豆でも粉でも可】コーヒー豆 珈琲豆 自家焙煎 自家焙煎珈琲 自家焙煎コーヒー豆 COFFEE coffee 受注後に焙煎 深煎り フレンチロースト フルシティロースト'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00tgnt1.ve2q5121.g00tgnt1.ve2q69fb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fliberty55%2Flibertyblendhukairi%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fliberty55%2Fi%2F10000355%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/liberty55/cabinet/biiino/item/main-image/20260724123324_1.jpg?_ex=600x600'
-    price: 1600
-    microCopy: '詳細を見る'
-mediaType: 'beans'
+mediaType: beans
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

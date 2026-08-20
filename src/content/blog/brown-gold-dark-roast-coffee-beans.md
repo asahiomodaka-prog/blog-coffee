@@ -1,25 +1,15 @@
 ---
-title: 'ブラウンゴールド深煎りコーヒー豆セット本音レビュー。味の変化とコクを徹底検証'
-description: '楽天の深煎りコーヒー豆「ブラウンゴールドセット」はカフェオレに最適。苦味とコクがミルクに負けず、深煎り好きも満足の味わい。ヨーロピアンブレンドなど3種500g×3で6,890円。'
+title: ブラウンゴールド深煎りコーヒー豆セット本音レビュー。味の変化とコクを徹底検証
+description: 楽天の深煎りコーヒー豆「ブラウンゴールドセット」はカフェオレに最適。苦味とコクがミルクに負けず、深煎り好きも満足の味わい。ヨーロピアンブレンドなど3種500g×3で6,890円。
 pubDate: '2026-07-24'
-heroImage: '/images/brown-gold-dark-roast-coffee-beans.jpg'
-genre: 'コーヒー豆・粉'
+heroImage: /images/brown-gold-dark-roast-coffee-beans.jpg
+genre: コーヒー豆・粉
 sidebarProducts:
   - title: 'ブラウンゴールド深煎りコーヒー豆セット'
     url: ''
     imageUrl: '/images/brown-gold-dark-roast-coffee-beans.jpg'
     microCopy: '詳細を見る'
-  - title: 'ブラジル 400g コーヒー豆 粉 送料無料 深煎り コーヒー豆 フレンチ ドリップ ドリップコーヒー 珈琲豆 コーヒー粉 自家焙煎 コーヒー 珈琲 送料無料 コーヒー ギフト アイスコーヒー おしゃれ おすすめ お試し プレゼント ブラックフライデー'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00tf3i1.ve2q51d6.g00tf3i1.ve2q64f2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmellowcoffee%2F010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmellowcoffee%2Fi%2F10000012%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/mellowcoffee/cabinet/07316465/07434623/010_main1.jpg?_ex=600x600'
-    price: 2200
-    microCopy: '詳細を見る'
-  - title: 'コーヒー豆 深煎り お試し 福袋 おすすめ 飲み比べセット タンザニア（キリマンジャロ）80g プレミアムブレンド信長( マンデリン グアテマラ コロンビア ブラジル )80g コロンビア120g(計280g) 深煎りコーヒー メール便 コーヒー福袋 コーヒー粉 お得 クリスマス'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-prom-d_e%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000143%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/fuku/imgrc0116107610.jpg?_ex=600x600'
-    price: 3980
-    microCopy: '詳細を見る'
-mediaType: 'beans'
+mediaType: beans
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

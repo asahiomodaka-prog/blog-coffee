@@ -1,23 +1,15 @@
 ---
-title: 'ゴールドブレンドプレミアムの香りと味わい。毎朝の一杯を格上げする本音レビュー'
-description: '自宅コーヒーの「味のブレ」に終止符を。風味バランスに優れた「ゴールド ブレンド プレミアムシリーズ」なら、毎日安定して美味しい一杯を楽しめます。ブラジル・コロンビア他をブレンドした中深煎りで、楽天にて5500円。品質と使いやすさを両立。'
+title: ゴールドブレンドプレミアムの香りと味わい。毎朝の一杯を格上げする本音レビュー
+description: 自宅コーヒーの「味のブレ」に終止符を。風味バランスに優れた「ゴールド ブレンド プレミアムシリーズ」なら、毎日安定して美味しい一杯を楽しめます。ブラジル・コロンビア他をブレンドした中深煎りで、楽天にて5500円。品質と使いやすさを両立。
 pubDate: '2026-07-05'
-heroImage: '/images/gold-blend-premium-series-coffee.jpg'
-genre: 'コーヒー豆・粉'
+heroImage: /images/gold-blend-premium-series-coffee.jpg
+genre: コーヒー豆・粉
 sidebarProducts:
   - title: 'ゴールドブレンドプレミアムの香りと味わい。毎'
     url: ''
     imageUrl: '/images/gold-blend-premium-series-coffee.jpg'
     microCopy: '詳細を見る'
-  - title: 'コーヒー豆 深煎り お試し 福袋 おすすめ 飲み比べセット タンザニア（キリマンジャロ）80g プレミアムブレンド信長( マンデリン グアテマラ コロンビア ブラジル )80g コロンビア120g(計280g) 深煎りコーヒー メール便 コーヒー福袋 コーヒー粉 お得 クリスマス'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-prom-d_e%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000143%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/fuku/imgrc0116107610.jpg?_ex=600x600'
-    price: 3980
-  - title: 'コーヒー豆 深煎り お試し 1000円ポッキリ 送料無料 おすすめ 飲み比べ 福袋 グアテマラ 60g マンデリン ブレンド 信長 80g メール便 深煎りコーヒー豆 深入り アラビカ豆 コヒー豆 ポイント消化 ポッキリ1000円 コーヒー福袋 コーヒー粉 こーひー豆 花以外 お中元人気'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-prom-mharu12%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000214%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/fuku/imgrc0128685941.jpg?_ex=600x600'
-    price: 1000
-mediaType: 'beans'
+mediaType: beans
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

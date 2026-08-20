@@ -1,25 +1,15 @@
 ---
-title: '「ブレンドコーヒー500g」を細挽きで淹れる！温度と挽き目で味が激変するってホント？'
-description: 'KOTENブレンドのオリジナルコーヒー豆500gが楽天で1,650円。インドネシア、ブラジル、コロンビア産の豆をブレンドした深煎りで、豆のまま・細挽きが選べます。専門卸問屋ドリームコーヒーとの共同開発で、煎りたて挽きたての美味しさをお届けします。'
+title: 「ブレンドコーヒー500g」を細挽きで淹れる！温度と挽き目で味が激変するってホント？
+description: KOTENブレンドのオリジナルコーヒー豆500gが楽天で1,650円。インドネシア、ブラジル、コロンビア産の豆をブレンドした深煎りで、豆のまま・細挽きが選べます。専門卸問屋ドリームコーヒーとの共同開発で、煎りたて挽きたての美味しさをお届けします。
 pubDate: '2026-08-03'
-heroImage: '/images/coffee-beans-blend-500g.jpg'
-genre: 'ミル・グラインダー'
+heroImage: /images/coffee-beans-blend-500g.jpg
+genre: ミル・グラインダー
 sidebarProducts:
   - title: 'を細挽きで淹れる'
     url: ''
     imageUrl: '/images/coffee-beans-blend-500g.jpg'
     microCopy: '詳細を見る'
-  - title: '＼送料無料／【深煎りコーヒー豆 リバティブレンド 200g 豆でも粉でも可】コーヒー豆 珈琲豆 自家焙煎 自家焙煎珈琲 自家焙煎コーヒー豆 COFFEE coffee 受注後に焙煎 深煎り フレンチロースト フルシティロースト'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00tgnt1.ve2q5121.g00tgnt1.ve2q69fb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fliberty55%2Flibertyblendhukairi%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fliberty55%2Fi%2F10000355%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/liberty55/cabinet/biiino/item/main-image/20260724123324_1.jpg?_ex=600x600'
-    price: 1600
-    microCopy: '詳細を見る'
-  - title: '深煎りコーヒー豆コーヒー「ブラウンゴールドセット」送料無料！'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00ppmo1.ve2q53a8.g00ppmo1.ve2q6f82/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhiroshimacoffee%2F458211%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhiroshimacoffee%2Fi%2F10000934%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/hiroshimacoffee/cabinet/2017/1bn167.jpg?_ex=600x600'
-    price: 6890
-    microCopy: '詳細を見る'
-mediaType: 'grinder'
+mediaType: grinder
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

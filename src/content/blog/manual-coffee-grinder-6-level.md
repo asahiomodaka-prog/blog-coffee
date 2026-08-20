@@ -1,25 +1,15 @@
 ---
-title: '手挽き コーヒーミル 6段階調整で味のブレ解消！本音レビュー'
-description: '自宅で挽きたてコーヒーの贅沢を。「手挽き コーヒーミル 6段階調整」が2980円。セラミック刃で熱を抑え、豆本来の香りを引き出します。エスプレッソからフレンチプレスまで対応する6段階調整で、あなた好みの挽き目を追求。'
+title: 手挽き コーヒーミル 6段階調整で味のブレ解消！本音レビュー
+description: 自宅で挽きたてコーヒーの贅沢を。「手挽き コーヒーミル 6段階調整」が2980円。セラミック刃で熱を抑え、豆本来の香りを引き出します。エスプレッソからフレンチプレスまで対応する6段階調整で、あなた好みの挽き目を追求。
 pubDate: '2026-08-07'
-heroImage: '/images/manual-coffee-grinder-6-level.jpg'
-genre: 'ミル・グラインダー'
+heroImage: /images/manual-coffee-grinder-6-level.jpg
+genre: ミル・グラインダー
 sidebarProducts:
   - title: '手挽き コーヒーミル'
     url: ''
     imageUrl: '/images/manual-coffee-grinder-6-level.jpg'
     microCopy: '詳細を見る'
-  - title: 'プロテイン WPC エクスプロージョン 3kg 甘さゼロカフェオレ味 甘くない ホエイプロテイン 3キロ 最安値 大容量 筋肉 タンパク質 高たんぱく 運動 ダイエット 置き換え 男性 女性 子供 こども'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00sxk41.ve2q59a0.g00sxk41.ve2q68bf/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fx-plosion%2Fwpcfl-z-co%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fx-plosion%2Fi%2F10000093%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/x-plosion/cabinet/yec/11362306/241227_wpcfl-z-co.jpg?_ex=600x600'
-    price: 12790
-    microCopy: '詳細を見る'
-  - title: '最安値挑戦／コーヒーサーバー コーヒードリッパー コーヒードリップセット コーヒー ドリッパー 器具 お茶 耐熱ガラス 透明 目盛り付き ステンレスフィルター付き 2層メッシュ ハンドドリップコーヒーサーバー ペーパーフィルター不要 電子レンジ可 ティー コーヒー'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00uot61.ve2q5c10.g00uot61.ve2q6305/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdaysunny%2F20260624lzj55%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdaysunny%2Fi%2F10001496%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/daysunny/cabinet/13460032/imgrc0128595442.jpg?_ex=600x600'
-    price: 3300
-    microCopy: '詳細を見る'
-mediaType: 'grinder'
+mediaType: grinder
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

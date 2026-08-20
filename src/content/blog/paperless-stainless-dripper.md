@@ -1,23 +1,15 @@
 ---
-title: '多くのコーヒー愛好家が唸る！ステンレスドリッパーが紡ぐ、ペーパーレスな至福の香り'
-description: '自宅コーヒーの味、安定しない悩みを解決。ペーパーレス「ステンレスドリッパー」は、買い忘れ不要で経済的。コーヒーオイルを抽出し、風味とコクが格段にUPします。楽天で1980円から、毎日快適に格別な一杯を。'
+title: 多くのコーヒー愛好家が唸る！ステンレスドリッパーが紡ぐ、ペーパーレスな至福の香り
+description: 自宅コーヒーの味、安定しない悩みを解決。ペーパーレス「ステンレスドリッパー」は、買い忘れ不要で経済的。コーヒーオイルを抽出し、風味とコクが格段にUPします。楽天で1980円から、毎日快適に格別な一杯を。
 pubDate: '2026-07-06'
-heroImage: '/images/paperless-stainless-dripper.jpg'
-genre: 'ドリッパー・器具'
+heroImage: /images/paperless-stainless-dripper.jpg
+genre: ドリッパー・器具
 sidebarProducts:
   - title: '多くのコーヒー愛好家が唸る'
     url: ''
     imageUrl: '/images/paperless-stainless-dripper.jpg'
     microCopy: '詳細を見る'
-  - title: '★テレビで話題★＼楽天1位／コーヒードリッパー コーヒーフィルター ステンレス製 メッシュ二重構造フィルター ペーパーレス ステンレスフィルター くり返し使える おしゃれ ハンドドリップ 道具 ドリッパー フィルター不要 キャンプ アウトドア'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00tsoq1.ve2q5b75.g00tsoq1.ve2q61cb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flonglife-global%2Fcd21761%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flonglife-global%2Fi%2F10000009%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/longlife-global/cabinet/08208996/08211510/imgrc0113115449.jpg?_ex=600x600'
-    price: 1980
-  - title: '【Kalita】コーヒードリッパー ロト 日本製 カリタ 陶器 コーヒー ドリップ おしゃれ セラミック 101 102 1人 2人 3人 4人 1杯 2杯 3杯 4杯 ブラウン キッチン ダイニング ブラウン プレゼント ギフト インテリア カフェ 新生活 ハンドドリップ おすすめ'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00u0011.ve2q5ff5.g00u0011.ve2q656e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocopla%2F101-cxy0120e0001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocopla%2Fi%2F10001024%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/cocopla/cabinet/item/005/cxy0120e0001_a001.jpg?_ex=600x600'
-    price: 1690
-mediaType: 'dripper'
+mediaType: dripper
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

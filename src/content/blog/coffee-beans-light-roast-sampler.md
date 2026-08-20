@@ -1,25 +1,15 @@
 ---
-title: '【浅煎りコーヒー福袋】エチオピア、キリマンジャロ…飲み比べで好みの味を見つける！'
-description: '3種の浅煎りコーヒー豆福袋が3980円！エチオピアモカの華やかさ、キリマンジャロの澄んだ酸味、マンデリンブレンドの深いコクを飲み比べ。メール便で手軽にお試しください。'
+title: 【浅煎りコーヒー福袋】エチオピア、キリマンジャロ…飲み比べで好みの味を見つける！
+description: 3種の浅煎りコーヒー豆福袋が3980円！エチオピアモカの華やかさ、キリマンジャロの澄んだ酸味、マンデリンブレンドの深いコクを飲み比べ。メール便で手軽にお試しください。
 pubDate: '2026-07-22'
-heroImage: '/images/coffee-beans-light-roast-sampler.jpg'
-genre: 'コーヒー豆・粉'
+heroImage: /images/coffee-beans-light-roast-sampler.jpg
+genre: コーヒー豆・粉
 sidebarProducts:
   - title: 'エチオピア、キリマンジャロ…飲み比べで好みの'
     url: ''
     imageUrl: '/images/coffee-beans-light-roast-sampler.jpg'
     microCopy: '詳細を見る'
-  - title: '浅煎り コーヒー豆 300g（150g×2）苦くない フルーティー スペシャルティコーヒー 飲み比べ 2種セット 送料無料'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00tg3e1.ve2q597b.g00tg3e1.ve2q665b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fspeciltycoffeesoh%2Fen300%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fspeciltycoffeesoh%2Fi%2F10000057%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/speciltycoffeesoh/cabinet/asa/asa-niga-1.jpg?_ex=600x600'
-    price: 3530
-    microCopy: '詳細を見る'
-  - title: '浅煎りコーヒー豆 送料無料 上品な酸味と黒糖のような甘い香り！タンザニア・AA(キリマンジャロ)浅煎り(シナモンロースト)-180g-メール便 内祝い お中元ギフト 御中元 花以外 お中元人気 お礼 お返し 男性 グルメ スーパーセール コーヒー粉 クリスマス'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-1000-tanzania%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000163%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/2019/imgrc0082051036.jpg?_ex=600x600'
-    price: 1880
-    microCopy: '詳細を見る'
-mediaType: 'beans'
+mediaType: beans
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

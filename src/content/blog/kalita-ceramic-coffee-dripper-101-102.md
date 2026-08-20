@@ -1,25 +1,15 @@
 ---
-title: 'カリタ陶器製コーヒードリッパー101/102検証。3つ穴抽出の味のブレと安定性'
-description: '【本日23:59まで半額】カリタ 陶器製ドリッパー「ロト101/102」が1380円。三つ穴構造で雑味を抑え、豆本来の旨みを最大限に引き出す抽出を実現。喫茶店のような本格コーヒーを自宅で手軽に楽しみたい方におすすめです。'
+title: カリタ陶器製コーヒードリッパー101/102検証。3つ穴抽出の味のブレと安定性
+description: 【本日23:59まで半額】カリタ 陶器製ドリッパー「ロト101/102」が1380円。三つ穴構造で雑味を抑え、豆本来の旨みを最大限に引き出す抽出を実現。喫茶店のような本格コーヒーを自宅で手軽に楽しみたい方におすすめです。
 pubDate: '2026-07-25'
-heroImage: '/images/kalita-ceramic-coffee-dripper-101-102.jpg'
-genre: 'ドリッパー・器具'
+heroImage: /images/kalita-ceramic-coffee-dripper-101-102.jpg
+genre: ドリッパー・器具
 sidebarProducts:
   - title: 'カリタ陶器製コーヒードリッパー101'
     url: ''
     imageUrl: '/images/kalita-ceramic-coffee-dripper-101-102.jpg'
     microCopy: '詳細を見る'
-  - title: '【ランキング入賞！】 【1等最大100％ポイントバックキャンペーン】 珈琲考具 ワンドリッパーコーヒードリッパー ステンレス ハンドドリップ 珈琲ドリッパーコーヒー coffee カ'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00t7ao1.ve2q5bd3.g00t7ao1.ve2q6e3a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsimomura-kihan%2F42158%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsimomura-kihan%2Fi%2F10000869%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/simomura-kihan/cabinet/06700296/42158-60.jpg?_ex=600x600'
-    price: 2310
-    microCopy: '詳細を見る'
-  - title: '★テレビで話題★＼楽天1位／コーヒードリッパー コーヒーフィルター ステンレス製 メッシュ二重構造フィルター ペーパーレス ステンレスフィルター くり返し使える おしゃれ ハンドドリップ 道具 ドリッパー フィルター不要 キャンプ アウトドア'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00tsoq1.ve2q5b75.g00tsoq1.ve2q61cb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flonglife-global%2Fcd21761%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flonglife-global%2Fi%2F10000009%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/longlife-global/cabinet/08208996/08211510/imgrc0113115449.jpg?_ex=600x600'
-    price: 1980
-    microCopy: '詳細を見る'
-mediaType: 'dripper'
+mediaType: dripper
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

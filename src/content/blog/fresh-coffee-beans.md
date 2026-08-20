@@ -1,25 +1,15 @@
 ---
-title: 'コーヒー豆 珈琲豆は温度で味が変わる！味のブレ解決する淹れ方レビュー'
-description: '楽天で1600円。「リバティブレンド深煎り」は、ブラジル・コロンビア・メキシコ豆をブレンドした本格珈琲豆。深いコクと長く続く余韻が特徴で、アイス・ミルク・砂糖とも相性抜群。多様な飲み方で満足できる一杯を求める方へ。'
+title: コーヒー豆 珈琲豆は温度で味が変わる！味のブレ解決する淹れ方レビュー
+description: 楽天で1600円。「リバティブレンド深煎り」は、ブラジル・コロンビア・メキシコ豆をブレンドした本格珈琲豆。深いコクと長く続く余韻が特徴で、アイス・ミルク・砂糖とも相性抜群。多様な飲み方で満足できる一杯を求める方へ。
 pubDate: '2026-08-05'
-heroImage: '/images/fresh-coffee-beans.jpg'
-genre: 'コーヒー豆・粉'
+heroImage: /images/fresh-coffee-beans.jpg
+genre: コーヒー豆・粉
 sidebarProducts:
   - title: 'コーヒー豆 珈琲豆は温度で味が変わる'
     url: ''
     imageUrl: '/images/fresh-coffee-beans.jpg'
     microCopy: '詳細を見る'
-  - title: 'ブラジル 400g コーヒー豆 粉 送料無料 深煎り コーヒー豆 フレンチ ドリップ ドリップコーヒー 珈琲豆 コーヒー粉 自家焙煎 コーヒー 珈琲 送料無料 コーヒー ギフト アイスコーヒー おしゃれ おすすめ お試し プレゼント ブラックフライデー'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00tf3i1.ve2q51d6.g00tf3i1.ve2q64f2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmellowcoffee%2F010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmellowcoffee%2Fi%2F10000012%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/mellowcoffee/cabinet/07316465/07434623/010_main1.jpg?_ex=600x600'
-    price: 2200
-    microCopy: '詳細を見る'
-  - title: '深煎りコーヒー豆コーヒー「ブラウンゴールドセット」送料無料！'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00ppmo1.ve2q53a8.g00ppmo1.ve2q6f82/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhiroshimacoffee%2F458211%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhiroshimacoffee%2Fi%2F10000934%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/hiroshimacoffee/cabinet/2017/1bn167.jpg?_ex=600x600'
-    price: 6890
-    microCopy: '詳細を見る'
-mediaType: 'beans'
+mediaType: beans
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

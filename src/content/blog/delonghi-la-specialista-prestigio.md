@@ -1,23 +1,15 @@
 ---
-title: 'デロンギ ラ・スペシャリスタ・プレスティージオで。豆から香る、私の至福カフェ時間'
-description: '「自宅コーヒーの味が安定しない」「温度管理が面倒」そんな悩みに。デロンギ ラ・スペシャリスタ・プレスティージオは、豆から挽けるグラインダー付きで安定抽出を実現します。本格エスプレッソやカフェラテ、ラテアートも自宅で簡単に。その魅力を徹底解説。'
+title: デロンギ ラ・スペシャリスタ・プレスティージオで。豆から香る、私の至福カフェ時間
+description: 「自宅コーヒーの味が安定しない」「温度管理が面倒」そんな悩みに。デロンギ ラ・スペシャリスタ・プレスティージオは、豆から挽けるグラインダー付きで安定抽出を実現します。本格エスプレッソやカフェラテ、ラテアートも自宅で簡単に。その魅力を徹底解説。
 pubDate: '2026-07-09'
-heroImage: '/images/delonghi-la-specialista-prestigio.jpg'
-genre: 'エスプレッソ・マシン'
+heroImage: /images/delonghi-la-specialista-prestigio.jpg
+genre: エスプレッソ・マシン
 sidebarProducts:
   - title: 'デロンギ ラ スペシャリスタ'
     url: ''
     imageUrl: '/images/delonghi-la-specialista-prestigio.jpg'
     microCopy: '詳細を見る'
-  - title: 'デロンギ ラ・スペシャリスタ・アルテ グラインダー付き エスプレッソ・カプチーノメーカー [EC9155J-B] delonghi 公式 豆から挽く エスプレッソ カプチーノメーカー コーヒー豆 在宅勤務 テレワーク おうちカフェ エスプレッソマシン カフェラテ ラテアート お手入れ 簡単'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00t7tc1.ve2q5883.g00t7tc1.ve2q6e3b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdelonghi%2F0132126088%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdelonghi%2Fi%2F10002705%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/delonghi/cabinet/06618479/item/ec9155j/0132126088.jpg?_ex=600x600'
-    price: 128000
-  - title: '【15％OFF】デロンギ スティローザ エスプレッソ・カプチーノメーカー [EC235J-W] delonghi 公式 コーヒーメーカー エスプレッソ カプチーノ カフェラテ コーヒー豆 在宅勤務 テレワーク おうちカフェ エスプレッソマシン ラテアート 家庭用 コンパクト'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00t7tc1.ve2q5883.g00t7tc1.ve2q6e3b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdelonghi%2F0132104225%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdelonghi%2Fi%2F10002790%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/delonghi/cabinet/06618479/item/0132104225/imgrc0104164976.jpg?_ex=600x600'
-    price: 19380
-mediaType: 'machine'
+mediaType: machine
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

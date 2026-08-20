@@ -1,25 +1,15 @@
 ---
-title: 'ポーレックス コーヒーミル・プロ本音レビュー。粒度の安定でコーヒーの味が劇変'
-description: '自宅コーヒーの味が安定しない？ポーレックス コーヒーミル・プロフェッショナルが、手動手挽きミルのイメージを覆します。プロ仕様の粒度均一性で、いつでも狙い通りの安定した味を実現。高価格(4万円)でも選ばれる理由、アウトドアでの携帯性も解説。'
+title: ポーレックス コーヒーミル・プロ本音レビュー。粒度の安定でコーヒーの味が劇変
+description: 自宅コーヒーの味が安定しない？ポーレックス コーヒーミル・プロフェッショナルが、手動手挽きミルのイメージを覆します。プロ仕様の粒度均一性で、いつでも狙い通りの安定した味を実現。高価格(4万円)でも選ばれる理由、アウトドアでの携帯性も解説。
 pubDate: '2026-07-17'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f462187-kirishima/cabinet/nt01/k-199_nt.jpg?_ex=600x600'
-genre: 'ミル・グラインダー'
+heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/f462187-kirishima/cabinet/nt01/k-199_nt.jpg?_ex=600x600
+genre: ミル・グラインダー
 sidebarProducts:
   - title: 'ポーレックス コーヒーミル プロ'
     url: ''
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f462187-kirishima/cabinet/nt01/k-199_nt.jpg?_ex=600x600'
     microCopy: '詳細を見る'
-  - title: '【挽きたて1杯で上質な時間を】 電動コーヒーミル コードレス 臼式 コニカル式 電動 コーヒーミル 電動 コーヒーグラインダー USB 充電式 水洗い可能 Coffee grinder コーヒー 電動ミル 珈琲ミル 小型 コンパクト 【エスプレッソ対応/39段階粒度調整/1年保証】'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00s9pt1.ve2q54eb.g00s9pt1.ve2q6157/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Friccado%2F1014%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Friccado%2Fi%2F10000389%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/riccado/cabinet/cg430/cg400_th_flag2.jpg?_ex=600x600'
-    price: 3980
-    microCopy: '詳細を見る'
-  - title: '【ふるさと納税】ステンレスコーヒーミル [グランデ] オールステンレス セラミック刃 手動 手挽き コンパクト 珈琲ミル 登山 調理器具 キャンプ用品 アウトドア用品 ソロキャンプ 燕三条製 大容量コーヒーミル アウトドアコーヒーミル キャンプコーヒーミル 【015S062】'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00thr51.ve2q5bd7.g00thr51.ve2q62e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff152048-sanjo%2F015s062%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff152048-sanjo%2Fi%2F10001941%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f152048-sanjo/cabinet/sanjof/10000_3/imgrc0101036774.jpg?_ex=600x600'
-    price: 15000
-    microCopy: '詳細を見る'
-mediaType: 'grinder'
+mediaType: grinder
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

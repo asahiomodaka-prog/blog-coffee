@@ -1,23 +1,15 @@
 ---
-title: 'EPEIOS 電気ケトルで淹れる一杯。香りが日常を彩る、自宅の至福コーヒー術'
-description: '自宅コーヒーの味が安定しない、温度管理が面倒と感じていませんか？EPEIOS 電気ケトル（14,960円）がプロの技を再現。細やかな温度設定と注ぎやすい構造で、誰でもブレない美味しい一杯を自宅で手軽に。'
+title: EPEIOS 電気ケトルで淹れる一杯。香りが日常を彩る、自宅の至福コーヒー術
+description: 自宅コーヒーの味が安定しない、温度管理が面倒と感じていませんか？EPEIOS 電気ケトル（14,960円）がプロの技を再現。細やかな温度設定と注ぎやすい構造で、誰でもブレない美味しい一杯を自宅で手軽に。
 pubDate: '2026-07-13'
-heroImage: '/images/epeios-electric-kettle-home-coffee.jpg'
-genre: 'ケトル・ポット'
+heroImage: /images/epeios-electric-kettle-home-coffee.jpg
+genre: ケトル・ポット
 sidebarProducts:
   - title: 'EPEIOS'
     url: ''
     imageUrl: '/images/epeios-electric-kettle-home-coffee.jpg'
     microCopy: '詳細を見る'
-  - title: '「15%OFFクーポン付き」電気ケトル EPEIOS エペイオス【高評価4.68】コーヒーケトル 0.9L｜1℃単位温度調節＆保温機能付き 細口 ステンレス製 ドリップケトル 空焚き防止 おしゃれデザイン 湯沸かし やかん 電気ポット（Lite）'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00tqke1.ve2q53d8.g00tqke1.ve2q6270/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmpowjapan%2Fcp004agjp1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmpowjapan%2Fi%2F10000907%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/mpowjapan/cabinet/cp004/sp/cp004.jpg?_ex=600x600'
-    price: 8980
-  - title: '【1等最大100％ポイントバックキャンペーン】 珈琲考具 『 ドリップポット 』 コーヒードリップポット コーヒー ケトル ITTEKI 日本製 ドリップ ドリッパー ポット ステンレス スタイリッシュ コーヒーポット コーヒー器具 おしゃれ ih 対応 細口 ギフト プレゼント 贈り物'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00t7ao1.ve2q5bd3.g00t7ao1.ve2q6e3a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsimomura-kihan%2F40437%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsimomura-kihan%2Fi%2F10000504%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/simomura-kihan/cabinet/06439098/imgrc0082959276.jpg?_ex=600x600'
-    price: 6050
-mediaType: 'kettle'
+mediaType: kettle
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

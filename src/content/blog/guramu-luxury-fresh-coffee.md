@@ -1,23 +1,15 @@
 ---
-title: 'GURAMUで毎日淹れたてを味わう贅沢。香りとコクが私のコーヒー生活を豊かにする理由'
-description: '自宅コーヒーの味に満足できない方へ。GURAMUコーヒー豆が淹れ方や味のブレを解消し、豆本来の香り・コクを引き出します。やや深煎り寄りのシティローストで、毎日安定した美味しい一杯を。楽天で5998円。'
+title: GURAMUで毎日淹れたてを味わう贅沢。香りとコクが私のコーヒー生活を豊かにする理由
+description: 自宅コーヒーの味に満足できない方へ。GURAMUコーヒー豆が淹れ方や味のブレを解消し、豆本来の香り・コクを引き出します。やや深煎り寄りのシティローストで、毎日安定した美味しい一杯を。楽天で5998円。
 pubDate: '2026-07-05'
-heroImage: '/images/guramu-luxury-fresh-coffee.jpg'
-genre: 'コーヒー豆・粉'
+heroImage: /images/guramu-luxury-fresh-coffee.jpg
+genre: コーヒー豆・粉
 sidebarProducts:
   - title: 'GURAMUで毎日淹れたてを味わう贅沢。香り'
     url: ''
     imageUrl: '/images/guramu-luxury-fresh-coffee.jpg'
     microCopy: '詳細を見る'
-  - title: '「15%OFFクーポン付き」電気ケトル EPEIOS エペイオス【高評価4.68】コーヒーケトル 0.9L｜1℃単位温度調節＆保温機能付き 細口 ステンレス製 ドリップケトル 空焚き防止 おしゃれデザイン 湯沸かし やかん 電気ポット（Lite）'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00tqke1.ve2q53d8.g00tqke1.ve2q6270/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmpowjapan%2Fcp004agjp1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmpowjapan%2Fi%2F10000907%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/mpowjapan/cabinet/cp004/sp/cp004.jpg?_ex=600x600'
-    price: 8980
-  - title: '【1等最大100％ポイントバックキャンペーン】 珈琲考具 『 ドリップポット 』 コーヒードリップポット コーヒー ケトル ITTEKI 日本製 ドリップ ドリッパー ポット ステンレス スタイリッシュ コーヒーポット コーヒー器具 おしゃれ ih 対応 細口 ギフト プレゼント 贈り物'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00t7ao1.ve2q5bd3.g00t7ao1.ve2q6e3a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsimomura-kihan%2F40437%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsimomura-kihan%2Fi%2F10000504%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/simomura-kihan/cabinet/06439098/imgrc0082959276.jpg?_ex=600x600'
-    price: 6050
-mediaType: 'beans'
+mediaType: beans
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

@@ -1,25 +1,15 @@
 ---
-title: 'ステンレスコーヒーミルは本当に買い？手挽きなのに味が安定する理由を検証！'
-description: '燕三条製の「ステンレスコーヒーミル」は、オールステンレスとセラミック刃で均一な粉が挽け、手動ならではの深い香りが楽しめます。15,000円で楽天市場にて購入可能。アウトドアにも最適です。'
+title: ステンレスコーヒーミルは本当に買い？手挽きなのに味が安定する理由を検証！
+description: 燕三条製の「ステンレスコーヒーミル」は、オールステンレスとセラミック刃で均一な粉が挽け、手動ならではの深い香りが楽しめます。15,000円で楽天市場にて購入可能。アウトドアにも最適です。
 pubDate: '2026-07-31'
-heroImage: '/images/stainless-coffee-mill-ceramic-manual.jpg'
-genre: 'ミル・グラインダー'
+heroImage: /images/stainless-coffee-mill-ceramic-manual.jpg
+genre: ミル・グラインダー
 sidebarProducts:
   - title: 'ステンレスコーヒーミルは本当に買い'
     url: ''
     imageUrl: '/images/stainless-coffee-mill-ceramic-manual.jpg'
     microCopy: '詳細を見る'
-  - title: '【ふるさと納税】＜選べるサイズ＞ポーレックス コーヒーミル・プロフェッショナル(トール・ミニ) コーヒーミル 手動 手挽きミル アウトドア 携帯 コーヒー豆挽き 珈琲ミル 正規品 日本 Japan Porlex【ジャパンポーレックス】'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00t3qr1.ve2q5358.g00t3qr1.ve2q658e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff462187-kirishima%2Fk-199%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff462187-kirishima%2Fi%2F10001452%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f462187-kirishima/cabinet/nt01/k-199_nt.jpg?_ex=600x600'
-    price: 40000
-    microCopy: '詳細を見る'
-  - title: 'カリタ 電動コーヒーミル グラインダー ナイスカットG インディアンレッド/プレミアムブラウン'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00t81x1.ve2q5d6d.g00t81x1.ve2q6fb3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsuperdeal%2F12699kalitanicecutg2305%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsuperdeal%2Fi%2F10003088%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/superdeal/cabinet/09061004/09905634/4901369611196-01.jpg?_ex=600x600'
-    price: 36980
-    microCopy: '詳細を見る'
-mediaType: 'grinder'
+mediaType: grinder
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

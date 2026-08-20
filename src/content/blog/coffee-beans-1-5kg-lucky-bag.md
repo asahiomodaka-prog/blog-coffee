@@ -1,25 +1,15 @@
 ---
-title: 'コーヒー豆1.5kg福袋で味が劇的に変わる！好みの豆で淹れる喜び本音レビュー'
-description: '厳選14種から選べる！楽天のコーヒー豆1.5kg福袋（5238円）。アイスコーヒー向け含む多彩な豆の中から、あなただけのベスト3（各500g）をお届け。好みの味わいを自宅で毎日楽しめます。'
+title: コーヒー豆1.5kg福袋で味が劇的に変わる！好みの豆で淹れる喜び本音レビュー
+description: 厳選14種から選べる！楽天のコーヒー豆1.5kg福袋（5238円）。アイスコーヒー向け含む多彩な豆の中から、あなただけのベスト3（各500g）をお届け。好みの味わいを自宅で毎日楽しめます。
 pubDate: '2026-08-02'
-heroImage: '/images/coffee-beans-1-5kg-lucky-bag.jpg'
-genre: 'コーヒー豆・粉'
+heroImage: /images/coffee-beans-1-5kg-lucky-bag.jpg
+genre: コーヒー豆・粉
 sidebarProducts:
   - title: 'コーヒー豆1 5kg福袋で味が劇的に変わる'
     url: ''
     imageUrl: '/images/coffee-beans-1-5kg-lucky-bag.jpg'
     microCopy: '詳細を見る'
-  - title: 'スペシャルティコーヒーを識るセット 【300g×4パック】 1.2kg【送料込み】【木曜焙煎】コーヒー豆 コーヒー 珈琲豆 珈琲 スペシャルティ 自家焙煎'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00pnko1.ve2q5bb9.g00pnko1.ve2q6d8a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeeyasan%2F3500111500ss00%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeeyasan%2Fi%2F10013340%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/coffeeyasan/cabinet/b/09467470/shiru-new2309.jpg?_ex=600x600'
-    price: 4860
-    microCopy: '詳細を見る'
-  - title: '【ふるさと納税】ローストマスター 焙煎 おすすめ 厳選 世界の スペシャルティ コーヒー 3種類 詰め合わせ【内容量選択：100g×3袋《計300g》 or 250g×3袋《計750g》】【挽き方をお選びいただけます】珈琲豆 挽き方 豆 粗挽き 中挽き 細挽き エスプレッソ 自家焙煎'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00syvx1.ve2q56bb.g00syvx1.ve2q69ad/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff232271-takahama%2F135-sugiko-hi%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff232271-takahama%2Fi%2F10000079%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f232271-takahama/cabinet/imgrc0122484129.jpg?_ex=600x600'
-    price: 12000
-    microCopy: '詳細を見る'
-mediaType: 'beans'
+mediaType: beans
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

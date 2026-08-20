@@ -1,25 +1,15 @@
 ---
-title: 'プレミアム高級コーヒー豆16種飲み比べ。香りとコクのブレンド技術を徹底解説'
-description: '楽天で人気の自家焙煎コーヒー豆「当店1番人気 希少高級豆ブレンド」。日々の焙煎で生まれる多様な豆をブレンドするため、毎回異なる味を楽しめます。価格は5893円で1kgの大容量、送料無料。カリタ・コーノドリッパー推奨です。'
+title: プレミアム高級コーヒー豆16種飲み比べ。香りとコクのブレンド技術を徹底解説
+description: 楽天で人気の自家焙煎コーヒー豆「当店1番人気 希少高級豆ブレンド」。日々の焙煎で生まれる多様な豆をブレンドするため、毎回異なる味を楽しめます。価格は5893円で1kgの大容量、送料無料。カリタ・コーノドリッパー推奨です。
 pubDate: '2026-07-23'
-heroImage: '/images/our-bestselling-premium-coffee-beans.jpg'
-genre: 'コーヒー豆・粉'
+heroImage: /images/our-bestselling-premium-coffee-beans.jpg
+genre: コーヒー豆・粉
 sidebarProducts:
   - title: 'プレミアム高級コーヒー豆16種飲み比べ。香り'
     url: ''
     imageUrl: '/images/our-bestselling-premium-coffee-beans.jpg'
     microCopy: '詳細を見る'
-  - title: '送料無料　コーヒー豆 　粉 2kg しゃちブレンド・プレミアムブレンド 珈琲2kg入セット 鯱×4 珈琲豆 粉 ギフト 加藤珈琲　深いコク　ふくよか　高リピート率'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00pl5f1.ve2q5fd0.g00pl5f1.ve2q6f99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F0403-20s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10004120%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/0400/0403-20r.jpg?_ex=600x600'
-    price: 5999
-    microCopy: '詳細を見る'
-  - title: '＼最安値挑戦★2kgで3,999円／コーヒー 珈琲 コーヒー豆 コーヒー粉 豆のまま 1kg 2kg リッチブレンド 珈琲豆 大容量 ベトナムコーヒー 送料無料 GURAMU'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00uq011.ve2q5db8.g00uq011.ve2q68c9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkkonlinestore%2Fcafe07%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkkonlinestore%2Fi%2F10000001%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/kkonlinestore/cabinet/upload/12930034/567-3999.jpg?_ex=600x600'
-    price: 1480
-    microCopy: '詳細を見る'
-mediaType: 'beans'
+mediaType: beans
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

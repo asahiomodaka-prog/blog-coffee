@@ -1,25 +1,15 @@
 ---
-title: '2kg最安値コーヒー豆の正直レビュー！味のブレ・鮮度はどう？'
-description: '楽天年間受賞！2kgで3,980円のコーヒー豆。1杯約26円で楽しめる、苦味とコクが際立つフレンチローストの深煎り。コスパ重視の普段飲みに最適。豆・粉を選べます。'
+title: 2kg最安値コーヒー豆の正直レビュー！味のブレ・鮮度はどう？
+description: 楽天年間受賞！2kgで3,980円のコーヒー豆。1杯約26円で楽しめる、苦味とコクが際立つフレンチローストの深煎り。コスパ重視の普段飲みに最適。豆・粉を選べます。
 pubDate: '2026-08-13'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/dripcoffee/cabinet/it01/4571621611730_a.jpg?_ex=600x600'
-genre: 'コーヒー豆・粉'
+heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/dripcoffee/cabinet/it01/4571621611730_a.jpg?_ex=600x600
+genre: コーヒー豆・粉
 sidebarProducts:
   - title: '2kg最安値コーヒー豆の正直レビュー'
     url: ''
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/dripcoffee/cabinet/it01/4571621611730_a.jpg?_ex=600x600'
     microCopy: '詳細を見る'
-  - title: '【ふるさと納税】加藤珈琲店 しゃちブレンド 2種飲み比べ コーヒー 豆のまま 1kg/2kg | 愛知県 名古屋市 楽天ふるさと納税 返礼品 お礼の品 コーヒー 珈琲 おいしいコーヒー 飲み比べ 飲み比べセット 詰め合わせセット セット 美味しい'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00u3241.ve2q5392.g00u3241.ve2q6545/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff231002-nagoya%2Fca001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff231002-nagoya%2Fi%2F10000410%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f231002-nagoya/cabinet/frp_goods/frp036/24058954.jpg?_ex=600x600'
-    price: 9000
-    microCopy: '詳細を見る'
-  - title: '【ふるさと納税】コーヒー 豆　豆のまま 淡路島アソートセット 3種 2kg（500g×計4袋） 飲み比べ　ドリップコーヒーファクトリー'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00t6ir1.ve2q57f9.g00t6ir1.ve2q6fcb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff282260-awaji%2Fat14003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff282260-awaji%2Fi%2F10001544%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f282260-awaji/cabinet/kakou2/at14003s01.jpg?_ex=600x600'
-    price: 15000
-    microCopy: '詳細を見る'
-mediaType: 'beans'
+mediaType: beans
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

@@ -1,22 +1,15 @@
 ---
-title: '加藤珈琲店 しゃちブレンド2種。豆のまま挽く悦び、違いを楽しむ大人の珈琲時間'
-description: '加藤珈琲店「しゃちブレンド2種」飲み比べを本音レビュー。豆のまま挽く鮮度と奥深い香りの違いを徹底解説します。自宅で好みの味を見つけ、楽天で買える人気ブレンドで毎日の珈琲時間を充実させましょう。'
+title: 加藤珈琲店 しゃちブレンド2種。豆のまま挽く悦び、違いを楽しむ大人の珈琲時間
+description: 加藤珈琲店「しゃちブレンド2種」飲み比べを本音レビュー。豆のまま挽く鮮度と奥深い香りの違いを徹底解説します。自宅で好みの味を見つけ、楽天で買える人気ブレンドで毎日の珈琲時間を充実させましょう。
 pubDate: '2026-07-06'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f231002-nagoya/cabinet/frp_goods/frp036/24058954.jpg?_ex=600x600'
-genre: 'coffee'
+heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/f231002-nagoya/cabinet/frp_goods/frp036/24058954.jpg?_ex=600x600
+genre: coffee
 sidebarProducts:
   - title: '加藤珈琲店'
     url: ''
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f231002-nagoya/cabinet/frp_goods/frp036/24058954.jpg?_ex=600x600'
     microCopy: '詳細を見る'
-  - title: 'コーヒー豆 深煎り お試し 福袋 おすすめ 飲み比べセット タンザニア（キリマンジャロ）80g プレミアムブレンド信長( マンデリン グアテマラ コロンビア ブラジル )80g コロンビア120g(計280g) 深煎りコーヒー メール便 コーヒー福袋 コーヒー粉 お得 クリスマス'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-prom-d_e%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000143%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/fuku/imgrc0116107610.jpg?_ex=600x600'
-    price: 3980
-  - title: 'コーヒー豆 深煎り お試し 1000円ポッキリ 送料無料 おすすめ 飲み比べ 福袋 グアテマラ 60g マンデリン ブレンド 信長 80g メール便 深煎りコーヒー豆 深入り アラビカ豆 コヒー豆 ポイント消化 ポッキリ1000円 コーヒー福袋 コーヒー粉 こーひー豆 花以外 お中元人気'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-prom-mharu12%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000214%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/fuku/imgrc0128685941.jpg?_ex=600x600'
-    price: 1000
+mediaType: comic
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

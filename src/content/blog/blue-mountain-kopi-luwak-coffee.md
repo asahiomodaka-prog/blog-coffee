@@ -1,25 +1,15 @@
 ---
-title: '「ブルーマウンテン＆コピ・ルアク」をどう活かす？正直な感想と淹れ方'
-description: '「木箱入 ブルーマウンテン ＆ コピ・ルアク」は、ジャマイカとインドネシアの希少な高級コーヒー生豆100gセット。自宅で最高峰の味を体験したい方や、大切な方への特別な贈り物に最適です。楽天で12,800円。'
+title: 「ブルーマウンテン＆コピ・ルアク」をどう活かす？正直な感想と淹れ方
+description: 「木箱入 ブルーマウンテン ＆ コピ・ルアク」は、ジャマイカとインドネシアの希少な高級コーヒー生豆100gセット。自宅で最高峰の味を体験したい方や、大切な方への特別な贈り物に最適です。楽天で12,800円。
 pubDate: '2026-08-11'
-heroImage: '/images/blue-mountain-kopi-luwak-coffee.jpg'
-genre: 'コーヒー豆・粉'
+heroImage: /images/blue-mountain-kopi-luwak-coffee.jpg
+genre: コーヒー豆・粉
 sidebarProducts:
   - title: '「ブルーマウンテン＆コピ・ルアク」を'
     url: ''
     imageUrl: '/images/blue-mountain-kopi-luwak-coffee.jpg'
     microCopy: '詳細を見る'
-  - title: 'Nスタで紹介 コーヒー豆 雪の下熟成珈琲 ギフト 珈琲豆 コーヒー 粉雪・綿雪 ブラジル インドネシア 100g×2 200g 熟成珈琲 コーヒー好きが喜ぶ コーヒーギフト コーヒー 好きな人へのプレゼント おしゃれ 高級コーヒー豆 飲み比べ セット 焙煎したて 中挽き 豆のまま'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00qpk51.ve2q5d69.g00qpk51.ve2q6723/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkomi-coffee%2Fyukibeensgift400%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkomi-coffee%2Fi%2F10000663%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/komi-coffee/cabinet/03865770/imgrc0115435796.jpg?_ex=600x600'
-    price: 3456
-    microCopy: '詳細を見る'
-  - title: '最高級コーヒー豆「贅沢2缶セット」ブルーマウンテン＆ハワイコナ【広島】【ギフト】【楽ギフ_のし】【楽ギフ_のし宛書】'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00ppmo1.ve2q53a8.g00ppmo1.ve2q6f82/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhiroshimacoffee%2F448071%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhiroshimacoffee%2Fi%2F10000931%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/hiroshimacoffee/cabinet/2015mm/1bn80.jpg?_ex=600x600'
-    price: 10800
-    microCopy: '詳細を見る'
-mediaType: 'beans'
+mediaType: beans
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

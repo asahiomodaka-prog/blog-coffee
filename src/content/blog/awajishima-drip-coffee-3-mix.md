@@ -1,23 +1,15 @@
 ---
-title: 'ドリップコーヒーファクトリー淡路島アソート！3種飲み比べが叶える我が家の贅沢カフェ時間'
-description: '自宅で本格ドリップコーヒーを手軽に楽しむなら。ドリップコーヒーファクトリー淡路島アソート3種飲み比べで、豊かな風味を発見。楽天で15000円、あなた好みの一杯を見つける贅沢なコーヒータイムを。毎日ブレない味が叶います。'
+title: ドリップコーヒーファクトリー淡路島アソート！3種飲み比べが叶える我が家の贅沢カフェ時間
+description: 自宅で本格ドリップコーヒーを手軽に楽しむなら。ドリップコーヒーファクトリー淡路島アソート3種飲み比べで、豊かな風味を発見。楽天で15000円、あなた好みの一杯を見つける贅沢なコーヒータイムを。毎日ブレない味が叶います。
 pubDate: '2026-07-06'
-heroImage: '/images/awajishima-drip-coffee-3-mix.jpg'
-genre: 'コーヒー豆・粉'
+heroImage: /images/awajishima-drip-coffee-3-mix.jpg
+genre: コーヒー豆・粉
 sidebarProducts:
   - title: 'ドリップコーヒーファクトリー淡路島アソート'
     url: ''
     imageUrl: '/images/awajishima-drip-coffee-3-mix.jpg'
     microCopy: '詳細を見る'
-  - title: '★テレビで話題★＼楽天1位／コーヒードリッパー コーヒーフィルター ステンレス製 メッシュ二重構造フィルター ペーパーレス ステンレスフィルター くり返し使える おしゃれ ハンドドリップ 道具 ドリッパー フィルター不要 キャンプ アウトドア'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00tsoq1.ve2q5b75.g00tsoq1.ve2q61cb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flonglife-global%2Fcd21761%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flonglife-global%2Fi%2F10000009%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/longlife-global/cabinet/08208996/08211510/imgrc0113115449.jpg?_ex=600x600'
-    price: 1980
-  - title: '【Kalita】コーヒードリッパー ロト 日本製 カリタ 陶器 コーヒー ドリップ おしゃれ セラミック 101 102 1人 2人 3人 4人 1杯 2杯 3杯 4杯 ブラウン キッチン ダイニング ブラウン プレゼント ギフト インテリア カフェ 新生活 ハンドドリップ おすすめ'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00u0011.ve2q5ff5.g00u0011.ve2q656e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocopla%2F101-cxy0120e0001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocopla%2Fi%2F10001024%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/cocopla/cabinet/item/005/cxy0120e0001_a001.jpg?_ex=600x600'
-    price: 1690
-mediaType: 'beans'
+mediaType: beans
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

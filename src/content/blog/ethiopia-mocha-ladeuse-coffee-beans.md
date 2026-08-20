@@ -1,25 +1,15 @@
 ---
-title: 'エチオピアモカ・ラデュースで、いつものコーヒーが劇的変化！味のブレなし淹れ方レビュー'
-description: '加藤珈琲店「エチオピアモカ・ラデュース500g×3袋セット」は、モカ特有のフルーティーで上品な香りが特徴。中煎りで豆本来の甘みを味わえ、豊かな香りと深い味わいが好評です。業務用1.5kgが4698円と高コスパで、毎日のコーヒーにおすすめ。'
+title: エチオピアモカ・ラデュースで、いつものコーヒーが劇的変化！味のブレなし淹れ方レビュー
+description: 加藤珈琲店「エチオピアモカ・ラデュース500g×3袋セット」は、モカ特有のフルーティーで上品な香りが特徴。中煎りで豆本来の甘みを味わえ、豊かな香りと深い味わいが好評です。業務用1.5kgが4698円と高コスパで、毎日のコーヒーにおすすめ。
 pubDate: '2026-07-27'
-heroImage: '/images/ethiopia-mocha-ladeuse-coffee-beans.jpg'
-genre: 'コーヒー豆・粉'
+heroImage: /images/ethiopia-mocha-ladeuse-coffee-beans.jpg
+genre: コーヒー豆・粉
 sidebarProducts:
   - title: 'エチオピアモカ'
     url: ''
     imageUrl: '/images/ethiopia-mocha-ladeuse-coffee-beans.jpg'
     microCopy: '詳細を見る'
-  - title: 'スウィートモカ500g×3袋セット(スウィート×3）/珈琲豆'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00pl5f1.ve2q5fd0.g00pl5f1.ve2q6f99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F0647-15%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10008463%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/0600/0647-15r.jpg?_ex=600x600'
-    price: 4698
-    microCopy: '詳細を見る'
-  - title: '【ふるさと納税】吸着分割ペットと人の共生用カーペット2.56平方メートル（40×40cm　16枚セット）＜モカ＞[ カーペット 正方形 マット 洗える ズレない 撥水 防汚 消臭 防音 床暖房対応 犬 猫 リビング 動物 ] インテリア'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00tyzj1.ve2q5e55.g00tyzj1.ve2q6fb1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff282073-itami%2F52750078%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff282073-itami%2Fi%2F10000069%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f282073-itami/cabinet/d_202104/52750078_01_web_s.jpg?_ex=600x600'
-    price: 40000
-    microCopy: '詳細を見る'
-mediaType: 'beans'
+mediaType: beans
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

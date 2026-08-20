@@ -1,25 +1,15 @@
 ---
-title: 'HARIO 雫 SBS-5Bで激変！水出しコーヒーの味が決まる秘密と本音レビュー'
-description: 'HARIO「スロードリップブリューワーハリオ 雫」[SBS-5B]は、約1時間で本格水出しコーヒーが楽しめる点滴式器具。スピード調整不要で、雑味の少ないまろやかな味わいを手軽に堪能できます。水出し緑茶にも対応。'
+title: HARIO 雫 SBS-5Bで激変！水出しコーヒーの味が決まる秘密と本音レビュー
+description: HARIO「スロードリップブリューワーハリオ 雫」[SBS-5B]は、約1時間で本格水出しコーヒーが楽しめる点滴式器具。スピード調整不要で、雑味の少ないまろやかな味わいを手軽に堪能できます。水出し緑茶にも対応。
 pubDate: '2026-07-30'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f082040-koga/cabinet/i3/5701-43016-01.jpg?_ex=600x600'
-genre: 'ドリッパー・器具'
+heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/f082040-koga/cabinet/i3/5701-43016-01.jpg?_ex=600x600
+genre: ドリッパー・器具
 sidebarProducts:
   - title: 'HARIO 雫 SBS-5Bで激変'
     url: ''
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f082040-koga/cabinet/i3/5701-43016-01.jpg?_ex=600x600'
     microCopy: '詳細を見る'
-  - title: '【ふるさと納税】 珈琲考具 割れにくいフレンチプレス【 ギフト コーヒープレス フレンチプレスコーヒーメーカー コーヒーメーカーおしゃれ ポット コーヒー コーヒー器具 道具 キャンプ アウトドア バリスタ 下村企販 新潟県 燕市 燕三条 】'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00u4bj1.ve2q5131.g00u4bj1.ve2q6a6e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff152137-tsubame%2F10002610%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff152137-tsubame%2Fi%2F10002439%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f152137-tsubame/cabinet/henreihin4/10002610_m.jpg?_ex=600x600'
-    price: 10000
-    microCopy: '詳細を見る'
-  - title: '【ふるさと納税】コーヒーマートオンラインストアで使えるクーポン　3000円分 | コーヒーマート クーポン 珈琲 飲料 コーヒー豆　自家焙煎 コーヒー コーヒー器具 人気 おすすめ 送料無料'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00sbxq1.ve2q5b8e.g00sbxq1.ve2q6469/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff172014-kanazawa%2Fhl006%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff172014-kanazawa%2Fi%2F10002710%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f172014-kanazawa/cabinet/frp_goods/frp003/17180297.jpg?_ex=600x600'
-    price: 10000
-    microCopy: '詳細を見る'
-mediaType: 'dripper'
+mediaType: dripper
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

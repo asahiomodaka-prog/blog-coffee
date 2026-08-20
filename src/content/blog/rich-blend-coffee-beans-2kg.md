@@ -1,25 +1,15 @@
 ---
-title: 'IGURAMUリッチブレンド2kg本音レビュー。日常使いのコスパとコクを徹底検証'
-description: '楽天モバイル感謝祭で2kg3,999円！GURAMUリッチブレンドは、芳醇な香りと甘み・コク、心地よいほろ苦さが特徴のベトナムコーヒー。豆のまま・中細挽きを選べ、カフェオレにも最適です。大容量で毎日惜しみなく楽しめます。'
+title: IGURAMUリッチブレンド2kg本音レビュー。日常使いのコスパとコクを徹底検証
+description: 楽天モバイル感謝祭で2kg3,999円！GURAMUリッチブレンドは、芳醇な香りと甘み・コク、心地よいほろ苦さが特徴のベトナムコーヒー。豆のまま・中細挽きを選べ、カフェオレにも最適です。大容量で毎日惜しみなく楽しめます。
 pubDate: '2026-07-21'
-heroImage: '/images/rich-blend-coffee-beans-2kg.jpg'
-genre: 'コーヒー豆・粉'
+heroImage: /images/rich-blend-coffee-beans-2kg.jpg
+genre: コーヒー豆・粉
 sidebarProducts:
   - title: 'IGURAMUリッチブレンド2kg'
     url: ''
     imageUrl: '/images/rich-blend-coffee-beans-2kg.jpg'
     microCopy: '詳細を見る'
-  - title: '送料無料　コーヒー豆 　粉 2kg しゃちブレンド・プレミアムブレンド 珈琲2kg入セット 鯱×4 珈琲豆 粉 ギフト 加藤珈琲　深いコク　ふくよか　高リピート率'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00pl5f1.ve2q5fd0.g00pl5f1.ve2q6f99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F0403-20s%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10004120%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/0400/0403-20r.jpg?_ex=600x600'
-    price: 5999
-    microCopy: '詳細を見る'
-  - title: '【店内全品ポイント5倍中】(要エントリー)(〜26日1:59)コーヒー豆 コーヒー 豆 粉 2kg ゴールド ブレンド プレミアムシリーズ ( 500g × 4袋 ) 中深煎り コーヒー粉 珈琲 珈琲豆 送料無料 ドリップコーヒーファクトリー'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00tbho1.ve2q5bdd.g00tbho1.ve2q671b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdripcoffee%2Fgold-500-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdripcoffee%2Fi%2F10000184%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/dripcoffee/cabinet/it01/limited/rc_premium/0400003300020_ne50p.jpg?_ex=600x600'
-    price: 5500
-    microCopy: '詳細を見る'
-mediaType: 'beans'
+mediaType: beans
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

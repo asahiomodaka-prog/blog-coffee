@@ -1,25 +1,15 @@
 ---
-title: 'ガイアの夜明けで話題！自家焙煎スペシャルティコーヒー定期便、お湯の温度で味ブレ解決！'
-description: 'ガイアの夜明けで紹介されたスペシャルティコーヒーの定期便。富士山の湧き水で自家焙煎した豆・粉400gを2〜12ヶ月お届け。ブルマンやハワイコナなど、世界トップクラスの希少な味わいを毎月堪能できます。'
+title: ガイアの夜明けで話題！自家焙煎スペシャルティコーヒー定期便、お湯の温度で味ブレ解決！
+description: ガイアの夜明けで紹介されたスペシャルティコーヒーの定期便。富士山の湧き水で自家焙煎した豆・粉400gを2〜12ヶ月お届け。ブルマンやハワイコナなど、世界トップクラスの希少な味わいを毎月堪能できます。
 pubDate: '2026-07-21'
-heroImage: '/images/specialty-coffee-subscription.jpg'
-genre: 'コーヒー豆・粉'
+heroImage: /images/specialty-coffee-subscription.jpg
+genre: コーヒー豆・粉
 sidebarProducts:
   - title: 'ガイアの夜明けで話題'
     url: ''
     imageUrl: '/images/specialty-coffee-subscription.jpg'
     microCopy: '詳細を見る'
-  - title: '【ふるさと納税】コーヒー 豆　豆のまま 淡路島アソートセット 3種 2kg（500g×計4袋） 飲み比べ　ドリップコーヒーファクトリー'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00t6ir1.ve2q57f9.g00t6ir1.ve2q6fcb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff282260-awaji%2Fat14003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff282260-awaji%2Fi%2F10001544%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f282260-awaji/cabinet/kakou2/at14003s01.jpg?_ex=600x600'
-    price: 15000
-    microCopy: '詳細を見る'
-  - title: '【店内全品ポイント5倍中】(要エントリー)(〜26日1:59)コーヒー豆 コーヒー 豆 粉 2kg ゴールド ブレンド プレミアムシリーズ ( 500g × 4袋 ) 中深煎り コーヒー粉 珈琲 珈琲豆 送料無料 ドリップコーヒーファクトリー'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00tbho1.ve2q5bdd.g00tbho1.ve2q671b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdripcoffee%2Fgold-500-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdripcoffee%2Fi%2F10000184%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/dripcoffee/cabinet/it01/limited/rc_premium/0400003300020_ne50p.jpg?_ex=600x600'
-    price: 5500
-    microCopy: '詳細を見る'
-mediaType: 'beans'
+mediaType: beans
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

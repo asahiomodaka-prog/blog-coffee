@@ -1,23 +1,15 @@
 ---
-title: '波佐見焼COFILで深める、コーヒーの愉しみ。ペーパーレスが叶える至福の味覚体験'
-description: '波佐見焼COFILセラミックドリッパーで、自宅コーヒーの味が安定！ペーパーレスで豆本来の旨味やコーヒーオイルを最大限に引き出し、ワンランク上の味わいを手軽に。お湯の温度管理に悩むことなく、いつもの一杯が格段に美味しくなります。楽天で4620円。'
+title: 波佐見焼COFILで深める、コーヒーの愉しみ。ペーパーレスが叶える至福の味覚体験
+description: 波佐見焼COFILセラミックドリッパーで、自宅コーヒーの味が安定！ペーパーレスで豆本来の旨味やコーヒーオイルを最大限に引き出し、ワンランク上の味わいを手軽に。お湯の温度管理に悩むことなく、いつもの一杯が格段に美味しくなります。楽天で4620円。
 pubDate: '2026-07-09'
-heroImage: '/images/cofil-paperless-coffee.jpg'
-genre: 'ドリッパー・器具'
+heroImage: /images/cofil-paperless-coffee.jpg
+genre: ドリッパー・器具
 sidebarProducts:
   - title: '波佐見焼COFIL'
     url: ''
     imageUrl: '/images/cofil-paperless-coffee.jpg'
     microCopy: '詳細を見る'
-  - title: '【ふるさと納税】HARIO V60 ガラスのコーヒードリッパーセット「V60 Glass Brewing Kit」［S-VGBK-02-T］｜ハリオ 耐熱 ガラス 日用品 キッチン用品 日本製 おしゃれ かわいい ギフト プレゼント お祝 ご褒美 _BE29'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00s6nv1.ve2q5786.g00s6nv1.ve2q6d3f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff082040-koga%2F5701-30034959%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff082040-koga%2Fi%2F10000731%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f082040-koga/cabinet/hario/5701-30034959-01.jpg?_ex=600x600'
-    price: 10000
-  - title: '【レビュー特典＆おまけ付き】キントー ブリューワースタンドセット SCS-S02 4杯用 27591 スタンド本体・ドリッパー・メッシュフィルター・ドリッパースタンド・サーバー 5点セット KINTO SLOW COFFEE STYLE ブリュワースタンド プレゼント ギフト xmas'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00raig1.ve2q59cb.g00raig1.ve2q6626/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fganbareokusan%2Fyy-4963264500852%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fganbareokusan%2Fi%2F10071185%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/ganbareokusan/cabinet/09809396/th-4963264500852_x1.jpg?_ex=600x600'
-    price: 17600
-mediaType: 'dripper'
+mediaType: dripper
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

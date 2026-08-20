@@ -1,25 +1,15 @@
 ---
-title: '挽きムラでコーヒーが不味いなら。カリタ ナイスカットGで「安定した美味さ」を手に入れた話'
-description: '「カリタ 電動コーヒーミル グラインダー ナイスカットG」は、業務用同等の均一な挽き目を家庭で実現。36,980円で豆本来の風味を最大限に引き出し、雑味のないプロの味わいをお届けします。A5サイズで置き場所に困らず、本格コーヒー体験を。'
+title: 挽きムラでコーヒーが不味いなら。カリタ ナイスカットGで「安定した美味さ」を手に入れた話
+description: 「カリタ 電動コーヒーミル グラインダー ナイスカットG」は、業務用同等の均一な挽き目を家庭で実現。36,980円で豆本来の風味を最大限に引き出し、雑味のないプロの味わいをお届けします。A5サイズで置き場所に困らず、本格コーヒー体験を。
 pubDate: '2026-08-14'
-heroImage: '/images/kalita-coffee-grinder-nice-cut-g.jpg'
-genre: 'ミル・グラインダー'
+heroImage: /images/kalita-coffee-grinder-nice-cut-g.jpg
+genre: ミル・グラインダー
 sidebarProducts:
   - title: '挽きムラでコーヒーが不味いなら。カリタ'
     url: ''
     imageUrl: '/images/kalita-coffee-grinder-nice-cut-g.jpg'
     microCopy: '詳細を見る'
-  - title: '【挽きたて1杯で上質な時間を】 電動コーヒーミル コードレス 臼式 コニカル式 電動 コーヒーミル 電動 コーヒーグラインダー USB 充電式 水洗い可能 Coffee grinder コーヒー 電動ミル 珈琲ミル 小型 コンパクト 【エスプレッソ対応/39段階粒度調整/1年保証】'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00s9pt1.ve2q54eb.g00s9pt1.ve2q6157/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Friccado%2F1014%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Friccado%2Fi%2F10000389%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/riccado/cabinet/cg430/cg400_th_flag2.jpg?_ex=600x600'
-    price: 3980
-    microCopy: '詳細を見る'
-  - title: '電動コーヒーミル 臼式 コニカル式 コードレス 電動 コーヒーミル 電動 コーヒーグラインダー USB 充電式 水洗い可能 Electric Coffee grinder mill cordless セラミック コーヒー 珈琲ミル 電動ミル コーン式 小型 コンパクト【メーカー1年保証】'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00s9pt1.ve2q54eb.g00s9pt1.ve2q6157/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Friccado%2F1007%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Friccado%2Fi%2F10000381%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/riccado/cabinet/coffee-grinder-mill/cg200s.jpg?_ex=600x600'
-    price: 3480
-    microCopy: '詳細を見る'
-mediaType: 'grinder'
+mediaType: grinder
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
