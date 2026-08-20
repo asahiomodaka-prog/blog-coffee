@@ -36,7 +36,7 @@ mediaType: 'kettle'
 
 この課題に対し、本ドリップポットの最大の特徴である内径3.4mmの極細ノズルは、まさに理想的な解決策を提供する。このノズルは、まるで絵を描く筆先のように、狙った一点に糸のような細さで湯を落とし込むことを可能にする。一般的なドリップケトルの注ぎ口と比較して圧倒的に細いため、湯の落下速度や流量を極めて繊細にコントロールできるのだ。先端がわずかに下がった独自の形状は、湯が弧を描かずに真下へ、まさに狙い通りに注がれるよう設計されている。これにより、コーヒー粉全体に均一にお湯を行き渡らせる「蒸らし」の工程が格段に安定する。粉全体が均一に湿潤することで、高濃度のコーヒー液層がじっくりと形成され、結果として雑味のない、クリアでまろやかなコーヒーが抽出可能となる。
 
-<img src="/images/ultra-fine-drip-pot-350ml-coffee-body-1.jpg" alt="ultra-fine-drip-pot-350ml-coffee" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/ultra-fine-drip-pot-350ml-coffee.jpg" alt="ultra-fine-drip-pot-350ml-coffee" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 この精密な注湯は、フレンチプレスやクレバーといった浸漬式での抽出においてもその真価を発揮する。浸漬式では、豆本来の甘み、特にバラのような香りの成分であるβ-ダマセノンなどを余すことなく抽出することが醍醐味である。最初の湯を注ぐ際に、粉全体を優しく、そしてムラなく湿潤させることは、豆の成分を均一に浸漬させ、最適な抽出を促す上で非常に重要となる。極細ノズルによる細く均一な湯は、粉の攪拌を最小限に抑えつつ、穏やかに浸透していくため、浸漬層を理想的な状態で構築できる。豆のポテンシャルを最大限に引き出すためには、どのような抽出方法においても、丁寧でコントロールされた注湯が欠かせないことを、このポットは改めて示唆している。その設計思想は、一滴の湯にもこだわり、コーヒーの持つ複雑な風味を余すことなく引き出そうとする、深い探求心によって支えられているといえる。
 
@@ -54,7 +54,7 @@ mediaType: 'kettle'
 
 そして、気になるコストパフォーマンスについて考察する。例えば、カフェで一杯500円のドリップコーヒーを週に5日、月に20日飲んだと仮定すると、一ヶ月で10,000円の出費となる。一年間では120,000円に達する計算だ。これに対し、良質なスペシャルティコーヒー豆を自分で購入し、このドリップポットで淹れる場合のコストを試算する。高品質な豆を100gあたり800円とすると、一杯10g使用で80円。フィルター代や電気代を含めても、一杯あたりのコストは約100円程度に抑えられる。この計算に基づけば、初期投資19,000円は、毎日コーヒーを飲む習慣がある場合、約2ヶ月弱で回収できることになる（19,000円 ÷ (400円/杯 × 20日/月) ≒ 2.375ヶ月）。自宅で淹れるコーヒーは、時間や場所を選ばず、いつでも自分のペースで楽しめるという付加価値も大きい。高品質な器具への初期投資は、単なる出費ではなく、長期的に見れば豊かなコーヒーライフへの賢明な投資と捉えることができる。
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00thr51.ve2q5bd7.g00thr51.ve2q62e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff152048-sanjo%2F017s004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff152048-sanjo%2Fi%2F10001188%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/ultra-fine-drip-pot-350ml-coffee-body-2.jpg" alt="ultra-fine-drip-pot-350ml-coffee" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00thr51.ve2q5bd7.g00thr51.ve2q62e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff152048-sanjo%2F017s004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff152048-sanjo%2Fi%2F10001188%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/ultra-fine-drip-pot-350ml-coffee.jpg" alt="ultra-fine-drip-pot-350ml-coffee" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 ### 丁寧な一杯を追求する、あなたへの選択
 
@@ -72,7 +72,7 @@ mediaType: 'kettle'
 
 
 <div class="product-widget-card">
-  <img src="/images/ultra-fine-drip-pot-350ml-coffee-body-3.png" alt="ultra-fine-drip-pot-350ml-coffee" class="widget-img" loading="lazy" />
+  <img src="/images/ultra-fine-drip-pot-350ml-coffee.jpg" alt="ultra-fine-drip-pot-350ml-coffee" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">極細3.4mmノズル ドリップポット本音レビュー！湯量調整で味は変わる？</h4>
 

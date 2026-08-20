@@ -33,7 +33,7 @@ mediaType: 'dripper'
 
 
 <div class="product-widget-card">
-  <img src="/images/coffee-server-dripper-set-body-1.png" alt="coffee-server-dripper-set" class="widget-img" loading="lazy" />
+  <img src="/images/coffee-server-dripper-set.jpg" alt="coffee-server-dripper-set" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">コーヒードリップセットで味がブレる？初心者でも失敗しない淹れ方</h4>
 
@@ -98,7 +98,7 @@ SNSやレビューサイトを見ると、この製品に対するユーザー�
 
 自宅で淹れるコーヒーは、単にカフェインを摂取するためだけのものではない。それは、自分だけの時間を慈しむ行為であり、日々の喧騒から一時的に離れて心を落ち着かせるための儀式である。このセットは、その儀式をより豊かで、そして手軽なものに変えてくれた。特別な道具を揃えなくとも、この一つのセットで、質の高いコーヒー体験が実現できる。この満足感は、毎日の生活に静かな喜びと、確かな彩りを与えてくれるものだと感じている。
 
-<img src="/images/coffee-server-dripper-set-body-2.jpg" alt="coffee-server-dripper-set" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/coffee-server-dripper-set.jpg" alt="coffee-server-dripper-set" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -155,7 +155,7 @@ SNSやレビューサイトを見ると、この製品に対するユーザー�
 
 
 <div class="product-widget-card">
-  <img src="/images/coffee-server-dripper-set-body-1.png" alt="coffee-server-dripper-set" class="widget-img" loading="lazy" />
+  <img src="/images/coffee-server-dripper-set.jpg" alt="coffee-server-dripper-set" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">コーヒードリップセットで味がブレる？初心者でも失敗しない淹れ方</h4>
 

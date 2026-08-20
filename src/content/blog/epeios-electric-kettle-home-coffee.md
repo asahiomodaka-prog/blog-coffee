@@ -38,7 +38,7 @@ mediaType: 'kettle'
 
 
 <div class="product-widget-card">
-  <img src="/images/epeios-electric-kettle-home-coffee-body-1.png" alt="epeios-electric-kettle-home-coffee" class="widget-img" loading="lazy" />
+  <img src="/images/epeios-electric-kettle-home-coffee.jpg" alt="epeios-electric-kettle-home-coffee" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">EPEIOS 電気ケトルで淹れる一杯。香りが日常を彩る、自宅の至福コーヒー術</h4>
 
@@ -76,7 +76,7 @@ mediaType: 'kettle'
 <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 1.25rem; margin: 2.5rem 0; box-shadow: 0 4px 20px -2px rgba(15, 23, 42, 0.04); display: flex; flex-direction: row; gap: 1.25rem; align-items: center; max-width: 100%; box-sizing: border-box; font-family: sans-serif; min-height: 140px;">
   <div style="flex-shrink: 0; width: 100px; height: 100px; display: flex; align-items: center; justify-content: center; background-color: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9; overflow: hidden;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00tqke1.ve2q53d8.g00tqke1.ve2q6270/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmpowjapan%2Fcp001agjp1%2F" target="_blank" rel="nofollow noopener noreferrer" style="display: block; width: 100%; height: 100%; text-align: center; line-height: 100px;">
-<img src="/images/epeios-electric-kettle-home-coffee-body-2.jpg" alt="epeios-electric-kettle-home-coffee" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/epeios-electric-kettle-home-coffee.jpg" alt="epeios-electric-kettle-home-coffee" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 </a>
   </div>
   <div style="flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 0.35rem; text-align: left;">
@@ -196,7 +196,7 @@ mediaType: 'kettle'
 
 
 <div class="product-widget-card">
-  <img src="/images/epeios-electric-kettle-home-coffee-body-1.png" alt="epeios-electric-kettle-home-coffee" class="widget-img" loading="lazy" />
+  <img src="/images/epeios-electric-kettle-home-coffee.jpg" alt="epeios-electric-kettle-home-coffee" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">EPEIOS 電気ケトルで淹れる一杯。香りが日常を彩る、自宅の至福コーヒー術</h4>
 

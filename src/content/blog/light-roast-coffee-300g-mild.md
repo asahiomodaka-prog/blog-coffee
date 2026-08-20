@@ -36,7 +36,7 @@ mediaType: 'beans'
 
 
 <div class="product-widget-card">
-  <img src="/images/light-roast-coffee-300g-mild-body-1.png" alt="light-roast-coffee-300g-mild" class="widget-img" loading="lazy" />
+  <img src="/images/light-roast-coffee-300g-mild.jpg" alt="light-roast-coffee-300g-mild" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">浅煎りコーヒー豆は酸っぱくない？苦味ゼロの秘訣と本音レビュー！</h4>
 
@@ -60,7 +60,7 @@ mediaType: 'beans'
 
 実際に抽出してみると、湯を注いだ瞬間に立ち上るアロマは、まさに「果実的」と表現できるものであった。一般的な浅煎りにありがちな、柑橘系や青リンゴのようなシャープな香りを想像していたが、この豆からはベリー系の甘酸っぱさや、蜜のような優しい香りが感じられる。抽出後のカップからは、透明感のある赤みがかった茶色の液体が顔を出す。一口飲むと、舌の先に感じるのは、じんわりと広がる甘みと、心地よい酸味の調和である。決して「すっぱい」と顔をしかめるようなことはなく、むしろ口の中を爽やかにリフレッシュしてくれるような感覚がある。そして、喉元を過ぎた後に残るのは、驚くほど澄んだ後味である。口の中に嫌な苦味や雑味が一切残らず、次の一口を自然と誘う。これはまさに、Specialtycoffee蒼が追求する「飲み疲れしないこと」というコンセプトが、そのまま味わいとして具現化されている証拠である。
 
-<img src="/images/light-roast-coffee-300g-mild-body-2.jpg" alt="light-roast-coffee-300g-mild" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/light-roast-coffee-300g-mild.jpg" alt="light-roast-coffee-300g-mild" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## 日常使いにおけるスマートな運用と経済性：一杯のコーヒーにかかるコスト
 
@@ -153,7 +153,7 @@ Specialtycoffee蒼の哲学である「飲み疲れしないこと」は、自�
 
 
 <div class="product-widget-card">
-  <img src="/images/light-roast-coffee-300g-mild-body-1.png" alt="light-roast-coffee-300g-mild" class="widget-img" loading="lazy" />
+  <img src="/images/light-roast-coffee-300g-mild.jpg" alt="light-roast-coffee-300g-mild" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">浅煎りコーヒー豆は酸っぱくない？苦味ゼロの秘訣と本音レビュー！</h4>
 

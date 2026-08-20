@@ -37,7 +37,7 @@ mediaType: 'beans'
 
 
 <div class="product-widget-card">
-  <img src="/images/specialty-coffee-subscription-body-1.png" alt="specialty-coffee-subscription" class="widget-img" loading="lazy" />
+  <img src="/images/specialty-coffee-subscription.jpg" alt="specialty-coffee-subscription" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">ガイアの夜明けで話題！自家焙煎スペシャルティコーヒー定期便、お湯の温度で味ブレ解決！</h4>
 
@@ -67,7 +67,7 @@ mediaType: 'beans'
 
 ## 抽出の妙技：豆のポテンシャルを最大限に引き出すドリップ術
 
-<img src="/images/specialty-coffee-subscription-body-2.jpg" alt="specialty-coffee-subscription" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/specialty-coffee-subscription.jpg" alt="specialty-coffee-subscription" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 届いた豆は、まず香りから楽しむのが良い。袋を開けた瞬間に広がるアロマは、その日のブレンドが持つ個性を雄弁に物語る。そして、いよいよ抽出の工程である。豆の焙煎度合いに応じた適切な抽出方法を選ぶことで、その豆が持つ風味のポテンシャルを最大限に引き出すことが可能となる。
 
@@ -109,7 +109,7 @@ mediaType: 'beans'
 
 メール便でポストに届けてくれる点も大きな利便性である。日中仕事で家を空けることが多い場合、再配達の手間がないのは多忙な現代人にとって大きなメリットとなる。届くコーヒー豆は特殊なコーヒー専用袋に封入されており、内部に設けられたバルブが炭酸ガスを放出しつつ外気の侵入を防ぎ、密閉状態を保つことで鮮度を長く維持する工夫がされている。届いてすぐに飲めない分は、密閉容器に移し替えて冷蔵庫または冷凍庫で保存することで、酸化を防ぎ、美味しさをより長く保つことができる。
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00srlw1.ve2q5245.g00srlw1.ve2q6667/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff192023-fujiyoshida%2Ff178%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff192023-fujiyoshida%2Fi%2F10001052%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/specialty-coffee-subscription-body-3.jpg" alt="specialty-coffee-subscription" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00srlw1.ve2q5245.g00srlw1.ve2q6667/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff192023-fujiyoshida%2Ff178%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff192023-fujiyoshida%2Fi%2F10001052%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/specialty-coffee-subscription.jpg" alt="specialty-coffee-subscription" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 ## デメリットと賢く付き合うための提案
 
@@ -128,7 +128,7 @@ mediaType: 'beans'
 
 
 <div class="product-widget-card">
-  <img src="/images/specialty-coffee-subscription-body-1.png" alt="specialty-coffee-subscription" class="widget-img" loading="lazy" />
+  <img src="/images/specialty-coffee-subscription.jpg" alt="specialty-coffee-subscription" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">ガイアの夜明けで話題！自家焙煎スペシャルティコーヒー定期便、お湯の温度で味ブレ解決！</h4>
 

@@ -34,7 +34,7 @@ mediaType: 'beans'
 
 
 <div class="product-widget-card">
-  <img src="/images/coffee-beans-2kg-cheapest-body-1.png" alt="coffee-beans-2kg-cheapest" class="widget-img" loading="lazy" />
+  <img src="/images/coffee-beans-2kg-cheapest.jpg" alt="coffee-beans-2kg-cheapest" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">2kg最安値コーヒー豆の正直レビュー！味のブレ・鮮度はどう？</h4>
 
@@ -68,7 +68,7 @@ mediaType: 'beans'
 
 私自身、様々な抽出方法と微調整を試してきたが、このハウスブレンドはハンドドリップにおける細かな調整によく応える。日によって挽き目をわずかに変えたり、湯温を1℃下げてみたりといった些細な調整が、カップの中の味わいに微妙ながらも明確な変化をもたらす。例えば、いつもより少し高温で抽出した日は、よりシャープな苦味とキレを、逆に少し低温でゆっくり抽出した日は、まろやかなコクと深みを味わうことができる。こうした調整は、まるでコーヒー豆という素材のポテンシャルを探求する、知的な実験のようであり、自宅でコーヒーを淹れる醍醐味の一つと言えるだろう。
 
-<img src="/images/coffee-beans-2kg-cheapest-body-2.jpg" alt="coffee-beans-2kg-cheapest" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/coffee-beans-2kg-cheapest.jpg" alt="coffee-beans-2kg-cheapest" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## 1杯あたり約26円という経済性：日々のコーヒーライフへの影響
 
@@ -149,7 +149,7 @@ DRIP COFFEE FACTORYのこのハウスブレンドは、楽天ショップ・オ�
 
 
 <div class="product-widget-card">
-  <img src="/images/coffee-beans-2kg-cheapest-body-1.png" alt="coffee-beans-2kg-cheapest" class="widget-img" loading="lazy" />
+  <img src="/images/coffee-beans-2kg-cheapest.jpg" alt="coffee-beans-2kg-cheapest" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">2kg最安値コーヒー豆の正直レビュー！味のブレ・鮮度はどう？</h4>
 

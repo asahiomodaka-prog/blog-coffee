@@ -39,7 +39,7 @@ mediaType: 'beans'
 
 
 <div class="product-widget-card">
-  <img src="/images/light-roast-apple-flavor-coffee-250g-body-1.png" alt="light-roast-apple-flavor-coffee-250g" class="widget-img" loading="lazy" />
+  <img src="/images/light-roast-apple-flavor-coffee-250g.jpg" alt="light-roast-apple-flavor-coffee-250g" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">浅煎り「アメリカンブレンド」で失敗しない！お湯の温度で味が変わる本音レビュー</h4>
 
@@ -59,7 +59,7 @@ mediaType: 'beans'
 
 一般的に、浅煎りの豆は、その華やかな果実香やフローラルな香りを最大限に引き出すために、抽出温度、注湯スピード、そして抽出量といった要素が鍵となる。これらの要素を緻密にコントロールすることで、豆が持つ複雑なアロマとフレーバーを、よりクリアかつバランス良くカップに表現することが可能となるのだ。
 
-<img src="/images/light-roast-apple-flavor-coffee-250g-body-2.jpg" alt="light-roast-apple-flavor-coffee-250g" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/light-roast-apple-flavor-coffee-250g.jpg" alt="light-roast-apple-flavor-coffee-250g" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 筆者がこの豆で試した抽出方法は、高水温（92℃）でのスピーディーな抽出を意識したものである。使用した器具は、抽出効率の高さで知られる円錐形ペーパー[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC)、ハリオV60である。
 
@@ -89,7 +89,7 @@ mediaType: 'beans'
 
 この豆は、サイフォン、台形ドリッパー、円錐ドリッパーなど、様々な抽出器具に対応している点も特筆すべきである。これは、豆自体のポテンシャルの高さと、多様な抽出プロファイルに適応できる汎用性を示している。気分や時間に合わせ、異なる器具で抽出を試みることで、同じ豆から異なる表情を引き出す楽しみがある。例えば、サイフォンで淹れればよりクリアで柔らかな口当たりに、フレンチプレスであればボディ感が増した重厚な味わいになるなど、器具ごとの特性が豆の風味に新たな解釈を加えるだろう。
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-1000-ameri%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000193%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/light-roast-apple-flavor-coffee-250g-body-3.jpg" alt="light-roast-apple-flavor-coffee-250g" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-1000-ameri%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000193%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/light-roast-apple-flavor-coffee-250g.jpg" alt="light-roast-apple-flavor-coffee-250g" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -122,7 +122,7 @@ mediaType: 'beans'
 
 
 <div class="product-widget-card">
-  <img src="/images/light-roast-apple-flavor-coffee-250g-body-1.png" alt="light-roast-apple-flavor-coffee-250g" class="widget-img" loading="lazy" />
+  <img src="/images/light-roast-apple-flavor-coffee-250g.jpg" alt="light-roast-apple-flavor-coffee-250g" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">浅煎り「アメリカンブレンド」で失敗しない！お湯の温度で味が変わる本音レビュー</h4>
 

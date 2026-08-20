@@ -38,7 +38,7 @@ mediaType: 'beans'
 
 
 <div class="product-widget-card">
-  <img src="/images/dark-roast-coffee-trial-body-1.png" alt="dark-roast-coffee-trial" class="widget-img" loading="lazy" />
+  <img src="/images/dark-roast-coffee-trial.jpg" alt="dark-roast-coffee-trial" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">「深煎りお試しコーヒー」は本当に買い？味のブレに悩む人への本音レビュー</h4>
 
@@ -70,7 +70,7 @@ mediaType: 'beans'
 
 深煎りだからといって、一辺倒に苦いだけではない。豆それぞれの個性が、焙煎によって新たな表情を見せる。本お試しセットは、そのような深煎りの奥深さを、まさに舌と鼻で体験できる良い機会を提供する。
 
-<img src="/images/dark-roast-coffee-trial-body-2.jpg" alt="dark-roast-coffee-trial" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/dark-roast-coffee-trial.jpg" alt="dark-roast-coffee-trial" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## 日常への馴染みやすさと賢い選択：1000円ポッキリで叶えるコストパフォーマンスと利便性
 
@@ -153,7 +153,7 @@ mediaType: 'beans'
 
 
 <div class="product-widget-card">
-  <img src="/images/dark-roast-coffee-trial-body-1.png" alt="dark-roast-coffee-trial" class="widget-img" loading="lazy" />
+  <img src="/images/dark-roast-coffee-trial.jpg" alt="dark-roast-coffee-trial" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">「深煎りお試しコーヒー」は本当に買い？味のブレに悩む人への本音レビュー</h4>
 

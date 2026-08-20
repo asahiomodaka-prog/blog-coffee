@@ -39,7 +39,7 @@ mediaType: 'dripper'
 
 
 <div class="product-widget-card">
-  <img src="/images/kalita-ceramic-coffee-dripper-101-102-body-1.png" alt="kalita-ceramic-coffee-dripper-101-102" class="widget-img" loading="lazy" />
+  <img src="/images/kalita-ceramic-coffee-dripper-101-102.jpg" alt="kalita-ceramic-coffee-dripper-101-102" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">カリタ陶器製コーヒードリッパー101/102検証。3つ穴抽出の味のブレと安定性</h4>
 
@@ -63,7 +63,7 @@ mediaType: 'dripper'
 
 例えば、透明感のあるクリアな酸味が特徴のウォッシュド（水洗式）の浅煎り豆を高水温（90℃〜93℃）でスピーディーに抽出したい時、この三つ穴は非常に心強い味方となる。抽出初期のフルーティーな酸味やフローラルなアロマ成分（エステル類など）を素早く引き出しつつ、抽出後半で顔を出す青臭さ（ピラジン類）や刺激的な苦味の抽出を未然に防ぐことが可能となる。澄み渡るような後味を実現する上で、この「素早く」「無駄なく」抽出するという思想は、まさしく緻密な実験器具に通じるものがある。三つ穴のバランスは、過度な速さで成分が薄まることを防ぎつつ、不必要に抽出が長引くことによる雑味の発生を巧みに回避するのである。
 
-<img src="/images/kalita-ceramic-coffee-dripper-101-102-body-2.jpg" alt="kalita-ceramic-coffee-dripper-101-102" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/kalita-ceramic-coffee-dripper-101-102.jpg" alt="kalita-ceramic-coffee-dripper-101-102" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## 普段使いの道具としての実力
 
@@ -81,7 +81,7 @@ mediaType: 'dripper'
 | 販売ショップ | ショップワールド |
 | レビュー評価 | 4.5 (36件) |
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00qe941.ve2q513f.g00qe941.ve2q61a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshopworld%2F10127928%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshopworld%2Fi%2F10127928%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/kalita-ceramic-coffee-dripper-101-102-body-3.jpg" alt="kalita-ceramic-coffee-dripper-101-102" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00qe941.ve2q513f.g00qe941.ve2q61a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshopworld%2F10127928%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshopworld%2Fi%2F10127928%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/kalita-ceramic-coffee-dripper-101-102.jpg" alt="kalita-ceramic-coffee-dripper-101-102" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -114,7 +114,7 @@ mediaType: 'dripper'
 
 
 <div class="product-widget-card">
-  <img src="/images/kalita-ceramic-coffee-dripper-101-102-body-1.png" alt="kalita-ceramic-coffee-dripper-101-102" class="widget-img" loading="lazy" />
+  <img src="/images/kalita-ceramic-coffee-dripper-101-102.jpg" alt="kalita-ceramic-coffee-dripper-101-102" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">カリタ陶器製コーヒードリッパー101/102検証。3つ穴抽出の味のブレと安定性</h4>
 

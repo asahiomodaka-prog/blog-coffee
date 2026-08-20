@@ -36,7 +36,7 @@ mediaType: 'grinder'
 
 
 <div class="product-widget-card">
-  <img src="/images/kalita-coffee-grinder-nice-cut-g-body-1.png" alt="kalita-coffee-grinder-nice-cut-g" class="widget-img" loading="lazy" />
+  <img src="/images/kalita-coffee-grinder-nice-cut-g.jpg" alt="kalita-coffee-grinder-nice-cut-g" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">挽きムラでコーヒーが不味いなら。カリタ ナイスカットGで「安定した美味さ」を手に入れた話</h4>
 
@@ -72,7 +72,7 @@ mediaType: 'grinder'
 
 コーヒーミルにおいて清掃の手間は懸念されやすい点である。コーヒーの微粉は油分を含んでおり、放置すると酸化して風味を損ねる原因となるためだ。ナイスカットGは、ホッパーとステンレス製専用受缶が簡単に取り外せるのはもちろん、挽き臼周辺もネジを外すだけでアクセスできるよう設計されている。付属のクリーニングブラシを使えば、溜まりがちな微粉をきれいに払うことができ、衛生的に保てる。このメンテナンスの容易さは、毎日のルーティンとしてコーヒーを淹れる上で、非常に大きなメリットとなる。複雑な手順がないため、分解・清掃・組み立てが直感的に行えるのも評価できる点だ。
 
-<img src="/images/kalita-coffee-grinder-nice-cut-g-body-2.jpg" alt="kalita-coffee-grinder-nice-cut-g" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/kalita-coffee-grinder-nice-cut-g.jpg" alt="kalita-coffee-grinder-nice-cut-g" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 次に、長期的なコストパフォーマンスについて考察する。カリタ ナイスカットGの初期投資は36,980円と、決して安価ではない。購入時には「少々高価ではないか」と躊躇するのも自然な感情であろう。しかし、これを日々のコーヒー代と比較してみると、その価値が明確に見えてくる。
 
@@ -145,7 +145,7 @@ mediaType: 'grinder'
 
 
 <div class="product-widget-card">
-  <img src="/images/kalita-coffee-grinder-nice-cut-g-body-1.png" alt="kalita-coffee-grinder-nice-cut-g" class="widget-img" loading="lazy" />
+  <img src="/images/kalita-coffee-grinder-nice-cut-g.jpg" alt="kalita-coffee-grinder-nice-cut-g" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">挽きムラでコーヒーが不味いなら。カリタ ナイスカットGで「安定した美味さ」を手に入れた話</h4>
 

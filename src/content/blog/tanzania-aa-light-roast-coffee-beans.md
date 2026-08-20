@@ -39,7 +39,7 @@ mediaType: 'beans'
 
 
 <div class="product-widget-card">
-  <img src="/images/tanzania-aa-light-roast-coffee-beans-body-1.png" alt="tanzania-aa-light-roast-coffee-beans" class="widget-img" loading="lazy" />
+  <img src="/images/tanzania-aa-light-roast-coffee-beans.jpg" alt="tanzania-aa-light-roast-coffee-beans" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">浅煎りタンザニアAA、正直レビュー！お湯の温度で香りが全然違う？</h4>
 
@@ -55,7 +55,7 @@ mediaType: 'beans'
 
 ## キリマンジャロの山頂を彷彿とさせる透明感、その秘密を紐解く
 
-<img src="/images/tanzania-aa-light-roast-coffee-beans-body-2.jpg" alt="tanzania-aa-light-roast-coffee-beans" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/tanzania-aa-light-roast-coffee-beans.jpg" alt="tanzania-aa-light-roast-coffee-beans" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 このタンザニア・AAの浅煎り豆を初めて淹れた際、その透明感のあるクリアな酸味に感銘を受けた。まるで澄んだ高地の水を思わせるような、澄み渡る後味である。これは一体どのような抽出メカニズムによって生み出されるのだろうか。浅煎り豆の抽出で最も重視されるのは、やはり「酸味」と「香りの成分」をいかにバランス良く引き出すかである。特にこの豆の場合、「上品な酸味」という表現が使われていることからも、嫌な刺激ではなく、心地よいフルーティーな酸味を意図していることが伺える。
 
@@ -95,7 +95,7 @@ mediaType: 'beans'
 
 率直に言えば、浅煎り豆の抽出は深煎り豆よりも少し繊細な調整が必要となる。お湯の温度、注ぎ方、抽出時間、そして挽き目。これら全ての要素が完璧に合致した時に初めて、この豆が持つ真のポテンシャルを引き出すことができる。しかし、その試行錯誤のプロセスこそが、自宅でコーヒーを淹れる楽しさの一つでもある。筆者の過去記事で紹介した[陶器製カリタ ロト](https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-1000-tanzania%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000163%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)のようなドリッパーも、安定した抽出を助けてくれるだろう。
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-1000-tanzania%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000163%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/tanzania-aa-light-roast-coffee-beans-body-3.jpg" alt="tanzania-aa-light-roast-coffee-beans" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-1000-tanzania%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000163%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/tanzania-aa-light-roast-coffee-beans.jpg" alt="tanzania-aa-light-roast-coffee-beans" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -154,7 +154,7 @@ mediaType: 'beans'
 
 
 <div class="product-widget-card">
-  <img src="/images/tanzania-aa-light-roast-coffee-beans-body-1.png" alt="tanzania-aa-light-roast-coffee-beans" class="widget-img" loading="lazy" />
+  <img src="/images/tanzania-aa-light-roast-coffee-beans.jpg" alt="tanzania-aa-light-roast-coffee-beans" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">浅煎りタンザニアAA、正直レビュー！お湯の温度で香りが全然違う？</h4>
 

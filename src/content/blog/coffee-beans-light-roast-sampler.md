@@ -44,7 +44,7 @@ mediaType: 'beans'
 
 ### 浅煎りのポテンシャルを最大限に引き出す抽出術
 
-<img src="/images/coffee-beans-light-roast-sampler-body-1.jpg" alt="coffee-beans-light-roast-sampler" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/coffee-beans-light-roast-sampler.jpg" alt="coffee-beans-light-roast-sampler" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 浅煎り豆の魅力は、その繊細な果実香やフローラルなアロマにある。これを最大限に引き出すためには、抽出方法に工夫が必要である。筆者が実践している抽出術は以下の通りである。
 
@@ -70,7 +70,7 @@ mediaType: 'beans'
 
 さらに、メール便で届くため送料がかからないのも、購入者にとっては地味ながらも大きなメリットである。新鮮な豆を自宅で手軽に楽しめるという点で、この福袋は非常に優れたコストパフォーマンスを誇ると言えるだろう。様々な風味を少量ずつ試せるため、新たな好みの発見にも繋がる。
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-prom-bm2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000178%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/coffee-beans-light-roast-sampler-body-2.jpg" alt="coffee-beans-light-roast-sampler" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-prom-bm2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000178%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/coffee-beans-light-roast-sampler.jpg" alt="coffee-beans-light-roast-sampler" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 ### 浅煎りを楽しむ上での小さな注意点
 
@@ -98,7 +98,7 @@ mediaType: 'beans'
 
 
 <div class="product-widget-card">
-  <img src="/images/coffee-beans-light-roast-sampler-body-3.png" alt="coffee-beans-light-roast-sampler" class="widget-img" loading="lazy" />
+  <img src="/images/coffee-beans-light-roast-sampler.jpg" alt="coffee-beans-light-roast-sampler" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">エチオピア、キリマンジャロ…飲み比べで好みの味を見つける！</h4>
 

@@ -38,7 +38,7 @@ mediaType: 'beans'
 
 
 <div class="product-widget-card">
-  <img src="/images/fresh-coffee-beans-body-1.png" alt="fresh-coffee-beans" class="widget-img" loading="lazy" />
+  <img src="/images/fresh-coffee-beans.jpg" alt="fresh-coffee-beans" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">コーヒー豆 珈琲豆は温度で味が変わる！味のブレ解決する淹れ方レビュー</h4>
 
@@ -68,7 +68,7 @@ mediaType: 'beans'
 
 カップに注がれたコーヒーは、深みのある焦げ茶色で、なめらかなクレマが浮かぶ。口に含むと、最初に感じるのは心地よい苦味だが、決して単調ではない。後からナッツのような香ばしさと微かな甘みが広がる。そして、公式の説明にもある通り、「後味の余韻」が印象的だ。飲み込んだ後も、舌の奥にチョコレートや燻製を思わせるフレーバーが長く残り、その味をゆっくりと反芻したくなる。この深煎りブレンドは、何層にも重なり合った「味のレイヤー」のような感覚で、単なる苦味ではない、深みのある体験を与えてくれる。この複雑な味わいこそが、この豆の魅力である。
 
-<img src="/images/fresh-coffee-beans-body-2.jpg" alt="fresh-coffee-beans" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/fresh-coffee-beans.jpg" alt="fresh-coffee-beans" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## 日常への溶け込みと、納得のコストパフォーマンス
 
@@ -165,7 +165,7 @@ mediaType: 'beans'
 
 
 <div class="product-widget-card">
-  <img src="/images/fresh-coffee-beans-body-1.png" alt="fresh-coffee-beans" class="widget-img" loading="lazy" />
+  <img src="/images/fresh-coffee-beans.jpg" alt="fresh-coffee-beans" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">コーヒー豆 珈琲豆は温度で味が変わる！味のブレ解決する淹れ方レビュー</h4>
 

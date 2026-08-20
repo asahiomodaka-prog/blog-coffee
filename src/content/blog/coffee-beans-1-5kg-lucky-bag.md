@@ -39,7 +39,7 @@ mediaType: 'beans'
 
 
 <div class="product-widget-card">
-  <img src="/images/coffee-beans-1-5kg-lucky-bag-body-1.png" alt="coffee-beans-1-5kg-lucky-bag" class="widget-img" loading="lazy" />
+  <img src="/images/coffee-beans-1-5kg-lucky-bag.jpg" alt="coffee-beans-1-5kg-lucky-bag" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">コーヒー豆1.5kg福袋で味が劇的に変わる！好みの豆で淹れる喜び本音レビュー</h4>
 
@@ -65,7 +65,7 @@ mediaType: 'beans'
 
 加藤珈琲店の「コーヒー豆 1.5kg 福袋」は、こうした多様な精製方法や焙煎度合いの豆を14種類から自由に選択できるため、自宅で手軽に様々なコーヒーの表情を体験できる機会を提供する。筆者が今回選定したのは、透明感のある酸味を求めて「ケニアAA」、芳醇なフルーツ感を期待して「ホヌコペスペシャルティ・インドネシア・マンデリンゴールド」、そして日常使いに適した深煎り豆として「ビターブレンド（luxury）」の3種類である。この組み合わせにより、異なる風味特性を持つ豆の比較検証が可能となる。
 
-<img src="/images/coffee-beans-1-5kg-lucky-bag-body-2.jpg" alt="coffee-beans-1-5kg-lucky-bag" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/coffee-beans-1-5kg-lucky-bag.jpg" alt="coffee-beans-1-5kg-lucky-bag" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 抽出のメカニズムを理解し、豆の特性に合わせた方法を適用することは、理想の風味を引き出す上で不可欠である。
 
@@ -117,7 +117,7 @@ mediaType: 'beans'
 
 筆者が最近試しているのは、[浅煎りタンザニアAA](/blog/tanzania-aa-light-roast-coffee-beans/)を用いた抽出である。お湯の温度を微調整するだけで、香りが全く異なる表情を見せる点が興味深い。今回選定したケニアAAも、同様に温度による香りの変化を検証してみたいと考えている。
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00pl5f1.ve2q5fd0.g00pl5f1.ve2q6f99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F2699%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10007479%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/coffee-beans-1-5kg-lucky-bag-body-3.jpg" alt="coffee-beans-1-5kg-lucky-bag" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00pl5f1.ve2q5fd0.g00pl5f1.ve2q6f99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F2699%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10007479%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/coffee-beans-1-5kg-lucky-bag.jpg" alt="coffee-beans-1-5kg-lucky-bag" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -168,7 +168,7 @@ mediaType: 'beans'
 
 
 <div class="product-widget-card">
-  <img src="/images/coffee-beans-1-5kg-lucky-bag-body-1.png" alt="coffee-beans-1-5kg-lucky-bag" class="widget-img" loading="lazy" />
+  <img src="/images/coffee-beans-1-5kg-lucky-bag.jpg" alt="coffee-beans-1-5kg-lucky-bag" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">コーヒー豆1.5kg福袋で味が劇的に変わる！好みの豆で淹れる喜び本音レビュー</h4>
 

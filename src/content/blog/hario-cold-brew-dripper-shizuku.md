@@ -37,7 +37,7 @@ mediaType: 'dripper'
 
 
 <div class="product-widget-card">
-  <img src="/images/hario-cold-brew-dripper-shizuku-body-1.png" alt="hario-cold-brew-dripper-shizuku" class="widget-img" loading="lazy" />
+  <img src="/images/hario-cold-brew-dripper-shizuku.jpg" alt="hario-cold-brew-dripper-shizuku" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">HARIO 雫 SBS-5Bで激変！水出しコーヒーの味が決まる秘密と本音レビュー</h4>
 
@@ -61,7 +61,7 @@ mediaType: 'dripper'
 
 抽出された水出しコーヒーは、豆の個性をダイレクトに反映する。例えば、フルーティーな香りが特徴のナチュラル精製の豆を使用すれば、ストロベリーやブルーベリー、あるいはワインを思わせる芳醇なアロマが、冷たいコーヒーとしてさらに際立つだろう。また、ウォッシュド精製の豆であれば、低温抽出によってその透明感のあるクリアな酸味が、より一層澄み渡るような後味として楽しめるはずだ。さらに、近年注目されているアナエロビック（嫌気性発酵）プロセスの豆は、その複雑で独特な風味特性を水出しで抽出することで、発酵由来の豊かな香りが冷たい状態でも鮮やかに感じられる可能性がある。このゆっくりとした抽出プロセスが、コーヒー本来のポテンシャルを余すところなく引き出し、舌触りの滑らかな、丸みのある口当たりを生み出すのだ。
 
-<img src="/images/hario-cold-brew-dripper-shizuku-body-2.jpg" alt="hario-cold-brew-dripper-shizuku" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/hario-cold-brew-dripper-shizuku.jpg" alt="hario-cold-brew-dripper-shizuku" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -85,7 +85,7 @@ mediaType: 'dripper'
 
 コストパフォーマンスについても考察する。本製品はふるさと納税の返礼品として16,000円で手に入れることができる。初期費用として決して安価ではないと感じるかもしれないが、その長期的な視点での経済性は非常に高い。例えば、高品質な水出しアイスコーヒーを喫茶店で1杯500円と仮定した場合、32杯自宅で淹れることで器具代の元が取れる計算となる。自宅で淹れる際のコーヒー豆の費用は、種類にもよるが一杯あたり数十円から高くても100円程度で済むため、長期的に見れば圧倒的に経済的であることは明白だ。また、コーヒーだけでなく、水出しのお茶やハーブティー用としても活用できる汎用性の高さは、この初期投資を納得させるに足る理由となるだろう。省スペースな円筒形デザインは、キッチンの限られたスペースにもスマートに収まり、インテリアとしての美しさも兼ね備えている。
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00s6nv1.ve2q5786.g00s6nv1.ve2q6d3f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff082040-koga%2F5701-30043016%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff082040-koga%2Fi%2F10000848%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/hario-cold-brew-dripper-shizuku-body-3.jpg" alt="hario-cold-brew-dripper-shizuku" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00s6nv1.ve2q5786.g00s6nv1.ve2q6d3f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff082040-koga%2F5701-30043016%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff082040-koga%2Fi%2F10000848%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/hario-cold-brew-dripper-shizuku.jpg" alt="hario-cold-brew-dripper-shizuku" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
@@ -96,7 +96,7 @@ mediaType: 'dripper'
 
 
 <div class="product-widget-card">
-  <img src="/images/hario-cold-brew-dripper-shizuku-body-1.png" alt="hario-cold-brew-dripper-shizuku" class="widget-img" loading="lazy" />
+  <img src="/images/hario-cold-brew-dripper-shizuku.jpg" alt="hario-cold-brew-dripper-shizuku" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">HARIO 雫 SBS-5Bで激変！水出しコーヒーの味が決まる秘密と本音レビュー</h4>
 

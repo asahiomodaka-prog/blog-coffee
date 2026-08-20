@@ -41,7 +41,7 @@ mediaType: 'grinder'
 
 
 <div class="product-widget-card">
-  <img src="/images/coffee-beans-blend-500g-body-1.png" alt="coffee-beans-blend-500g" class="widget-img" loading="lazy" />
+  <img src="/images/coffee-beans-blend-500g.jpg" alt="coffee-beans-blend-500g" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">「ブレンドコーヒー500g」を細挽きで淹れる！温度と挽き目で味が激変するってホント？</h4>
 
@@ -107,7 +107,7 @@ KOTENブレンドは、密閉式の容器に入れ、直射日光の当たらな
 
 自宅で淹れるコーヒーの満足度は、単に味だけではないと僕は考えている。自分で豆を選び、自分で挽き、自分で淹れるという一連のプロセスそのものが、心の充足につながる。KOTENブレンドは、その「自分で淹れる喜び」を存分に味わえる、非常にバランスの取れたブレンドだと感じた。カフェで飲むような特別な一杯も魅力的だが、日常の中で気軽に、そして美味しく飲めるコーヒーこそが、僕たちの生活を豊かにする要素の一つである。
 
-[<img src="/images/coffee-beans-blend-500g-body-2.jpg" alt="coffee-beans-blend-500g" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />](https://hb.afl.rakuten.co.jp/hgc/g00qpzd1.ve2q531d.g00qpzd1.ve2q6b51/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-koten%2Fco-koten-001_1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-koten%2Fi%2F10002453%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+[<img src="/images/coffee-beans-blend-500g.jpg" alt="coffee-beans-blend-500g" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />](https://hb.afl.rakuten.co.jp/hgc/g00qpzd1.ve2q531d.g00qpzd1.ve2q6b51/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-koten%2Fco-koten-001_1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-koten%2Fi%2F10002453%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -160,7 +160,7 @@ KOTENブレンドは、確かに深煎り系の味わいだが、淹れ方や飲
 
 
 <div class="product-widget-card">
-  <img src="/images/coffee-beans-blend-500g-body-1.png" alt="coffee-beans-blend-500g" class="widget-img" loading="lazy" />
+  <img src="/images/coffee-beans-blend-500g.jpg" alt="coffee-beans-blend-500g" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">「ブレンドコーヒー500g」を細挽きで淹れる！温度と挽き目で味が激変するってホント？</h4>
 

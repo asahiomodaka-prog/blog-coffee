@@ -38,7 +38,7 @@ mediaType: 'grinder'
 
 
 <div class="product-widget-card">
-  <img src="/images/manual-coffee-grinder-6-level-body-1.png" alt="manual-coffee-grinder-6-level" class="widget-img" loading="lazy" />
+  <img src="/images/manual-coffee-grinder-6-level.jpg" alt="manual-coffee-grinder-6-level" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">手挽き コーヒーミル 6段階調整で味のブレ解消！本音レビュー</h4>
 
@@ -87,7 +87,7 @@ mediaType: 'grinder'
 
 つまり、最初の数ヶ月間はコンビニコーヒーとほぼ同等のコストとなるが、それ以降は**月あたり約3,000円の節約**につながる。しかも、そこから得られる満足度は、価格以上の価値をもたらすだろう。このミルは決して高価なものではないが、コーヒーライフの質を確実に向上させるツールである。まさに少額の投資で、高いリターンが得られる好例と言えよう。
 
-<img src="/images/manual-coffee-grinder-6-level-body-2.jpg" alt="manual-coffee-grinder-6-level" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/manual-coffee-grinder-6-level.jpg" alt="manual-coffee-grinder-6-level" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## 愛用者が実感する満足度と評価
 
@@ -158,7 +158,7 @@ mediaType: 'grinder'
 
 
 <div class="product-widget-card">
-  <img src="/images/manual-coffee-grinder-6-level-body-1.png" alt="manual-coffee-grinder-6-level" class="widget-img" loading="lazy" />
+  <img src="/images/manual-coffee-grinder-6-level.jpg" alt="manual-coffee-grinder-6-level" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">手挽き コーヒーミル 6段階調整で味のブレ解消！本音レビュー</h4>
 

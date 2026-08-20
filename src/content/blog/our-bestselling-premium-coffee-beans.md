@@ -38,7 +38,7 @@ mediaType: 'beans'
 
 
 <div class="product-widget-card">
-  <img src="/images/our-bestselling-premium-coffee-beans-body-1.png" alt="our-bestselling-premium-coffee-beans" class="widget-img" loading="lazy" />
+  <img src="/images/our-bestselling-premium-coffee-beans.jpg" alt="our-bestselling-premium-coffee-beans" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">プレミアム高級コーヒー豆16種飲み比べ。香りとコクのブレンド技術を徹底解説</h4>
 
@@ -64,7 +64,7 @@ mediaType: 'beans'
 
 ## 珈琲の奥深さを知る「ブレンダーの妙」
 
-<img src="/images/our-bestselling-premium-coffee-beans-body-2.jpg" alt="our-bestselling-premium-coffee-beans" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/our-bestselling-premium-coffee-beans.jpg" alt="our-bestselling-premium-coffee-beans" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 「重量半端な豆のブレンド」という言葉から、もしかしたらネガティブな印象を持つ人もいるかもしれない。しかし、そこには熟練のブレンダーによる高度な技術と深い哲学が凝縮されている。単に余った豆を混ぜ合わせるのではなく、その日手元にある豆の中から、互いの個性を引き出し、調和させる最適な組み合わせを見つけ出す作業は、まさに職人技の域である。
 
@@ -72,7 +72,7 @@ mediaType: 'beans'
 
 このお店ではカリタまたはコーノといった透過式ドリッパーを推奨しているが、僕個人としては、クレバーやフレンチプレスのような浸漬式でじっくりと豆の成分を溶け出させる方法が、この「一期一会」のブレンドの魅力を最大限に引き出すと感じている。透過式が特定の風味をクリアに際立たせる傾向があるのに対し、浸漬式は豆の持つポテンシャルを余すことなく、丸ごと抽出するため、複雑なブレンドにおいて層の厚い味わいを表現しやすい。特にハニープロセスの豆が含まれている日は、ハチミツのような優しい甘みと丸みのある口当たりが際立ち、まろやかなコクが広がる体験は格別である。
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00tgnt1.ve2q5121.g00tgnt1.ve2q69fb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fliberty55%2Firoiroblend_1000g%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fliberty55%2Fi%2F10000798%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/our-bestselling-premium-coffee-beans-body-3.jpg" alt="our-bestselling-premium-coffee-beans" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00tgnt1.ve2q5121.g00tgnt1.ve2q69fb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fliberty55%2Firoiroblend_1000g%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fliberty55%2Fi%2F10000798%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/our-bestselling-premium-coffee-beans.jpg" alt="our-bestselling-premium-coffee-beans" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -119,7 +119,7 @@ mediaType: 'beans'
 
 
 <div class="product-widget-card">
-  <img src="/images/our-bestselling-premium-coffee-beans-body-1.png" alt="our-bestselling-premium-coffee-beans" class="widget-img" loading="lazy" />
+  <img src="/images/our-bestselling-premium-coffee-beans.jpg" alt="our-bestselling-premium-coffee-beans" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">プレミアム高級コーヒー豆16種飲み比べ。香りとコクのブレンド技術を徹底解説</h4>
 

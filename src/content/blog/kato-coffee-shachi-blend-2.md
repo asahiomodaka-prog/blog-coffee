@@ -36,7 +36,7 @@ mediaType: 'grinder'
 
 
 <div class="product-widget-card">
-  <img src="/images/kato-coffee-shachi-blend-2-body-1.png" alt="kato-coffee-shachi-blend-2" class="widget-img" loading="lazy" />
+  <img src="/images/kato-coffee-shachi-blend-2.jpg" alt="kato-coffee-shachi-blend-2" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">加藤珈琲店 しゃちブレンド2種。豆のまま挽く悦び、違いを楽しむ大人の珈琲時間</h4>
 
@@ -59,7 +59,7 @@ mediaType: 'grinder'
 <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 1.25rem; margin: 2.5rem 0; box-shadow: 0 4px 20px -2px rgba(15, 23, 42, 0.04); display: flex; flex-direction: row; gap: 1.25rem; align-items: center; max-width: 100%; box-sizing: border-box; font-family: sans-serif; min-height: 140px;">
   <div style="flex-shrink: 0; width: 100px; height: 100px; display: flex; align-items: center; justify-content: center; background-color: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9; overflow: hidden;">
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00u3241.ve2q5392.g00u3241.ve2q6545/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff231002-nagoya%2Fca001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff231002-nagoya%2Fi%2F10000410%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: block; width: 100%; height: 100%; text-align: center; line-height: 100px;">
-<img src="/images/kato-coffee-shachi-blend-2-body-2.jpg" alt="kato-coffee-shachi-blend-2" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/kato-coffee-shachi-blend-2.jpg" alt="kato-coffee-shachi-blend-2" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 </a>
   </div>
   <div style="flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 0.35rem; text-align: left;">
@@ -180,7 +180,7 @@ mediaType: 'grinder'
 
 
 <div class="product-widget-card">
-  <img src="/images/kato-coffee-shachi-blend-2-body-1.png" alt="kato-coffee-shachi-blend-2" class="widget-img" loading="lazy" />
+  <img src="/images/kato-coffee-shachi-blend-2.jpg" alt="kato-coffee-shachi-blend-2" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">加藤珈琲店 しゃちブレンド2種。豆のまま挽く悦び、違いを楽しむ大人の珈琲時間</h4>
 

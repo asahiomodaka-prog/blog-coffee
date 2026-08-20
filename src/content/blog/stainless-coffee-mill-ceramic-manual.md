@@ -41,7 +41,7 @@ mediaType: 'grinder'
 
 
 <div class="product-widget-card">
-  <img src="/images/stainless-coffee-mill-ceramic-manual-body-1.png" alt="stainless-coffee-mill-ceramic-manual" class="widget-img" loading="lazy" />
+  <img src="/images/stainless-coffee-mill-ceramic-manual.jpg" alt="stainless-coffee-mill-ceramic-manual" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">ステンレスコーヒーミルは本当に買い？手挽きなのに味が安定する理由を検証！</h4>
 
@@ -67,7 +67,7 @@ mediaType: 'grinder'
 
 このミルの粒度調整は、非常に細かく設定できる。カチカチと段階を踏んで調整するタイプではなく、ネジ式で無段階に調整できるため、自分だけの「黄金比」を見つける過程もまた楽しみの一つとなる。それぞれの豆が持つ個性を最大限に引き出すためには、豆の種類や焙煎度、そして抽出方法に合わせて挽き目を微調整することが不可欠だ。このミルは、その探求心をしっかりとサポートしてくれる。オールステンレス製のボディも、豆を挽く際の安定感を高め、余計なブレや振動を抑えるため、より精密な粉砕を可能にしていると言える。
 
-<img src="/images/stainless-coffee-mill-ceramic-manual-body-2.jpg" alt="stainless-coffee-mill-ceramic-manual" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/stainless-coffee-mill-ceramic-manual.jpg" alt="stainless-coffee-mill-ceramic-manual" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## 日常のパートナーとしての使い勝手と、静かなる経済性
 
@@ -95,7 +95,7 @@ mediaType: 'grinder'
 
 購入を検討している人がいれば、こうしたリアルなユーザーの声は非常に参考になるはずだ。安価なミルも存在するが、長期的な視点で見れば、初期投資は多少かかっても、こうした信頼性の高い製品を選ぶ方が、結果的に満足度は高いと私は考える。
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00thr51.ve2q5bd7.g00thr51.ve2q62e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff152048-sanjo%2F015s062%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff152048-sanjo%2Fi%2F10001941%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/stainless-coffee-mill-ceramic-manual-body-3.jpg" alt="stainless-coffee-mill-ceramic-manual" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00thr51.ve2q5bd7.g00thr51.ve2q62e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff152048-sanjo%2F015s062%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff152048-sanjo%2Fi%2F10001941%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/stainless-coffee-mill-ceramic-manual.jpg" alt="stainless-coffee-mill-ceramic-manual" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -155,7 +155,7 @@ mediaType: 'grinder'
 
 
 <div class="product-widget-card">
-  <img src="/images/stainless-coffee-mill-ceramic-manual-body-1.png" alt="stainless-coffee-mill-ceramic-manual" class="widget-img" loading="lazy" />
+  <img src="/images/stainless-coffee-mill-ceramic-manual.jpg" alt="stainless-coffee-mill-ceramic-manual" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">ステンレスコーヒーミルは本当に買い？手挽きなのに味が安定する理由を検証！</h4>
 

@@ -34,7 +34,7 @@ mediaType: 'dripper'
 
 
 <div class="product-widget-card">
-  <img src="/images/coffee-dripper-1-3-cup-body-1.png" alt="coffee-dripper-1-3-cup" class="widget-img" loading="lazy" />
+  <img src="/images/coffee-dripper-1-3-cup.jpg" alt="coffee-dripper-1-3-cup" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">「コーヒー ドリッパー」で解決！毎回味がブレる悩みを本音レビュー</h4>
 
@@ -72,7 +72,7 @@ mediaType: 'dripper'
 
 コーヒー豆に熱湯を注ぎ、粉がゆっくりと膨らむ「蒸らし」の工程は、豆からガスを放出し、粉全体にお湯を均一に行き渡らせる準備段階である。この時、ペーパーフィルターと異なり、ステンレスメッシュは粉の層をしっかりと支えつつ、スムーズなガス放出を促す。その後の「の」の字を描くようにゆっくりとお湯を注ぐ際も、あや織りメッシュが均一な湯の流れを可能にし、一部にだけお湯が集中して味が偏る「チャネリング」を防ぐ効果も期待できる。この緻密な構造と素材特性が、一杯のコーヒーに込められた豆のポテンシャルを最大限に引き出し、五感に訴えかける豊かな香り立ちと、奥深い味わいを創出するのである。
 
-<img src="/images/coffee-dripper-1-3-cup-body-2.jpg" alt="coffee-dripper-1-3-cup" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/coffee-dripper-1-3-cup.jpg" alt="coffee-dripper-1-3-cup" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## 日々の暮らしに寄り添う手軽さと経済性
 
@@ -167,7 +167,7 @@ mediaType: 'dripper'
 
 
 <div class="product-widget-card">
-  <img src="/images/coffee-dripper-1-3-cup-body-1.png" alt="coffee-dripper-1-3-cup" class="widget-img" loading="lazy" />
+  <img src="/images/coffee-dripper-1-3-cup.jpg" alt="coffee-dripper-1-3-cup" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">「コーヒー ドリッパー」で解決！毎回味がブレる悩みを本音レビュー</h4>
 

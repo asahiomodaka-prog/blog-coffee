@@ -39,7 +39,7 @@ mediaType: 'beans'
 
 
 <div class="product-widget-card">
-  <img src="/images/brown-gold-dark-roast-coffee-beans-body-1.png" alt="brown-gold-dark-roast-coffee-beans" class="widget-img" loading="lazy" />
+  <img src="/images/brown-gold-dark-roast-coffee-beans.jpg" alt="brown-gold-dark-roast-coffee-beans" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">ブラウンゴールド深煎りコーヒー豆セット本音レビュー。味の変化とコクを徹底検証</h4>
 
@@ -65,7 +65,7 @@ mediaType: 'beans'
 
 ## 抽出理論から紐解く、深煎りコーヒーのポテンシャル
 
-<img src="/images/brown-gold-dark-roast-coffee-beans-body-2.jpg" alt="brown-gold-dark-roast-coffee-beans" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/brown-gold-dark-roast-coffee-beans.jpg" alt="brown-gold-dark-roast-coffee-beans" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 コーヒーの抽出は、豆の特性を理解した上での科学的なアプローチが求められる。特に深煎りの豆を扱う場合、そのアプローチは浅煎りや中煎りとは大きく異なる。深煎り豆は、焙煎の過程で細胞壁が破壊され、油分が豆の表面に滲み出ていることが多い。この油分には、コーヒー特有の豊かなコクや香りの成分が凝縮されている。
 
@@ -101,7 +101,7 @@ mediaType: 'beans'
 | 販売ショップ | 広島珈琲 |
 | レビュー評価 | 4.87 (577件) |
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00ppmo1.ve2q53a8.g00ppmo1.ve2q6f82/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhiroshimacoffee%2F458211%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhiroshimacoffee%2Fi%2F10000934%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/brown-gold-dark-roast-coffee-beans-body-3.jpg" alt="brown-gold-dark-roast-coffee-beans" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00ppmo1.ve2q53a8.g00ppmo1.ve2q6f82/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhiroshimacoffee%2F458211%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhiroshimacoffee%2Fi%2F10000934%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/brown-gold-dark-roast-coffee-beans.jpg" alt="brown-gold-dark-roast-coffee-beans" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 ## ちょっとした工夫で、コーヒーライフはもっと深くなる
 
@@ -120,7 +120,7 @@ mediaType: 'beans'
 
 
 <div class="product-widget-card">
-  <img src="/images/brown-gold-dark-roast-coffee-beans-body-1.png" alt="brown-gold-dark-roast-coffee-beans" class="widget-img" loading="lazy" />
+  <img src="/images/brown-gold-dark-roast-coffee-beans.jpg" alt="brown-gold-dark-roast-coffee-beans" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">ブラウンゴールド深煎りコーヒー豆セット本音レビュー。味の変化とコクを徹底検証</h4>
 

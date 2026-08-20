@@ -38,7 +38,7 @@ mediaType: 'beans'
 
 
 <div class="product-widget-card">
-  <img src="/images/blue-mountain-kopi-luwak-coffee-body-1.png" alt="blue-mountain-kopi-luwak-coffee" class="widget-img" loading="lazy" />
+  <img src="/images/blue-mountain-kopi-luwak-coffee.jpg" alt="blue-mountain-kopi-luwak-coffee" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">「ブルーマウンテン＆コピ・ルアク」をどう活かす？正直な感想と淹れ方</h4>
 
@@ -156,7 +156,7 @@ https://thumbnail.image.rakuten.co.jp/@0_mall/yorozuya462/cabinet/compass1776424
 
 
 <div class="product-widget-card">
-  <img src="/images/blue-mountain-kopi-luwak-coffee-body-1.png" alt="blue-mountain-kopi-luwak-coffee" class="widget-img" loading="lazy" />
+  <img src="/images/blue-mountain-kopi-luwak-coffee.jpg" alt="blue-mountain-kopi-luwak-coffee" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">「ブルーマウンテン＆コピ・ルアク」をどう活かす？正直な感想と淹れ方</h4>
 

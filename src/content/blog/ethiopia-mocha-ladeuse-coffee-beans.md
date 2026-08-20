@@ -37,7 +37,7 @@ mediaType: 'beans'
 
 
 <div class="product-widget-card">
-  <img src="/images/ethiopia-mocha-ladeuse-coffee-beans-body-1.png" alt="ethiopia-mocha-ladeuse-coffee-beans" class="widget-img" loading="lazy" />
+  <img src="/images/ethiopia-mocha-ladeuse-coffee-beans.jpg" alt="ethiopia-mocha-ladeuse-coffee-beans" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">エチオピアモカ・ラデュースで、いつものコーヒーが劇的変化！味のブレなし淹れ方レビュー</h4>
 
@@ -67,7 +67,7 @@ mediaType: 'beans'
 
 ## 毎日の一杯を特別な時間にするコスパの妙：価格と品質のバランス
 
-<img src="/images/ethiopia-mocha-ladeuse-coffee-beans-body-2.jpg" alt="ethiopia-mocha-ladeuse-coffee-beans" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/ethiopia-mocha-ladeuse-coffee-beans.jpg" alt="ethiopia-mocha-ladeuse-coffee-beans" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 自宅で毎日上質なコーヒーを淹れるとなると、継続的なコストは考慮すべき重要な要素である。特にスペシャルティコーヒーと呼ばれる高品質な豆は、一般的なレギュラーコーヒーに比べて価格が高めに設定されることが多い。しかし、[エチオピアモカ・ラデュース500g×3袋セット](https://hb.afl.rakuten.co.jp/hgc/g00pl5f1.ve2q5fd0.g00pl5f1.ve2q6f99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F0630-15%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10003833%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)は、その点において筆者の期待を上回るコストパフォーマンスを実現している。500g×3袋で4,698円という価格設定は、スペシャルティコーヒーの品質を考慮すれば極めてリーズナブルであると言える。
 
@@ -83,7 +83,7 @@ mediaType: 'beans'
 | 販売ショップ | グルメコーヒー豆専門!加藤珈琲店 |
 | レビュー評価 | 4.68 (280件) |
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00pl5f1.ve2q5fd0.g00pl5f1.ve2q6f99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F0630-15%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10003833%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/ethiopia-mocha-ladeuse-coffee-beans-body-3.jpg" alt="ethiopia-mocha-ladeuse-coffee-beans" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00pl5f1.ve2q5fd0.g00pl5f1.ve2q6f99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F0630-15%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10003833%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/ethiopia-mocha-ladeuse-coffee-beans.jpg" alt="ethiopia-mocha-ladeuse-coffee-beans" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -116,7 +116,7 @@ mediaType: 'beans'
 
 
 <div class="product-widget-card">
-  <img src="/images/ethiopia-mocha-ladeuse-coffee-beans-body-1.png" alt="ethiopia-mocha-ladeuse-coffee-beans" class="widget-img" loading="lazy" />
+  <img src="/images/ethiopia-mocha-ladeuse-coffee-beans.jpg" alt="ethiopia-mocha-ladeuse-coffee-beans" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">エチオピアモカ・ラデュースで、いつものコーヒーが劇的変化！味のブレなし淹れ方レビュー</h4>
 

@@ -39,7 +39,7 @@ mediaType: 'beans'
 
 
 <div class="product-widget-card">
-  <img src="/images/rich-blend-coffee-beans-2kg-body-1.png" alt="rich-blend-coffee-beans-2kg" class="widget-img" loading="lazy" />
+  <img src="/images/rich-blend-coffee-beans-2kg.jpg" alt="rich-blend-coffee-beans-2kg" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">IGURAMUリッチブレンド2kg本音レビュー。日常使いのコスパとコクを徹底検証</h4>
 
@@ -71,7 +71,7 @@ mediaType: 'beans'
 
 ## 日々のコーヒー習慣を豊かにするコストパフォーマンスの検証
 
-<img src="/images/rich-blend-coffee-beans-2kg-body-2.jpg" alt="rich-blend-coffee-beans-2kg" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/rich-blend-coffee-beans-2kg.jpg" alt="rich-blend-coffee-beans-2kg" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 大容量のコーヒー豆を選ぶ最大のメリットは、疑いなくそのコストパフォーマンスの高さにある。このリッチブレンドは2kgで3,999円（楽天モバイル最強感謝祭価格）と、非常に手頃な価格設定である。
 
@@ -79,7 +79,7 @@ mediaType: 'beans'
 
 例えば、毎日2杯のコーヒーを飲む習慣がある場合、週に約14杯、月に約60杯を消費することになる。このペースであれば、月に約600gの豆を消費する計算となるため、2kgの豆があれば約3ヶ月間は賄えることになる。高品質なコーヒーをこれほどの低コストで、かつ毎日継続して楽しむことは、日々の生活の質（QOL）向上に直結する。経済性を重視しつつ、コーヒーブレイクの満足度を維持したいと考える層にとって、大容量の深煎り豆は合理的な選択肢となるだろう。
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00uq011.ve2q5db8.g00uq011.ve2q68c9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkkonlinestore%2Fcafe07%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkkonlinestore%2Fi%2F10000001%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/rich-blend-coffee-beans-2kg-body-3.jpg" alt="rich-blend-coffee-beans-2kg" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00uq011.ve2q5db8.g00uq011.ve2q68c9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkkonlinestore%2Fcafe07%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkkonlinestore%2Fi%2F10000001%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/rich-blend-coffee-beans-2kg.jpg" alt="rich-blend-coffee-beans-2kg" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -132,7 +132,7 @@ mediaType: 'beans'
 
 
 <div class="product-widget-card">
-  <img src="/images/rich-blend-coffee-beans-2kg-body-1.png" alt="rich-blend-coffee-beans-2kg" class="widget-img" loading="lazy" />
+  <img src="/images/rich-blend-coffee-beans-2kg.jpg" alt="rich-blend-coffee-beans-2kg" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">IGURAMUリッチブレンド2kg本音レビュー。日常使いのコスパとコクを徹底検証</h4>
 

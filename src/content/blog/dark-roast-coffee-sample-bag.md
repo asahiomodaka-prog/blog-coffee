@@ -34,7 +34,7 @@ mediaType: 'beans'
 
 
 <div class="product-widget-card">
-  <img src="/images/dark-roast-coffee-sample-bag-body-1.png" alt="dark-roast-coffee-sample-bag" class="widget-img" loading="lazy" />
+  <img src="/images/dark-roast-coffee-sample-bag.jpg" alt="dark-roast-coffee-sample-bag" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">深煎りお試し福袋で味が変わる！苦味の悩みを解決する本音レビュー</h4>
 
@@ -108,7 +108,7 @@ mediaType: 'beans'
 
 日々の多忙な生活の中で、自宅で淹れる一杯のコーヒーは、単なる飲み物以上の価値を持つ。この福袋は、そうした日常に、ささやかな贅沢と、飽きのこない風味の探求という喜びを提供してくれるだろう。
 
-<img src="/images/dark-roast-coffee-sample-bag-body-2.jpg" alt="dark-roast-coffee-sample-bag" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/dark-roast-coffee-sample-bag.jpg" alt="dark-roast-coffee-sample-bag" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -193,7 +193,7 @@ mediaType: 'beans'
 
 
 <div class="product-widget-card">
-  <img src="/images/dark-roast-coffee-sample-bag-body-1.png" alt="dark-roast-coffee-sample-bag" class="widget-img" loading="lazy" />
+  <img src="/images/dark-roast-coffee-sample-bag.jpg" alt="dark-roast-coffee-sample-bag" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">深煎りお試し福袋で味が変わる！苦味の悩みを解決する本音レビュー</h4>
 

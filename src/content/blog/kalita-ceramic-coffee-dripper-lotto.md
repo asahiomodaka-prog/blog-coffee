@@ -39,7 +39,7 @@ mediaType: 'dripper'
 
 
 <div class="product-widget-card">
-  <img src="/images/kalita-ceramic-coffee-dripper-lotto-body-1.png" alt="kalita-ceramic-coffee-dripper-lotto" class="widget-img" loading="lazy" />
+  <img src="/images/kalita-ceramic-coffee-dripper-lotto.jpg" alt="kalita-ceramic-coffee-dripper-lotto" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">陶器製カリタ ロトのレビュー！「お湯の温度で味が変わる」を解決？</h4>
 
@@ -63,7 +63,7 @@ mediaType: 'dripper'
 
 そこでカリタ「ロト」の3つ穴が効果を発揮する。湯が粉層に滞留しすぎず、かといって極端に速すぎることもない、絶妙な速度でコーヒー液が滴下していく。このメカニズムにより、豆から溶け出す旨味成分（コーヒー酸、キナ酸、アミノ酸など、いわゆる良味要素）を効率的に抽出しつつ、抽出後半で溶出しやすいクロロゲン酸などの不要な雑味（阻害要素）の抽出を穏やかに抑制してくれるのだ。特に深煎り豆においては、この適度な抽出速度が、丸みのある甘さと香ばしい余韻を伴う、バランスの取れた味わいを実現するために不可欠な要素となる。
 
-<img src="/images/kalita-ceramic-coffee-dripper-lotto-body-2.jpg" alt="kalita-ceramic-coffee-dripper-lotto" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
+<img src="/images/kalita-ceramic-coffee-dripper-lotto.jpg" alt="kalita-ceramic-coffee-dripper-lotto" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 中煎りの豆を淹れる場合は、豆本来の持つクリアな甘みや複雑なフレーバー（β-ダマセノンなどの芳香成分）を最大限に引き出す抽出が理想とされる。浸漬式ドリッパーが推奨されるのは、中煎り豆の成分バランスの良さを、丸ごと包み込むように抽出できるためだ。しかし、ロトのような透過式ドリッパーでも、3つ穴によるスムーズな抽出は、中煎り豆が持つ特徴的な甘みを濁らせることなく、鮮やかに引き出すのに貢献する。これは、ドリッパーの構造自体が、抽出におけるデリケートなバランスを優れた形でサポートしている証左である。
 
@@ -81,7 +81,7 @@ mediaType: 'dripper'
 | 販売ショップ | CocoPlatz interior |
 | レビュー評価 | 4.82 (79件) |
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00u0011.ve2q5ff5.g00u0011.ve2q656e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocopla%2F101-cxy0120e0001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocopla%2Fi%2F10001024%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/kalita-ceramic-coffee-dripper-lotto-body-3.jpg" alt="kalita-ceramic-coffee-dripper-lotto" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00u0011.ve2q5ff5.g00u0011.ve2q656e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocopla%2F101-cxy0120e0001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocopla%2Fi%2F10001024%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/kalita-ceramic-coffee-dripper-lotto.jpg" alt="kalita-ceramic-coffee-dripper-lotto" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -112,7 +112,7 @@ mediaType: 'dripper'
 
 
 <div class="product-widget-card">
-  <img src="/images/kalita-ceramic-coffee-dripper-lotto-body-1.png" alt="kalita-ceramic-coffee-dripper-lotto" class="widget-img" loading="lazy" />
+  <img src="/images/kalita-ceramic-coffee-dripper-lotto.jpg" alt="kalita-ceramic-coffee-dripper-lotto" class="widget-img" loading="lazy" />
   <div class="widget-info">
 <h4 class="widget-title">陶器製カリタ ロトのレビュー！「お湯の温度で味が変わる」を解決？</h4>
 
