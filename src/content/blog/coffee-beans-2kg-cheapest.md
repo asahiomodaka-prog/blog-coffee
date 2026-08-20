@@ -38,7 +38,7 @@ mediaType: 'beans'
   <div class="widget-info">
 <h4 class="widget-title">2kg最安値コーヒー豆の正直レビュー！味のブレ・鮮度はどう？</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D2kg%25E6%259C%2580%25E5%25AE%2589%25E5%2580%25A4%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2581%25AE%25E6%25AD%25A3%25E7%259B%25B4%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25BB%25E9%25AE%25AE%25E5%25BA%25A6%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25EF%25BC%259F" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D2kg%25E6%259C%2580%25E5%25AE%2589%25E5%2580%25A4%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2581%25AE%25E6%25AD%25A3%25E7%259B%25B4" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -71,7 +71,7 @@ mediaType: 'beans'
 
 まず、**抽出温度**の管理が重要である。深煎りの豆は、過度に高温の湯で抽出すると、雑味が出やすくなり、苦味が不必要に強調される傾向がある。そのため、私は普段、88℃から92℃の範囲で湯温を調整している。この温度帯を用いることで、豆が持つ苦味の角が取れ、まろやかでありながらも力強い風味を保つことができる。特に、ドリップケトルから湯を注ぐ直前の温度が一定に保たれているかを、温度計で確認することは欠かせない。湯がコーヒー粉に触れる瞬間の温度が、カップの味わいの大部分を決定すると言っても過言ではない。
 
-次に、**挽き目**の設定である。この豆の場合、中細挽きから中挽きが最も適していると感じる。中細挽きにすることで、深煎り豆が持つ豊かな成分を効率的に引き出し、しっかりとしたコクと苦味をカップに表現できる。一方で、もし苦味をやや抑え、より軽やかな口当たりを楽しみたいのであれば、挽き目をわずかに粗くするのも良い選択肢となる。挽きたての豆を[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC)にセットし、最初に湯を注いだ際に粉全体が膨らむ「ブルーム」の様子は、コーヒーの鮮度を示す重要な指標である。豆から立ち上る、深く香ばしいアロマは、抽出の成功を予感させるだけでなく、コーヒーを淹れるプロセスそのものに豊かな彩りを与える。
+次に、**挽き目**の設定である。この豆の場合、中細挽きから中挽きが最も適していると感じる。中細挽きにすることで、深煎り豆が持つ豊かな成分を効率的に引き出し、しっかりとしたコクと苦味をカップに表現できる。一方で、もし苦味をやや抑え、より軽やかな口当たりを楽しみたいのであれば、挽き目をわずかに粗くするのも良い選択肢となる。挽きたての豆を[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D2kg%25E6%259C%2580%25E5%25AE%2589%25E5%2580%25A4%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2581%25AE%25E6%25AD%25A3%25E7%259B%25B4
 
 そして、ハンドドリップにおける**対流**の生成が、抽出効率を大きく左右する。私は、中心からゆっくりと「の」の字を描くように湯を注ぎ、コーヒー粉全体が均一に湿るように意識している。これにより、粉の偏りなく、効率的に成分を抽出することが可能となる。初めに少量の湯で豆全体を湿らせ、20〜30秒の蒸らし時間を設ける。この蒸らしによってコーヒー粉内部の炭酸ガスが放出され、その後の抽出で湯が豆の成分に浸透しやすくなる。その後は、細く一定の湯を注ぎ続けることで、ドリッパーの中でコーヒー粉と湯の間に理想的な「対流」を生み出す。この対流が、豆の旨味を余すことなく溶け出させ、カップへと導く。湯がドリッパーを通過し、フィルターを伝ってカップに落ちる液体の、深く澄んだ琥珀色は、日々の忙しさから一時的に解放されるような感覚をもたらす。
 
@@ -98,7 +98,7 @@ mediaType: 'beans'
 <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【PostCoffee / ポストコーヒー】</div>
 <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">簡単な無料のコーヒー診断を受けるだけで、世界中の厳選ロースターからあなた好みの豆が毎月届く人気サブスク。初回お試し特別割引実施中！</p>
 <div style="text-align: center;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fpostcoffee.co%2F" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D2kg%25E6%259C%2580%25E5%25AE%2589%25E5%2580%25A4%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2581%25AE%25E6%25AD%25A3%25E7%259B%25B4" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
 👉 無料でコーヒー診断を受けてみる
 </a>
 </div>
@@ -143,7 +143,7 @@ DRIP COFFEE FACTORYのこのハウスブレンドは、楽天ショップ・オ�
 
 最大の懸念点は、やはり「**香りの劣化**」である。コーヒー豆は焙煎直後から酸化が始まり、一度挽いた状態であればその酸化スピードはさらに加速する。特に深煎りの豆は、揮発性の高い香りの成分を多く含むため、空気に触れる時間が長いと風味が損なわれやすい。この商品は500g×4袋という小分けパックになっているため、未開封のパックは比較的長期間鮮度を保てるが、一度開封してしまえば、そこから劣化が始まる。
 
-このデメリットを最小限に抑え、最後まで美味しく楽しむためには、いくつかの工夫が求められる。私が実践しているのは、まず開封した袋から豆を密閉性の高い[キャニスター](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%258B%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC)に移し替えることだ。ガラス製やステンレス製の、空気を通しにくい容器を選ぶのがポイントである。そして、残りの未開封のパックは、光が当たらず温度変化の少ない冷暗所、できれば冷蔵庫や冷凍庫で保存することを推奨する。特に冷凍庫に入れる際は、二重にジップロックなどで密閉し、他の食材の匂い移りを防ぐ対策を講じることが重要だ。使用する際は、必要な量だけを冷凍庫から取り出し、常温に戻してから挽くようにしている。
+このデメリットを最小限に抑え、最後まで美味しく楽しむためには、いくつかの工夫が求められる。私が実践しているのは、まず開封した袋から豆を密閉性の高い[キャニスター](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D2kg%25E6%259C%2580%25E5%25AE%2589%25E5%2580%25A4%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2581%25AE%25E6%25AD%25A3%25E7%259B%25B4
 
 また、このコーヒーはフレンチローストの深煎りであるため、華やかな酸味やフルーティーな風味を重視する方には、正直なところ不向きかもしれない。あくまで、力強い苦味とコク、そして香ばしさを追求したブレンドであると理解しておくべきだ。もし、酸味と苦味のバランスが取れたミディアムローストを好むのであれば、他の選択肢を検討する方が賢明である。
 
@@ -162,7 +162,7 @@ DRIP COFFEE FACTORYのこのハウスブレンドは、楽天ショップ・オ�
   <div class="widget-info">
 <h4 class="widget-title">2kg最安値コーヒー豆の正直レビュー！味のブレ・鮮度はどう？</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D2kg%25E6%259C%2580%25E5%25AE%2589%25E5%2580%25A4%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2581%25AE%25E6%25AD%25A3%25E7%259B%25B4%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25BB%25E9%25AE%25AE%25E5%25BA%25A6%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25EF%25BC%259F" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D2kg%25E6%259C%2580%25E5%25AE%2589%25E5%2580%25A4%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2581%25AE%25E6%25AD%25A3%25E7%259B%25B4" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -179,7 +179,7 @@ DRIP COFFEE FACTORYのこのハウスブレンドは、楽天ショップ・オ�
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">手挽きコーヒーミル（高精度臼式グラインダー）</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">挽きたての香りでコーヒーの旨味が激変</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D2kg%25E6%259C%2580%25E5%25AE%2589%25E5%2580%25A4%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2581%25AE%25E6%25AD%25A3%25E7%259B%25B4" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
 </div>
 </div>
@@ -188,7 +188,7 @@ DRIP COFFEE FACTORYのこのハウスブレンドは、楽天ショップ・オ�
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">コーヒードリッパースケール（0.1g単位タイマー付）</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">抽出速度と湯量を正確に計測</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D2kg%25E6%259C%2580%25E5%25AE%2589%25E5%2580%25A4%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2581%25AE%25E6%25AD%25A3%25E7%259B%25B4" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
 </div>
 </div>

@@ -45,7 +45,7 @@ mediaType: 'grinder'
   <div class="widget-info">
 <h4 class="widget-title">「ブレンドコーヒー500g」を細挽きで淹れる！温度と挽き目で味が激変するってホント？</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC500g%25E3%2580%258D%25E3%2582%2592%25E7%25B4%25B0%25E6%258C%25BD%25E3%2581%258D%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25EF%25BC%2581%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A8%25E6%258C%25BD%25E3%2581%258D%25E7%259B%25AE%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E6%25BF%2580%25E5%25A4%2589%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A3%25E3%2581%25A6%25E3%2583%259B%25E3%2583%25B3%25E3%2583%2588%25EF%25BC%259F" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dcoffee%2520beans%2520blend%2520500g" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -85,7 +85,7 @@ mediaType: 'grinder'
 
 毎日のコーヒーを自宅で淹れる上で、最も気になるのはやはり「使い勝手」と「コストパフォーマンス」だろう。KOTENブレンドは、その両面において非常にバランスが取れていると評価できる。
 
-まず、使い勝手について。500gという容量は、僕のように毎日自宅でコーヒーを飲む人間にとっては非常にありがたい。一人暮らしであれば、焙煎日から2か月という賞味期限内に十分に飲み切れる量であり、来客時にも対応しやすい。豆のままで購入できるのも大きなメリットだ。僕は基本的に飲む直前に豆を挽くようにしている。挽きたての香りは、やはり格別である。 [ステンレス[コーヒーミル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D)は本当に買い？手挽きなのに味が安定する理由を検証！](/blog/stainless-coffee-mill-ceramic-manual/)でも触れたが、酸化を防ぎ、豆本来の風味を最大限に楽しむためには、飲む直前に挽くのが最も効果的だと考えている。KOTENブレンドは、細挽き、中挽き、粗挽きと挽き方を選べるようだが、僕は「豆のまま」を選択した。
+まず、使い勝手について。500gという容量は、僕のように毎日自宅でコーヒーを飲む人間にとっては非常にありがたい。一人暮らしであれば、焙煎日から2か月という賞味期限内に十分に飲み切れる量であり、来客時にも対応しやすい。豆のままで購入できるのも大きなメリットだ。僕は基本的に飲む直前に豆を挽くようにしている。挽きたての香りは、やはり格別である。 [ステンレス[コーヒーミル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dcoffee%2520beans%2520blend%2520500g
 
 そして、最も重要なコストパフォーマンスについて。KOTENブレンド500gで1,650円。100gあたり330円という計算になる。一般的にスペシャルティコーヒーの生豆価格が高騰している中で、この価格設定はかなり良心的である。
 
@@ -94,7 +94,7 @@ mediaType: 'grinder'
 3.3円/g × 15g/杯 = 49.5円/杯
 つまり、一杯あたり約50円で楽しめる計算となる。これは、コンビニコーヒーやカフェで飲むことを考えれば、圧倒的な経済性だ。しかも、自宅で自分の好みに合わせて丁寧に淹れた、煎りたて挽きたてのコーヒーである。このクオリティのコーヒーが一杯50円で味わえるというのは、非常に優れた選択肢と言えるだろう。
 
-もちろん、初期費用としてコーヒー器具（[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC)、サーバー、ミル、ケトルなど）が必要になるが、一度揃えてしまえば、あとは豆代だけで済む。ランニングコストの低さは、自宅でコーヒーを淹れる大きな魅力の一つだ。 [ガイアの夜明けで話題！自家焙煎スペシャルティコーヒー定期便、お湯の温度で味ブレ解決！](/blog/specialty-coffee-subscription/)のような定期便も魅力だが、KOTENブレンドのように手軽に購入できる豆は、日々のコーヒーライフの強い味方となる。
+もちろん、初期費用としてコーヒー器具（[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dcoffee%2520beans%2520blend%2520500g [ガイアの夜明けで話題！自家焙煎スペシャルティコーヒー定期便、お湯の温度で味ブレ解決！](/blog/specialty-coffee-subscription/)のような定期便も魅力だが、KOTENブレンドのように手軽に購入できる豆は、日々のコーヒーライフの強い味方となる。
 
 KOTENブレンドは、密閉式の容器に入れ、直射日光の当たらない場所で保存することが推奨されている。暑い時期や湿気の多い時期は冷凍庫での保存が良いとのこと。僕は普段、豆は真空保存容器に入れ、冷暗所で保管している。長期保存したい場合は、小分けにして冷凍庫に入れることもあるが、500gであれば、そこまで神経質にならなくても十分に美味しく飲み切れるだろう。
 
@@ -125,7 +125,7 @@ KOTENブレンドは、密閉式の容器に入れ、直射日光の当たらな
 <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【PostCoffee / ポストコーヒー】</div>
 <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">簡単な無料のコーヒー診断を受けるだけで、世界中の厳選ロースターからあなた好みの豆が毎月届く人気サブスク。初回お試し特別割引実施中！</p>
 <div style="text-align: center;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fpostcoffee.co%2F" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dcoffee%2520beans%2520blend%2520500g" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
 👉 無料でコーヒー診断を受けてみる
 </a>
 </div>
@@ -173,7 +173,7 @@ KOTENブレンドは、確かに深煎り系の味わいだが、淹れ方や飲
   <div class="widget-info">
 <h4 class="widget-title">「ブレンドコーヒー500g」を細挽きで淹れる！温度と挽き目で味が激変するってホント？</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC500g%25E3%2580%258D%25E3%2582%2592%25E7%25B4%25B0%25E6%258C%25BD%25E3%2581%258D%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25EF%25BC%2581%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A8%25E6%258C%25BD%25E3%2581%258D%25E7%259B%25AE%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E6%25BF%2580%25E5%25A4%2589%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A3%25E3%2581%25A6%25E3%2583%259B%25E3%2583%25B3%25E3%2583%2588%25EF%25BC%259F" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dcoffee%2520beans%2520blend%2520500g" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -190,7 +190,7 @@ KOTENブレンドは、確かに深煎り系の味わいだが、淹れ方や飲
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">手挽きコーヒーミル（高精度臼式グラインダー）</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">挽きたての香りでコーヒーの旨味が激変</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dcoffee%2520beans%2520blend%2520500g" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
 </div>
 </div>
@@ -199,7 +199,7 @@ KOTENブレンドは、確かに深煎り系の味わいだが、淹れ方や飲
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">コーヒードリッパースケール（0.1g単位タイマー付）</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">抽出速度と湯量を正確に計測</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dcoffee%2520beans%2520blend%2520500g" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
 </div>
 </div>

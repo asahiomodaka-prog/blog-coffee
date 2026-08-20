@@ -40,7 +40,7 @@ mediaType: 'beans'
   <div class="widget-info">
 <h4 class="widget-title">ドリップコーヒーファクトリー淡路島アソート！3種飲み比べが叶える我が家の贅沢カフェ時間</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25AF%25E3%2583%2588%25E3%2583%25AA%25E3%2583%25BC%25E6%25B7%25A1%25E8%25B7%25AF%25E5%25B3%25B6%25E3%2582%25A2%25E3%2582%25BD%25E3%2583%25BC%25E3%2583%2588%25EF%25BC%25813%25E7%25A8%25AE%25E9%25A3%25B2%25E3%2581%25BF%25E6%25AF%2594%25E3%2581%25B9%25E3%2581%258C%25E5%258F%25B6%25E3%2581%2588%25E3%2582%258B%25E6%2588%2591%25E3%2581%258C%25E5%25AE%25B6%25E3%2581%25AE%25E8%25B4%2585%25E6%25B2%25A2%25E3%2582%25AB%25E3%2583%2595%25E3%2582%25A7%25E6%2599%2582%25E9%2596%2593" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dawajishima%2520drip%2520coffee%25203%2520mix" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -96,7 +96,7 @@ mediaType: 'beans'
 
 次にお湯を少量（約20ml）注ぎ、粉全体が均一に湿るように蒸らす。この蒸らし工程は、粉の内部に含まれる二酸化炭素などのガスを排出し、お湯がコーヒー粒子へ均等に浸透しやすくするために極めて重要である。約**30秒間**の蒸らし時間において、粉がふっくらと膨らむ様子が観察された。これは豆の新鮮さ、特に焙煎後の経過時間の短さを示す良好な兆候である。
 
-その後、中心から円を描くようにゆっくりとお湯を注いでいく。ドリップバッグの構造上、一般的な透過式[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC)と比較して大きな対流を意図的に起こすことは難しい。そのため、粉全体にお湯が均一に行き渡るよう意識し、水位を慎重にコントロールしながら抽出を進める。約2分30秒をかけ、カップに180ml程度のコーヒー液を抽出した。
+その後、中心から円を描くようにゆっくりとお湯を注いでいく。ドリップバッグの構造上、一般的な透過式[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dawajishima%2520drip%2520coffee%25203%2520mix
 
 カップから立ち上る香りは、柑橘系の爽やかさに、わずかに花の蜜のような甘さが混ざる複雑なアロマが確認された。一口含むと、まず舌の先に広がるのは、オレンジやグレープフルーツを想起させる**明るくクリアな酸味**である。この酸味は刺激的ではなく、むしろ心地よい清涼感として機能する。飲み進めるにつれて、後味には**ヘーゼルナッツのような香ばしさと、穏やかなコク**が残る印象がある。コーヒーの温度がわずかに低下すると、酸味がさらにまろやかになり、全体の甘さが際立つ傾向が観察された。
 
@@ -125,7 +125,7 @@ mediaType: 'beans'
 <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【PostCoffee / ポストコーヒー】</div>
 <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">簡単な無料のコーヒー診断を受けるだけで、世界中の厳選ロースターからあなた好みの豆が毎月届く人気サブスク。初回お試し特別割引実施中！</p>
 <div style="text-align: center;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fpostcoffee.co%2F" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dawajishima%2520drip%2520coffee%25203%2520mix" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
 👉 無料でコーヒー診断を受けてみる
 </a>
 </div>
@@ -175,7 +175,7 @@ mediaType: 'beans'
   <div class="widget-info">
 <h4 class="widget-title">ドリップコーヒーファクトリー淡路島アソート！3種飲み比べが叶える我が家の贅沢カフェ時間</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25AF%25E3%2583%2588%25E3%2583%25AA%25E3%2583%25BC%25E6%25B7%25A1%25E8%25B7%25AF%25E5%25B3%25B6%25E3%2582%25A2%25E3%2582%25BD%25E3%2583%25BC%25E3%2583%2588%25EF%25BC%25813%25E7%25A8%25AE%25E9%25A3%25B2%25E3%2581%25BF%25E6%25AF%2594%25E3%2581%25B9%25E3%2581%258C%25E5%258F%25B6%25E3%2581%2588%25E3%2582%258B%25E6%2588%2591%25E3%2581%258C%25E5%25AE%25B6%25E3%2581%25AE%25E8%25B4%2585%25E6%25B2%25A2%25E3%2582%25AB%25E3%2583%2595%25E3%2582%25A7%25E6%2599%2582%25E9%2596%2593" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dawajishima%2520drip%2520coffee%25203%2520mix" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -192,7 +192,7 @@ mediaType: 'beans'
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">手挽きコーヒーミル（高精度臼式グラインダー）</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">挽きたての香りでコーヒーの旨味が激変</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dawajishima%2520drip%2520coffee%25203%2520mix" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
 </div>
 </div>
@@ -201,7 +201,7 @@ mediaType: 'beans'
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">コーヒードリッパースケール（0.1g単位タイマー付）</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">抽出速度と湯量を正確に計測</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dawajishima%2520drip%2520coffee%25203%2520mix" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
 </div>
 </div>

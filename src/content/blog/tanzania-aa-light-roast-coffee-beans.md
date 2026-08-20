@@ -43,7 +43,7 @@ mediaType: 'beans'
   <div class="widget-info">
 <h4 class="widget-title">浅煎りタンザニアAA、正直レビュー！お湯の温度で香りが全然違う？</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B5%2585%25E7%2585%258E%25E3%2582%258A%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%25B6%25E3%2583%258B%25E3%2582%25A2AA%25E3%2580%2581%25E6%25AD%25A3%25E7%259B%25B4%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E3%2581%258A%25E6%25B9%25AF%25E3%2581%25AE%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A7%25E9%25A6%2599%25E3%2582%258A%25E3%2581%258C%25E5%2585%25A8%25E7%2584%25B6%25E9%2581%2595%25E3%2581%2586%25EF%25BC%259F" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B5%2585%25E7%2585%258E%25E3%2582%258A%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%25B6%25E3%2583%258B%25E3%2582%25A2AA%25E3%2580%2581%25E6%25AD%25A3%25E7%259B%25B4" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -68,9 +68,9 @@ mediaType: 'beans'
 
 このタンザニア・AAの浅煎り豆を初めて淹れた際、その透明感のあるクリアな酸味に感銘を受けた。まるで澄んだ高地の水を思わせるような、澄み渡る後味である。これは一体どのような抽出メカニズムによって生み出されるのだろうか。浅煎り豆の抽出で最も重視されるのは、やはり「酸味」と「香りの成分」をいかにバランス良く引き出すかである。特にこの豆の場合、「上品な酸味」という表現が使われていることからも、嫌な刺激ではなく、心地よいフルーティーな酸味を意図していることが伺える。
 
-筆者がこの豆で試したのは、高水温（90℃〜93℃）でのスピーディーな抽出だ。使用したのはハリオV60のような円錐形ペーパー[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC)である。この形状のドリッパーは、お湯の通り道が一つに集中するため、抽出速度を上げやすい。浅煎り豆は、その青臭さ（ピラジン類）が抽出後半に出やすい傾向があるため、抽出時間を短縮することで、雑味となる成分が溶け出す前に抽出を終える「バイパス抽出（希釈）」を意識した。具体的には、まず豆全体をしっかりと蒸らし、そこから一投目を素早く、そして抽出のピークが過ぎたところで二投目を注ぎ、最後の滴が落ちきる前にドリッパーを外す。こうすることで、過抽出を防ぎ、クリアな酸味と香りを際立たせることが可能となる。
+筆者がこの豆で試したのは、高水温（90℃〜93℃）でのスピーディーな抽出だ。使用したのはハリオV60のような円錐形ペーパー[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B5%2585%25E7%2585%258E%25E3%2582%258A%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%25B6%25E3%2583%258B%25E3%2582%25A2AA%25E3%2580%2581%25E6%25AD%25A3%25E7%259B%25B4
 
-また、挽き目も非常に重要だ。浅煎りの場合、やや粗めに挽くことで、お湯とコーヒー粉の接触時間を短くし、余分な成分の抽出を抑える。筆者が愛用している[ポーレックス [コーヒーミル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D)・プロ](https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-1000-tanzania%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000163%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)のような、粒度が安定したミルは、狙った通りの味を出す上で欠かせない。粒度が不揃いだと、細かすぎる粉からは過抽出の成分が、粗すぎる粉からは成分が十分に抽出されず、結果として味のバランスを崩してしまう。この繊細なバランスこそが、浅煎りコーヒーの奥深さであり、醍醐味と言えるだろう。
+また、挽き目も非常に重要だ。浅煎りの場合、やや粗めに挽くことで、お湯とコーヒー粉の接触時間を短くし、余分な成分の抽出を抑える。筆者が愛用している[ポーレックス [コーヒーミル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B5%2585%25E7%2585%258E%25E3%2582%258A%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%25B6%25E3%2583%258B%25E3%2582%25A2AA%25E3%2580%2581%25E6%25AD%25A3%25E7%259B%25B4
 
 「コーヒーばかの店」の焙煎技術についても触れておきたい。彼らは「これでしか出せない味がある」と語り、3種類もの焙煎機を使い分けているという。浅煎りのこのタンザニア・AA（キリマンジャロ）は、その豆の個性を最大限に引き出すために、おそらく熱風式ではない直火式の焙煎機で、短時間でしっかりと芯まで熱を通し、果実のような酸味と黒糖のような甘さを引き出していると想像できる。シナモンローストという焙煎度合いも、まさにその狙いを裏付けている。シナモンローストは、豆の表面がシナモン色になる程度の非常に浅い焙煎で、コーヒー豆が持つ本来の香りや酸味を強く残すのが特徴だ。この焙煎度だからこそ、タンザニア・AAが持つ「上品な酸味」を際立たせている。
 
@@ -113,7 +113,7 @@ mediaType: 'beans'
 <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【PostCoffee / ポストコーヒー】</div>
 <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">簡単な無料のコーヒー診断を受けるだけで、世界中の厳選ロースターからあなた好みの豆が毎月届く人気サブスク。初回お試し特別割引実施中！</p>
 <div style="text-align: center;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fpostcoffee.co%2F" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B5%2585%25E7%2585%258E%25E3%2582%258A%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%25B6%25E3%2583%258B%25E3%2582%25A2AA%25E3%2580%2581%25E6%25AD%25A3%25E7%259B%25B4" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
 👉 無料でコーヒー診断を受けてみる
 </a>
 </div>
@@ -167,7 +167,7 @@ mediaType: 'beans'
   <div class="widget-info">
 <h4 class="widget-title">浅煎りタンザニアAA、正直レビュー！お湯の温度で香りが全然違う？</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B5%2585%25E7%2585%258E%25E3%2582%258A%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%25B6%25E3%2583%258B%25E3%2582%25A2AA%25E3%2580%2581%25E6%25AD%25A3%25E7%259B%25B4%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E3%2581%258A%25E6%25B9%25AF%25E3%2581%25AE%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A7%25E9%25A6%2599%25E3%2582%258A%25E3%2581%258C%25E5%2585%25A8%25E7%2584%25B6%25E9%2581%2595%25E3%2581%2586%25EF%25BC%259F" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B5%2585%25E7%2585%258E%25E3%2582%258A%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%25B6%25E3%2583%258B%25E3%2582%25A2AA%25E3%2580%2581%25E6%25AD%25A3%25E7%259B%25B4" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -184,7 +184,7 @@ mediaType: 'beans'
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">手挽きコーヒーミル（高精度臼式グラインダー）</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">挽きたての香りでコーヒーの旨味が激変</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B5%2585%25E7%2585%258E%25E3%2582%258A%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%25B6%25E3%2583%258B%25E3%2582%25A2AA%25E3%2580%2581%25E6%25AD%25A3%25E7%259B%25B4" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
 </div>
 </div>
@@ -193,7 +193,7 @@ mediaType: 'beans'
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">コーヒードリッパースケール（0.1g単位タイマー付）</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">抽出速度と湯量を正確に計測</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B5%2585%25E7%2585%258E%25E3%2582%258A%25E3%2582%25BF%25E3%2583%25B3%25E3%2582%25B6%25E3%2583%258B%25E3%2582%25A2AA%25E3%2580%2581%25E6%25AD%25A3%25E7%259B%25B4" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
 </div>
 </div>

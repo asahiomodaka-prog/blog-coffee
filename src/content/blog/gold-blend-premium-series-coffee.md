@@ -42,7 +42,7 @@ mediaType: 'beans'
   <div class="widget-info">
 <h4 class="widget-title">ゴールドブレンドプレミアムの香りと味わい。毎朝の一杯を格上げする本音レビュー</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2583%2597%25E3%2583%25AC%25E3%2583%259F%25E3%2582%25A2%25E3%2583%25A0%25E3%2581%25AE%25E9%25A6%2599%25E3%2582%258A%25E3%2581%25A8%25E5%2591%25B3%25E3%2582%258F%25E3%2581%2584%25E3%2580%2582%25E6%25AF%258E%25E6%259C%259D%25E3%2581%25AE%25E4%25B8%2580%25E6%259D%25AF%25E3%2582%2592%25E6%25A0%25BC%25E4%25B8%258A%25E3%2581%2592%25E3%2581%2599%25E3%2582%258B%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dgold%2520blend%2520premium%2520series%2520coffee" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -103,7 +103,7 @@ mediaType: 'beans'
 
 使用した豆の量は、200mlのコーヒーを抽出するために15g。そして、抽出に使うお湯の温度は、個人的に最もバランスが良いと感じる90℃に設定した。熱すぎるお湯は苦味や渋みを過剰に抽出しやすく、逆に低すぎると酸味が強調されすぎたり、コクが出にくかったりすることがある。経験上、90℃が最もこのブレンドの味特性を引き出すと判断した。これは、中深煎りの豆が持つ繊細なアロマと適度な苦味を損なうことなく、酸味をまろやかに引き出し、雑味の抽出を抑える効果があるためである。
 
-[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC)にセットした挽いた豆全体に、ゆっくりと少量のお湯を注ぎ、30秒間の蒸らしを行った。新鮮な豆は、この蒸らしの段階でドーナツ状に大きく膨らみ、内部に閉じ込められた二酸化炭素を放出する。この脱気プロセスは、お湯がコーヒー粉全体に均一に浸透し、成分を効率的かつムラなく抽出するための極めて重要な工程である。この豆も期待通りに膨らみ、ナッツとチョコレートを思わせる甘く香ばしいアロマが豊かに立ち上った。
+[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dgold%2520blend%2520premium%2520series%2520coffee
 
 蒸らしが終わったら、ドリッパーの中心から「の」の字を描くように、お湯が絶えず落ちていかない程度の速さで丁寧にドリップした。粉の層が崩れすぎないよう、そして均一にお湯が浸透するように意識しながら抽出を進め、約2分30秒で目標の量まで落とし切った。
 
@@ -127,7 +127,7 @@ mediaType: 'beans'
 
 しかし、大容量ならではの注意点も存在する。それは鮮度の維持である。コーヒー豆は酸素、光、熱、湿気に弱く、これらに触れることで酸化が進み、風味が劣化する。公式の保存方法にも「密閉容器に入れ冷暗所保存（開封後は早めに消費推奨）」とあるが、500gの袋が4つもあると、消費ペースによっては後半の豆の鮮度が落ちてしまう可能性がある。
 
-私の場合は、まず1袋を開封し、残りの未開封の3袋は、冷凍庫で保存するようにしている。開封した1袋も、密閉性の高い[キャニスター](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%258B%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC)に入れ、冷暗所に保管し、できるだけ早く消費するよう心がけている。冷凍保存することで、豆の酸化を遅らせ、風味を比較的長く保つことが可能となる。ただし、冷凍庫から出した豆は、急激な温度変化による結露を防ぐため、挽く前に必ず常温に戻すことが肝要である。結露した水分は豆の劣化を早めるだけでなく、グラインダーの故障原因にもなり得るため、この一手間を惜しまないことが、最後まで豆本来の風味を維持する鍵となる。
+私の場合は、まず1袋を開封し、残りの未開封の3袋は、冷凍庫で保存するようにしている。開封した1袋も、密閉性の高い[キャニスター](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dgold%2520blend%2520premium%2520series%2520coffee
 
 [ゴールド ブレンド プレミアムシリーズ](https://hb.afl.rakuten.co.jp/hgc/g00tbho1.ve2q5bdd.g00tbho1.ve2q671b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdripcoffee%2Fgold-500-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdripcoffee%2Fi%2F10000184%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
@@ -138,7 +138,7 @@ mediaType: 'beans'
 <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【PostCoffee / ポストコーヒー】</div>
 <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">簡単な無料のコーヒー診断を受けるだけで、世界中の厳選ロースターからあなた好みの豆が毎月届く人気サブスク。初回お試し特別割引実施中！</p>
 <div style="text-align: center;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fpostcoffee.co%2F" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dgold%2520blend%2520premium%2520series%2520coffee" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
 👉 無料でコーヒー診断を受けてみる
 </a>
 </div>
@@ -189,7 +189,7 @@ mediaType: 'beans'
   <div class="widget-info">
 <h4 class="widget-title">ゴールドブレンドプレミアムの香りと味わい。毎朝の一杯を格上げする本音レビュー</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2583%2597%25E3%2583%25AC%25E3%2583%259F%25E3%2582%25A2%25E3%2583%25A0%25E3%2581%25AE%25E9%25A6%2599%25E3%2582%258A%25E3%2581%25A8%25E5%2591%25B3%25E3%2582%258F%25E3%2581%2584%25E3%2580%2582%25E6%25AF%258E%25E6%259C%259D%25E3%2581%25AE%25E4%25B8%2580%25E6%259D%25AF%25E3%2582%2592%25E6%25A0%25BC%25E4%25B8%258A%25E3%2581%2592%25E3%2581%2599%25E3%2582%258B%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dgold%2520blend%2520premium%2520series%2520coffee" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -206,7 +206,7 @@ mediaType: 'beans'
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">手挽きコーヒーミル（高精度臼式グラインダー）</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">挽きたての香りでコーヒーの旨味が激変</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dgold%2520blend%2520premium%2520series%2520coffee" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
 </div>
 </div>
@@ -215,7 +215,7 @@ mediaType: 'beans'
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">コーヒードリッパースケール（0.1g単位タイマー付）</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">抽出速度と湯量を正確に計測</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dgold%2520blend%2520premium%2520series%2520coffee" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
 </div>
 </div>

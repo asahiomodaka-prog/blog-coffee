@@ -42,7 +42,7 @@ mediaType: 'beans'
   <div class="widget-info">
 <h4 class="widget-title">「深煎りお試しコーヒー」は本当に買い？味のブレに悩む人への本音レビュー</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2581%258A%25E8%25A9%25A6%25E3%2581%2597%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2580%258D%25E3%2581%25AF%25E6%259C%25AC%25E5%25BD%2593%25E3%2581%25AB%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2581%25AB%25E6%2582%25A9%25E3%2582%2580%25E4%25BA%25BA%25E3%2581%25B8%25E3%2581%25AE%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Ddark%2520roast%2520coffee%2520trial" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -73,7 +73,7 @@ mediaType: 'beans'
 
 次に「挽き目」についてである。深煎り豆は浅煎りのものに比べて密度が高く、硬い傾向にあるため、やや粗めに挽くことで過抽出を防ぎ、クリアな苦味と甘みを引き出しやすくなる。ただし、粗すぎると抽出が不十分となり、薄っぺらい味になる。この「適切な粗さ」を見つける工程こそ、自宅ドリップの醍醐味の一つである。
 
-そして、「抽出時間」も重要な要素である。深煎りの豆は濃い色合いから長時間抽出しがちだが、これは注意が必要である。長く抽出しすぎると、えぐみや雑味まで抽出してしまい、豆本来の個性が損なわれることがある。あくまでスピーディーに、狙った成分だけを溶かし出す意識が求められる。例えば、ハリオV60のような円錐[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC)は、湯の落ちる速度が速く、短時間で効率的に抽出できるため、深煎りのクリアな苦味とコクを引き出すのに適している。湯を注ぐ際には、まず粉全体を湿らせる「蒸らし」を20秒ほど行い、その後は中心から外側へ、そしてまた中心へと、ゆっくりと円を描くように湯を注ぎ、豆の成分が均一に抽出されるよう促す。これにより、よりバランスの取れた味わいが生まれる。
+そして、「抽出時間」も重要な要素である。深煎りの豆は濃い色合いから長時間抽出しがちだが、これは注意が必要である。長く抽出しすぎると、えぐみや雑味まで抽出してしまい、豆本来の個性が損なわれることがある。あくまでスピーディーに、狙った成分だけを溶かし出す意識が求められる。例えば、ハリオV60のような円錐[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Ddark%2520roast%2520coffee%2520trial
 
 このセットはサイフォン、台形ドリッパー、円錐ドリッパー（ハリオV60、コーノ式）、フレンチプレス、ネルドリップ、水出しなど、様々な抽出器具に対応しているが、深煎りの複雑な風味を最大限に引き出すなら、ペーパードリップ（特に円錐形）か、あるいはフレンチプレスが推奨される。ペーパードリップはクリアな口当たりと、深煎りながらもキレのある後味を楽しめる。一方、フレンチプレスは豆のオイル分まで抽出されるため、より重厚でとろみのある舌触り、そして豆本来の持つ甘みをダイレクトに感じることが可能である。
 
@@ -91,7 +91,7 @@ mediaType: 'beans'
 
 深煎りの豆は、その性質上、比較的新鮮なうちに消費するのが望ましい。このお試しセットの量（140g）は、一人暮らしや少人数の家庭で、数週間で飲み切るにはちょうど良い。大量に購入して消費しきれずに風味が落ちてしまう、といった心配がないのも利点である。もし気に入れば、同じ「コーヒーばかの店」でリピート購入することも可能であり、他にも様々な種類の豆を試すきっかけにもなる。
 
-保存に関しては、商品詳細にも記載がある通り「直射日光、高温多湿を避け冷暗所に保存」が基本で、「冷凍・冷蔵をお勧めする。開封後は、できるだけ早くお召し上がりください。」とのことである。これは、コーヒー豆を美味しく保つための鉄則である。密封性の高い[キャニスター](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%258B%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC)を使用し、冷蔵庫で保管するなどの対策は、豆の劣化を防ぐために重要である。この一手間が毎日のコーヒーの質を大きく左右する。開封したての深煎り豆の芳醇な香りは、ささやかながらも満足感をもたらす瞬間である。本セットは「お試し」という位置づけだが、その品質とコストパフォーマンスは、日常使いのレギュラーコーヒーとしても十分に満足できるレベルにある。
+保存に関しては、商品詳細にも記載がある通り「直射日光、高温多湿を避け冷暗所に保存」が基本で、「冷凍・冷蔵をお勧めする。開封後は、できるだけ早くお召し上がりください。」とのことである。これは、コーヒー豆を美味しく保つための鉄則である。密封性の高い[キャニスター](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Ddark%2520roast%2520coffee%2520trial
 
 ## 珈琲愛好家たちの声：レビューが語る納得の評価と実体験
 
@@ -112,7 +112,7 @@ mediaType: 'beans'
 <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【PostCoffee / ポストコーヒー】</div>
 <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">簡単な無料のコーヒー診断を受けるだけで、世界中の厳選ロースターからあなた好みの豆が毎月届く人気サブスク。初回お試し特別割引実施中！</p>
 <div style="text-align: center;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fpostcoffee.co%2F" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Ddark%2520roast%2520coffee%2520trial" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
 👉 無料でコーヒー診断を受けてみる
 </a>
 </div>
@@ -166,7 +166,7 @@ mediaType: 'beans'
   <div class="widget-info">
 <h4 class="widget-title">「深煎りお試しコーヒー」は本当に買い？味のブレに悩む人への本音レビュー</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2581%258A%25E8%25A9%25A6%25E3%2581%2597%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2580%258D%25E3%2581%25AF%25E6%259C%25AC%25E5%25BD%2593%25E3%2581%25AB%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2581%25AB%25E6%2582%25A9%25E3%2582%2580%25E4%25BA%25BA%25E3%2581%25B8%25E3%2581%25AE%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Ddark%2520roast%2520coffee%2520trial" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -183,7 +183,7 @@ mediaType: 'beans'
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">手挽きコーヒーミル（高精度臼式グラインダー）</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">挽きたての香りでコーヒーの旨味が激変</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Ddark%2520roast%2520coffee%2520trial" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
 </div>
 </div>
@@ -192,7 +192,7 @@ mediaType: 'beans'
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">コーヒードリッパースケール（0.1g単位タイマー付）</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">抽出速度と湯量を正確に計測</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Ddark%2520roast%2520coffee%2520trial" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
 </div>
 </div>

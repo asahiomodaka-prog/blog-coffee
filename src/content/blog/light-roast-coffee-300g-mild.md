@@ -40,7 +40,7 @@ mediaType: 'beans'
   <div class="widget-info">
 <h4 class="widget-title">浅煎りコーヒー豆は酸っぱくない？苦味ゼロの秘訣と本音レビュー！</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B5%2585%25E7%2585%258E%25E3%2582%258A%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2581%25AF%25E9%2585%25B8%25E3%2581%25A3%25E3%2581%25B1%25E3%2581%258F%25E3%2581%25AA%25E3%2581%2584%25EF%25BC%259F%25E8%258B%25A6%25E5%2591%25B3%25E3%2582%25BC%25E3%2583%25AD%25E3%2581%25AE%25E7%25A7%2598%25E8%25A8%25A3%25E3%2581%25A8%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dlight%2520roast%2520coffee%2520300g%2520mild" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -116,7 +116,7 @@ Specialtycoffee蒼の哲学である「飲み疲れしないこと」は、自�
 <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【PostCoffee / ポストコーヒー】</div>
 <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">簡単な無料のコーヒー診断を受けるだけで、世界中の厳選ロースターからあなた好みの豆が毎月届く人気サブスク。初回お試し特別割引実施中！</p>
 <div style="text-align: center;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fpostcoffee.co%2F" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dlight%2520roast%2520coffee%2520300g%2520mild" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
 👉 無料でコーヒー診断を受けてみる
 </a>
 </div>
@@ -127,7 +127,7 @@ Specialtycoffee蒼の哲学である「飲み疲れしないこと」は、自�
 
 浅煎りコーヒーの魅力を最大限に引き出すためには、抽出方法との相性を理解することが重要である。深煎りのような重厚なコクは、フレンチプレスやエスプレッソで力強く抽出するのに向いているが、このSpecialtycoffee蒼の[浅煎り コーヒー豆 300g 苦くない](https://hb.afl.rakuten.co.jp/hgc/g00tg3e1.ve2q597b.g00tg3e1.ve2q665b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fspeciltycoffeesoh%2Fen300%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fspeciltycoffeesoh%2Fi%2F10000057%2F&rafcid=wsc_i_is_732732a1-5b08-44e7-a7a6-bdd68daad98b)のようなフルーティーでクリーンな浅煎り豆には、より繊細な抽出方法が推奨される。
 
-最も推奨される抽出方法は、やはりハンドドリップである。特に、透過式のコーヒー[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC)と細口のケトルを使用して、湯をゆっくりと、そして均一に粉全体に注ぎ込むことで、豆本来の複雑な香りと甘みを丁寧に引き出すことができる。抽出する湯温は前述の通り90℃から93℃が目安であるが、品種や焙煎度合い、個人の好みに応じて88℃程度に調整すると、より柔らかな酸味と甘みが際立つ場合もあるため、試行錯誤が推奨される。粉の挽き目は中細挽き〜中挽きが基本であるが、酸味をもう少し抑えたい場合は、気持ち細かめに挽いてみるのも一つの方法である。抽出スピードも重要な要素であり、一般的な2分半〜3分を目安に、コーヒーが落ちる雫の色や流量を見ながら調整することで、浅煎り豆の持つ個性を最大限に開花させる鍵となる。
+最も推奨される抽出方法は、やはりハンドドリップである。特に、透過式のコーヒー[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dlight%2520roast%2520coffee%2520300g%2520mild
 
 フレンチプレスもまた、この豆の魅力を引き出す方法の一つである。フレンチプレスはコーヒーオイルを余すことなく抽出するため、浅煎り豆の持つ豊かなアロマと、口の中に広がるボディ感を損なうことなく感じられる。ただし、ハンドドリップに比べて微粉がカップに残りやすいため、よりクリアな味わいを求めるならば、メッシュフィルターが二重になっている器具を使用するか、飲む直前にデキャンタに移し替えるなどの工夫が求められる。また、ペーパーフィルターを併用することで、よりクリーンな口当たりを実現することも可能である。
 
@@ -145,7 +145,7 @@ Specialtycoffee蒼の哲学である「飲み疲れしないこと」は、自�
 
 次に、浅煎り豆は深煎り豆に比べて、抽出の技術がより試される側面がある。深煎りは多少粗い抽出でも、その強い苦味やコクが多少の欠点を覆い隠す傾向にあるが、浅煎りは非常にデリケートである。湯温が低すぎれば酸味が過剰に強調されたり、高すぎれば苦味が際立ったりすることがある。また、挽き目が適切でなければ、お湯が粉の中を均一に流れない「チャネリング」が発生し、成分がうまく抽出されずに物足りない味になることもある。これはある意味、コーヒー抽出の奥深さを知る良い機会でもあるが、毎朝安定して「最高の味」を出すには、ある程度の慣れと試行錯誤が必要である。
 
-これを補うためのアドバイスとしては、まず「挽き目の調整」と「湯温の安定」に意識を集中することが重要である。手動の[コーヒーミル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D)を使用している場合は、挽き目のダイヤルを少しずつ変えてみて、自分の好みや豆に合うポイントを探すのが良い。電動ミルであれば、グラインド時間を微調整することも有効である。湯温に関しては、温度計付きのケトルを使用するのが最も確実な方法である。もしなければ、沸騰したお湯を別のポットに移し替え、数秒待ってから注ぎ始めるだけでも、温度の安定性は増し、適切な抽出を促すことができる。
+これを補うためのアドバイスとしては、まず「挽き目の調整」と「湯温の安定」に意識を集中することが重要である。手動の[コーヒーミル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dlight%2520roast%2520coffee%2520300g%2520mild
 
 また、浅煎り豆は深煎りに比べて、抽出後の微粉がドリッパーやサーバーに残りやすい傾向がある。特にフレンチプレスで抽出した際には、微粉がフィルターに詰まりやすく、洗浄に少し手間がかかる場合もある。使用後はすぐに器具を洗い流す習慣をつけることが大切である。水洗いだけでも十分であるが、定期的に専用のクリーナーでメンテナンスを行うことで、器具を長持ちさせ、コーヒーの風味を損なわない状態を保つことができる。
 
@@ -166,7 +166,7 @@ Specialtycoffee蒼の哲学である「飲み疲れしないこと」は、自�
   <div class="widget-info">
 <h4 class="widget-title">浅煎りコーヒー豆は酸っぱくない？苦味ゼロの秘訣と本音レビュー！</h4>
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B5%2585%25E7%2585%258E%25E3%2582%258A%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2581%25AF%25E9%2585%25B8%25E3%2581%25A3%25E3%2581%25B1%25E3%2581%258F%25E3%2581%25AA%25E3%2581%2584%25EF%25BC%259F%25E8%258B%25A6%25E5%2591%25B3%25E3%2582%25BC%25E3%2583%25AD%25E3%2581%25AE%25E7%25A7%2598%25E8%25A8%25A3%25E3%2581%25A8%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dlight%2520roast%2520coffee%2520300g%2520mild" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
   </div>
 </div>
 
@@ -183,7 +183,7 @@ Specialtycoffee蒼の哲学である「飲み疲れしないこと」は、自�
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">手挽きコーヒーミル（高精度臼式グラインダー）</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">挽きたての香りでコーヒーの旨味が激変</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dlight%2520roast%2520coffee%2520300g%2520mild" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
 </div>
 </div>
@@ -192,7 +192,7 @@ Specialtycoffee蒼の哲学である「飲み疲れしないこと」は、自�
 <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">コーヒードリッパースケール（0.1g単位タイマー付）</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">抽出速度と湯量を正確に計測</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dlight%2520roast%2520coffee%2520300g%2520mild" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
 </div>
 </div>
