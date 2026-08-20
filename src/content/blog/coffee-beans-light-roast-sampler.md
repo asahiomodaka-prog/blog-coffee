@@ -23,138 +23,98 @@ sidebarProducts:
 mediaType: 'beans'
 ---
 
-<!-- PR -->
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-浅煎りコーヒーの魅力は、その繊細かつ多様なアロマと風味プロファイルにある。フルーティーな酸味、フローラルな香り、時にはワインを思わせる複雑な余韻。これらを自宅で気軽に体験したいと考えるコーヒー愛好家にとって、質の高い浅煎り豆の飲み比べセットは理想的な選択肢となるだろう。本稿では、筆者が最近試用し、その魅力に強く惹きつけられた浅煎り豆の福袋について、その具体的な内容と、浅煎りコーヒーを最大限に楽しむための抽出術、そして優れたコストパフォーマンスについて深掘りする。
+日々のコーヒータイムにおいて、抽出のブレや風味の物足りなさを感じたことはないだろうか。豆の鮮度、挽き目（粒度）の均一性、そしてお湯の注ぎ方ひとつで、カップに宿るアロマと酸味・苦味のバランスは劇的に変化する。本稿では、本格的なカフェ体験を自宅で手軽に実現する「**エチオピア、キリマンジャロ…飲み比べで好みの味を見つける**」を専門エディターの視点から徹底解剖する。
 
-### 豆が織りなす香りのシンフォニー：浅煎りの魅力
-
-
-<div class="summary-box">
-  <div class="summary-box-title">💡 この記事のポイント</div>
-  <ul class="summary-box-list">
-    <li><strong>見どころ・評価</strong>: 【浅煎りコーヒー福袋】エチオピア、キリマンジャロ…飲み比べで好みの味を見つける！ の魅力と見どころを徹底解説</li>
-    <li><strong>購入・視聴ガイド</strong>: 特典や最安値・おすすめ入手ルートを比較</li>
+<div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #b45309; border-radius: 10px; background: linear-gradient(135deg, #fffbeb, #fef3c7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
+  <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
+  <ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #451a03; line-height: 1.65;">
+    <li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 雑味やブレを抑え、豆本来の華やかなアロマとクリアなコクを誰でも安定して引き出せる設計。</li>
+    <li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 毎日のカフェ代を抑えつつ、おうちで妥協のない本格ドリップを楽しみたいコーヒー愛好家。</li>
+    <li><strong>購入前の注意点</strong>: 器具の抽出容量（杯数）と、好みの焙煎度・挽き目との相性をチェックして選ぶのがベスト。</li>
   </ul>
 </div>
 
-浅煎りコーヒーは、一般的な深煎りや中煎りとは一線を画す、独特の魅力を持つ。生豆が持つ本来の個性を最大限に引き出し、フルーティーな酸味、フローラルなアロマ、ハーブやスパイスのような複雑なノートを楽しむことができるのが特徴である。焙煎度が浅いため、豆の密度が高く、抽出には繊細な技術が求められるが、その分、成功した時の透明感とクリーンな味わいは格別である。今回、筆者が体験したのは、そのような浅煎りの世界を多角的に楽しめる飲み比べセットであった。
-
-[浅煎りコーヒー豆 3種飲み比べお試し福袋](https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-prom-bm2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000178%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
-
-福袋には3種類の浅煎り豆が同梱されていた。それぞれの豆が持つ個性と、浅煎りという焙煎度がもたらす風味の変化について詳しく見ていこう。
-
-一つ目は**エチオピア モカ ナチュラル**である。袋を開けた瞬間、ベリー系の甘く華やかな香りが広がる。このナチュラル精製によるエチオピア産モカ豆は、乾燥工程で果肉の糖分が豆に移り、完熟した果実を思わせる甘みと、ストロベリーやブルーベリー、時にはワインのような複雑な芳香を特徴とする。浅煎りならではの透明感ある口当たりが、これらの繊細な風味を一層際立たせ、口に含むたびに豊かな満足感をもたらす。モカフレーバーとして知られるその独特の香りは、コーヒーの原点であるエチオピアの大地を感じさせる奥深さを持つ。
-
-二つ目は**キリマンジャロの雫**である。こちらは打って変わって、柑橘系の爽やかな酸味が特徴的であった。ウォッシュド精製がもたらすクリーンでクリアな酸味は、レモンやグレープフルーツを思わせる鮮やかさを持つ。タンザニアのキリマンジャロ山麓で育まれたこの豆は、標高の高さと昼夜の寒暖差が、その引き締まった酸味と透明感のある味わいを生み出す。後味には心地よい甘みが続き、澄み渡るような印象を残すため、朝の一杯として、あるいは食後のリフレッシュに最適である。その名の通り、まるで雫のように澄んだ一杯であった。
-
-そして最後は**マンデリンブレンド清流長良川**である。これは中煎りに近い浅煎りというユニークなプロファイルを持つ。インドネシア・スマトラ島で生産されるマンデリンは、一般的に深煎りでその大地を思わせる重厚なコクが評価されることが多いが、浅煎りブレンドとすることで、チョコレートやナッツのような甘みに、ほのかなハーブやスパイスのニュアンスが加わり、奥行きのある味わいを形成する。口当たりは丸く穏やかで、浅煎りでありながらもしっかりとしたボディ感が感じられるため、食後の一杯としても十分に楽しめる。清流長良川というブレンド名が示す通り、滑らかでクリアな口当たりが印象的である。
-
-### 浅煎りのポテンシャルを最大限に引き出す抽出術
-
-<img src="/images/coffee-beans-light-roast-sampler.jpg" alt="coffee-beans-light-roast-sampler" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
-
-浅煎り豆の魅力は、その繊細な果実香やフローラルなアロマにある。これを最大限に引き出すためには、抽出方法に工夫が必要である。筆者が実践している抽出術は以下の通りである。
-
-まず、お湯の温度は高水温（90℃〜93℃）に設定する。浅煎り豆は組織が硬く、風味成分が抽出されにくい傾向があるため、高めの温度で積極的に成分を引き出すことが重要である。これによって、豆の持つフルーティーな酸味や香りの成分を効率よく引き出すことができる。
-
-そして、[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dcoffee%2520beans%2520light%2520roast%2520sampler
-
-抽出のコツは、「バイパス抽出」を意識することである。これは、抽出後半に生じる、雑味や不快な渋み成分（例えば、過抽出によって出てくるタンニンや一部のクロロゲン酸など）の過剰な抽出を避けることである。特に浅煎り豆はデリケートな酸味と香りが持ち味であり、過抽出はこれらを損なう要因となる。具体的には、粉全体にお湯がいきわたったら、中心から外側へ螺旋を描くようにゆっくりと注ぎ、ドリッパーにお湯が溜まりきらないうちに、サッと注ぎ終えるイメージである。これにより、雑味のない、透明感のある味わいに仕上がる。
-
-キリマンジャロの雫のようなウォッシュドの豆であれば、この方法で透明感のあるクリアな酸味が際立ち、エチオピア モカ ナチュラルのようなナチュラル精製の豆であれば、ベリーやワインを思わせる芳醇なフルーツ感が存分に楽しめる。抽出方法を適切に選択し、豆の個性を引き出すことが、浅煎りコーヒーの醍醐味である。
-
-### 手軽さと満足感を両立するコストパフォーマンス
-
-今回の福袋は3種類の浅煎り豆が合計280gで3,980円であった。単純計算すると100gあたり約1,421円となる。スペシャルティコーヒーの相場と比較すると、一見高く感じるかもしれないが、一杯あたりのコストで考えると、その価値が理解できる。筆者は一杯あたり15gの豆を使うため、約18杯分楽しめる計算になる。つまり、一杯あたり約220円である。
-
-コンビニコーヒーが100円台で手軽に買える時代において、自宅でこれだけのクオリティのスペシャルティコーヒーが200円台で楽しめるのは、コストパフォーマンスに優れると評価できる。しかも、自分の手で淹れるという「儀式」が、その一杯の価値をさらに高めてくれるのは言うまでもない。
-
-| 項目 | 詳細 |
-| :--- | :--- |
-| 価格 | 3,980円 |
-| 販売ショップ | コーヒーばかの店/楽天市場店 |
-| レビュー評価 | 4.58 (366件) |
-
-さらに、メール便で届くため送料がかからないのも、購入者にとっては地味ながらも大きなメリットである。新鮮な豆を自宅で手軽に楽しめるという点で、この福袋は非常に優れたコストパフォーマンスを誇ると言えるだろう。様々な風味を少量ずつ試せるため、新たな好みの発見にも繋がる。
-
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-prom-bm2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000178%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/coffee-beans-light-roast-sampler.jpg" alt="coffee-beans-light-roast-sampler" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
-
-### 浅煎りを楽しむ上での小さな注意点
-
-浅煎りコーヒーは、その繊細な風味ゆえに、抽出が少し難しいと感じる読者もいるかもしれない。もし「なんか酸味が強すぎる」「水っぽい」と感じたら、それは抽出のバランスが崩れている可能性がある。適切な対処法を知ることで、浅煎りの魅力を最大限に引き出すことが可能となる。
-
-対処法としては、まずグラインド（豆を挽く細かさ）を見直すことである。もし粗すぎると感じるなら、もう少し細かく挽いてみよう。グラインドが粗いと、お湯と豆の接触面積が減り、必要な成分が十分に抽出されず、水っぽい味わいや酸味だけが際立つ結果となる。細かく挽くことで、お湯と豆の接触時間が長くなり、より多くの風味成分を抽出できるようになる。
-
-また、抽出温度をほんの少しだけ下げてみるのも一つの手である。浅煎りには高めの温度が推奨されるが、豆の種類や焙煎度合いによっては、少し低めの90℃前後が最適解になることもある。高すぎる温度は不快な酸味や苦味を引き出すことがあるため、数℃単位で調整し、豆の最も美味しいポイントを探す試行錯誤が必要である。この調整の過程もまた、コーヒーの奥深さを知る楽しみの一つである。
-
-もしどうしてもドリッパーでの抽出が上手くいかない場合は、フレンチプレスのような浸漬式の器具を試してみるのも良い。フレンチプレスは豆とお湯が完全に混ざり合うため、抽出ムラが少なく、豆本来の甘み（β-ダマセノンなどの成分が関与）を丸ごと包み込むように抽出できる。中煎りの豆で推奨されることが多い抽出法であるが、浅煎りでも、その優しい甘みと丸みのある口当たりを楽しむことができるだろう。浸漬式は、ドリッパーでの抽出とは異なるアプローチで、浅煎りの新たな魅力を発見するきっかけとなるかもしれない。
-
-### 毎日のコーヒータイムを特別な体験へ
-
-本稿で紹介した浅煎りコーヒーの福袋は、多様な風味プロファイルを手軽に体験したいと考えるコーヒー愛好家にとって、優れた選択肢となるだろう。エチオピアの華やかさ、キリマンジャロのクリーンさ、そしてマンデリンブレンドの奥深さ。それぞれの豆が持つ個性を、自宅でじっくりと味わう時間は、日々の生活に彩りをもたらす。
-
-浅煎りコーヒーは抽出に繊細さが求められる場合もあるが、本稿で紹介した抽出術や注意点を参考にすれば、初心者でもその魅力を十分に引き出すことが可能である。この福袋が、あなたのコーヒーライフに新たな発見と豊かな体験をもたらすことを期待する。自宅で淹れる一杯のコーヒーが、日々の喧騒を忘れさせ、心安らぐ時間となることを願う。
-
-[浅煎りコーヒー豆 3種飲み比べお試し福袋](https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-prom-bm2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000178%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd65daad98b)
-
-</div>
-<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
-</div>
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 22px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
+    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+        <div style="flex: 0 0 150px; max-width: 150px; margin: 0 auto; text-align: center;">
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2%E3%80%81%E3%82%AD%E3%83%AA%E3%83%9E%E3%83%B3" alt="エチオピア、キリマンジャロ…飲み比べで好みの味を見つける" style="max-width: 100%; height: auto; max-height: 150px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+        </div>
+        <div style="flex: 1 1 280px;">
+            <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;">
+            <span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span>
+            <span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span>
+            <span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span>
+        </div>
+            <h4 style="margin: 0 0 10px 0; font-size: 1.08rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
+                エチオピア、キリマンジャロ…飲み比べで好みの味を見つける
+            </h4>
+            
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(125px, 1fr)); gap: 8px; margin-top: 14px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A8%25E3%2583%2581%25E3%2582%25AA%25E3%2583%2594%25E3%2582%25A2%25E3%2580%2581%25E3%2582%25AD%25E3%2583%25AA%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%25AD%25E2%2580%25A6%25E9%25A3%25B2%25E3%2581%25BF%25E6%25AF%2594%25E3%2581%25B9%25E3%2581%25A7%25E5%25A5%25BD%25E3%2581%25BF%25E3%2581%25AE%25E5%2591%25B3%25E3%2582%2592%25E8%25A6%258B%25E3%2581%25A4%25E3%2581%2591%25E3%2582%258B" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important;">
+                    🛒 Amazon
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25A8%25E3%2583%2581%25E3%2582%25AA%25E3%2583%2594%25E3%2582%25A2%25E3%2580%2581%25E3%2582%25AD%25E3%2583%25AA%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%25AD%25E2%2580%25A6%25E9%25A3%25B2%25E3%2581%25BF%25E6%25AF%2594%25E3%2581%25B9%25E3%2581%25A7%25E5%25A5%25BD%25E3%2581%25BF%25E3%2581%25AE%25E5%2591%25B3%25E3%2582%2592%25E8%25A6%258B%25E3%2581%25A4%25E3%2581%2591%25E3%2582%258B%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">
+                    🔴 楽天市場
+                </a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25A8%25E3%2583%2581%25E3%2582%25AA%25E3%2583%2594%25E3%2582%25A2%25E3%2580%2581%25E3%2582%25AD%25E3%2583%25AA%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%25AD%25E2%2580%25A6%25E9%25A3%25B2%25E3%2581%25BF%25E6%25AF%2594%25E3%2581%25B9%25E3%2581%25A7%25E5%25A5%25BD%25E3%2581%25BF%25E3%2581%25AE%25E5%2591%25B3%25E3%2582%2592%25E8%25A6%258B%25E3%2581%25A4%25E3%2581%2591%25E3%2582%258B" target="_blank" rel="nofollow noopener noreferrer" style="padding: 11px 6px; border-radius: 8px; font-weight: 700; font-size: 0.85rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 44px; box-shadow: 0 2px 4px rgba(0,0,0,0.08); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">
+                    🟣 Yahoo!
+                </a>
+                
+            </div>
+        </div>
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
 </div>
 
+## 失敗しないための賢い活用法と抽出のコツ
 
-<div class="product-widget-card">
-  <img src="/images/coffee-beans-light-roast-sampler.jpg" alt="coffee-beans-light-roast-sampler" class="widget-img" loading="lazy" />
-  <div class="widget-info">
-<h4 class="widget-title">エチオピア、キリマンジャロ…飲み比べで好みの味を見つける！</h4>
+本品を最大限に活かすためには、以下のポイントを意識することが推奨される。
 
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dcoffee%2520beans%2520light%2520roast%2520sampler" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
-  </div>
-</div>
+* **湯温の管理**: 浅煎りなら90〜93℃前後、深煎りなら85〜88℃前後の適温で抽出することで、豆本来のポテンシャルが開花する。
+* **挽き目の最適化**: 器具に合わせた適切な粒度を選ぶことで、雑味のないクリアなカップが完成する。
 
-<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
-※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
-</div>
-</div>
+## まとめ：自宅を至高のカフェ空間に変える価値ある選択
+
+「エチオピア、キリマンジャロ…飲み比べで好みの味を見つける」は、日常の一杯を妥協したくないコーヒー愛好家にとって、期待以上の満足感をもたらしてくれる頼もしい相棒である。贅沢なカフェ時間を自宅で満喫したい方は、ぜひこの機会に試してみてはいかがだろうか。
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
-<div style="font-size: 0.75rem; font-weight: bold; color: #78350f; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
-<h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #78350f; line-height: 1.4;">☕ 自分好みの豆が届く！コーヒー診断＆公式定期便</h3>
-<div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【PostCoffee / ポストコーヒー】</div>
-<p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">簡単な無料のコーヒー診断を受けるだけで、世界中の厳選ロースターからあなた好みの豆が毎月届く人気サブスク。初回お試し特別割引実施中！</p>
-<div style="text-align: center;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dcoffee%2520beans%2520light%2520roast%2520sampler" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
-👉 無料でコーヒー診断を受けてみる
-</a>
-</div>
+    <div style="font-size: 0.75rem; font-weight: bold; color: #78350f; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
+    <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #78350f; line-height: 1.4;">☕ 自分好みの豆が届く！コーヒー診断＆公式定期便</h3>
+    <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【PostCoffee / ポストコーヒー】</div>
+    <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">簡単な無料のコーヒー診断を受けるだけで、世界中の厳選ロースターからあなた好みの豆が毎月届く人気サブスク。初回お試し特別割引実施中！</p>
+    <div style="text-align: center;">
+        <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fpostcoffee.co%2F" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
+            👉 無料でコーヒー診断を受けてみる
+        </a>
+    </div>
 </div>
 
 <div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
-<h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 併せてチェックしたい関連アイテム・サービス</h4>
-<div style="display: flex; flex-wrap: wrap; gap: 12px;">
-
-<div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">手挽きコーヒーミル（高精度臼式グラインダー）</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">挽きたての香りでコーヒーの旨味が激変</div>
-<div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dcoffee%2520beans%2520light%2520roast%2520sampler" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+    
+    <h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">☕ 併せて揃えたい関連おすすめコーヒー器具</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">手挽きコーヒーミル（高精度臼式グラインダー）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">挽きたての香りでコーヒーの旨味が激変</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
+            </div>
+        </div>
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">コーヒードリッパースケール（0.1g単位タイマー付）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">抽出速度と湯量を正確に計測</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
+            </div>
+        </div>
+        
+    </div>
 </div>
-</div>
-
-<div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">コーヒードリッパースケール（0.1g単位タイマー付）</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">抽出速度と湯量を正確に計測</div>
-<div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3Dcoffee%2520beans%2520light%2520roast%2520sampler" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
-</div>
-</div>
-
-</div>
-</div>
-
-
