@@ -54,6 +54,15 @@ mediaType: 'kettle'
 
 ## なぜ「お湯の温度」と「注ぎ方」でコーヒーは劇的に変わるのか？
 
+
+<div class="summary-box">
+  <div class="summary-box-title">💡 この記事のポイント</div>
+  <ul class="summary-box-list">
+    <li><strong>見どころ・評価</strong>: EPEIOS 電気ケトルで淹れる一杯。香りが日常を彩る、自宅の至福コーヒー術 の魅力と見どころを徹底解説</li>
+    <li><strong>購入・視聴ガイド</strong>: 特典や最安値・おすすめ入手ルートを比較</li>
+  </ul>
+</div>
+
 「電気ケトルなど、どれも同じではないか」そう考える読者もいるかもしれない。
 しかし、コーヒーの抽出において、お湯の温度と注ぎ方は、その味わいを左右する極めて重要な要素である。
 
@@ -90,7 +99,7 @@ mediaType: 'kettle'
 14,960円
 </div>
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00tqke1.ve2q53d8.g00tqke1.ve2q6270/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmpowjapan%2Fcp001agjp1%2F" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; background: linear-gradient(135deg, #a16207, #78350f); color: #ffffff !important; font-size: 0.8rem; font-weight: 800; padding: 0.45rem 1rem; border-radius: 8px; text-decoration: none !important; text-align: center; box-shadow: 0 4px 10px rgba(120, 53, 15, 0.25); align-self: flex-start; transition: transform 0.2s ease;">
-詳細を見る
+詳細・価格を見る ➔
 </a>
   </div>
 </div>

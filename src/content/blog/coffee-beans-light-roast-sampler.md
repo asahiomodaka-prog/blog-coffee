@@ -30,6 +30,15 @@ mediaType: 'beans'
 
 ### 豆が織りなす香りのシンフォニー：浅煎りの魅力
 
+
+<div class="summary-box">
+  <div class="summary-box-title">💡 この記事のポイント</div>
+  <ul class="summary-box-list">
+    <li><strong>見どころ・評価</strong>: 【浅煎りコーヒー福袋】エチオピア、キリマンジャロ…飲み比べで好みの味を見つける！ の魅力と見どころを徹底解説</li>
+    <li><strong>購入・視聴ガイド</strong>: 特典や最安値・おすすめ入手ルートを比較</li>
+  </ul>
+</div>
+
 浅煎りコーヒーは、一般的な深煎りや中煎りとは一線を画す、独特の魅力を持つ。生豆が持つ本来の個性を最大限に引き出し、フルーティーな酸味、フローラルなアロマ、ハーブやスパイスのような複雑なノートを楽しむことができるのが特徴である。焙煎度が浅いため、豆の密度が高く、抽出には繊細な技術が求められるが、その分、成功した時の透明感とクリーンな味わいは格別である。今回、筆者が体験したのは、そのような浅煎りの世界を多角的に楽しめる飲み比べセットであった。
 
 [浅煎りコーヒー豆 3種飲み比べお試し福袋](https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-prom-bm2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000178%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)

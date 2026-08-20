@@ -52,6 +52,15 @@ mediaType: 'dripper'
 
 ## なぜ安定した一杯が淹れやすいのか？ 構造から紐解く抽出メカニズム
 
+
+<div class="summary-box">
+  <div class="summary-box-title">💡 この記事のポイント</div>
+  <ul class="summary-box-list">
+    <li><strong>見どころ・評価</strong>: 一杯の贅沢。珈琲考具 ワンドリッパーでゆっくり味わう、豊かなコーヒー暮らし の魅力と見どころを徹底解説</li>
+    <li><strong>購入・視聴ガイド</strong>: 特典や最安値・おすすめ入手ルートを比較</li>
+  </ul>
+</div>
+
 [珈琲考具 ワンドリッパー](https://hb.afl.rakuten.co.jp/hgc/g00t7ao1.ve2q5bd3.g00t7ao1.ve2q6e3a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsimomura-kihan%2F42158%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsimomura-kihan%2Fi%2F10000869%2F&rafcid=wsc_i_is_732732a1-5b08-44e7-a7a6-bdd68daad98b)は、シンプルを極めた金属製の円錐形ドリッパーでありながら、安定した抽出を実現するための緻密な設計思想が込められている。
 
 まず、特筆すべきはそのフィルター方式である。本製品はペーパーフィルターを不要とする「金属メッシュフィルター」一体型である。この金属メッシュは、コーヒー豆が本来持つオイル分（コーヒーオイル）まで抽出することを可能にする。ペーパーフィルターが吸着してしまう微細なオイル分がカップに直接落ちることで、コーヒー豆本来の風味やコクをダイレクトに感じられるだけでなく、口当たりに独特の厚みとまろやかさが生まれるというメリットがある。このオイル感は、コーヒーの複雑なアロマやフレーバーをより豊かに感じさせる重要な要素である。
@@ -79,7 +88,7 @@ mediaType: 'dripper'
 2,310円
 </div>
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00t7ao1.ve2q5bd3.g00t7ao1.ve2q6e3a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsimomura-kihan%2F42158%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsimomura-kihan%2Fi%2F10000869%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; background: linear-gradient(135deg, #a16207, #78350f); color: #ffffff !important; font-size: 0.8rem; font-weight: 800; padding: 0.45rem 1rem; border-radius: 8px; text-decoration: none !important; text-align: center; box-shadow: 0 4px 10px rgba(120, 53, 15, 0.25); align-self: flex-start; transition: transform 0.2s ease;">
-詳細を見る
+詳細・価格を見る ➔
 </a>
   </div>
 </div>

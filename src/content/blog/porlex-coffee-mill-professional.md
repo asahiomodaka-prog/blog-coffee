@@ -55,6 +55,15 @@ mediaType: 'grinder'
 
 ## プロの技を自宅で：ポーレックス コーヒーミル・プロフェッショナルの技術的な深掘り
 
+
+<div class="summary-box">
+  <div class="summary-box-title">💡 この記事のポイント</div>
+  <ul class="summary-box-list">
+    <li><strong>見どころ・評価</strong>: ポーレックス コーヒーミル・プロ本音レビュー。粒度の安定でコーヒーの味が劇変 の魅力と見どころを徹底解説</li>
+    <li><strong>購入・視聴ガイド</strong>: 特典や最安値・おすすめ入手ルートを比較</li>
+  </ul>
+</div>
+
 このミルが「プロフェッショナル」と名付けられた背景には、その内部構造とセラミック刃の卓越した性能が挙げられる。コーヒーの味わいを決定づける要素の一つである「粒度」を精密にコントロールする技術が、随所に凝縮されている。
 
 <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 1.25rem; margin: 2.5rem 0; box-shadow: 0 4px 20px -2px rgba(15, 23, 42, 0.04); display: flex; flex-direction: row; gap: 1.25rem; align-items: center; max-width: 100%; box-sizing: border-box; font-family: sans-serif; min-height: 140px;">

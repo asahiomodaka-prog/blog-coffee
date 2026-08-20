@@ -54,6 +54,15 @@ mediaType: 'beans'
 
 ## 日常の満足度を高めるブレンドの設計思想
 
+
+<div class="summary-box">
+  <div class="summary-box-title">💡 この記事のポイント</div>
+  <ul class="summary-box-list">
+    <li><strong>見どころ・評価</strong>: ゴールドブレンドプレミアムの香りと味わい。毎朝の一杯を格上げする本音レビュー の魅力と見どころを徹底解説</li>
+    <li><strong>購入・視聴ガイド</strong>: 特典や最安値・おすすめ入手ルートを比較</li>
+  </ul>
+</div>
+
 コーヒー豆の味のブレは、生豆の品質やロット差、そして焙煎の安定性など、多岐にわたる要因によって引き起こされる。単一の産地から収穫されるシングルオリジン豆は、その土地固有の個性を強く表現する一方で、気候や収穫状況によって毎年、あるいはロットごとに風味が変動しやすい特性を持つ。
 
 その点、ブレンドコーヒーは複数の原産国の豆を組み合わせることで、特定の風味特性を際立たせつつ、全体のバランスを安定させることに優れている。「ゴールド ブレンド プレミアムシリーズ」は、ブラジル、コロンビア他といった複数の国の豆をブレンドしているとされている。ブラジル産豆がもたらすナッツのような芳醇なボディ感、コロンビア産豆由来のしっかりとした酸味と甘みが、互いに補完し合うことで、単一の豆では実現しにくい複雑な風味と卓越した安定性を生み出しているのだ。これにより、気候や収穫状況に左右されやすいシングルオリジンの変動性を克服し、いつでも期待通りの味わいを提供可能にする設計思想が伺える。
@@ -79,7 +88,7 @@ mediaType: 'beans'
 5,500円
 </div>
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00tbho1.ve2q5bdd.g00tbho1.ve2q671b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdripcoffee%2Fgold-500-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdripcoffee%2Fi%2F10000184%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; background: linear-gradient(135deg, #a16207, #78350f); color: #ffffff !important; font-size: 0.8rem; font-weight: 800; padding: 0.45rem 1rem; border-radius: 8px; text-decoration: none !important; text-align: center; box-shadow: 0 4px 10px rgba(120, 53, 15, 0.25); align-self: flex-start; transition: transform 0.2s ease;">
-詳細を見る
+詳細・価格を見る ➔
 </a>
   </div>
 </div>

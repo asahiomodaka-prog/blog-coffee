@@ -60,6 +60,15 @@ mediaType: 'dripper'
 
 ## 多孔質セラミックが実現する「もう一歩先の抽出」
 
+
+<div class="summary-box">
+  <div class="summary-box-title">💡 この記事のポイント</div>
+  <ul class="summary-box-list">
+    <li><strong>見どころ・評価</strong>: 波佐見焼COFILで深める、コーヒーの愉しみ。ペーパーレスが叶える至福の味覚体験 の魅力と見どころを徹底解説</li>
+    <li><strong>購入・視聴ガイド</strong>: 特典や最安値・おすすめ入手ルートを比較</li>
+  </ul>
+</div>
+
 波佐見焼COFILのようなセラミック[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC)は、なぜコーヒーの味わいを深めることができるのだろうか。
 その秘密は、素材である「多孔質セラミック」とその独自の構造にある。
 
@@ -92,7 +101,7 @@ mediaType: 'dripper'
 4,620円
 </div>
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00t7qf1.ve2q54fe.g00t7qf1.ve2q62b1/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fimaritogei%2F13904002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fimaritogei%2Fi%2F10000062%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; background: linear-gradient(135deg, #a16207, #78350f); color: #ffffff !important; font-size: 0.8rem; font-weight: 800; padding: 0.45rem 1rem; border-radius: 8px; text-decoration: none !important; text-align: center; box-shadow: 0 4px 10px rgba(120, 53, 15, 0.25); align-self: flex-start; transition: transform 0.2s ease;">
-詳細を見る
+詳細・価格を見る ➔
 </a>
   </div>
 </div>

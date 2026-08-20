@@ -50,6 +50,15 @@ mediaType: 'beans'
 
 ## 日常使いの深煎りコーヒー豆を探求する私が辿り着いた、コストパフォーマンスと満足度の両立
 
+
+<div class="summary-box">
+  <div class="summary-box-title">💡 この記事のポイント</div>
+  <ul class="summary-box-list">
+    <li><strong>見どころ・評価</strong>: 2kg最安値コーヒー豆の正直レビュー！味のブレ・鮮度はどう？ の魅力と見どころを徹底解説</li>
+    <li><strong>購入・視聴ガイド</strong>: 特典や最安値・おすすめ入手ルートを比較</li>
+  </ul>
+</div>
+
 毎日のコーヒータイムに、豆選びで妥協したくない。しかし、コストも抑えたい。こうした悩みは、コーヒーを日常的に楽しむ多くの方が抱えるものではないだろうか。DRIP COFFEE FACTORYが提供する「2kg最安値に挑戦!2kgで3,980円！コーヒー豆 コーヒー 豆 粉」は、この二律背反とも思える課題に対し、一つの明確な解答を提示している。このハウスブレンドは、苦味とコク、そして心地よい余韻が三位一体となったフレンチローストの深煎りでありながら、1杯あたり約26円という驚くべき価格を実現している。手軽に本格的な深煎りコーヒーを日常に取り入れたいと願う方々にとって、そのニーズに応える決定版と言えるだろう。
 
 [2kg最安値に挑戦!2kgで3,980円！コーヒー豆 コーヒー 豆 粉](https://hb.afl.rakuten.co.jp/hgc/g00tbho1.ve2q5bdd.g00tbho1.ve2q671b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdripcoffee%2Fhouse-500-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdripcoffee%2Fi%2F10000572%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)

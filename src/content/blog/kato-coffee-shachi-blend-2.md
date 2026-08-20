@@ -52,6 +52,15 @@ mediaType: 'grinder'
 
 ## 豆のまま購入がもたらす、コーヒーの新たな扉
 
+
+<div class="summary-box">
+  <div class="summary-box-title">💡 この記事のポイント</div>
+  <ul class="summary-box-list">
+    <li><strong>見どころ・評価</strong>: 加藤珈琲店 しゃちブレンド2種。豆のまま挽く悦び、違いを楽しむ大人の珈琲時間 の魅力と見どころを徹底解説</li>
+    <li><strong>購入・視聴ガイド</strong>: 特典や最安値・おすすめ入手ルートを比較</li>
+  </ul>
+</div>
+
 多くのコーヒー愛好家が「豆は飲む直前に挽く」というこだわりを持つことには、科学的な裏付けがある。コーヒー豆の風味成分は、挽いた瞬間に空気に触れる表面積が格段に増え、急速な酸化や香りの揮発が始まる。具体的には、豆を挽くことで表面積が数千倍にも増加するとされ、これにより風味劣化のスピードは飛躍的に加速されるのだ。これを防ぐためには、豆のまま保存し、必要な分だけを淹れる直前に挽くことが不可欠である。この一手間を加えるだけで、カップに注がれるコーヒーの香りの豊かさ、風味の深さは格別なものとなる。
 
 加藤珈琲店の [加藤珈琲店 しゃちブレンド 2種飲み比べ コーヒー 豆のまま](https://hb.afl.rakuten.co.jp/hgc/g00u3241.ve2q5392.g00u3241.ve2q6545/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff231002-nagoya%2Fca001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff231002-nagoya%2Fi%2F10000410%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b) は、この「豆のまま」という形態を基本とし、さらに焙煎度の異なる2種類のブレンドを飲み比べできる点が大きな魅力である。深煎りの「しゃちブレンド」と、中煎り〜中深煎りの「白しゃちブレンド」。この焙煎度の違いが、抽出温度や挽き目の調整によって、どれほど多様な風味の表情を見せるのか、その探求はコーヒー愛好家にとって尽きない喜びをもたらすだろう。
@@ -73,7 +82,7 @@ mediaType: 'grinder'
 オープン価格
 </div>
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00u3241.ve2q5392.g00u3241.ve2q6545/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff231002-nagoya%2Fca001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff231002-nagoya%2Fi%2F10000410%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; background: linear-gradient(135deg, #a16207, #78350f); color: #ffffff !important; font-size: 0.8rem; font-weight: 800; padding: 0.45rem 1rem; border-radius: 8px; text-decoration: none !important; text-align: center; box-shadow: 0 4px 10px rgba(120, 53, 15, 0.25); align-self: flex-start; transition: transform 0.2s ease;">
-詳細を見る
+詳細・価格を見る ➔
 </a>
   </div>
 </div>

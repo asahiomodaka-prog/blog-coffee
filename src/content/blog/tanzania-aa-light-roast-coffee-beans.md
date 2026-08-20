@@ -55,6 +55,15 @@ mediaType: 'beans'
 
 ## キリマンジャロの山頂を彷彿とさせる透明感、その秘密を紐解く
 
+
+<div class="summary-box">
+  <div class="summary-box-title">💡 この記事のポイント</div>
+  <ul class="summary-box-list">
+    <li><strong>見どころ・評価</strong>: 浅煎りタンザニアAA、正直レビュー！お湯の温度で香りが全然違う？ の魅力と見どころを徹底解説</li>
+    <li><strong>購入・視聴ガイド</strong>: 特典や最安値・おすすめ入手ルートを比較</li>
+  </ul>
+</div>
+
 <img src="/images/tanzania-aa-light-roast-coffee-beans.jpg" alt="tanzania-aa-light-roast-coffee-beans" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 このタンザニア・AAの浅煎り豆を初めて淹れた際、その透明感のあるクリアな酸味に感銘を受けた。まるで澄んだ高地の水を思わせるような、澄み渡る後味である。これは一体どのような抽出メカニズムによって生み出されるのだろうか。浅煎り豆の抽出で最も重視されるのは、やはり「酸味」と「香りの成分」をいかにバランス良く引き出すかである。特にこの豆の場合、「上品な酸味」という表現が使われていることからも、嫌な刺激ではなく、心地よいフルーティーな酸味を意図していることが伺える。

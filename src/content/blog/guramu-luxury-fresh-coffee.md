@@ -54,6 +54,15 @@ mediaType: 'beans'
 
 ## 「シティロースト」が織りなす複雑な風味の理由
 
+
+<div class="summary-box">
+  <div class="summary-box-title">💡 この記事のポイント</div>
+  <ul class="summary-box-list">
+    <li><strong>見どころ・評価</strong>: GURAMUで毎日淹れたてを味わう贅沢。香りとコクが私のコーヒー生活を豊かにする理由 の魅力と見どころを徹底解説</li>
+    <li><strong>購入・視聴ガイド</strong>: 特典や最安値・おすすめ入手ルートを比較</li>
+  </ul>
+</div>
+
 「GURAMU」のコーヒー豆は「やや深煎り寄りのシティロースト」とされている。シティローストは、酸味と苦味のバランスに優れ、豆本来の甘さや香ばしさが際立つ、スペシャルティコーヒーで人気の高い焙煎度合いである。
 
 特に「GURAMU」においては、「やや深煎り寄り」という点が味わいの深層を形成する重要な要素と考える。シティロースト特有の明るい酸味やフルーティーさに、深煎りが持つロースト香や深いコク、そして複雑な甘みが加わることで、単一の焙煎度合いでは得られない、より重層的で奥行きのある風味が生まれているのだ。
@@ -81,7 +90,7 @@ GURAMUで毎日淹れたてを味わう贅沢。香りとコクが私のコー�
 5,998円
 </div>
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00uqhl1.ve2q5687.g00uqhl1.ve2q6d21/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-zakalife%2Fcafe07-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-zakalife%2Fi%2F10000057%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; background: linear-gradient(135deg, #a16207, #78350f); color: #ffffff !important; font-size: 0.8rem; font-weight: 800; padding: 0.45rem 1rem; border-radius: 8px; text-decoration: none !important; text-align: center; box-shadow: 0 4px 10px rgba(120, 53, 15, 0.25); align-self: flex-start; transition: transform 0.2s ease;">
-詳細を見る
+詳細・価格を見る ➔
 </a>
   </div>
 </div>

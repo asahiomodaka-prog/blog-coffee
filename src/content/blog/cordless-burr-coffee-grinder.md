@@ -52,6 +52,15 @@ mediaType: 'grinder'
 
 ## 挽きたてがなぜ美味しいのか：臼式ミルの構造と、コーヒーの風味の関係
 
+
+<div class="summary-box">
+  <div class="summary-box-title">💡 この記事のポイント</div>
+  <ul class="summary-box-list">
+    <li><strong>見どころ・評価</strong>: どこでも、挽きたて。コードレス臼式電動コーヒーミルが叶える、私だけの贅沢な香り の魅力と見どころを徹底解説</li>
+    <li><strong>購入・視聴ガイド</strong>: 特典や最安値・おすすめ入手ルートを比較</li>
+  </ul>
+</div>
+
 コーヒー豆を粉砕する「グラインド」という工程は、単に豆を細かくする以上の意味を持つ。抽出されるコーヒーの成分の質、ひいては味わいの全てを決定づける極めて重要なプロセスだ。その核心にあるのが「粒度の均一性」である。豆の粒が均一に挽けていると、お湯が粉全体に均等に浸透し、成分がムラなく抽出される。これにより、コーヒー豆本来の風味が最大限に引き出され、クリーンで複雑な味わいが実現するのだ。
 
 逆に粒度がバラバラだと、細かすぎる粉からは過抽出によって渋みや苦味などの雑味が出やすく、粗すぎる粉からは未抽出で水っぽく薄っぺらい味になりがちだ。これは、各粒子の表面積の違いにより、抽出速度に差が生じるためである。
@@ -77,7 +86,7 @@ mediaType: 'grinder'
 3,980円
 </div>
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00s9pt1.ve2q54eb.g00s9pt1.ve2q6157/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Friccado%2F1014%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Friccado%2Fi%2F10000389%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; background: linear-gradient(135deg, #a16207, #78350f); color: #ffffff !important; font-size: 0.8rem; font-weight: 800; padding: 0.45rem 1rem; border-radius: 8px; text-decoration: none !important; text-align: center; box-shadow: 0 4px 10px rgba(120, 53, 15, 0.25); align-self: flex-start; transition: transform 0.2s ease;">
-詳細を見る
+詳細・価格を見る ➔
 </a>
   </div>
 </div>

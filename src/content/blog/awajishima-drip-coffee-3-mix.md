@@ -52,6 +52,15 @@ mediaType: 'beans'
 
 ## 飲み比べがもたらす発見と知見
 
+
+<div class="summary-box">
+  <div class="summary-box-title">💡 この記事のポイント</div>
+  <ul class="summary-box-list">
+    <li><strong>見どころ・評価</strong>: ドリップコーヒーファクトリー淡路島アソート！3種飲み比べが叶える我が家の贅沢カフェ時間 の魅力と見どころを徹底解説</li>
+    <li><strong>購入・視聴ガイド</strong>: 特典や最安値・おすすめ入手ルートを比較</li>
+  </ul>
+</div>
+
 「ドリップコーヒーファクトリー 淡路島アソート」の最大の特長は、手軽に3種類のスペシャルティコーヒーを飲み比べできる点にある。通常、複数のスペシャルティコーヒー豆を揃えるには、各々100gや200gといった単位で購入する必要があり、一度に消費するのは困難である。しかし、ドリップバッグは1杯分ずつ個包装されているため、鮮度を気にすることなく、その日の気分や好みに応じて豆を選択できる利便性がある。
 
 コーヒーの味わいは、豆の品種、産地、精製方法、そして焙煎度合いといった多岐にわたる要因によって形成される。中煎りがもたらす華やかな酸味、深煎りの重厚なコク、特定の精製方法に由来するフルーツのようなフレーバー、あるいはナッツやチョコレートを思わせるアロマなど、そのバリエーションは広大である。これらの多様な個性を一度に体験できることは、コーヒーの世界観を広げる上で極めて有効なアプローチである。自身の好みに合致する「理想の味」を発見する機会となり、それぞれの豆が持つ個性の違いを意識することで、より深いレベルでコーヒーを味わう洞察力が養われる。スペシャルティコーヒーの国際的な評価基準であるSCA（Specialty Coffee Association）の定めるカッピングプロトコルにおいても、多様なコーヒーを比較試飲することで、その品質や特性を相対的に理解する重要性が強調されている。このアソートセットは、まさにその入門として機能すると考えられる。
@@ -73,7 +82,7 @@ mediaType: 'beans'
 15,000円
 </div>
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00t6ir1.ve2q57f9.g00t6ir1.ve2q6fcb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff282260-awaji%2Fat14003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff282260-awaji%2Fi%2F10001544%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; background: linear-gradient(135deg, #a16207, #78350f); color: #ffffff !important; font-size: 0.8rem; font-weight: 800; padding: 0.45rem 1rem; border-radius: 8px; text-decoration: none !important; text-align: center; box-shadow: 0 4px 10px rgba(120, 53, 15, 0.25); align-self: flex-start; transition: transform 0.2s ease;">
-詳細を見る
+詳細・価格を見る ➔
 </a>
   </div>
 </div>
