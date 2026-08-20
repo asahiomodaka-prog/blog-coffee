@@ -2,7 +2,7 @@
 title: 'HARIO 雫 SBS-5Bで激変！水出しコーヒーの味が決まる秘密と本音レビュー'
 description: 'HARIO「スロードリップブリューワーハリオ 雫」[SBS-5B]は、約1時間で本格水出しコーヒーが楽しめる点滴式器具。スピード調整不要で、雑味の少ないまろやかな味わいを手軽に堪能できます。水出し緑茶にも対応。'
 pubDate: '2026-07-30'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f082040-koga/cabinet/i3/5701-43016-01.jpg?_ex=600x600'
+heroImage: '../../assets/images/hario-cold-brew-dripper-shizuku.jpg'
 genre: 'ドリッパー・器具'
 sidebarProducts:
   - title: '【ふるさと納税】極細3.4mmノズル ドリップポット(コーヒードリップポット) 350ml 1〜2人用 コーヒー ドリップ 珈琲器具 燕三条製【015P061/017S004】'
@@ -28,24 +28,30 @@ mediaType: 'dripper'
 本ページはアフィリエイトプログラムによる収益を得ています。
 :::
 
-自宅で手軽に、雑味のないクリアな水出しコーヒーを楽しみたいと考える方に、HARIOの「スロードリップブリューワーハリオ 雫」は最適な選択肢となるだろう。この器具は、低温でじっくりと時間をかけてコーヒー豆の成分を抽出する点滴式を採用し、豆本来の甘み、香り、そして丸みのある口当たりを最大限に引き出す。従来のホットドリップでは得られない、まろやかで澄み切った一杯を日常にもたらす、その魅力と実用性について解説する。
+自宅で手軽に、雑味のないクリアな水出しコーヒーを楽しみたいと考える方に、[HARIO](https://px.a8.net/svt/ejp?a8mat=4B86H0+36B8XE+4XPI+5ZEMP)の「スロードリップブリューワーハリオ 雫」は最適な選択肢となるだろう。この器具は、低温でじっくりと時間をかけてコーヒー豆の成分を抽出する点滴式を採用し、豆本来の甘み、香り、そして丸みのある口当たりを最大限に引き出す。従来のホットドリップでは得られない、まろやかで澄み切った一杯を日常にもたらす、その魅力と実用性について解説する。
+
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
 
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f082040-koga/cabinet/i3/5701-43016-01.jpg?_ex=600x600" alt="HARIO 雫 SBS-5Bで激変！水出しコーヒーの味が決まる秘密と本音レビュー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=HARIO%20%E9%9B%AB%20SB" alt="HARIO 雫 SBS-5Bで激変！水出しコーヒーの味が決まる秘密と本音レビュー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
                 HARIO 雫 SBS-5Bで激変！水出しコーヒーの味が決まる秘密と本音レビュー
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>HARIO「スロードリップブリューワーハリオ 雫」[SBS-5B]は、約1時間で本格水出しコーヒーが楽しめる点滴式器具。スピード調整不要で、雑味の少ないまろやかな味わいを手軽に堪能できます。水出し緑茶にも対応。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DHARIO%2520%25E9%259B%25AB%2520SBS-5B%25E3%2581%25A7%25E6%25BF%2580%25E5%25A4%2589%25EF%25BC%2581%25E6%25B0%25B4%25E5%2587%25BA%25E3%2581%2597%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%25AE%25E5%2591%25B3%25E3%2581%258C%25E6%25B1%25BA%25E3%2581%25BE%25E3%2582%258B%25E7%25A7%2598%25E5%25AF%2586%25E3%2581%25A8%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://hb.afl.rakuten.co.jp/hgc/g00thr51.ve2q5bd7.g00thr51.ve2q62e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff152048-sanjo%2F017s004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff152048-sanjo%2Fi%2F10001188%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHARIO%2520%25E9%259B%25AB%2520SBS-5B%25E3%2581%25A7%25E6%25BF%2580%25E5%25A4%2589%25EF%25BC%2581%25E6%25B0%25B4%25E5%2587%25BA%25E3%2581%2597%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%25AE%25E5%2591%25B3%25E3%2581%258C%25E6%25B1%25BA%25E3%2581%25BE%25E3%2582%258B%25E7%25A7%2598%25E5%25AF%2586%25E3%2581%25A8%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DHARIO%2520%25E9%259B%25AB%2520SBS-5B%25E3%2581%25A7%25E6%25BF%2580%25E5%25A4%2589%25EF%25BC%2581%25E6%25B0%25B4%25E5%2587%25BA%25E3%2581%2597%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%25AE%25E5%2591%25B3%25E3%2581%258C%25E6%25B1%25BA%25E3%2581%25BE%25E3%2582%258B%25E7%25A7%2598%25E5%25AF%2586%25E3%2581%25A8%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
@@ -67,11 +73,25 @@ mediaType: 'dripper'
 
 一方で水出しコーヒーは、常温または低温の水で長時間かけてゆっくりと成分を抽出する。水は高温のお湯に比べて、カフェインやタンニンなどの水溶性成分を溶かし出す力が穏やかである。特にタンニンは低温では溶け出しにくいため、水出しコーヒーは渋味が少なく、口当たりがまろやかでクリアな味わいとなるのだ。さらに、コーヒーに含まれる脂質成分も低温では溶け出しにくいため、酸味も穏やかになり、胃に優しいとされる。
 
-HARIOの「スロードリップブリューワーハリオ 雫」は、この水出しコーヒーの醍醐味を最大限に引き出すための工夫が凝らされた器具である。上ボールに入れた水が、点滴パーツの2つの細いスリットから、約1時間前後かけて規則正しく一滴ずつ滴下する仕組みは、まるで精緻な科学実験を思わせる。多くの水出しコーヒー器具では、滴下スピードをユーザーが手動で調整するバルブが付属しているが、「雫」にはその調整が不要である。水を注ぐだけで最適な滴下速度が自動的に保たれる設計だ。これは、水とコーヒー粉が触れ合う時間、すなわち「浸漬時間」を常に均一に保ち、コーヒー豆が持つ本来の甘みや香りを最大限に引き出すための、緻密な計算と職人技の結晶と言える。この安定した滴下によって、過剰抽出や過少抽出のリスクが低減され、誰でも再現性の高いクリアな抽出液を得ることが可能となる。
+[HARIO](https://px.a8.net/svt/ejp?a8mat=4B86H0+36B8XE+4XPI+5ZEMP)の「スロードリップブリューワーハリオ 雫」は、この水出しコーヒーの醍醐味を最大限に引き出すための工夫が凝らされた器具である。上ボールに入れた水が、点滴パーツの2つの細いスリットから、約1時間前後かけて規則正しく一滴ずつ滴下する仕組みは、まるで精緻な科学実験を思わせる。多くの水出しコーヒー器具では、滴下スピードをユーザーが手動で調整するバルブが付属しているが、「雫」にはその調整が不要である。水を注ぐだけで最適な滴下速度が自動的に保たれる設計だ。これは、水とコーヒー粉が触れ合う時間、すなわち「浸漬時間」を常に均一に保ち、コーヒー豆が持つ本来の甘みや香りを最大限に引き出すための、緻密な計算と職人技の結晶と言える。この安定した滴下によって、過剰抽出や過少抽出のリスクが低減され、誰でも再現性の高いクリアな抽出液を得ることが可能となる。
 
 抽出された水出しコーヒーは、豆の個性をダイレクトに反映する。例えば、フルーティーな香りが特徴のナチュラル精製の豆を使用すれば、ストロベリーやブルーベリー、あるいはワインを思わせる芳醇なアロマが、冷たいコーヒーとしてさらに際立つだろう。また、ウォッシュド精製の豆であれば、低温抽出によってその透明感のあるクリアな酸味が、より一層澄み渡るような後味として楽しめるはずだ。さらに、近年注目されているアナエロビック（嫌気性発酵）プロセスの豆は、その複雑で独特な風味特性を水出しで抽出することで、発酵由来の豊かな香りが冷たい状態でも鮮やかに感じられる可能性がある。このゆっくりとした抽出プロセスが、コーヒー本来のポテンシャルを余すところなく引き出し、舌触りの滑らかな、丸みのある口当たりを生み出すのだ。
 
 <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f082040-koga/cabinet/i3/5701-43016-01.jpg?_ex=600x600" alt="HARIO 点滴式水出しコーヒー器具「スロードリップブリューワーハリオ 雫」［SBS-5B］｜ハリオ 耐熱 ガラス" />
+
+
+<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
+    <div style="font-size: 0.75rem; font-weight: bold; color: #78350f; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
+    <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #78350f; line-height: 1.4;">☕ 自分好みの豆が届く！コーヒー診断＆公式定期便</h3>
+    <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【PostCoffee / ポストコーヒー】</div>
+    <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">簡単な無料のコーヒー診断を受けるだけで、世界中の厳選ロースターからあなた好みの豆が毎月届く人気サブスク。初回お試し特別割引実施中！</p>
+    <div style="text-align: center;">
+        <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fpostcoffee.co%2F" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
+            👉 無料でコーヒー診断を受けてみる
+        </a>
+    </div>
+</div>
+
 
 ## 日常の負担を減らす、実用的なデザイン
 
@@ -83,22 +103,28 @@ HARIOの「スロードリップブリューワーハリオ 雫」は、この�
 
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00s6nv1.ve2q5786.g00s6nv1.ve2q6d3f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff082040-koga%2F5701-30043016%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff082040-koga%2Fi%2F10000848%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f082040-koga/cabinet/i3/5701-43016-01.jpg?_ex=600x600" alt="HARIO 点滴式水出しコーヒー器具「スロードリップブリューワーハリオ 雫」［SBS-5B］｜ハリオ 耐熱 ガラス 画像" /></a>
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f082040-koga/cabinet/i3/5701-43016-01.jpg?_ex=600x600" alt="HARIO 雫 SBS-5Bで激変！水出しコーヒーの味が決まる秘密と本音レビュー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=HARIO%20%E9%9B%AB%20SB" alt="HARIO 雫 SBS-5Bで激変！水出しコーヒーの味が決まる秘密と本音レビュー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
                 HARIO 雫 SBS-5Bで激変！水出しコーヒーの味が決まる秘密と本音レビュー
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>HARIO「スロードリップブリューワーハリオ 雫」[SBS-5B]は、約1時間で本格水出しコーヒーが楽しめる点滴式器具。スピード調整不要で、雑味の少ないまろやかな味わいを手軽に堪能できます。水出し緑茶にも対応。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DHARIO%2520%25E9%259B%25AB%2520SBS-5B%25E3%2581%25A7%25E6%25BF%2580%25E5%25A4%2589%25EF%25BC%2581%25E6%25B0%25B4%25E5%2587%25BA%25E3%2581%2597%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%25AE%25E5%2591%25B3%25E3%2581%258C%25E6%25B1%25BA%25E3%2581%25BE%25E3%2582%258B%25E7%25A7%2598%25E5%25AF%2586%25E3%2581%25A8%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://hb.afl.rakuten.co.jp/hgc/g00thr51.ve2q5bd7.g00thr51.ve2q62e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff152048-sanjo%2F017s004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff152048-sanjo%2Fi%2F10001188%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHARIO%2520%25E9%259B%25AB%2520SBS-5B%25E3%2581%25A7%25E6%25BF%2580%25E5%25A4%2589%25EF%25BC%2581%25E6%25B0%25B4%25E5%2587%25BA%25E3%2581%2597%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%25AE%25E5%2591%25B3%25E3%2581%258C%25E6%25B1%25BA%25E3%2581%25BE%25E3%2582%258B%25E7%25A7%2598%25E5%25AF%2586%25E3%2581%25A8%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DHARIO%2520%25E9%259B%25AB%2520SBS-5B%25E3%2581%25A7%25E6%25BF%2580%25E5%25A4%2589%25EF%25BC%2581%25E6%25B0%25B4%25E5%2587%25BA%25E3%2581%2597%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%25AE%25E5%2591%25B3%25E3%2581%258C%25E6%25B1%25BA%25E3%2581%25BE%25E3%2582%258B%25E7%25A7%2598%25E5%25AF%2586%25E3%2581%25A8%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
@@ -110,6 +136,31 @@ HARIOの「スロードリップブリューワーハリオ 雫」は、この�
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
+    <h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 併せてチェックしたい関連アイテム・サービス</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">手挽きコーヒーミル（高精度臼式グラインダー）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">挽きたての香りでコーヒーの旨味が激変</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">コーヒードリッパースケール（0.1g単位タイマー付）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">抽出速度と湯量を正確に計測</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
     </div>
 </div>
 

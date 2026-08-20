@@ -2,7 +2,7 @@
 title: 'ガイアの夜明けで話題！自家焙煎スペシャルティコーヒー定期便、お湯の温度で味ブレ解決！'
 description: 'ガイアの夜明けで紹介されたスペシャルティコーヒーの定期便。富士山の湧き水で自家焙煎した豆・粉400gを2〜12ヶ月お届け。ブルマンやハワイコナなど、世界トップクラスの希少な味わいを毎月堪能できます。'
 pubDate: '2026-07-21'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f192023-fujiyoshida/cabinet/08108464/08108466/f069-t341-t713-s-r-a.jpg?_ex=600x600'
+heroImage: '../../assets/images/specialty-coffee-subscription.jpg'
 genre: 'コーヒー豆・粉'
 sidebarProducts:
   - title: '＼最安値挑戦★2kgで3,999円／コーヒー 珈琲 コーヒー豆 コーヒー粉 豆のまま 1kg 2kg リッチブレンド 珈琲豆 大容量 ベトナムコーヒー 送料無料 GURAMU'
@@ -30,25 +30,31 @@ mediaType: 'beans'
 
 自宅で淹れる一杯のコーヒーは、日々の生活に小さな贅沢と深い満足をもたらす。しかし、高品質なスペシャルティコーヒーを常に新鮮な状態で手に入れる手間や、多種多様な豆の中から自分好みのものを見つける難しさに直面する愛好家も少なくない。本記事では、このような課題を解決し、厳選されたスペシャルティコーヒーを毎月自宅に届けてくれる定期便の魅力を深掘りする。安定した品質と新鮮な豆がもたらす、豊かなコーヒー体験について考察する。
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f192023-fujiyoshida/cabinet/08108464/08108466/f069-t341-t713-s-r-a.jpg?_ex=600x600" alt="ガイアの夜明けで話題！自家焙煎スペシャルティコーヒー定期便、お湯の温度で味ブレ解" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%82%AC%E3%82%A4%E3%82%A2%E3%81%AE%E5%A4%9C%E6%98%8E%E3%81%91%E3%81%A7%E8%A9%B1%E9%A1%8C" alt="ガイアの夜明けで話題！自家焙煎スペシャルティコーヒー定期便、お湯の温度で味ブレ解決！" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                ガイアの夜明けで話題！自家焙煎スペシャルティコーヒー定期便、お湯の温度で味ブレ解
+                ガイアの夜明けで話題！自家焙煎スペシャルティコーヒー定期便、お湯の温度で味ブレ解決！
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>ガイアの夜明けで紹介されたスペシャルティコーヒーの定期便。富士山の湧き水で自家焙煎した豆・粉400gを2〜12ヶ月お届け。ブルマンやハワイコナなど、世界トップクラスの希少な味わいを毎月堪能できます。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AC%25E3%2582%25A4%25E3%2582%25A2%25E3%2581%25AE%25E5%25A4%259C%25E6%2598%258E%25E3%2581%2591%25E3%2581%25A7%25E8%25A9%25B1%25E9%25A1%258C%25EF%25BC%2581%25E8%2587%25AA%25E5%25AE%25B6%25E7%2584%2599%25E7%2585%258E%25E3%2582%25B9%25E3%2583%259A%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25AB%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E5%25AE%259A%25E6%259C%259F%25E4%25BE%25BF%25E3%2580%2581%25E3%2581%258A%25E6%25B9%25AF%25E3%2581%25AE%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A7%25E5%2591%25B3%25E3%2583%2596%25E3%2583%25AC%25E8%25A7%25A3" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AC%25E3%2582%25A4%25E3%2582%25A2%25E3%2581%25AE%25E5%25A4%259C%25E6%2598%258E%25E3%2581%2591%25E3%2581%25A7%25E8%25A9%25B1%25E9%25A1%258C%25EF%25BC%2581%25E8%2587%25AA%25E5%25AE%25B6%25E7%2584%2599%25E7%2585%258E%25E3%2582%25B9%25E3%2583%259A%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25AB%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E5%25AE%259A%25E6%259C%259F%25E4%25BE%25BF%25E3%2580%2581%25E3%2581%258A%25E6%25B9%25AF%25E3%2581%25AE%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A7%25E5%2591%25B3%25E3%2583%2596%25E3%2583%25AC%25E8%25A7%25A3%25E6%25B1%25BA%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://hb.afl.rakuten.co.jp/hgc/g00uq011.ve2q5db8.g00uq011.ve2q68c9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkkonlinestore%2Fcafe07%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkkonlinestore%2Fi%2F10000001%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25AC%25E3%2582%25A4%25E3%2582%25A2%25E3%2581%25AE%25E5%25A4%259C%25E6%2598%258E%25E3%2581%2591%25E3%2581%25A7%25E8%25A9%25B1%25E9%25A1%258C%25EF%25BC%2581%25E8%2587%25AA%25E5%25AE%25B6%25E7%2584%2599%25E7%2585%258E%25E3%2582%25B9%25E3%2583%259A%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25AB%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E5%25AE%259A%25E6%259C%259F%25E4%25BE%25BF%25E3%2580%2581%25E3%2581%258A%25E6%25B9%25AF%25E3%2581%25AE%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A7%25E5%2591%25B3%25E3%2583%2596%25E3%2583%25AC%25E8%25A7%25A3%25E6%25B1%25BA%25EF%25BC%2581%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AC%25E3%2582%25A4%25E3%2582%25A2%25E3%2581%25AE%25E5%25A4%259C%25E6%2598%258E%25E3%2581%2591%25E3%2581%25A7%25E8%25A9%25B1%25E9%25A1%258C%25EF%25BC%2581%25E8%2587%25AA%25E5%25AE%25B6%25E7%2584%2599%25E7%2585%258E%25E3%2582%25B9%25E3%2583%259A%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25AB%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E5%25AE%259A%25E6%259C%259F%25E4%25BE%25BF%25E3%2580%2581%25E3%2581%258A%25E6%25B9%25AF%25E3%2581%25AE%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A7%25E5%2591%25B3%25E3%2583%2596%25E3%2583%25AC%25E8%25A7%25A3" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AC%25E3%2582%25A4%25E3%2582%25A2%25E3%2581%25AE%25E5%25A4%259C%25E6%2598%258E%25E3%2581%2591%25E3%2581%25A7%25E8%25A9%25B1%25E9%25A1%258C%25EF%25BC%2581%25E8%2587%25AA%25E5%25AE%25B6%25E7%2584%2599%25E7%2585%258E%25E3%2582%25B9%25E3%2583%259A%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25AB%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E5%25AE%259A%25E6%259C%259F%25E4%25BE%25BF%25E3%2580%2581%25E3%2581%258A%25E6%25B9%25AF%25E3%2581%25AE%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A7%25E5%2591%25B3%25E3%2583%2596%25E3%2583%25AC%25E8%25A7%25A3%25E6%25B1%25BA%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
                     🟣 Yahoo!
                 </a>
                 
@@ -81,13 +87,27 @@ mediaType: 'beans'
 
 届いた豆は、まず香りから楽しむのが良い。袋を開けた瞬間に広がるアロマは、その日のブレンドが持つ個性を雄弁に物語る。そして、いよいよ抽出の工程である。豆の焙煎度合いに応じた適切な抽出方法を選ぶことで、その豆が持つ風味のポテンシャルを最大限に引き出すことが可能となる。
 
-もし届いた豆が**浅煎り**であれば、高めの温度（90℃〜93℃）で、ハリオV60のような円錐形ドリッパーを使ってスピーディーに抽出することが推奨される。浅煎りの豆は、果実香やフローラルな香りの成分が豊富に含まれており、これらは比較的高温で短時間に抽出しやすい特性を持つ。一方、過抽出になると青臭さの原因となるピラジン類などの成分が出やすくなるため、抽出時間を短縮し、必要な成分だけを引き出す工夫が重要となる。例えば、抽出後半で熱湯を直接注ぎ抽出液を希釈する「バイパス抽出」を意識することで、雑味を抑えつつ透明感のあるクリアな酸味と、花束を思わせるような華やかな香りを際立たせることができる。円錐形ドリッパーは、層が深くお湯の流速が速いため、素早い抽出に適している。
+もし届いた豆が**浅煎り**であれば、高めの温度（90℃〜93℃）で、ハリオV60のような円錐形[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC)を使ってスピーディーに抽出することが推奨される。浅煎りの豆は、果実香やフローラルな香りの成分が豊富に含まれており、これらは比較的高温で短時間に抽出しやすい特性を持つ。一方、過抽出になると青臭さの原因となるピラジン類などの成分が出やすくなるため、抽出時間を短縮し、必要な成分だけを引き出す工夫が重要となる。例えば、抽出後半で熱湯を直接注ぎ抽出液を希釈する「バイパス抽出」を意識することで、雑味を抑えつつ透明感のあるクリアな酸味と、花束を思わせるような華やかな香りを際立たせることができる。円錐形ドリッパーは、層が深くお湯の流速が速いため、素早い抽出に適している。
 
 **中煎り**の豆であれば、フレンチプレスやクレバーのような浸漬式（イマージョン式）が適している。中煎りの豆は、酸味、甘み、苦味のバランスが良く、特に豆本来の甘み、具体的には「β-ダマセノン」と呼ばれるカラメルやハチミツのような香りを生み出す成分を豊富に含む。浸漬式は、コーヒー粉が一定時間お湯に完全に浸かるため、これらの成分をムラなく、丸ごと包み込むように抽出できる。じっくりと時間をかけて抽出することで、とろりとした口当たりと、奥行きのある甘みが楽しめる。クレバーは抽出後にフィルターで濾過するため、フレンチプレスよりもクリアな味わいを得やすい。
 
 そして、**深煎り**の豆が届いた日には、少し低めの温度（80℃〜85℃）で、ネルドリップや金属フィルターを使ってじっくりと淹れるのが良い。深煎りの醍醐味は、その重厚なコクと甘み、そして独特の「フェノール香」にある。フェノール化合物は、スモーキーでビターチョコレートのような香りを生み出し、また「グアヤコール」という成分が持つスパイシーで独特な甘みが、舌の上で長く余韻を残す。低めの温度でゆっくりと抽出することで、これらの成分、特に油脂分がしっかりと抽出され、深煎りならではの豊かなボディと複雑な風味が引き出される。ネルドリップは、生地の目が細かく微粉を通しにくいため、とろりとした舌触りのコーヒーを淹れるのに最適である。金属フィルターは、コーヒーオイルをそのまま抽出液に通すため、よりダイレクトに豆の持つコクや風味を味わえる。
 
 同じ豆でも、焙煎度合いと抽出方法を変えるだけで、まるで別物のような表情を見せるのがコーヒーの奥深さである。これらの知識を活かし、様々なアプローチを試すことで、自宅でのコーヒー体験はより豊かなものとなるだろう。
+
+
+<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
+    <div style="font-size: 0.75rem; font-weight: bold; color: #78350f; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
+    <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #78350f; line-height: 1.4;">☕ 自分好みの豆が届く！コーヒー診断＆公式定期便</h3>
+    <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【PostCoffee / ポストコーヒー】</div>
+    <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">簡単な無料のコーヒー診断を受けるだけで、世界中の厳選ロースターからあなた好みの豆が毎月届く人気サブスク。初回お試し特別割引実施中！</p>
+    <div style="text-align: center;">
+        <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fpostcoffee.co%2F" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
+            👉 無料でコーヒー診断を受けてみる
+        </a>
+    </div>
+</div>
+
 
 ## 日常の満足度を高めるコストパフォーマンスと利便性
 
@@ -115,25 +135,31 @@ mediaType: 'beans'
 
 多様な豆が届くからこそ、様々な抽出器具を試してみるのも一興である。浅煎りのフルーティーな酸味を際立たせたいなら、円錐形ドリッパーがその本領を発揮する。中煎りの優しい甘みを引き出すなら、フレンチプレスやクレバーのような浸漬式でじっくりと淹れるのがおすすめだ。深煎りの重厚なコクを堪能したいなら、ネルドリップや金属フィルターを試してみるのも良い。一つの豆でも、抽出器具を変えるだけで驚くほど表情が変わるのがコーヒーの面白いところであり、定期便の豆は多様な抽出方法を探求する絶好の機会を提供する。
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f192023-fujiyoshida/cabinet/08108464/08108466/f069-t341-t713-s-r-a.jpg?_ex=600x600" alt="ガイアの夜明けで話題！自家焙煎スペシャルティコーヒー定期便、お湯の温度で味ブレ解" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%82%AC%E3%82%A4%E3%82%A2%E3%81%AE%E5%A4%9C%E6%98%8E%E3%81%91%E3%81%A7%E8%A9%B1%E9%A1%8C" alt="ガイアの夜明けで話題！自家焙煎スペシャルティコーヒー定期便、お湯の温度で味ブレ解決！" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                ガイアの夜明けで話題！自家焙煎スペシャルティコーヒー定期便、お湯の温度で味ブレ解
+                ガイアの夜明けで話題！自家焙煎スペシャルティコーヒー定期便、お湯の温度で味ブレ解決！
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>ガイアの夜明けで紹介されたスペシャルティコーヒーの定期便。富士山の湧き水で自家焙煎した豆・粉400gを2〜12ヶ月お届け。ブルマンやハワイコナなど、世界トップクラスの希少な味わいを毎月堪能できます。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AC%25E3%2582%25A4%25E3%2582%25A2%25E3%2581%25AE%25E5%25A4%259C%25E6%2598%258E%25E3%2581%2591%25E3%2581%25A7%25E8%25A9%25B1%25E9%25A1%258C%25EF%25BC%2581%25E8%2587%25AA%25E5%25AE%25B6%25E7%2584%2599%25E7%2585%258E%25E3%2582%25B9%25E3%2583%259A%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25AB%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E5%25AE%259A%25E6%259C%259F%25E4%25BE%25BF%25E3%2580%2581%25E3%2581%258A%25E6%25B9%25AF%25E3%2581%25AE%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A7%25E5%2591%25B3%25E3%2583%2596%25E3%2583%25AC%25E8%25A7%25A3" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AC%25E3%2582%25A4%25E3%2582%25A2%25E3%2581%25AE%25E5%25A4%259C%25E6%2598%258E%25E3%2581%2591%25E3%2581%25A7%25E8%25A9%25B1%25E9%25A1%258C%25EF%25BC%2581%25E8%2587%25AA%25E5%25AE%25B6%25E7%2584%2599%25E7%2585%258E%25E3%2582%25B9%25E3%2583%259A%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25AB%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E5%25AE%259A%25E6%259C%259F%25E4%25BE%25BF%25E3%2580%2581%25E3%2581%258A%25E6%25B9%25AF%25E3%2581%25AE%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A7%25E5%2591%25B3%25E3%2583%2596%25E3%2583%25AC%25E8%25A7%25A3%25E6%25B1%25BA%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://hb.afl.rakuten.co.jp/hgc/g00uq011.ve2q5db8.g00uq011.ve2q68c9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkkonlinestore%2Fcafe07%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkkonlinestore%2Fi%2F10000001%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25AC%25E3%2582%25A4%25E3%2582%25A2%25E3%2581%25AE%25E5%25A4%259C%25E6%2598%258E%25E3%2581%2591%25E3%2581%25A7%25E8%25A9%25B1%25E9%25A1%258C%25EF%25BC%2581%25E8%2587%25AA%25E5%25AE%25B6%25E7%2584%2599%25E7%2585%258E%25E3%2582%25B9%25E3%2583%259A%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25AB%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E5%25AE%259A%25E6%259C%259F%25E4%25BE%25BF%25E3%2580%2581%25E3%2581%258A%25E6%25B9%25AF%25E3%2581%25AE%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A7%25E5%2591%25B3%25E3%2583%2596%25E3%2583%25AC%25E8%25A7%25A3%25E6%25B1%25BA%25EF%25BC%2581%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AC%25E3%2582%25A4%25E3%2582%25A2%25E3%2581%25AE%25E5%25A4%259C%25E6%2598%258E%25E3%2581%2591%25E3%2581%25A7%25E8%25A9%25B1%25E9%25A1%258C%25EF%25BC%2581%25E8%2587%25AA%25E5%25AE%25B6%25E7%2584%2599%25E7%2585%258E%25E3%2582%25B9%25E3%2583%259A%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25AB%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E5%25AE%259A%25E6%259C%259F%25E4%25BE%25BF%25E3%2580%2581%25E3%2581%258A%25E6%25B9%25AF%25E3%2581%25AE%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A7%25E5%2591%25B3%25E3%2583%2596%25E3%2583%25AC%25E8%25A7%25A3" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AC%25E3%2582%25A4%25E3%2582%25A2%25E3%2581%25AE%25E5%25A4%259C%25E6%2598%258E%25E3%2581%2591%25E3%2581%25A7%25E8%25A9%25B1%25E9%25A1%258C%25EF%25BC%2581%25E8%2587%25AA%25E5%25AE%25B6%25E7%2584%2599%25E7%2585%258E%25E3%2582%25B9%25E3%2583%259A%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25AB%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E5%25AE%259A%25E6%259C%259F%25E4%25BE%25BF%25E3%2580%2581%25E3%2581%258A%25E6%25B9%25AF%25E3%2581%25AE%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A7%25E5%2591%25B3%25E3%2583%2596%25E3%2583%25AC%25E8%25A7%25A3%25E6%25B1%25BA%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
                     🟣 Yahoo!
                 </a>
                 
@@ -142,6 +168,31 @@ mediaType: 'beans'
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
+    <h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 併せてチェックしたい関連アイテム・サービス</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">手挽きコーヒーミル（高精度臼式グラインダー）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">挽きたての香りでコーヒーの旨味が激変</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">コーヒードリッパースケール（0.1g単位タイマー付）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">抽出速度と湯量を正確に計測</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
     </div>
 </div>
 

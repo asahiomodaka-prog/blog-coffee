@@ -2,7 +2,7 @@
 title: '「深煎りお試しコーヒー」は本当に買い？味のブレに悩む人への本音レビュー'
 description: '楽天「コーヒー豆 深煎り お試し 1000円ポッキリ」を体験。グアテマラ・マンデリンブレンドなど深煎り豆140gが、送料込み1000円で試せる。重厚な苦味と甘み、長く続く余韻を自宅で手軽に。高品質な一杯を求める方へ。'
 pubDate: '2026-08-06'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/fuku/imgrc0128685941.jpg?_ex=600x600'
+heroImage: '../../assets/images/dark-roast-coffee-trial.jpg'
 genre: 'コーヒー豆・粉'
 sidebarProducts:
   - title: 'コーヒー豆 ブレンドコーヒー 500g 豆のまま 細挽き 中挽き 粗挽き 深煎り コーヒー 珈琲 珈琲豆 オリジナルブレンド KOTENブレンド【メール便送料無料】[M便 1/1]'
@@ -29,22 +29,28 @@ mediaType: 'beans'
 
 本商品は、深煎りならではの重厚な苦味と、その奥に潜む甘み、そして長く続く余韻を存分に楽しめるよう設計されている。忙しい日常の中に、一瞬の静寂と豊かな香りを求めるコーヒー愛好家にとって、このお試しセットは深煎りコーヒーの奥深さを知る上で魅力的な選択肢となるだろう。
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/fuku/imgrc0128685941.jpg?_ex=600x600" alt="「深煎りお試しコーヒー」は本当に買い？味のブレに悩む人への本音レビュー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%80%8C%E6%B7%B1%E7%85%8E%E3%82%8A%E3%81%8A%E8%A9%A6%E3%81%97%E3%82%B3%E3%83%BC%E3%83%92" alt="「深煎りお試しコーヒー」は本当に買い？味のブレに悩む人への本音レビュー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
                 「深煎りお試しコーヒー」は本当に買い？味のブレに悩む人への本音レビュー
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>楽天「コーヒー豆 深煎り お試し 1000円ポッキリ」を体験。グアテマラ・マンデリンブレンドなど深煎り豆140gが、送料込み1000円で試せる。重厚な苦味と甘み、長く続く余韻を自宅で手軽に。高品質な一杯を求める方へ。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2581%258A%25E8%25A9%25A6%25E3%2581%2597%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2580%258D%25E3%2581%25AF%25E6%259C%25AC%25E5%25BD%2593%25E3%2581%25AB%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2581%25AB%25E6%2582%25A9%25E3%2582%2580%25E4%25BA%25BA%25E3%2581%25B8%25E3%2581%25AE%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://hb.afl.rakuten.co.jp/hgc/g00qpzd1.ve2q531d.g00qpzd1.ve2q6b51/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-koten%2Fco-koten-001_1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-koten%2Fi%2F10002453%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2580%258C%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2581%258A%25E8%25A9%25A6%25E3%2581%2597%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2580%258D%25E3%2581%25AF%25E6%259C%25AC%25E5%25BD%2593%25E3%2581%25AB%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2581%25AB%25E6%2582%25A9%25E3%2582%2580%25E4%25BA%25BA%25E3%2581%25B8%25E3%2581%25AE%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2580%258C%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2581%258A%25E8%25A9%25A6%25E3%2581%2597%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2580%258D%25E3%2581%25AF%25E6%259C%25AC%25E5%25BD%2593%25E3%2581%25AB%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2581%25AB%25E6%2582%25A9%25E3%2582%2580%25E4%25BA%25BA%25E3%2581%25B8%25E3%2581%25AE%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
@@ -72,7 +78,7 @@ mediaType: 'beans'
 
 次に「挽き目」についてである。深煎り豆は浅煎りのものに比べて密度が高く、硬い傾向にあるため、やや粗めに挽くことで過抽出を防ぎ、クリアな苦味と甘みを引き出しやすくなる。ただし、粗すぎると抽出が不十分となり、薄っぺらい味になる。この「適切な粗さ」を見つける工程こそ、自宅ドリップの醍醐味の一つである。
 
-そして、「抽出時間」も重要な要素である。深煎りの豆は濃い色合いから長時間抽出しがちだが、これは注意が必要である。長く抽出しすぎると、えぐみや雑味まで抽出してしまい、豆本来の個性が損なわれることがある。あくまでスピーディーに、狙った成分だけを溶かし出す意識が求められる。例えば、ハリオV60のような円錐ドリッパーは、湯の落ちる速度が速く、短時間で効率的に抽出できるため、深煎りのクリアな苦味とコクを引き出すのに適している。湯を注ぐ際には、まず粉全体を湿らせる「蒸らし」を20秒ほど行い、その後は中心から外側へ、そしてまた中心へと、ゆっくりと円を描くように湯を注ぎ、豆の成分が均一に抽出されるよう促す。これにより、よりバランスの取れた味わいが生まれる。
+そして、「抽出時間」も重要な要素である。深煎りの豆は濃い色合いから長時間抽出しがちだが、これは注意が必要である。長く抽出しすぎると、えぐみや雑味まで抽出してしまい、豆本来の個性が損なわれることがある。あくまでスピーディーに、狙った成分だけを溶かし出す意識が求められる。例えば、ハリオV60のような円錐[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC)は、湯の落ちる速度が速く、短時間で効率的に抽出できるため、深煎りのクリアな苦味とコクを引き出すのに適している。湯を注ぐ際には、まず粉全体を湿らせる「蒸らし」を20秒ほど行い、その後は中心から外側へ、そしてまた中心へと、ゆっくりと円を描くように湯を注ぎ、豆の成分が均一に抽出されるよう促す。これにより、よりバランスの取れた味わいが生まれる。
 
 このセットはサイフォン、台形ドリッパー、円錐ドリッパー（ハリオV60、コーノ式）、フレンチプレス、ネルドリップ、水出しなど、様々な抽出器具に対応しているが、深煎りの複雑な風味を最大限に引き出すなら、ペーパードリップ（特に円錐形）か、あるいはフレンチプレスが推奨される。ペーパードリップはクリアな口当たりと、深煎りながらもキレのある後味を楽しめる。一方、フレンチプレスは豆のオイル分まで抽出されるため、より重厚でとろみのある舌触り、そして豆本来の持つ甘みをダイレクトに感じることが可能である。
 
@@ -90,7 +96,7 @@ mediaType: 'beans'
 
 深煎りの豆は、その性質上、比較的新鮮なうちに消費するのが望ましい。このお試しセットの量（140g）は、一人暮らしや少人数の家庭で、数週間で飲み切るにはちょうど良い。大量に購入して消費しきれずに風味が落ちてしまう、といった心配がないのも利点である。もし気に入れば、同じ「コーヒーばかの店」でリピート購入することも可能であり、他にも様々な種類の豆を試すきっかけにもなる。
 
-保存に関しては、商品詳細にも記載がある通り「直射日光、高温多湿を避け冷暗所に保存」が基本で、「冷凍・冷蔵をお勧めする。開封後は、できるだけ早くお召し上がりください。」とのことである。これは、コーヒー豆を美味しく保つための鉄則である。密封性の高いキャニスターを使用し、冷蔵庫で保管するなどの対策は、豆の劣化を防ぐために重要である。この一手間が毎日のコーヒーの質を大きく左右する。開封したての深煎り豆の芳醇な香りは、ささやかながらも満足感をもたらす瞬間である。本セットは「お試し」という位置づけだが、その品質とコストパフォーマンスは、日常使いのレギュラーコーヒーとしても十分に満足できるレベルにある。
+保存に関しては、商品詳細にも記載がある通り「直射日光、高温多湿を避け冷暗所に保存」が基本で、「冷凍・冷蔵をお勧めする。開封後は、できるだけ早くお召し上がりください。」とのことである。これは、コーヒー豆を美味しく保つための鉄則である。密封性の高い[キャニスター](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%258B%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC)を使用し、冷蔵庫で保管するなどの対策は、豆の劣化を防ぐために重要である。この一手間が毎日のコーヒーの質を大きく左右する。開封したての深煎り豆の芳醇な香りは、ささやかながらも満足感をもたらす瞬間である。本セットは「お試し」という位置づけだが、その品質とコストパフォーマンスは、日常使いのレギュラーコーヒーとしても十分に満足できるレベルにある。
 
 ## 珈琲愛好家たちの声：レビューが語る納得の評価と実体験
 
@@ -103,6 +109,20 @@ mediaType: 'beans'
 「1000円でこの品質は正直驚き」という声も多かったが、これには同意する。正直なところ、この価格帯のお試しセットには、そこまで大きな期待を抱いていなかった部分もあった。しかし、実際に届いた豆は、焙煎したての香りがしっかりと感じられ、丁寧に梱包されていた。そして、実際に抽出して飲んでみると、その味わいは期待以上のものであった。特に、マンデリンブレンド「信長」の重厚ながらもクリアな苦味と、後から追いかけてくる独特の甘みは、オフィスでの集中力を高めたい午後に適した一杯であった。グアテマラもまた、バランスの取れた苦味と穏やかな酸味が共存しており、朝食とともにゆったりと楽しむのに最適であった。
 
 自宅で淹れるコーヒーの満足度は、単に味の良さだけではない。それは、自分の手で「最高の状態」を追求するプロセスそのものにある。挽き目を調整したり、湯温を変えてみたり、抽出速度をコントロールしたり。そうした試行錯誤の中で、豆の持つポテンシャルを最大限に引き出した時、「自分だけの最高の1杯」が生まれる。この深煎りお試しセットは、そんな自宅コーヒーの奥深さと楽しさを、存分に体験させてくれる存在である。
+
+
+<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
+    <div style="font-size: 0.75rem; font-weight: bold; color: #78350f; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
+    <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #78350f; line-height: 1.4;">☕ 自分好みの豆が届く！コーヒー診断＆公式定期便</h3>
+    <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【PostCoffee / ポストコーヒー】</div>
+    <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">簡単な無料のコーヒー診断を受けるだけで、世界中の厳選ロースターからあなた好みの豆が毎月届く人気サブスク。初回お試し特別割引実施中！</p>
+    <div style="text-align: center;">
+        <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fpostcoffee.co%2F" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
+            👉 無料でコーヒー診断を受けてみる
+        </a>
+    </div>
+</div>
+
 
 ## ドリップの奥義：淹れ方とライフスタイルに合わせた抽出法の考察
 
@@ -138,22 +158,28 @@ mediaType: 'beans'
 | 販売ショップ | コーヒーばかの店/楽天市場店 |
 | レビュー評価 | 4.78 (45件) |
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/fuku/imgrc0128685941.jpg?_ex=600x600" alt="「深煎りお試しコーヒー」は本当に買い？味のブレに悩む人への本音レビュー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%80%8C%E6%B7%B1%E7%85%8E%E3%82%8A%E3%81%8A%E8%A9%A6%E3%81%97%E3%82%B3%E3%83%BC%E3%83%92" alt="「深煎りお試しコーヒー」は本当に買い？味のブレに悩む人への本音レビュー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
                 「深煎りお試しコーヒー」は本当に買い？味のブレに悩む人への本音レビュー
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>楽天「コーヒー豆 深煎り お試し 1000円ポッキリ」を体験。グアテマラ・マンデリンブレンドなど深煎り豆140gが、送料込み1000円で試せる。重厚な苦味と甘み、長く続く余韻を自宅で手軽に。高品質な一杯を求める方へ。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2581%258A%25E8%25A9%25A6%25E3%2581%2597%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2580%258D%25E3%2581%25AF%25E6%259C%25AC%25E5%25BD%2593%25E3%2581%25AB%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2581%25AB%25E6%2582%25A9%25E3%2582%2580%25E4%25BA%25BA%25E3%2581%25B8%25E3%2581%25AE%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://hb.afl.rakuten.co.jp/hgc/g00qpzd1.ve2q531d.g00qpzd1.ve2q6b51/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-koten%2Fco-koten-001_1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-koten%2Fi%2F10002453%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2580%258C%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2581%258A%25E8%25A9%25A6%25E3%2581%2597%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2580%258D%25E3%2581%25AF%25E6%259C%25AC%25E5%25BD%2593%25E3%2581%25AB%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2581%25AB%25E6%2582%25A9%25E3%2582%2580%25E4%25BA%25BA%25E3%2581%25B8%25E3%2581%25AE%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2580%258C%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2581%258A%25E8%25A9%25A6%25E3%2581%2597%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2580%258D%25E3%2581%25AF%25E6%259C%25AC%25E5%25BD%2593%25E3%2581%25AB%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2581%25AB%25E6%2582%25A9%25E3%2582%2580%25E4%25BA%25BA%25E3%2581%25B8%25E3%2581%25AE%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
@@ -165,6 +191,31 @@ mediaType: 'beans'
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
+    <h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 併せてチェックしたい関連アイテム・サービス</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">手挽きコーヒーミル（高精度臼式グラインダー）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">挽きたての香りでコーヒーの旨味が激変</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">コーヒードリッパースケール（0.1g単位タイマー付）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">抽出速度と湯量を正確に計測</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
     </div>
 </div>
 

@@ -2,7 +2,7 @@
 title: 'IGURAMUリッチブレンド2kg本音レビュー。日常使いのコスパとコクを徹底検証'
 description: '楽天モバイル感謝祭で2kg3,999円！GURAMUリッチブレンドは、芳醇な香りと甘み・コク、心地よいほろ苦さが特徴のベトナムコーヒー。豆のまま・中細挽きを選べ、カフェオレにも最適です。大容量で毎日惜しみなく楽しめます。'
 pubDate: '2026-07-21'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/kkonlinestore/cabinet/upload/12930034/567-3999.jpg?_ex=600x600'
+heroImage: '../../assets/images/rich-blend-coffee-beans-2kg.jpg'
 genre: 'コーヒー豆・粉'
 sidebarProducts:
   - title: '【店内全品ポイント5倍中】(要エントリー)(〜26日1:59)2kg最安値に挑戦!2kgで3,980円！コーヒー豆 コーヒー 豆 粉 2kg / 1kg ハウスブレンド ( 500g × 4袋 or 2袋 ) 深煎り 珈琲 珈琲豆 送料無料 ドリップコーヒーファクトリー'
@@ -32,22 +32,28 @@ mediaType: 'beans'
 
 本稿では、ベトナム産の深煎り豆をブレンドした[GURAMU リッチブレンド 2kg](https://hb.afl.rakuten.co.jp/hgc/g00uq011.ve2q5db8.g00uq011.ve2q68c9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkkonlinestore%2Fcafe07%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkkonlinestore%2Fi%2F10000001%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)のリッチブレンドに焦点を当て、その深い味わいの探求、日々の習慣に取り入れる上でのコストメリット、そして大容量豆を賢く使いこなすための鮮度維持とアレンジの幅について、コーヒー専門エディターの視点から解説する。
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/kkonlinestore/cabinet/upload/12930034/567-3999.jpg?_ex=600x600" alt="IGURAMUリッチブレンド2kg本音レビュー。日常使いのコスパとコクを徹底検証" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=IGURAMU%E3%83%AA%E3%83%83%E3%83%81" alt="IGURAMUリッチブレンド2kg本音レビュー。日常使いのコスパとコクを徹底検証" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
                 IGURAMUリッチブレンド2kg本音レビュー。日常使いのコスパとコクを徹底検証
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>楽天モバイル感謝祭で2kg3,999円！GURAMUリッチブレンドは、芳醇な香りと甘み・コク、心地よいほろ苦さが特徴のベトナムコーヒー。豆のまま・中細挽きを選べ、カフェオレにも最適です。大容量で毎日惜しみなく楽しめます。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DIGURAMU%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2581%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%25892kg%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2580%2582%25E6%2597%25A5%25E5%25B8%25B8%25E4%25BD%25BF%25E3%2581%2584%25E3%2581%25AE%25E3%2582%25B3%25E3%2582%25B9%25E3%2583%2591%25E3%2581%25A8%25E3%2582%25B3%25E3%2582%25AF%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://hb.afl.rakuten.co.jp/hgc/g00tbho1.ve2q5bdd.g00tbho1.ve2q671b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdripcoffee%2Fhouse-500-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdripcoffee%2Fi%2F10000572%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FIGURAMU%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2581%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%25892kg%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2580%2582%25E6%2597%25A5%25E5%25B8%25B8%25E4%25BD%25BF%25E3%2581%2584%25E3%2581%25AE%25E3%2582%25B3%25E3%2582%25B9%25E3%2583%2591%25E3%2581%25A8%25E3%2582%25B3%25E3%2582%25AF%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DIGURAMU%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2581%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%25892kg%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2580%2582%25E6%2597%25A5%25E5%25B8%25B8%25E4%25BD%25BF%25E3%2581%2584%25E3%2581%25AE%25E3%2582%25B3%25E3%2582%25B9%25E3%2583%2591%25E3%2581%25A8%25E3%2582%25B3%25E3%2582%25AF%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
@@ -91,13 +97,27 @@ mediaType: 'beans'
 
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00uq011.ve2q5db8.g00uq011.ve2q68c9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkkonlinestore%2Fcafe07%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkkonlinestore%2Fi%2F10000001%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/kkonlinestore/cabinet/upload/12930034/567-3999.jpg?_ex=600x600" alt="＼楽天モバイル最強感謝祭 2kgで3,999円／コーヒー 珈琲 コーヒー豆 コーヒー粉 豆のまま 1kg 2kg リッチブレンド 珈琲豆 大容量 ベトナムコーヒー GURAMU 画像" /></a>
 
+
+<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
+    <div style="font-size: 0.75rem; font-weight: bold; color: #78350f; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
+    <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #78350f; line-height: 1.4;">☕ 自分好みの豆が届く！コーヒー診断＆公式定期便</h3>
+    <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【PostCoffee / ポストコーヒー】</div>
+    <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">簡単な無料のコーヒー診断を受けるだけで、世界中の厳選ロースターからあなた好みの豆が毎月届く人気サブスク。初回お試し特別割引実施中！</p>
+    <div style="text-align: center;">
+        <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fpostcoffee.co%2F" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
+            👉 無料でコーヒー診断を受けてみる
+        </a>
+    </div>
+</div>
+
+
 ## 大容量だからこそ工夫したい鮮度維持とアレンジの幅
 
 大容量のコーヒー豆を購入する際には、やはりその鮮度維持が重要な課題となる。コーヒー豆は、酸素、光、熱、湿気によって酸化が進み、風味が劣化していく。開封後は特に注意が必要であり、適切な保存方法を講じることで、その品質をより長く保つことが可能となる。
 
 ### 鮮度維持のための具体的な保存方法
 
-1.  **密閉容器への移し替え:** 開封後は、密閉性の高いキャニスターやジップロックタイプの袋に移し替えることが基本となる。これにより、空気との接触を最小限に抑え、酸化を遅らせることができる。
+1.  **密閉容器への移し替え:** 開封後は、密閉性の高い[キャニスター](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%258B%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC)やジップロックタイプの袋に移し替えることが基本となる。これにより、空気との接触を最小限に抑え、酸化を遅らせることができる。
 2.  **小分け保存の推奨:** 2kgという大容量であるため、一度に使う量だけを常温保存し、残りは小分けにして冷凍保存する方法が効果的である。小分けにすることで、開封頻度を減らし、全体としての劣化を防ぐ。
 3.  **保存場所の選定:** 直射日光の当たらない、涼しく湿度の低い場所での常温保存が適切である。また、冷凍保存を行う場合は、冷凍庫内の匂い移りを防ぐため、さらに厳重な密閉が求められる。冷凍した豆を使用する際は、急激な温度変化による結露を防ぐため、事前に常温に戻してから挽くことが望ましい。
 
@@ -119,22 +139,28 @@ mediaType: 'beans'
 
 一つの大容量豆でこれだけ多様な楽しみ方ができるのは、そのコストメリットだけでなく、日々のコーヒー体験に変化と発見をもたらす点で、大容量豆ならではの醍醐味と言える。その日の気分や気温、あるいは一緒に食事をする相手の好みに合わせて、様々な抽出方法やアレンジを試すことで、コーヒーの奥深い世界をさらに探求できるだろう。
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/kkonlinestore/cabinet/upload/12930034/567-3999.jpg?_ex=600x600" alt="IGURAMUリッチブレンド2kg本音レビュー。日常使いのコスパとコクを徹底検証" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=IGURAMU%E3%83%AA%E3%83%83%E3%83%81" alt="IGURAMUリッチブレンド2kg本音レビュー。日常使いのコスパとコクを徹底検証" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
                 IGURAMUリッチブレンド2kg本音レビュー。日常使いのコスパとコクを徹底検証
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>楽天モバイル感謝祭で2kg3,999円！GURAMUリッチブレンドは、芳醇な香りと甘み・コク、心地よいほろ苦さが特徴のベトナムコーヒー。豆のまま・中細挽きを選べ、カフェオレにも最適です。大容量で毎日惜しみなく楽しめます。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DIGURAMU%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2581%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%25892kg%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2580%2582%25E6%2597%25A5%25E5%25B8%25B8%25E4%25BD%25BF%25E3%2581%2584%25E3%2581%25AE%25E3%2582%25B3%25E3%2582%25B9%25E3%2583%2591%25E3%2581%25A8%25E3%2582%25B3%25E3%2582%25AF%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://hb.afl.rakuten.co.jp/hgc/g00tbho1.ve2q5bdd.g00tbho1.ve2q671b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdripcoffee%2Fhouse-500-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdripcoffee%2Fi%2F10000572%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FIGURAMU%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2581%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%25892kg%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2580%2582%25E6%2597%25A5%25E5%25B8%25B8%25E4%25BD%25BF%25E3%2581%2584%25E3%2581%25AE%25E3%2582%25B3%25E3%2582%25B9%25E3%2583%2591%25E3%2581%25A8%25E3%2582%25B3%25E3%2582%25AF%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DIGURAMU%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2581%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%25892kg%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2580%2582%25E6%2597%25A5%25E5%25B8%25B8%25E4%25BD%25BF%25E3%2581%2584%25E3%2581%25AE%25E3%2582%25B3%25E3%2582%25B9%25E3%2583%2591%25E3%2581%25A8%25E3%2582%25B3%25E3%2582%25AF%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
@@ -146,6 +172,31 @@ mediaType: 'beans'
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
+    <h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 併せてチェックしたい関連アイテム・サービス</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">手挽きコーヒーミル（高精度臼式グラインダー）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">挽きたての香りでコーヒーの旨味が激変</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">コーヒードリッパースケール（0.1g単位タイマー付）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">抽出速度と湯量を正確に計測</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
     </div>
 </div>
 

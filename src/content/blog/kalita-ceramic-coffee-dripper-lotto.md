@@ -2,7 +2,7 @@
 title: '陶器製カリタ ロトのレビュー！「お湯の温度で味が変わる」を解決？'
 description: 'カリタの陶器製コーヒードリッパー「ロト」は、雑味を抑える3つ穴構造で、安定した美味しいハンドドリップを実現。保温性に優れ、初心者でも均一な抽出が可能です。価格1550円（楽天）。'
 pubDate: '2026-07-28'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/cocopla/cabinet/item/005/cxy0120e0001_a001.jpg?_ex=600x600'
+heroImage: '../../assets/images/kalita-ceramic-coffee-dripper-lotto.jpg'
 genre: 'ドリッパー・器具'
 sidebarProducts:
   - title: '★テレビで話題★＼楽天1位／コーヒードリッパー コーヒーフィルター ステンレス製 メッシュ二重構造フィルター ペーパーレス ステンレスフィルター くり返し使える おしゃれ ハンドドリップ 道具 ドリッパー フィルター不要 キャンプ アウトドア'
@@ -28,26 +28,32 @@ mediaType: 'dripper'
 本ページはアフィリエイトプログラムによる収益を得ています。
 :::
 
-自宅で淹れるハンドドリップコーヒーは、豆の種類や気分によって抽出を微調整できる点が魅力だ。しかし、「どうすれば雑味なく、理想的な味わいを引き出せるのか」という壁に直面する愛好家も少なくないだろう。本稿では、そんな悩みを解決し、日々のコーヒータイムを格上げするカリタの陶器製ドリッパー「ロト」を紹介する。独自の3つ穴構造が、安定した抽出とクリアな味わいを両立させるこのドリッパーは、多くのコーヒーファンから高い評価を得ている。
+自宅で淹れるハンドドリップコーヒーは、豆の種類や気分によって抽出を微調整できる点が魅力だ。しかし、「どうすれば雑味なく、理想的な味わいを引き出せるのか」という壁に直面する愛好家も少なくないだろう。本稿では、そんな悩みを解決し、日々のコーヒータイムを格上げするカリタの陶器製[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC)「ロト」を紹介する。独自の3つ穴構造が、安定した抽出とクリアな味わいを両立させるこのドリッパーは、多くのコーヒーファンから高い評価を得ている。
 
 [コーヒードリッパー ロト カリタ 陶器 コーヒー](https://hb.afl.rakuten.co.jp/hgc/g00u0011.ve2q5ff5.g00u0011.ve2q656e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocopla%2F101-cxy0120e0001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocopla%2Fi%2F10001024%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
 
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/cocopla/cabinet/item/005/cxy0120e0001_a001.jpg?_ex=600x600" alt="陶器製カリタ ロトのレビュー！「お湯の温度で味が変わる」を解決？" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E9%99%B6%E5%99%A8%E8%A3%BD%E3%82%AB%E3%83%AA%E3%82%BF%20%E3%83%AD%E3%83%88%E3%81%AE" alt="陶器製カリタ ロトのレビュー！「お湯の温度で味が変わる」を解決？" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
                 陶器製カリタ ロトのレビュー！「お湯の温度で味が変わる」を解決？
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>カリタの陶器製コーヒードリッパー「ロト」は、雑味を抑える3つ穴構造で、安定した美味しいハンドドリップを実現。保温性に優れ、初心者でも均一な抽出が可能です。価格1550円（楽天）。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%2599%25B6%25E5%2599%25A8%25E8%25A3%25BD%25E3%2582%25AB%25E3%2583%25AA%25E3%2582%25BF%2520%25E3%2583%25AD%25E3%2583%2588%25E3%2581%25AE%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E3%2580%258C%25E3%2581%258A%25E6%25B9%25AF%25E3%2581%25AE%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25E3%2580%258D%25E3%2582%2592%25E8%25A7%25A3%25E6%25B1%25BA%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://hb.afl.rakuten.co.jp/hgc/g00tsoq1.ve2q5b75.g00tsoq1.ve2q61cb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flonglife-global%2Fcd21761%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flonglife-global%2Fi%2F10000009%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E9%2599%25B6%25E5%2599%25A8%25E8%25A3%25BD%25E3%2582%25AB%25E3%2583%25AA%25E3%2582%25BF%2520%25E3%2583%25AD%25E3%2583%2588%25E3%2581%25AE%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E3%2580%258C%25E3%2581%258A%25E6%25B9%25AF%25E3%2581%25AE%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25E3%2580%258D%25E3%2582%2592%25E8%25A7%25A3%25E6%25B1%25BA%25EF%25BC%259F%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E9%2599%25B6%25E5%2599%25A8%25E8%25A3%25BD%25E3%2582%25AB%25E3%2583%25AA%25E3%2582%25BF%2520%25E3%2583%25AD%25E3%2583%2588%25E3%2581%25AE%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E3%2580%258C%25E3%2581%258A%25E6%25B9%25AF%25E3%2581%25AE%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25E3%2580%258D%25E3%2582%2592%25E8%25A7%25A3%25E6%25B1%25BA%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
@@ -93,28 +99,48 @@ mediaType: 'dripper'
 
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00u0011.ve2q5ff5.g00u0011.ve2q656e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocopla%2F101-cxy0120e0001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocopla%2Fi%2F10001024%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/cocopla/cabinet/item/005/cxy0120e0001_a001.jpg?_ex=600x600" alt="コーヒードリッパー ロト カリタ 陶器 コーヒー 画像" /></a>
 
+
+<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
+    <div style="font-size: 0.75rem; font-weight: bold; color: #78350f; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
+    <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #78350f; line-height: 1.4;">☕ 自分好みの豆が届く！コーヒー診断＆公式定期便</h3>
+    <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【PostCoffee / ポストコーヒー】</div>
+    <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">簡単な無料のコーヒー診断を受けるだけで、世界中の厳選ロースターからあなた好みの豆が毎月届く人気サブスク。初回お試し特別割引実施中！</p>
+    <div style="text-align: center;">
+        <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fpostcoffee.co%2F" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
+            👉 無料でコーヒー診断を受けてみる
+        </a>
+    </div>
+</div>
+
+
 ## 完璧ではないからこそ、抽出の奥深さを知る
 
 カリタ「ロト」は優れたドリッパーだが、「これさえあればどのような豆でも最高の味になる」といった万能の魔法のツールではない。ドリッパーの穴が3つある分、豆を極端に細挽きにしたり、あるいは湯を勢いよく注ぎすぎたりすると、意図せず抽出が短時間で終了してしまう可能性もある。これは特に浅煎りの豆において、透明感のあるクリアな酸味を際立たせるために、高水温（90℃〜93℃）でのスピーディーな抽出を狙う場合、抽出コントロールが難しくなる場面が生じ得ることを意味する。このような抽出においては、ハリオV60のような円錐形ドリッパーの方が、湯の注ぎ方による抽出速度の調整幅が広く、意図的なバイパス抽出（希釈）を意識したコントロールは容易かもしれない。
 
 しかし、この特性は「ロト」の欠点と捉えるよりも、コーヒー抽出の奥深さを追求するための学びの機会と考えるべきだろう。ロトを使いこなす上での鍵は、豆の挽き具合と丁寧な蒸らしの工程にある。特に蒸らしは、抽出全体の成否を左右する重要なステップだ。まず、粉全体が均一に湿る程度のごく少量のお湯を注ぎ、粉とお湯が十分に馴染んだペースト状にする。この状態で、20秒から30秒程度（深煎りの場合はより長く、最大40秒程度）しっかりと蒸らすことで、コーヒー粉内部のガスが放出され、良味要素が効率的に溶け出す高濃度液層が形成される。その後、適切な流量で一気に湯を注ぎ切るという、シンプルながらも洗練された2ステップで、雑味の少ない、まろやかな風味のコーヒーを淹れることが可能となる。もちろん、抽出された原液を後からお湯で希釈して自分好みの濃さに調整する「バイパス抽出」も、このドリッパーと組み合わせることで効果的なアプローチとなる。
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/cocopla/cabinet/item/005/cxy0120e0001_a001.jpg?_ex=600x600" alt="陶器製カリタ ロトのレビュー！「お湯の温度で味が変わる」を解決？" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E9%99%B6%E5%99%A8%E8%A3%BD%E3%82%AB%E3%83%AA%E3%82%BF%20%E3%83%AD%E3%83%88%E3%81%AE" alt="陶器製カリタ ロトのレビュー！「お湯の温度で味が変わる」を解決？" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
                 陶器製カリタ ロトのレビュー！「お湯の温度で味が変わる」を解決？
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>カリタの陶器製コーヒードリッパー「ロト」は、雑味を抑える3つ穴構造で、安定した美味しいハンドドリップを実現。保温性に優れ、初心者でも均一な抽出が可能です。価格1550円（楽天）。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%2599%25B6%25E5%2599%25A8%25E8%25A3%25BD%25E3%2582%25AB%25E3%2583%25AA%25E3%2582%25BF%2520%25E3%2583%25AD%25E3%2583%2588%25E3%2581%25AE%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E3%2580%258C%25E3%2581%258A%25E6%25B9%25AF%25E3%2581%25AE%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25E3%2580%258D%25E3%2582%2592%25E8%25A7%25A3%25E6%25B1%25BA%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://hb.afl.rakuten.co.jp/hgc/g00tsoq1.ve2q5b75.g00tsoq1.ve2q61cb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flonglife-global%2Fcd21761%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flonglife-global%2Fi%2F10000009%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E9%2599%25B6%25E5%2599%25A8%25E8%25A3%25BD%25E3%2582%25AB%25E3%2583%25AA%25E3%2582%25BF%2520%25E3%2583%25AD%25E3%2583%2588%25E3%2581%25AE%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E3%2580%258C%25E3%2581%258A%25E6%25B9%25AF%25E3%2581%25AE%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25E3%2580%258D%25E3%2582%2592%25E8%25A7%25A3%25E6%25B1%25BA%25EF%25BC%259F%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E9%2599%25B6%25E5%2599%25A8%25E8%25A3%25BD%25E3%2582%25AB%25E3%2583%25AA%25E3%2582%25BF%2520%25E3%2583%25AD%25E3%2583%2588%25E3%2581%25AE%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E3%2580%258C%25E3%2581%258A%25E6%25B9%25AF%25E3%2581%25AE%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25E3%2580%258D%25E3%2582%2592%25E8%25A7%25A3%25E6%25B1%25BA%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
@@ -126,6 +152,31 @@ mediaType: 'dripper'
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
+    <h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 併せてチェックしたい関連アイテム・サービス</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">手挽きコーヒーミル（高精度臼式グラインダー）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">挽きたての香りでコーヒーの旨味が激変</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">コーヒードリッパースケール（0.1g単位タイマー付）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">抽出速度と湯量を正確に計測</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
     </div>
 </div>
 

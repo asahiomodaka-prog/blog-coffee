@@ -2,7 +2,7 @@
 title: '「ブルーマウンテン＆コピ・ルアク」をどう活かす？正直な感想と淹れ方'
 description: '「木箱入 ブルーマウンテン ＆ コピ・ルアク」は、ジャマイカとインドネシアの希少な高級コーヒー生豆100gセット。自宅で最高峰の味を体験したい方や、大切な方への特別な贈り物に最適です。楽天で12,800円。'
 pubDate: '2026-08-11'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/yorozuya462/cabinet/compass1776424658.jpg?_ex=600x600'
+heroImage: '../../assets/images/blue-mountain-kopi-luwak-coffee.jpg'
 genre: 'コーヒー豆・粉'
 sidebarProducts:
   - title: 'お中元 夏ギフト コーヒー 澤井珈琲 送料無料 コーヒーギフト【ソーシャルギフト対応】 珈琲 プレゼント "飾りたくなる木樽入りのコーヒーで贈る、粋な時間。" 高級珈琲豆 ブルーマウンテン 2樽 セット 贅沢 夏のギフト お中元ギフト 【RD】 【TS】'
@@ -29,22 +29,28 @@ mediaType: 'beans'
 
 このセットは単に高価なだけでなく、自宅で本格的なコーヒー体験を追求する愛好家にとって、一つの到達点となり得る逸品である。大切な方への贈り物として、あるいは自分への特別な労いとして、その歴史と独特の味わいを深く探求する価値がある。
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/yorozuya462/cabinet/compass1776424658.jpg?_ex=600x600" alt="「ブルーマウンテン＆コピ・ルアク」をどう活かす？正直な感想と淹れ方" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%80%8C%E3%83%96%E3%83%AB%E3%83%BC%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%86%E3%83%B3%EF%BC%86" alt="「ブルーマウンテン＆コピ・ルアク」をどう活かす？正直な感想と淹れ方" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
                 「ブルーマウンテン＆コピ・ルアク」をどう活かす？正直な感想と淹れ方
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>「木箱入 ブルーマウンテン ＆ コピ・ルアク」は、ジャマイカとインドネシアの希少な高級コーヒー生豆100gセット。自宅で最高峰の味を体験したい方や、大切な方への特別な贈り物に最適です。楽天で12,800円。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E3%2583%2596%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%259E%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2586%25E3%2583%25B3%25EF%25BC%2586%25E3%2582%25B3%25E3%2583%2594%25E3%2583%25BB%25E3%2583%25AB%25E3%2582%25A2%25E3%2582%25AF%25E3%2580%258D%25E3%2582%2592%25E3%2581%25A9%25E3%2581%2586%25E6%25B4%25BB%25E3%2581%258B%25E3%2581%2599%25EF%25BC%259F%25E6%25AD%25A3%25E7%259B%25B4%25E3%2581%25AA%25E6%2584%259F%25E6%2583%25B3%25E3%2581%25A8%25E6%25B7%25B9%25E3%2582%258C%25E6%2596%25B9" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://hb.afl.rakuten.co.jp/hgc/g00powb1.ve2q5783.g00powb1.ve2q6ef7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsawaicoffee-tea%2F210406%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsawaicoffee-tea%2Fi%2F10000479%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2580%258C%25E3%2583%2596%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%259E%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2586%25E3%2583%25B3%25EF%25BC%2586%25E3%2582%25B3%25E3%2583%2594%25E3%2583%25BB%25E3%2583%25AB%25E3%2582%25A2%25E3%2582%25AF%25E3%2580%258D%25E3%2582%2592%25E3%2581%25A9%25E3%2581%2586%25E6%25B4%25BB%25E3%2581%258B%25E3%2581%2599%25EF%25BC%259F%25E6%25AD%25A3%25E7%259B%25B4%25E3%2581%25AA%25E6%2584%259F%25E6%2583%25B3%25E3%2581%25A8%25E6%25B7%25B9%25E3%2582%258C%25E6%2596%25B9%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2580%258C%25E3%2583%2596%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%259E%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2586%25E3%2583%25B3%25EF%25BC%2586%25E3%2582%25B3%25E3%2583%2594%25E3%2583%25BB%25E3%2583%25AB%25E3%2582%25A2%25E3%2582%25AF%25E3%2580%258D%25E3%2582%2592%25E3%2581%25A9%25E3%2581%2586%25E6%25B4%25BB%25E3%2581%258B%25E3%2581%2599%25EF%25BC%259F%25E6%25AD%25A3%25E7%259B%25B4%25E3%2581%25AA%25E6%2584%259F%25E6%2583%25B3%25E3%2581%25A8%25E6%25B7%25B9%25E3%2582%258C%25E6%2596%25B9" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
@@ -66,7 +72,7 @@ mediaType: 'beans'
 
 まず、ブルーマウンテンについて考察する。この豆は、ジャマイカの特定の地域、標高800mから1,200mのブルーマウンテン山脈の急峻な斜面で栽培される。日中の温暖な気候と、朝夕の冷涼な気候が昼夜の寒暖差を生み、これが豆の成長を緩やかにし、複雑な風味を育む。さらに、石灰岩質の土壌がミネラル分を豊富に供給し、特有の「黄金のバランス」と称される、酸味、苦味、甘み、コクのすべてが突出せず、あくまで調和した味わいを生み出すのである。
 
-この繊細なバランスを損なわずに抽出するには、挽き目、湯温、抽出速度が鍵となる。筆者の経験上、中挽きから中粗挽きがブルーマウンテンのポテンシャルを最も引き出すと考える。湯温は90℃から92℃程度で、ドリッパーにお湯を注ぎ始めた瞬間に豆全体がふっくらと膨らむ「ブルーム」の確認は重要である。これは、焙煎によって豆内部に生成された炭酸ガスが放出されている証拠であり、新鮮な豆だからこそ明確に現れる現象である。このブルームが、湯が豆全体に行き渡り、均一に成分を抽出するための重要な前段階となる。湯の注ぎ方は、中心から外へ円を描くようにゆっくりと、そして均一に実施する。急ぎすぎると、コーヒー成分が十分に抽出されず、軽い味わいや雑味が生じやすく、逆に遅すぎると過抽出となり、不必要な苦味や渋みが強調される。ドリップポットの細い注ぎ口から、水の流れを意識的にコントロールすることで、抽出された液は琥珀色に輝き、カップに注ぐ前から上品でフローラルな香りが立ち上る。一口飲めば、その滑らかな口当たりと、喉の奥に残るほのかな甘みが、まさに洗練された品格を感じさせる。
+この繊細なバランスを損なわずに抽出するには、挽き目、湯温、抽出速度が鍵となる。筆者の経験上、中挽きから中粗挽きがブルーマウンテンのポテンシャルを最も引き出すと考える。湯温は90℃から92℃程度で、[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC)にお湯を注ぎ始めた瞬間に豆全体がふっくらと膨らむ「ブルーム」の確認は重要である。これは、焙煎によって豆内部に生成された炭酸ガスが放出されている証拠であり、新鮮な豆だからこそ明確に現れる現象である。このブルームが、湯が豆全体に行き渡り、均一に成分を抽出するための重要な前段階となる。湯の注ぎ方は、中心から外へ円を描くようにゆっくりと、そして均一に実施する。急ぎすぎると、コーヒー成分が十分に抽出されず、軽い味わいや雑味が生じやすく、逆に遅すぎると過抽出となり、不必要な苦味や渋みが強調される。ドリップポットの細い注ぎ口から、水の流れを意識的にコントロールすることで、抽出された液は琥珀色に輝き、カップに注ぐ前から上品でフローラルな香りが立ち上る。一口飲めば、その滑らかな口当たりと、喉の奥に残るほのかな甘みが、まさに洗練された品格を感じさせる。
 
 次に、神秘的な香気を放つコピ・ルアクについてである。この豆は、インドネシアのジャコウネコが食べたコーヒーチェリーが、体内の消化酵素によって発酵・熟成されるという独特のプロセスを経て生まれる。ジャコウネコは、完熟した良質なコーヒーチェリーのみを選別して食すため、元々高品質な豆が選ばれる傾向にある。そして、その体内で消化酵素が働き、コーヒー豆のタンパク質が分解されることで、苦味成分が低減され、甘みや複雑なアロマが生成されると考えられている。この「神秘の香気」は、バニラやチョコレート、キャラメルのような芳醇さ、そしてとろけるような口当たりが最大の特徴である。
 
@@ -86,7 +92,7 @@ mediaType: 'beans'
 
 このセットであれば、あたごコーヒーからの「完全受注焙煎」により、自宅に届いた瞬間が最高の鮮度である。そして、筆者自身のこだわりと技術で、その最高の状態を最大限に引き出して抽出することが可能となる。この「最高の状態」を自宅でコントロールできることこそが、この価格を支払う大きな理由の一つとなる。
 
-日常の使い勝手という面では、やはり鮮度維持が最も重要な課題である。届いた豆は、遮光性・密閉性の高いキャニスターに入れ、冷暗所で保管するのが基本中の基本である。筆者の場合、一度に挽く量だけを取り出し、残りは小さな袋に小分けして、可能な限り空気を抜いて冷凍保存することもある。これにより、酸化のスピードを遅らせ、数週間にわたって最高の香りを維持することが期待できる。木箱に入って届くため、開封する前から特別な高揚感がある。この重厚な木箱は、単なる梱包材としてだけでなく、中の豆の希少性を視覚的にも演出する効果がある。蓋を開ける際の静かな音、そしてその瞬間に立ち上る豆の香りは、まさに五感で楽しむ体験の序章となる。
+日常の使い勝手という面では、やはり鮮度維持が最も重要な課題である。届いた豆は、遮光性・密閉性の高い[キャニスター](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%258B%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC)に入れ、冷暗所で保管するのが基本中の基本である。筆者の場合、一度に挽く量だけを取り出し、残りは小さな袋に小分けして、可能な限り空気を抜いて冷凍保存することもある。これにより、酸化のスピードを遅らせ、数週間にわたって最高の香りを維持することが期待できる。木箱に入って届くため、開封する前から特別な高揚感がある。この重厚な木箱は、単なる梱包材としてだけでなく、中の豆の希少性を視覚的にも演出する効果がある。蓋を開ける際の静かな音、そしてその瞬間に立ち上る豆の香りは、まさに五感で楽しむ体験の序章となる。
 
 コストパフォーマンスという観点で見れば、毎日飲むコーヒーとしては適さない、と割り切って考えるべきであろう。筆者にとって、この[木箱入 ブルーマウンテン ＆ コピ・ルアク](https://hb.afl.rakuten.co.jp/hgc/g00tyfv1.ve2q5e1a.g00tyfv1.ve2q6ca4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyorozuya462%2Fcompass1776425596%2F&m=http%3A%2F%2Fm.rakuten.co.jp%3Fyorozuya462%2Fi%2F10000459%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)は、週末の朝、大切なゲストを迎える際、あるいは仕事で大きな区切りがついた日の夜など、自分を労う特別な瞬間に淹れる一杯である。その一杯がもたらす心の豊かさ、非日常的な満足感は、一般的なコーヒーでは得難いものである。一杯あたり1,280円という価格は「贅沢」ではあるが、その体験がもたらす感動や記憶を考慮すれば、むしろ納得できる価格設定であると筆者は考える。旅行や食事、趣味に投資をするように、コーヒー体験にも投資をする。この豆は、まさにその投資対象として価値の高い選択肢の一つであると断言できる。
 
@@ -101,6 +107,20 @@ mediaType: 'beans'
 筆者がこれまでのコーヒー探求の中で、多くの高級豆を試してきたが、この二つの豆が持つ個性と、それが完璧に調和している様は、まさに「風味の至宝」という表現がふさわしい。あたごコーヒーの「完全受注焙煎」も、その味わいを一層引き立てる要因となっている。焙煎したての豆から立ち上る香りは、時間を経た豆とは格段に異なる。豆を挽いた時の弾けるような音、お湯を注いだ時の美しいブルームは、鮮度の証拠であり、最高の体験を保証するものである。
 
 SNSなどを見ても、このセットについて「今まで飲んだコーヒーで一番」「特別な日にぴったりの贅沢」といった肯定的な声が多数見受けられる。やはり、多くのコーヒー愛好家が、筆者と同様にこのセットの価値を認めているようである。自宅でこれほどのクオリティのコーヒーを淹れることができるというのは、何物にも代えがたい満足感をもたらす。この豆を淹れる時間は、単にコーヒーを飲む時間ではなく、まるで儀式のように、自分自身と向き合う特別な時間へと昇華されると筆者は考える。
+
+
+<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
+    <div style="font-size: 0.75rem; font-weight: bold; color: #78350f; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
+    <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #78350f; line-height: 1.4;">☕ 自分好みの豆が届く！コーヒー診断＆公式定期便</h3>
+    <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【PostCoffee / ポストコーヒー】</div>
+    <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">簡単な無料のコーヒー診断を受けるだけで、世界中の厳選ロースターからあなた好みの豆が毎月届く人気サブスク。初回お試し特別割引実施中！</p>
+    <div style="text-align: center;">
+        <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fpostcoffee.co%2F" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
+            👉 無料でコーヒー診断を受けてみる
+        </a>
+    </div>
+</div>
+
 
 ## 最適な抽出法の探求とライフスタイルへの統合
 
@@ -141,22 +161,28 @@ https://thumbnail.image.rakuten.co.jp/@0_mall/yorozuya462/cabinet/compass1776424
 
 これらの「手間」をデメリットと捉える人もいるかもしれない。しかし、筆者にとってはこの手間こそが、最高のコーヒー体験を追求する上で欠かせないプロセスであり、楽しみの一部である。最高の素材を、最高の状態で、自分の手で仕上げる。これこそが、自宅ドリップコーヒーの醍醐味であると筆者は考える。この[木箱入 ブルーマウンテン ＆ コピ・ルアク](https://hb.afl.rakuten.co.jp/hgc/g00tyfv1.ve2q5e1a.g00tyfv1.ve2q6ca4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyorozuya462%2Fcompass1776425596%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyorozuya462%2Fi%2F10000459%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)は、その手間をかけるに値する、特別な存在である。
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/yorozuya462/cabinet/compass1776424658.jpg?_ex=600x600" alt="「ブルーマウンテン＆コピ・ルアク」をどう活かす？正直な感想と淹れ方" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%80%8C%E3%83%96%E3%83%AB%E3%83%BC%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%86%E3%83%B3%EF%BC%86" alt="「ブルーマウンテン＆コピ・ルアク」をどう活かす？正直な感想と淹れ方" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
                 「ブルーマウンテン＆コピ・ルアク」をどう活かす？正直な感想と淹れ方
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>「木箱入 ブルーマウンテン ＆ コピ・ルアク」は、ジャマイカとインドネシアの希少な高級コーヒー生豆100gセット。自宅で最高峰の味を体験したい方や、大切な方への特別な贈り物に最適です。楽天で12,800円。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E3%2583%2596%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%259E%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2586%25E3%2583%25B3%25EF%25BC%2586%25E3%2582%25B3%25E3%2583%2594%25E3%2583%25BB%25E3%2583%25AB%25E3%2582%25A2%25E3%2582%25AF%25E3%2580%258D%25E3%2582%2592%25E3%2581%25A9%25E3%2581%2586%25E6%25B4%25BB%25E3%2581%258B%25E3%2581%2599%25EF%25BC%259F%25E6%25AD%25A3%25E7%259B%25B4%25E3%2581%25AA%25E6%2584%259F%25E6%2583%25B3%25E3%2581%25A8%25E6%25B7%25B9%25E3%2582%258C%25E6%2596%25B9" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://hb.afl.rakuten.co.jp/hgc/g00powb1.ve2q5783.g00powb1.ve2q6ef7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsawaicoffee-tea%2F210406%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsawaicoffee-tea%2Fi%2F10000479%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2580%258C%25E3%2583%2596%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%259E%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2586%25E3%2583%25B3%25EF%25BC%2586%25E3%2582%25B3%25E3%2583%2594%25E3%2583%25BB%25E3%2583%25AB%25E3%2582%25A2%25E3%2582%25AF%25E3%2580%258D%25E3%2582%2592%25E3%2581%25A9%25E3%2581%2586%25E6%25B4%25BB%25E3%2581%258B%25E3%2581%2599%25EF%25BC%259F%25E6%25AD%25A3%25E7%259B%25B4%25E3%2581%25AA%25E6%2584%259F%25E6%2583%25B3%25E3%2581%25A8%25E6%25B7%25B9%25E3%2582%258C%25E6%2596%25B9%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2580%258C%25E3%2583%2596%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%259E%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2586%25E3%2583%25B3%25EF%25BC%2586%25E3%2582%25B3%25E3%2583%2594%25E3%2583%25BB%25E3%2583%25AB%25E3%2582%25A2%25E3%2582%25AF%25E3%2580%258D%25E3%2582%2592%25E3%2581%25A9%25E3%2581%2586%25E6%25B4%25BB%25E3%2581%258B%25E3%2581%2599%25EF%25BC%259F%25E6%25AD%25A3%25E7%259B%25B4%25E3%2581%25AA%25E6%2584%259F%25E6%2583%25B3%25E3%2581%25A8%25E6%25B7%25B9%25E3%2582%258C%25E6%2596%25B9" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
@@ -168,6 +194,31 @@ https://thumbnail.image.rakuten.co.jp/@0_mall/yorozuya462/cabinet/compass1776424
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
+    <h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 併せてチェックしたい関連アイテム・サービス</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">手挽きコーヒーミル（高精度臼式グラインダー）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">挽きたての香りでコーヒーの旨味が激変</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">コーヒードリッパースケール（0.1g単位タイマー付）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">抽出速度と湯量を正確に計測</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
     </div>
 </div>
 

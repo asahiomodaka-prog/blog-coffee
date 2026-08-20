@@ -2,7 +2,7 @@
 title: '浅煎りコーヒー豆は酸っぱくない？苦味ゼロの秘訣と本音レビュー！'
 description: 'Specialtycoffee蒼の「浅煎り コーヒー豆 300g 苦くない」は、苦味や尖った酸味が苦手な方へ。果実のような甘みと澄み切った後味を両立し、軽やかなコーヒータイムを実現。楽天で3530円で手軽に高品質なスペシャルティコーヒーをお試しください。'
 pubDate: '2026-08-12'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/speciltycoffeesoh/cabinet/asa/asa-niga-1.jpg?_ex=600x600'
+heroImage: '../../assets/images/light-roast-coffee-300g-mild.jpg'
 genre: 'コーヒー豆・粉'
 sidebarProducts:
   - title: 'コーヒー豆 浅煎り 福袋 送料無料 お試しセット おすすめ 飲み比べ エチオピア モカ ナチュラル 120g. キリマンジャロ の雫80g. マンデリン ブレンド 清流長良川80g 計280g メール便 珈琲豆 粉 お中元ギフト 御中元 グルメ コーヒー福袋 コーヒー粉 お得 花以外'
@@ -27,22 +27,28 @@ mediaType: 'beans'
 
 毎日のコーヒーが「苦いもの」という固定観念に縛られ、ブラックを敬遠している人は少なくない。あるいは、浅煎りに挑戦したものの、尖った酸味に辟易してしまった経験があるかもしれない。そうしたコーヒー愛好家の悩みに応えるべく開発されたのが、Specialtycoffee蒼の[浅煎り コーヒー豆 300g 苦くない](https://hb.afl.rakuten.co.jp/hgc/g00tg3e1.ve2q597b.g00tg3e1.ve2q665b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fspeciltycoffeesoh%2Fen300%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fspeciltycoffeesoh%2Fi%2F10000057%2F&rafcid=wsc_i_is_732732a1-5b08-44e7-a7a6-bdd68daad98b)である。この浅煎り豆は、「苦くない」「酸っぱすぎない」という明確なコンセプトを掲げ、果実のような甘みと澄み切った後味を両立させている。日々のコーヒータイムを、より軽やかで心地よい体験へと昇華させたいと考えるなら、この選択肢はまさに理想的である。
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/speciltycoffeesoh/cabinet/asa/asa-niga-1.jpg?_ex=600x600" alt="浅煎りコーヒー豆は酸っぱくない？苦味ゼロの秘訣と本音レビュー！" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E6%B5%85%E7%85%8E%E3%82%8A%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E8%B1%86%E3%81%AF%E9%85%B8" alt="浅煎りコーヒー豆は酸っぱくない？苦味ゼロの秘訣と本音レビュー！" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
                 浅煎りコーヒー豆は酸っぱくない？苦味ゼロの秘訣と本音レビュー！
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>Specialtycoffee蒼の「浅煎り コーヒー豆 300g 苦くない」は、苦味や尖った酸味が苦手な方へ。果実のような甘みと澄み切った後味を両立し、軽やかなコーヒータイムを実現。楽天で3530円で手軽に高品質なスペシャルティコーヒーをお</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B5%2585%25E7%2585%258E%25E3%2582%258A%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2581%25AF%25E9%2585%25B8%25E3%2581%25A3%25E3%2581%25B1%25E3%2581%258F%25E3%2581%25AA%25E3%2581%2584%25EF%25BC%259F%25E8%258B%25A6%25E5%2591%25B3%25E3%2582%25BC%25E3%2583%25AD%25E3%2581%25AE%25E7%25A7%2598%25E8%25A8%25A3%25E3%2581%25A8%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-prom-bm2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000178%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E6%25B5%2585%25E7%2585%258E%25E3%2582%258A%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2581%25AF%25E9%2585%25B8%25E3%2581%25A3%25E3%2581%25B1%25E3%2581%258F%25E3%2581%25AA%25E3%2581%2584%25EF%25BC%259F%25E8%258B%25A6%25E5%2591%25B3%25E3%2582%25BC%25E3%2583%25AD%25E3%2581%25AE%25E7%25A7%2598%25E8%25A8%25A3%25E3%2581%25A8%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25B5%2585%25E7%2585%258E%25E3%2582%258A%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2581%25AF%25E9%2585%25B8%25E3%2581%25A3%25E3%2581%25B1%25E3%2581%258F%25E3%2581%25AA%25E3%2581%2584%25EF%25BC%259F%25E8%258B%25A6%25E5%2591%25B3%25E3%2582%25BC%25E3%2583%25AD%25E3%2581%25AE%25E7%25A7%2598%25E8%25A8%25A3%25E3%2581%25A8%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
@@ -108,11 +114,25 @@ Specialtycoffee蒼の哲学である「飲み疲れしないこと」は、自�
 | 販売ショップ | スペシャルティコーヒー蒼 |
 | レビュー評価 | 5.0 (9件) |
 
+
+<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
+    <div style="font-size: 0.75rem; font-weight: bold; color: #78350f; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
+    <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #78350f; line-height: 1.4;">☕ 自分好みの豆が届く！コーヒー診断＆公式定期便</h3>
+    <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【PostCoffee / ポストコーヒー】</div>
+    <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">簡単な無料のコーヒー診断を受けるだけで、世界中の厳選ロースターからあなた好みの豆が毎月届く人気サブスク。初回お試し特別割引実施中！</p>
+    <div style="text-align: center;">
+        <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fpostcoffee.co%2F" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
+            👉 無料でコーヒー診断を受けてみる
+        </a>
+    </div>
+</div>
+
+
 ## 抽出方法とライフスタイル：浅煎りが映えるシーンの提案
 
 浅煎りコーヒーの魅力を最大限に引き出すためには、抽出方法との相性を理解することが重要である。深煎りのような重厚なコクは、フレンチプレスやエスプレッソで力強く抽出するのに向いているが、このSpecialtycoffee蒼の[浅煎り コーヒー豆 300g 苦くない](https://hb.afl.rakuten.co.jp/hgc/g00tg3e1.ve2q597b.g00tg3e1.ve2q665b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fspeciltycoffeesoh%2Fen300%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fspeciltycoffeesoh%2Fi%2F10000057%2F&rafcid=wsc_i_is_732732a1-5b08-44e7-a7a6-bdd68daad98b)のようなフルーティーでクリーンな浅煎り豆には、より繊細な抽出方法が推奨される。
 
-最も推奨される抽出方法は、やはりハンドドリップである。特に、透過式のコーヒードリッパーと細口のケトルを使用して、湯をゆっくりと、そして均一に粉全体に注ぎ込むことで、豆本来の複雑な香りと甘みを丁寧に引き出すことができる。抽出する湯温は前述の通り90℃から93℃が目安であるが、品種や焙煎度合い、個人の好みに応じて88℃程度に調整すると、より柔らかな酸味と甘みが際立つ場合もあるため、試行錯誤が推奨される。粉の挽き目は中細挽き〜中挽きが基本であるが、酸味をもう少し抑えたい場合は、気持ち細かめに挽いてみるのも一つの方法である。抽出スピードも重要な要素であり、一般的な2分半〜3分を目安に、コーヒーが落ちる雫の色や流量を見ながら調整することで、浅煎り豆の持つ個性を最大限に開花させる鍵となる。
+最も推奨される抽出方法は、やはりハンドドリップである。特に、透過式のコーヒー[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC)と細口のケトルを使用して、湯をゆっくりと、そして均一に粉全体に注ぎ込むことで、豆本来の複雑な香りと甘みを丁寧に引き出すことができる。抽出する湯温は前述の通り90℃から93℃が目安であるが、品種や焙煎度合い、個人の好みに応じて88℃程度に調整すると、より柔らかな酸味と甘みが際立つ場合もあるため、試行錯誤が推奨される。粉の挽き目は中細挽き〜中挽きが基本であるが、酸味をもう少し抑えたい場合は、気持ち細かめに挽いてみるのも一つの方法である。抽出スピードも重要な要素であり、一般的な2分半〜3分を目安に、コーヒーが落ちる雫の色や流量を見ながら調整することで、浅煎り豆の持つ個性を最大限に開花させる鍵となる。
 
 フレンチプレスもまた、この豆の魅力を引き出す方法の一つである。フレンチプレスはコーヒーオイルを余すことなく抽出するため、浅煎り豆の持つ豊かなアロマと、口の中に広がるボディ感を損なうことなく感じられる。ただし、ハンドドリップに比べて微粉がカップに残りやすいため、よりクリアな味わいを求めるならば、メッシュフィルターが二重になっている器具を使用するか、飲む直前にデキャンタに移し替えるなどの工夫が求められる。また、ペーパーフィルターを併用することで、よりクリーンな口当たりを実現することも可能である。
 
@@ -130,7 +150,7 @@ Specialtycoffee蒼の哲学である「飲み疲れしないこと」は、自�
 
 次に、浅煎り豆は深煎り豆に比べて、抽出の技術がより試される側面がある。深煎りは多少粗い抽出でも、その強い苦味やコクが多少の欠点を覆い隠す傾向にあるが、浅煎りは非常にデリケートである。湯温が低すぎれば酸味が過剰に強調されたり、高すぎれば苦味が際立ったりすることがある。また、挽き目が適切でなければ、お湯が粉の中を均一に流れない「チャネリング」が発生し、成分がうまく抽出されずに物足りない味になることもある。これはある意味、コーヒー抽出の奥深さを知る良い機会でもあるが、毎朝安定して「最高の味」を出すには、ある程度の慣れと試行錯誤が必要である。
 
-これを補うためのアドバイスとしては、まず「挽き目の調整」と「湯温の安定」に意識を集中することが重要である。手動のコーヒーミルを使用している場合は、挽き目のダイヤルを少しずつ変えてみて、自分の好みや豆に合うポイントを探すのが良い。電動ミルであれば、グラインド時間を微調整することも有効である。湯温に関しては、温度計付きのケトルを使用するのが最も確実な方法である。もしなければ、沸騰したお湯を別のポットに移し替え、数秒待ってから注ぎ始めるだけでも、温度の安定性は増し、適切な抽出を促すことができる。
+これを補うためのアドバイスとしては、まず「挽き目の調整」と「湯温の安定」に意識を集中することが重要である。手動の[コーヒーミル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D)を使用している場合は、挽き目のダイヤルを少しずつ変えてみて、自分の好みや豆に合うポイントを探すのが良い。電動ミルであれば、グラインド時間を微調整することも有効である。湯温に関しては、温度計付きのケトルを使用するのが最も確実な方法である。もしなければ、沸騰したお湯を別のポットに移し替え、数秒待ってから注ぎ始めるだけでも、温度の安定性は増し、適切な抽出を促すことができる。
 
 また、浅煎り豆は深煎りに比べて、抽出後の微粉がドリッパーやサーバーに残りやすい傾向がある。特にフレンチプレスで抽出した際には、微粉がフィルターに詰まりやすく、洗浄に少し手間がかかる場合もある。使用後はすぐに器具を洗い流す習慣をつけることが大切である。水洗いだけでも十分であるが、定期的に専用のクリーナーでメンテナンスを行うことで、器具を長持ちさせ、コーヒーの風味を損なわない状態を保つことができる。
 
@@ -138,22 +158,28 @@ Specialtycoffee蒼の哲学である「飲み疲れしないこと」は、自�
 
 これらの「手間」を単なるデメリットと捉えるか、あるいは「コーヒーを深く楽しむための探求プロセス」と捉えるかは、個々のコーヒー愛好家によって異なるだろう。しかし、試行錯誤しながら自分好みの味を追求していく過程そのものが、自宅でのコーヒー体験の大きな醍醐味の一つであることは確かである。
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/speciltycoffeesoh/cabinet/asa/asa-niga-1.jpg?_ex=600x600" alt="浅煎りコーヒー豆は酸っぱくない？苦味ゼロの秘訣と本音レビュー！" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E6%B5%85%E7%85%8E%E3%82%8A%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E8%B1%86%E3%81%AF%E9%85%B8" alt="浅煎りコーヒー豆は酸っぱくない？苦味ゼロの秘訣と本音レビュー！" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
                 浅煎りコーヒー豆は酸っぱくない？苦味ゼロの秘訣と本音レビュー！
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>Specialtycoffee蒼の「浅煎り コーヒー豆 300g 苦くない」は、苦味や尖った酸味が苦手な方へ。果実のような甘みと澄み切った後味を両立し、軽やかなコーヒータイムを実現。楽天で3530円で手軽に高品質なスペシャルティコーヒーをお</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B5%2585%25E7%2585%258E%25E3%2582%258A%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2581%25AF%25E9%2585%25B8%25E3%2581%25A3%25E3%2581%25B1%25E3%2581%258F%25E3%2581%25AA%25E3%2581%2584%25EF%25BC%259F%25E8%258B%25A6%25E5%2591%25B3%25E3%2582%25BC%25E3%2583%25AD%25E3%2581%25AE%25E7%25A7%2598%25E8%25A8%25A3%25E3%2581%25A8%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-prom-bm2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000178%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E6%25B5%2585%25E7%2585%258E%25E3%2582%258A%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2581%25AF%25E9%2585%25B8%25E3%2581%25A3%25E3%2581%25B1%25E3%2581%258F%25E3%2581%25AA%25E3%2581%2584%25EF%25BC%259F%25E8%258B%25A6%25E5%2591%25B3%25E3%2582%25BC%25E3%2583%25AD%25E3%2581%25AE%25E7%25A7%2598%25E8%25A8%25A3%25E3%2581%25A8%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25B5%2585%25E7%2585%258E%25E3%2582%258A%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2581%25AF%25E9%2585%25B8%25E3%2581%25A3%25E3%2581%25B1%25E3%2581%258F%25E3%2581%25AA%25E3%2581%2584%25EF%25BC%259F%25E8%258B%25A6%25E5%2591%25B3%25E3%2582%25BC%25E3%2583%25AD%25E3%2581%25AE%25E7%25A7%2598%25E8%25A8%25A3%25E3%2581%25A8%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
@@ -165,6 +191,31 @@ Specialtycoffee蒼の哲学である「飲み疲れしないこと」は、自�
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
+    <h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 併せてチェックしたい関連アイテム・サービス</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">手挽きコーヒーミル（高精度臼式グラインダー）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">挽きたての香りでコーヒーの旨味が激変</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">コーヒードリッパースケール（0.1g単位タイマー付）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">抽出速度と湯量を正確に計測</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
     </div>
 </div>
 

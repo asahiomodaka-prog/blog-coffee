@@ -2,7 +2,7 @@
 title: 'デロンギ ラ・スペシャリスタ・プレスティージオで。豆から香る、私の至福カフェ時間'
 description: '「自宅コーヒーの味が安定しない」「温度管理が面倒」そんな悩みに。デロンギ ラ・スペシャリスタ・プレスティージオは、豆から挽けるグラインダー付きで安定抽出を実現します。本格エスプレッソやカフェラテ、ラテアートも自宅で簡単に。その魅力を徹底解説。'
 pubDate: '2026-07-09'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/delonghi/cabinet/06618479/item/12570740/0132126050.jpg?_ex=600x600'
+heroImage: '../../assets/images/delonghi-la-specialista-prestigio.jpg'
 genre: 'エスプレッソ・マシン'
 sidebarProducts:
   - title: '【14％OFF】【数量限定】【販路限定モデル】＼楽天ランキング1位／デロンギ マグニフィカS 全自動コーヒーマシン エスプレッソメーカー [ECAM22112W] | デロンギコーヒーメーカー 豆から挽く エスプレッソ カプチーノ カフェラテ 全自動 コーヒー豆 コーヒーマシン 公式'
@@ -29,22 +29,28 @@ mediaType: 'machine'
 
 このようなコーヒー愛好家の悩みに応えるべく登場したのが、[デロンギ ラ・スペシャリスタ・プレスティージオ](https://hb.afl.rakuten.co.jp/hgc/g00t7tc1.ve2q5883.g00t7tc1.ve2q6e3b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdelonghi%2F0132126050%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdelonghi%2Fi%2F10002509%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)である。本記事では、このエスプレッソ・カプチーノメーカーが、いかに自宅での本格的なコーヒー体験を実現するか、その独自の技術と実際の使用感を詳細に解説する。
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/delonghi/cabinet/06618479/item/12570740/0132126050.jpg?_ex=600x600" alt="デロンギ ラ・スペシャリスタ・プレスティージオで。豆から香る、私の至福カフェ時間" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%83%87%E3%83%AD%E3%83%B3%E3%82%AE%20%E3%83%A9%E3%83%BB%E3%82%B9%E3%83%9A%E3%82%B7" alt="デロンギ ラ・スペシャリスタ・プレスティージオで。豆から香る、私の至福カフェ時間" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
                 デロンギ ラ・スペシャリスタ・プレスティージオで。豆から香る、私の至福カフェ時間
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>「自宅コーヒーの味が安定しない」「温度管理が面倒」そんな悩みに。デロンギ ラ・スペシャリスタ・プレスティージオは、豆から挽けるグラインダー付きで安定抽出を実現します。本格エスプレッソやカフェラテ、ラテアートも自宅で簡単に。その魅力を徹底解説</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2587%25E3%2583%25AD%25E3%2583%25B3%25E3%2582%25AE%2520%25E3%2583%25A9%25E3%2583%25BB%25E3%2582%25B9%25E3%2583%259A%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25AA%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BB%25E3%2583%2597%25E3%2583%25AC%25E3%2582%25B9%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25AA%25E3%2581%25A7%25E3%2580%2582%25E8%25B1%2586%25E3%2581%258B%25E3%2582%2589%25E9%25A6%2599%25E3%2582%258B%25E3%2580%2581%25E7%25A7%2581%25E3%2581%25AE%25E8%2587%25B3%25E7%25A6%258F%25E3%2582%25AB%25E3%2583%2595%25E3%2582%25A7%25E6%2599%2582%25E9%2596%2593" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://hb.afl.rakuten.co.jp/hgc/g00t7tc1.ve2q5883.g00t7tc1.ve2q6e3b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdelonghi%2F0132213170%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdelonghi%2Fi%2F10002653%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2587%25E3%2583%25AD%25E3%2583%25B3%25E3%2582%25AE%2520%25E3%2583%25A9%25E3%2583%25BB%25E3%2582%25B9%25E3%2583%259A%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25AA%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BB%25E3%2583%2597%25E3%2583%25AC%25E3%2582%25B9%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25AA%25E3%2581%25A7%25E3%2580%2582%25E8%25B1%2586%25E3%2581%258B%25E3%2582%2589%25E9%25A6%2599%25E3%2582%258B%25E3%2580%2581%25E7%25A7%2581%25E3%2581%25AE%25E8%2587%25B3%25E7%25A6%258F%25E3%2582%25AB%25E3%2583%2595%25E3%2582%25A7%25E6%2599%2582%25E9%2596%2593%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2587%25E3%2583%25AD%25E3%2583%25B3%25E3%2582%25AE%2520%25E3%2583%25A9%25E3%2583%25BB%25E3%2582%25B9%25E3%2583%259A%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25AA%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BB%25E3%2583%2597%25E3%2583%25AC%25E3%2582%25B9%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25AA%25E3%2581%25A7%25E3%2580%2582%25E8%25B1%2586%25E3%2581%258B%25E3%2582%2589%25E9%25A6%2599%25E3%2582%258B%25E3%2580%2581%25E7%25A7%2581%25E3%2581%25AE%25E8%2587%25B3%25E7%25A6%258F%25E3%2582%25AB%25E3%2583%2595%25E3%2582%25A7%25E6%2599%2582%25E9%2596%2593" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
@@ -83,7 +89,6 @@ mediaType: 'machine'
     </a>
   </div>
 </div>
-
 
 <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 1.25rem; margin: 2.5rem 0; box-shadow: 0 4px 20px -2px rgba(15, 23, 42, 0.04); display: flex; flex-direction: row; gap: 1.25rem; align-items: center; max-width: 100%; box-sizing: border-box; font-family: sans-serif; min-height: 140px;">
   <div style="flex-shrink: 0; width: 100px; height: 100px; display: flex; align-items: center; justify-content: center; background-color: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9; overflow: hidden;">
@@ -155,6 +160,20 @@ mediaType: 'machine'
 
 このマシンがあれば、スペシャルティコーヒー豆（100gで約1,000円と仮定し、1杯10g使用で100円）と牛乳代（約50円）を合わせても、1杯あたり150円程度で同等かそれ以上のクオリティのコーヒーを自宅で楽しめる。単純計算で、1年少しで本体価格分の元が取れる計算となる。もちろん、これには電気代やメンテナンス費用は含まれない概算だが、長期的に見れば、コストパフォーマンスは十分に高いと評価できる。
 
+
+<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
+    <div style="font-size: 0.75rem; font-weight: bold; color: #78350f; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
+    <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #78350f; line-height: 1.4;">☕ 自分好みの豆が届く！コーヒー診断＆公式定期便</h3>
+    <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【PostCoffee / ポストコーヒー】</div>
+    <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">簡単な無料のコーヒー診断を受けるだけで、世界中の厳選ロースターからあなた好みの豆が毎月届く人気サブスク。初回お試し特別割引実施中！</p>
+    <div style="text-align: center;">
+        <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fpostcoffee.co%2F" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
+            👉 無料でコーヒー診断を受けてみる
+        </a>
+    </div>
+</div>
+
+
 ## デメリットとそれを補うアドバイス
 
 ### 設置スペースと初期投資
@@ -177,22 +196,28 @@ mediaType: 'machine'
 
 このマシンは、自宅で本格的なエスプレッソ体験を追求するコーヒー愛好家にとって、新たな可能性をもたらす一台となるだろう。導入にあたっては、設置スペースや初期投資額を考慮しつつ、自身のコーヒーに対する情熱と照らし合わせ、その価値を熟考することをおすすめする。
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/delonghi/cabinet/06618479/item/12570740/0132126050.jpg?_ex=600x600" alt="デロンギ ラ・スペシャリスタ・プレスティージオで。豆から香る、私の至福カフェ時間" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%83%87%E3%83%AD%E3%83%B3%E3%82%AE%20%E3%83%A9%E3%83%BB%E3%82%B9%E3%83%9A%E3%82%B7" alt="デロンギ ラ・スペシャリスタ・プレスティージオで。豆から香る、私の至福カフェ時間" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
                 デロンギ ラ・スペシャリスタ・プレスティージオで。豆から香る、私の至福カフェ時間
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>「自宅コーヒーの味が安定しない」「温度管理が面倒」そんな悩みに。デロンギ ラ・スペシャリスタ・プレスティージオは、豆から挽けるグラインダー付きで安定抽出を実現します。本格エスプレッソやカフェラテ、ラテアートも自宅で簡単に。その魅力を徹底解説</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2587%25E3%2583%25AD%25E3%2583%25B3%25E3%2582%25AE%2520%25E3%2583%25A9%25E3%2583%25BB%25E3%2582%25B9%25E3%2583%259A%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25AA%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BB%25E3%2583%2597%25E3%2583%25AC%25E3%2582%25B9%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25AA%25E3%2581%25A7%25E3%2580%2582%25E8%25B1%2586%25E3%2581%258B%25E3%2582%2589%25E9%25A6%2599%25E3%2582%258B%25E3%2580%2581%25E7%25A7%2581%25E3%2581%25AE%25E8%2587%25B3%25E7%25A6%258F%25E3%2582%25AB%25E3%2583%2595%25E3%2582%25A7%25E6%2599%2582%25E9%2596%2593" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://hb.afl.rakuten.co.jp/hgc/g00t7tc1.ve2q5883.g00t7tc1.ve2q6e3b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdelonghi%2F0132213170%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdelonghi%2Fi%2F10002653%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2587%25E3%2583%25AD%25E3%2583%25B3%25E3%2582%25AE%2520%25E3%2583%25A9%25E3%2583%25BB%25E3%2582%25B9%25E3%2583%259A%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25AA%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BB%25E3%2583%2597%25E3%2583%25AC%25E3%2582%25B9%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25AA%25E3%2581%25A7%25E3%2580%2582%25E8%25B1%2586%25E3%2581%258B%25E3%2582%2589%25E9%25A6%2599%25E3%2582%258B%25E3%2580%2581%25E7%25A7%2581%25E3%2581%25AE%25E8%2587%25B3%25E7%25A6%258F%25E3%2582%25AB%25E3%2583%2595%25E3%2582%25A7%25E6%2599%2582%25E9%2596%2593%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2587%25E3%2583%25AD%25E3%2583%25B3%25E3%2582%25AE%2520%25E3%2583%25A9%25E3%2583%25BB%25E3%2582%25B9%25E3%2583%259A%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25AA%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BB%25E3%2583%2597%25E3%2583%25AC%25E3%2582%25B9%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25AA%25E3%2581%25A7%25E3%2580%2582%25E8%25B1%2586%25E3%2581%258B%25E3%2582%2589%25E9%25A6%2599%25E3%2582%258B%25E3%2580%2581%25E7%25A7%2581%25E3%2581%25AE%25E8%2587%25B3%25E7%25A6%258F%25E3%2582%25AB%25E3%2583%2595%25E3%2582%25A7%25E6%2599%2582%25E9%2596%2593" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
@@ -204,6 +229,31 @@ mediaType: 'machine'
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
+    <h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 併せてチェックしたい関連アイテム・サービス</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">手挽きコーヒーミル（高精度臼式グラインダー）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">挽きたての香りでコーヒーの旨味が激変</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">コーヒードリッパースケール（0.1g単位タイマー付）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">抽出速度と湯量を正確に計測</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
     </div>
 </div>
 

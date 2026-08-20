@@ -2,7 +2,7 @@
 title: '「コーヒー ドリッパー」で解決！毎回味がブレる悩みを本音レビュー'
 description: '紙フィルター不要の「コーヒー ドリッパー 1〜3人用」。高品質ステンレス製二重メッシュがコーヒー本来の風味をダイレクトに抽出します。経済的でエコ、目詰まりしにくい快適設計で、毎日の本格的な一杯が手軽に。'
 pubDate: '2026-08-15'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/unibuy/cabinet/biiino/item/main-image/20220203132121_1.jpg?_ex=600x600'
+heroImage: '../../assets/images/coffee-dripper-1-3-cup.jpg'
 genre: 'ドリッパー・器具'
 sidebarProducts:
   - title: '【1等最大100％ポイントバックキャンペーン】 茶考具 ドリッパー＆スタンドドリップ スタンド お茶 緑茶 日本茶 煎茶 日本製コーヒードリッパー スタンド ドリッパー おしゃれ こしき ストレーナー サーバー コーヒー 珈琲 茶こし 茶漉し ステンレス 珈琲考具 KOGU'
@@ -25,22 +25,28 @@ mediaType: 'dripper'
 
 <!-- PR: 本ページはアフィリエイト広告を利用しています -->
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/unibuy/cabinet/biiino/item/main-image/20220203132121_1.jpg?_ex=600x600" alt="「コーヒー ドリッパー」で解決！毎回味がブレる悩みを本音レビュー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%80%8C%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%20%E3%83%89%E3%83%AA%E3%83%83%E3%83%91" alt="「コーヒー ドリッパー」で解決！毎回味がブレる悩みを本音レビュー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
                 「コーヒー ドリッパー」で解決！毎回味がブレる悩みを本音レビュー
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>紙フィルター不要の「コーヒー ドリッパー 1〜3人用」。高品質ステンレス製二重メッシュがコーヒー本来の風味をダイレクトに抽出します。経済的でエコ、目詰まりしにくい快適設計で、毎日の本格的な一杯が手軽に。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC%25E3%2580%258D%25E3%2581%25A7%25E8%25A7%25A3%25E6%25B1%25BA%25EF%25BC%2581%25E6%25AF%258E%25E5%259B%259E%25E5%2591%25B3%25E3%2581%258C%25E3%2583%2596%25E3%2583%25AC%25E3%2582%258B%25E6%2582%25A9%25E3%2581%25BF%25E3%2582%2592%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://hb.afl.rakuten.co.jp/hgc/g00t7ao1.ve2q5bd3.g00t7ao1.ve2q6e3a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsimomura-kihan%2F40619%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsimomura-kihan%2Fi%2F10000251%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2580%258C%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC%25E3%2580%258D%25E3%2581%25A7%25E8%25A7%25A3%25E6%25B1%25BA%25EF%25BC%2581%25E6%25AF%258E%25E5%259B%259E%25E5%2591%25B3%25E3%2581%258C%25E3%2583%2596%25E3%2583%25AC%25E3%2582%258B%25E6%2582%25A9%25E3%2581%25BF%25E3%2582%2592%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2580%258C%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC%25E3%2580%258D%25E3%2581%25A7%25E8%25A7%25A3%25E6%25B1%25BA%25EF%25BC%2581%25E6%25AF%258E%25E5%259B%259E%25E5%2591%25B3%25E3%2581%258C%25E3%2583%2596%25E3%2583%25AC%25E3%2582%258B%25E6%2582%25A9%25E3%2581%25BF%25E3%2582%2592%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
@@ -58,7 +64,7 @@ mediaType: 'dripper'
 
 ## 毎日のコーヒーを格上げする「ペーパーレス」の選択
 
-毎日のコーヒータイムを、もっと豊かで特別なものにしたいと願うコーヒー愛好家にとって、抽出器具の選択は常に重要なテーマである。特に、使い捨てのペーパーフィルターの消費量や、紙がコーヒー本来の風味を吸着してしまう点に、疑問や物足りなさを感じたことはないだろうか。本稿で紹介するのは、まさにそうした課題に応えるステンレス製ドリッパー、[＼ランキング入賞／人気商品！コーヒー ドリッパー 1〜 3人用](https://hb.afl.rakuten.co.jp/hgc/g00tfsm1.ve2q5232.g00tfsm1.ve2q62c7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funibuy%2Fcoffee-field%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funibuy%2Fi%2F10000214%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)である。
+毎日のコーヒータイムを、もっと豊かで特別なものにしたいと願うコーヒー愛好家にとって、抽出器具の選択は常に重要なテーマである。特に、使い捨てのペーパーフィルターの消費量や、紙がコーヒー本来の風味を吸着してしまう点に、疑問や物足りなさを感じたことはないだろうか。本稿で紹介するのは、まさにそうした課題に応えるステンレス製[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC)、[＼ランキング入賞／人気商品！コーヒー ドリッパー 1〜 3人用](https://hb.afl.rakuten.co.jp/hgc/g00tfsm1.ve2q5232.g00tfsm1.ve2q62c7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funibuy%2Fcoffee-field%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funibuy%2Fi%2F10000214%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)である。
 
 このドリッパーは、紙フィルターが不要なペーパーレス設計により、環境に配慮しつつ経済的なメリットをもたらす。さらに、コーヒー豆が持つ「本来の味わい」をダイレクトに引き出すことに特化している点が最大の魅力だ。豆の個性を余すことなく楽しみたい、エコな生活を実践したい、そして手軽に本格的な一杯を淹れたいと考えるならば、このステンレスドリッパーは、あなたの求める理想のコーヒー体験を実現するための強力な選択肢となるだろう。
 
@@ -99,6 +105,20 @@ mediaType: 'dripper'
 このドリッパーは、単なる抽出器具というよりも、毎日のコーヒー体験を豊かにし、かつ持続可能な暮らしをサポートしてくれるパートナーのような存在であると言えよう。初期投資はかかるものの、その後のランニングコストを大幅に削減し、環境への負荷も軽減する。そして何よりも、コーヒー本来の味わいを存分に引き出してくれる性能は、その価格以上の価値をもたらしてくれるはずである。
 
 [＼ランキング入賞／人気商品！コーヒー ドリッパー 1〜 3人用](https://hb.afl.rakuten.co.jp/hgc/g00tfsm1.ve2q5232.g00tfsm1.ve2q62c7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funibuy%2Fcoffee-field%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funibuy%2Fi%2F10000214%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+
+
+<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
+    <div style="font-size: 0.75rem; font-weight: bold; color: #78350f; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
+    <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #78350f; line-height: 1.4;">☕ 自分好みの豆が届く！コーヒー診断＆公式定期便</h3>
+    <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【PostCoffee / ポストコーヒー】</div>
+    <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">簡単な無料のコーヒー診断を受けるだけで、世界中の厳選ロースターからあなた好みの豆が毎月届く人気サブスク。初回お試し特別割引実施中！</p>
+    <div style="text-align: center;">
+        <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fpostcoffee.co%2F" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
+            👉 無料でコーヒー診断を受けてみる
+        </a>
+    </div>
+</div>
+
 
 ## 実際の声と確かな手応え
 
@@ -152,22 +172,28 @@ mediaType: 'dripper'
 
 これらのデメリットは、決して致命的なものではない。むしろ、このドリッパーが持つ独特の特性であり、それを理解し適切に向き合うことで、より深くコーヒーの世界を楽しむことができるのである。一手間かけることで得られる、自分だけの特別な一杯は、それだけの価値があると言えよう。
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/unibuy/cabinet/biiino/item/main-image/20220203132121_1.jpg?_ex=600x600" alt="「コーヒー ドリッパー」で解決！毎回味がブレる悩みを本音レビュー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%80%8C%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%20%E3%83%89%E3%83%AA%E3%83%83%E3%83%91" alt="「コーヒー ドリッパー」で解決！毎回味がブレる悩みを本音レビュー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
                 「コーヒー ドリッパー」で解決！毎回味がブレる悩みを本音レビュー
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>紙フィルター不要の「コーヒー ドリッパー 1〜3人用」。高品質ステンレス製二重メッシュがコーヒー本来の風味をダイレクトに抽出します。経済的でエコ、目詰まりしにくい快適設計で、毎日の本格的な一杯が手軽に。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC%25E3%2580%258D%25E3%2581%25A7%25E8%25A7%25A3%25E6%25B1%25BA%25EF%25BC%2581%25E6%25AF%258E%25E5%259B%259E%25E5%2591%25B3%25E3%2581%258C%25E3%2583%2596%25E3%2583%25AC%25E3%2582%258B%25E6%2582%25A9%25E3%2581%25BF%25E3%2582%2592%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://hb.afl.rakuten.co.jp/hgc/g00t7ao1.ve2q5bd3.g00t7ao1.ve2q6e3a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsimomura-kihan%2F40619%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsimomura-kihan%2Fi%2F10000251%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2580%258C%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC%25E3%2580%258D%25E3%2581%25A7%25E8%25A7%25A3%25E6%25B1%25BA%25EF%25BC%2581%25E6%25AF%258E%25E5%259B%259E%25E5%2591%25B3%25E3%2581%258C%25E3%2583%2596%25E3%2583%25AC%25E3%2582%258B%25E6%2582%25A9%25E3%2581%25BF%25E3%2582%2592%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2580%258C%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC%25E3%2580%258D%25E3%2581%25A7%25E8%25A7%25A3%25E6%25B1%25BA%25EF%25BC%2581%25E6%25AF%258E%25E5%259B%259E%25E5%2591%25B3%25E3%2581%258C%25E3%2583%2596%25E3%2583%25AC%25E3%2582%258B%25E6%2582%25A9%25E3%2581%25BF%25E3%2582%2592%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
@@ -179,6 +205,31 @@ mediaType: 'dripper'
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
+    <h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 併せてチェックしたい関連アイテム・サービス</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">手挽きコーヒーミル（高精度臼式グラインダー）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">挽きたての香りでコーヒーの旨味が激変</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">コーヒードリッパースケール（0.1g単位タイマー付）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">抽出速度と湯量を正確に計測</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
     </div>
 </div>
 

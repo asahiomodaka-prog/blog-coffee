@@ -2,7 +2,7 @@
 title: '「ブレンドコーヒー500g」を細挽きで淹れる！温度と挽き目で味が激変するってホント？'
 description: 'KOTENブレンドのオリジナルコーヒー豆500gが楽天で1,650円。インドネシア、ブラジル、コロンビア産の豆をブレンドした深煎りで、豆のまま・細挽きが選べます。専門卸問屋ドリームコーヒーとの共同開発で、煎りたて挽きたての美味しさをお届けします。'
 pubDate: '2026-08-03'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/auc-koten/cabinet/coffee_01.jpg?_ex=600x600'
+heroImage: '../../assets/images/coffee-beans-blend-500g.jpg'
 genre: 'ミル・グラインダー'
 sidebarProducts:
   - title: 'ブラジル 400g コーヒー豆 粉 送料無料 深煎り コーヒー豆 フレンチ ドリップ ドリップコーヒー 珈琲豆 コーヒー粉 自家焙煎 コーヒー 珈琲 送料無料 コーヒー ギフト アイスコーヒー おしゃれ おすすめ お試し プレゼント ブラックフライデー'
@@ -34,25 +34,31 @@ mediaType: 'grinder'
 
 この記事では、コーヒー愛好家である僕がKOTENブレンドを実際に試した経験を元に、その抽出のコツ、味わいの魅力、そしてどのようなライフスタイルに適しているかを詳しく解説する。日々のコーヒーに満足感を求めつつ、経済的な負担を抑えたいと考えているなら、ぜひ参考にしてほしい。
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/auc-koten/cabinet/coffee_01.jpg?_ex=600x600" alt="「ブレンドコーヒー500g」を細挽きで淹れる！温度と挽き目で味が激変するってホン" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%80%8C%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC5" alt="「ブレンドコーヒー500g」を細挽きで淹れる！温度と挽き目で味が激変するってホント？" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                「ブレンドコーヒー500g」を細挽きで淹れる！温度と挽き目で味が激変するってホン
+                「ブレンドコーヒー500g」を細挽きで淹れる！温度と挽き目で味が激変するってホント？
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>KOTENブレンドのオリジナルコーヒー豆500gが楽天で1,650円。インドネシア、ブラジル、コロンビア産の豆をブレンドした深煎りで、豆のまま・細挽きが選べます。専門卸問屋ドリームコーヒーとの共同開発で、煎りたて挽きたての美味しさをお届けし</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC500g%25E3%2580%258D%25E3%2582%2592%25E7%25B4%25B0%25E6%258C%25BD%25E3%2581%258D%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25EF%25BC%2581%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A8%25E6%258C%25BD%25E3%2581%258D%25E7%259B%25AE%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E6%25BF%2580%25E5%25A4%2589%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A3%25E3%2581%25A6%25E3%2583%259B%25E3%2583%25B3" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC500g%25E3%2580%258D%25E3%2582%2592%25E7%25B4%25B0%25E6%258C%25BD%25E3%2581%258D%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25EF%25BC%2581%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A8%25E6%258C%25BD%25E3%2581%258D%25E7%259B%25AE%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E6%25BF%2580%25E5%25A4%2589%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A3%25E3%2581%25A6%25E3%2583%259B%25E3%2583%25B3%25E3%2583%2588%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://hb.afl.rakuten.co.jp/hgc/g00tf3i1.ve2q51d6.g00tf3i1.ve2q64f2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmellowcoffee%2F010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmellowcoffee%2Fi%2F10000012%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2580%258C%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC500g%25E3%2580%258D%25E3%2582%2592%25E7%25B4%25B0%25E6%258C%25BD%25E3%2581%258D%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25EF%25BC%2581%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A8%25E6%258C%25BD%25E3%2581%258D%25E7%259B%25AE%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E6%25BF%2580%25E5%25A4%2589%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A3%25E3%2581%25A6%25E3%2583%259B%25E3%2583%25B3%25E3%2583%2588%25EF%25BC%259F%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2580%258C%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC500g%25E3%2580%258D%25E3%2582%2592%25E7%25B4%25B0%25E6%258C%25BD%25E3%2581%258D%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25EF%25BC%2581%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A8%25E6%258C%25BD%25E3%2581%258D%25E7%259B%25AE%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E6%25BF%2580%25E5%25A4%2589%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A3%25E3%2581%25A6%25E3%2583%259B%25E3%2583%25B3" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2580%258C%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC500g%25E3%2580%258D%25E3%2582%2592%25E7%25B4%25B0%25E6%258C%25BD%25E3%2581%258D%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25EF%25BC%2581%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A8%25E6%258C%25BD%25E3%2581%258D%25E7%259B%25AE%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E6%25BF%2580%25E5%25A4%2589%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A3%25E3%2581%25A6%25E3%2583%259B%25E3%2583%25B3%25E3%2583%2588%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
                     🟣 Yahoo!
                 </a>
                 
@@ -86,7 +92,7 @@ mediaType: 'grinder'
 
 毎日のコーヒーを自宅で淹れる上で、最も気になるのはやはり「使い勝手」と「コストパフォーマンス」だろう。KOTENブレンドは、その両面において非常にバランスが取れていると評価できる。
 
-まず、使い勝手について。500gという容量は、僕のように毎日自宅でコーヒーを飲む人間にとっては非常にありがたい。一人暮らしであれば、焙煎日から2か月という賞味期限内に十分に飲み切れる量であり、来客時にも対応しやすい。豆のままで購入できるのも大きなメリットだ。僕は基本的に飲む直前に豆を挽くようにしている。挽きたての香りは、やはり格別である。 [ステンレスコーヒーミルは本当に買い？手挽きなのに味が安定する理由を検証！](/blog/stainless-coffee-mill-ceramic-manual/)でも触れたが、酸化を防ぎ、豆本来の風味を最大限に楽しむためには、飲む直前に挽くのが最も効果的だと考えている。KOTENブレンドは、細挽き、中挽き、粗挽きと挽き方を選べるようだが、僕は「豆のまま」を選択した。
+まず、使い勝手について。500gという容量は、僕のように毎日自宅でコーヒーを飲む人間にとっては非常にありがたい。一人暮らしであれば、焙煎日から2か月という賞味期限内に十分に飲み切れる量であり、来客時にも対応しやすい。豆のままで購入できるのも大きなメリットだ。僕は基本的に飲む直前に豆を挽くようにしている。挽きたての香りは、やはり格別である。 [ステンレス[コーヒーミル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D)は本当に買い？手挽きなのに味が安定する理由を検証！](/blog/stainless-coffee-mill-ceramic-manual/)でも触れたが、酸化を防ぎ、豆本来の風味を最大限に楽しむためには、飲む直前に挽くのが最も効果的だと考えている。KOTENブレンドは、細挽き、中挽き、粗挽きと挽き方を選べるようだが、僕は「豆のまま」を選択した。
 
 そして、最も重要なコストパフォーマンスについて。KOTENブレンド500gで1,650円。100gあたり330円という計算になる。一般的にスペシャルティコーヒーの生豆価格が高騰している中で、この価格設定はかなり良心的である。
 
@@ -95,7 +101,7 @@ mediaType: 'grinder'
 3.3円/g × 15g/杯 = 49.5円/杯
 つまり、一杯あたり約50円で楽しめる計算となる。これは、コンビニコーヒーやカフェで飲むことを考えれば、圧倒的な経済性だ。しかも、自宅で自分の好みに合わせて丁寧に淹れた、煎りたて挽きたてのコーヒーである。このクオリティのコーヒーが一杯50円で味わえるというのは、非常に優れた選択肢と言えるだろう。
 
-もちろん、初期費用としてコーヒー器具（ドリッパー、サーバー、ミル、ケトルなど）が必要になるが、一度揃えてしまえば、あとは豆代だけで済む。ランニングコストの低さは、自宅でコーヒーを淹れる大きな魅力の一つだ。 [ガイアの夜明けで話題！自家焙煎スペシャルティコーヒー定期便、お湯の温度で味ブレ解決！](/blog/specialty-coffee-subscription/)のような定期便も魅力だが、KOTENブレンドのように手軽に購入できる豆は、日々のコーヒーライフの強い味方となる。
+もちろん、初期費用としてコーヒー器具（[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC)、サーバー、ミル、ケトルなど）が必要になるが、一度揃えてしまえば、あとは豆代だけで済む。ランニングコストの低さは、自宅でコーヒーを淹れる大きな魅力の一つだ。 [ガイアの夜明けで話題！自家焙煎スペシャルティコーヒー定期便、お湯の温度で味ブレ解決！](/blog/specialty-coffee-subscription/)のような定期便も魅力だが、KOTENブレンドのように手軽に購入できる豆は、日々のコーヒーライフの強い味方となる。
 
 KOTENブレンドは、密閉式の容器に入れ、直射日光の当たらない場所で保存することが推奨されている。暑い時期や湿気の多い時期は冷凍庫での保存が良いとのこと。僕は普段、豆は真空保存容器に入れ、冷暗所で保管している。長期保存したい場合は、小分けにして冷凍庫に入れることもあるが、500gであれば、そこまで神経質にならなくても十分に美味しく飲み切れるだろう。
 
@@ -118,6 +124,20 @@ KOTENブレンドは、密閉式の容器に入れ、直射日光の当たらな
 自宅で淹れるコーヒーの満足度は、単に味だけではないと僕は考えている。自分で豆を選び、自分で挽き、自分で淹れるという一連のプロセスそのものが、心の充足につながる。KOTENブレンドは、その「自分で淹れる喜び」を存分に味わえる、非常にバランスの取れたブレンドだと感じた。カフェで飲むような特別な一杯も魅力的だが、日常の中で気軽に、そして美味しく飲めるコーヒーこそが、僕たちの生活を豊かにする要素の一つである。
 
 [<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/auc-koten/cabinet/coffee_01.jpg?_ex=600x600" alt="コーヒー豆 ブレンドコーヒー 500g 豆のまま 細挽き 画像" />](https://hb.afl.rakuten.co.jp/hgc/g00qpzd1.ve2q531d.g00qpzd1.ve2q6b51/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-koten%2Fco-koten-001_1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-koten%2Fi%2F10002453%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+
+
+<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
+    <div style="font-size: 0.75rem; font-weight: bold; color: #78350f; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
+    <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #78350f; line-height: 1.4;">☕ 自分好みの豆が届く！コーヒー診断＆公式定期便</h3>
+    <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【PostCoffee / ポストコーヒー】</div>
+    <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">簡単な無料のコーヒー診断を受けるだけで、世界中の厳選ロースターからあなた好みの豆が毎月届く人気サブスク。初回お試し特別割引実施中！</p>
+    <div style="text-align: center;">
+        <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fpostcoffee.co%2F" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
+            👉 無料でコーヒー診断を受けてみる
+        </a>
+    </div>
+</div>
+
 
 ## KOTENブレンドはどんなライフスタイルにフィットするのか？
 
@@ -147,25 +167,31 @@ KOTENブレンドに限らず、深煎り系のコーヒー豆全般に言える
 
 KOTENブレンドは、確かに深煎り系の味わいだが、淹れ方や飲み方を工夫することで、様々な表情を見せてくれる奥深さがある。この「どうすれば美味しくなるか」を探求する過程そのものが、コーヒーの醍醐味の一つだと僕は考えている。
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/auc-koten/cabinet/coffee_01.jpg?_ex=600x600" alt="「ブレンドコーヒー500g」を細挽きで淹れる！温度と挽き目で味が激変するってホン" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%80%8C%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC5" alt="「ブレンドコーヒー500g」を細挽きで淹れる！温度と挽き目で味が激変するってホント？" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                「ブレンドコーヒー500g」を細挽きで淹れる！温度と挽き目で味が激変するってホン
+                「ブレンドコーヒー500g」を細挽きで淹れる！温度と挽き目で味が激変するってホント？
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>KOTENブレンドのオリジナルコーヒー豆500gが楽天で1,650円。インドネシア、ブラジル、コロンビア産の豆をブレンドした深煎りで、豆のまま・細挽きが選べます。専門卸問屋ドリームコーヒーとの共同開発で、煎りたて挽きたての美味しさをお届けし</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC500g%25E3%2580%258D%25E3%2582%2592%25E7%25B4%25B0%25E6%258C%25BD%25E3%2581%258D%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25EF%25BC%2581%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A8%25E6%258C%25BD%25E3%2581%258D%25E7%259B%25AE%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E6%25BF%2580%25E5%25A4%2589%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A3%25E3%2581%25A6%25E3%2583%259B%25E3%2583%25B3" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC500g%25E3%2580%258D%25E3%2582%2592%25E7%25B4%25B0%25E6%258C%25BD%25E3%2581%258D%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25EF%25BC%2581%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A8%25E6%258C%25BD%25E3%2581%258D%25E7%259B%25AE%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E6%25BF%2580%25E5%25A4%2589%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A3%25E3%2581%25A6%25E3%2583%259B%25E3%2583%25B3%25E3%2583%2588%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://hb.afl.rakuten.co.jp/hgc/g00tf3i1.ve2q51d6.g00tf3i1.ve2q64f2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmellowcoffee%2F010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmellowcoffee%2Fi%2F10000012%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2580%258C%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC500g%25E3%2580%258D%25E3%2582%2592%25E7%25B4%25B0%25E6%258C%25BD%25E3%2581%258D%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25EF%25BC%2581%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A8%25E6%258C%25BD%25E3%2581%258D%25E7%259B%25AE%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E6%25BF%2580%25E5%25A4%2589%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A3%25E3%2581%25A6%25E3%2583%259B%25E3%2583%25B3%25E3%2583%2588%25EF%25BC%259F%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2580%258C%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC500g%25E3%2580%258D%25E3%2582%2592%25E7%25B4%25B0%25E6%258C%25BD%25E3%2581%258D%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25EF%25BC%2581%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A8%25E6%258C%25BD%25E3%2581%258D%25E7%259B%25AE%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E6%25BF%2580%25E5%25A4%2589%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A3%25E3%2581%25A6%25E3%2583%259B%25E3%2583%25B3" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2580%258C%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC500g%25E3%2580%258D%25E3%2582%2592%25E7%25B4%25B0%25E6%258C%25BD%25E3%2581%258D%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25EF%25BC%2581%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A8%25E6%258C%25BD%25E3%2581%258D%25E7%259B%25AE%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E6%25BF%2580%25E5%25A4%2589%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A3%25E3%2581%25A6%25E3%2583%259B%25E3%2583%25B3%25E3%2583%2588%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
                     🟣 Yahoo!
                 </a>
                 
@@ -174,6 +200,31 @@ KOTENブレンドは、確かに深煎り系の味わいだが、淹れ方や飲
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
+    <h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 併せてチェックしたい関連アイテム・サービス</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">手挽きコーヒーミル（高精度臼式グラインダー）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">挽きたての香りでコーヒーの旨味が激変</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">コーヒードリッパースケール（0.1g単位タイマー付）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">抽出速度と湯量を正確に計測</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
     </div>
 </div>
 

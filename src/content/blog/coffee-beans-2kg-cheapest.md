@@ -2,7 +2,7 @@
 title: '2kg最安値コーヒー豆の正直レビュー！味のブレ・鮮度はどう？'
 description: '楽天年間受賞！2kgで3,980円のコーヒー豆。1杯約26円で楽しめる、苦味とコクが際立つフレンチローストの深煎り。コスパ重視の普段飲みに最適。豆・粉を選べます。'
 pubDate: '2026-08-13'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/dripcoffee/cabinet/it01/4571621611730_a.jpg?_ex=600x600'
+heroImage: '../../assets/images/coffee-beans-2kg-cheapest.jpg'
 genre: 'コーヒー豆・粉'
 sidebarProducts:
   - title: '【焙煎人珈琲豆也のエチオピア　ゲイシャ ガニチ農園 豆でも粉でも可 1キロ】エチオピア コーヒー ゲイシャ コーヒー豆 珈琲豆 スペシャルティコーヒー'
@@ -25,22 +25,28 @@ mediaType: 'beans'
 
 <!-- PR: 本ページはアフィリエイト広告を利用しています -->
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/dripcoffee/cabinet/it01/4571621611730_a.jpg?_ex=600x600" alt="2kg最安値コーヒー豆の正直レビュー！味のブレ・鮮度はどう？" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=2kg%E6%9C%80%E5%AE%89%E5%80%A4%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC" alt="2kg最安値コーヒー豆の正直レビュー！味のブレ・鮮度はどう？" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
                 2kg最安値コーヒー豆の正直レビュー！味のブレ・鮮度はどう？
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>楽天年間受賞！2kgで3,980円のコーヒー豆。1杯約26円で楽しめる、苦味とコクが際立つフレンチローストの深煎り。コスパ重視の普段飲みに最適。豆・粉を選べます。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D2kg%25E6%259C%2580%25E5%25AE%2589%25E5%2580%25A4%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2581%25AE%25E6%25AD%25A3%25E7%259B%25B4%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25BB%25E9%25AE%25AE%25E5%25BA%25A6%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://hb.afl.rakuten.co.jp/hgc/g00tgnt1.ve2q5121.g00tgnt1.ve2q69fb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fliberty55%2Fgeisya1k%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fliberty55%2Fi%2F10000560%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F2kg%25E6%259C%2580%25E5%25AE%2589%25E5%2580%25A4%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2581%25AE%25E6%25AD%25A3%25E7%259B%25B4%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25BB%25E9%25AE%25AE%25E5%25BA%25A6%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25EF%25BC%259F%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D2kg%25E6%259C%2580%25E5%25AE%2589%25E5%2580%25A4%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2581%25AE%25E6%25AD%25A3%25E7%259B%25B4%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25BB%25E9%25AE%25AE%25E5%25BA%25A6%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
@@ -70,7 +76,7 @@ mediaType: 'beans'
 
 まず、**抽出温度**の管理が重要である。深煎りの豆は、過度に高温の湯で抽出すると、雑味が出やすくなり、苦味が不必要に強調される傾向がある。そのため、私は普段、88℃から92℃の範囲で湯温を調整している。この温度帯を用いることで、豆が持つ苦味の角が取れ、まろやかでありながらも力強い風味を保つことができる。特に、ドリップケトルから湯を注ぐ直前の温度が一定に保たれているかを、温度計で確認することは欠かせない。湯がコーヒー粉に触れる瞬間の温度が、カップの味わいの大部分を決定すると言っても過言ではない。
 
-次に、**挽き目**の設定である。この豆の場合、中細挽きから中挽きが最も適していると感じる。中細挽きにすることで、深煎り豆が持つ豊かな成分を効率的に引き出し、しっかりとしたコクと苦味をカップに表現できる。一方で、もし苦味をやや抑え、より軽やかな口当たりを楽しみたいのであれば、挽き目をわずかに粗くするのも良い選択肢となる。挽きたての豆をドリッパーにセットし、最初に湯を注いだ際に粉全体が膨らむ「ブルーム」の様子は、コーヒーの鮮度を示す重要な指標である。豆から立ち上る、深く香ばしいアロマは、抽出の成功を予感させるだけでなく、コーヒーを淹れるプロセスそのものに豊かな彩りを与える。
+次に、**挽き目**の設定である。この豆の場合、中細挽きから中挽きが最も適していると感じる。中細挽きにすることで、深煎り豆が持つ豊かな成分を効率的に引き出し、しっかりとしたコクと苦味をカップに表現できる。一方で、もし苦味をやや抑え、より軽やかな口当たりを楽しみたいのであれば、挽き目をわずかに粗くするのも良い選択肢となる。挽きたての豆を[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC)にセットし、最初に湯を注いだ際に粉全体が膨らむ「ブルーム」の様子は、コーヒーの鮮度を示す重要な指標である。豆から立ち上る、深く香ばしいアロマは、抽出の成功を予感させるだけでなく、コーヒーを淹れるプロセスそのものに豊かな彩りを与える。
 
 そして、ハンドドリップにおける**対流**の生成が、抽出効率を大きく左右する。私は、中心からゆっくりと「の」の字を描くように湯を注ぎ、コーヒー粉全体が均一に湿るように意識している。これにより、粉の偏りなく、効率的に成分を抽出することが可能となる。初めに少量の湯で豆全体を湿らせ、20〜30秒の蒸らし時間を設ける。この蒸らしによってコーヒー粉内部の炭酸ガスが放出され、その後の抽出で湯が豆の成分に浸透しやすくなる。その後は、細く一定の湯を注ぎ続けることで、ドリッパーの中でコーヒー粉と湯の間に理想的な「対流」を生み出す。この対流が、豆の旨味を余すことなく溶け出させ、カップへと導く。湯がドリッパーを通過し、フィルターを伝ってカップに落ちる液体の、深く澄んだ琥珀色は、日々の忙しさから一時的に解放されるような感覚をもたらす。
 
@@ -89,6 +95,20 @@ mediaType: 'beans'
 さらに、この商品の優れた点の一つとして、**500g×4袋**という小分けパック形式が挙げられる。2kgもの大容量を一度に開封してしまうと、どうしても空気に触れる面積が増え、香りの劣化が早まる懸念がある。しかし、この小分け仕様であれば、未開封のパックはそのまま冷暗所に保存し、開封した袋だけを密閉容器に移して使うことができる。私の場合、すぐに消費しない分は、さらにジップロックで二重に密閉した上で冷凍庫に保存している。こうすることで、豆の酸化や風味劣化のスピードを遅らせ、最後の1杯まで比較的安定した品質でコーヒーを楽しむことが可能となる。
 
 確かに、一度に2kgという量を注文することには、一般的な少量パックに慣れていると少し抵抗を感じるかもしれない。私自身も最初は「これほどの量を消費できるだろうか」と不安を覚えたものだ。しかし、実際に利用してみると、常に新鮮な豆のストックがある安心感と、毎日飲むコーヒーのコストを気にしなくて済む解放感は、その懸念を補って余りあるメリットだと感じている。また、深煎り豆の中には油分が多く、器具の洗浄に手間がかかるものもあるが、この豆は特別に油っぽいということもなく、通常のドリップ器具と同様の手入れで問題ない。使用後のドリッパーやサーバーを洗う際も、水切れが良く、手早く片付けられる点は、日々のことと考えると地味ながらも評価できるポイントである。この手軽さと経済性が両立している点が、このハウスブレンドの真骨頂だと私は考える。
+
+
+<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
+    <div style="font-size: 0.75rem; font-weight: bold; color: #78350f; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
+    <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #78350f; line-height: 1.4;">☕ 自分好みの豆が届く！コーヒー診断＆公式定期便</h3>
+    <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【PostCoffee / ポストコーヒー】</div>
+    <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">簡単な無料のコーヒー診断を受けるだけで、世界中の厳選ロースターからあなた好みの豆が毎月届く人気サブスク。初回お試し特別割引実施中！</p>
+    <div style="text-align: center;">
+        <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fpostcoffee.co%2F" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
+            👉 無料でコーヒー診断を受けてみる
+        </a>
+    </div>
+</div>
+
 
 ## ユーザーが語る「普段飲み」の真価と私が実感する品質
 
@@ -128,28 +148,34 @@ DRIP COFFEE FACTORYのこのハウスブレンドは、楽天ショップ・オ�
 
 最大の懸念点は、やはり「**香りの劣化**」である。コーヒー豆は焙煎直後から酸化が始まり、一度挽いた状態であればその酸化スピードはさらに加速する。特に深煎りの豆は、揮発性の高い香りの成分を多く含むため、空気に触れる時間が長いと風味が損なわれやすい。この商品は500g×4袋という小分けパックになっているため、未開封のパックは比較的長期間鮮度を保てるが、一度開封してしまえば、そこから劣化が始まる。
 
-このデメリットを最小限に抑え、最後まで美味しく楽しむためには、いくつかの工夫が求められる。私が実践しているのは、まず開封した袋から豆を密閉性の高いキャニスターに移し替えることだ。ガラス製やステンレス製の、空気を通しにくい容器を選ぶのがポイントである。そして、残りの未開封のパックは、光が当たらず温度変化の少ない冷暗所、できれば冷蔵庫や冷凍庫で保存することを推奨する。特に冷凍庫に入れる際は、二重にジップロックなどで密閉し、他の食材の匂い移りを防ぐ対策を講じることが重要だ。使用する際は、必要な量だけを冷凍庫から取り出し、常温に戻してから挽くようにしている。
+このデメリットを最小限に抑え、最後まで美味しく楽しむためには、いくつかの工夫が求められる。私が実践しているのは、まず開封した袋から豆を密閉性の高い[キャニスター](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%258B%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC)に移し替えることだ。ガラス製やステンレス製の、空気を通しにくい容器を選ぶのがポイントである。そして、残りの未開封のパックは、光が当たらず温度変化の少ない冷暗所、できれば冷蔵庫や冷凍庫で保存することを推奨する。特に冷凍庫に入れる際は、二重にジップロックなどで密閉し、他の食材の匂い移りを防ぐ対策を講じることが重要だ。使用する際は、必要な量だけを冷凍庫から取り出し、常温に戻してから挽くようにしている。
 
 また、このコーヒーはフレンチローストの深煎りであるため、華やかな酸味やフルーティーな風味を重視する方には、正直なところ不向きかもしれない。あくまで、力強い苦味とコク、そして香ばしさを追求したブレンドであると理解しておくべきだ。もし、酸味と苦味のバランスが取れたミディアムローストを好むのであれば、他の選択肢を検討する方が賢明である。
 
 もう一つ、豆のまま購入するか、挽き売りで購入するか、という選択も重要である。挽き売りは手軽であるものの、やはり香りの飛びは避けられない。もし可能であれば、豆のまま購入し、飲む直前に自宅でグラインダーを使って挽くのが、このハウスブレンドの真価を最も引き出す方法だと私は考えている。私自身も、毎朝グラインダーを回す音と、その瞬間に広がる芳醇な香りが、日々の生活に欠かせない喜びとなっている。多少の手間はかかるが、そのひと手間が、淹れたてのコーヒーの味わいを格段に向上させることは確かである。
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/dripcoffee/cabinet/it01/4571621611730_a.jpg?_ex=600x600" alt="2kg最安値コーヒー豆の正直レビュー！味のブレ・鮮度はどう？" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=2kg%E6%9C%80%E5%AE%89%E5%80%A4%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC" alt="2kg最安値コーヒー豆の正直レビュー！味のブレ・鮮度はどう？" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
                 2kg最安値コーヒー豆の正直レビュー！味のブレ・鮮度はどう？
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>楽天年間受賞！2kgで3,980円のコーヒー豆。1杯約26円で楽しめる、苦味とコクが際立つフレンチローストの深煎り。コスパ重視の普段飲みに最適。豆・粉を選べます。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D2kg%25E6%259C%2580%25E5%25AE%2589%25E5%2580%25A4%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2581%25AE%25E6%25AD%25A3%25E7%259B%25B4%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25BB%25E9%25AE%25AE%25E5%25BA%25A6%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://hb.afl.rakuten.co.jp/hgc/g00tgnt1.ve2q5121.g00tgnt1.ve2q69fb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fliberty55%2Fgeisya1k%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fliberty55%2Fi%2F10000560%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F2kg%25E6%259C%2580%25E5%25AE%2589%25E5%2580%25A4%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2581%25AE%25E6%25AD%25A3%25E7%259B%25B4%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25BB%25E9%25AE%25AE%25E5%25BA%25A6%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25EF%25BC%259F%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
                 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D2kg%25E6%259C%2580%25E5%25AE%2589%25E5%2580%25A4%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2581%25AE%25E6%25AD%25A3%25E7%259B%25B4%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25BB%25E9%25AE%25AE%25E5%25BA%25A6%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
@@ -161,6 +187,31 @@ DRIP COFFEE FACTORYのこのハウスブレンドは、楽天ショップ・オ�
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
+    <h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 併せてチェックしたい関連アイテム・サービス</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">手挽きコーヒーミル（高精度臼式グラインダー）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">挽きたての香りでコーヒーの旨味が激変</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">コーヒードリッパースケール（0.1g単位タイマー付）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">抽出速度と湯量を正確に計測</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
     </div>
 </div>
 

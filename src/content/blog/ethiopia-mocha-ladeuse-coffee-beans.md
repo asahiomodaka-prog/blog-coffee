@@ -2,7 +2,7 @@
 title: 'エチオピアモカ・ラデュースで、いつものコーヒーが劇的変化！味のブレなし淹れ方レビュー'
 description: '加藤珈琲店「エチオピアモカ・ラデュース500g×3袋セット」は、モカ特有のフルーティーで上品な香りが特徴。中煎りで豆本来の甘みを味わえ、豊かな香りと深い味わいが好評です。業務用1.5kgが4698円と高コスパで、毎日のコーヒーにおすすめ。'
 pubDate: '2026-07-27'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/0600/0630-15r.jpg?_ex=600x600'
+heroImage: '../../assets/images/ethiopia-mocha-ladeuse-coffee-beans.jpg'
 genre: 'コーヒー豆・粉'
 sidebarProducts:
   - title: '【送料無料】大容量 コーヒー豆 2kg 業務用 エチオピア モカ・シダモ 500g × 4袋 ＊業務卸 カフェ・喫茶店・レストラン・シングルオリジン・ブレンド原料に最適！＊'
@@ -30,25 +30,31 @@ mediaType: 'beans'
 
 日々の生活において、一杯のコーヒーは単なる嗜好品に留まらない。特に朝の一杯は、一日の始まりを豊かに彩る重要な要素である。上質な香りと味わいを手軽に、かつ継続的に楽しみたいと願うコーヒー愛好家にとって、豆選びは妥協できないプロセスである。本記事で紹介する[エチオピアモカ・ラデュース500g×3袋セット(ラデュ×3)/グルメコーヒー豆専門加藤珈琲店/珈琲豆](https://hb.afl.rakuten.co.jp/hgc/g00pl5f1.ve2q5fd0.g00pl5f1.ve2q6f99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F0630-15%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10003833%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)は、その華やかな香りと優れたコストパフォーマンスで、多くのコーヒー愛飲家から高い評価を得ている一品である。本稿では、このエチオピアモカ・ラデュースが日々のコーヒータイムにもたらす価値を、多角的に検証する。
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/0600/0630-15r.jpg?_ex=600x600" alt="エチオピアモカ・ラデュースで、いつものコーヒーが劇的変化！味のブレなし淹れ方レビ" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2%E3%83%A2%E3%82%AB%E3%83%BB%E3%83%A9%E3%83%87" alt="エチオピアモカ・ラデュースで、いつものコーヒーが劇的変化！味のブレなし淹れ方レビュー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                エチオピアモカ・ラデュースで、いつものコーヒーが劇的変化！味のブレなし淹れ方レビ
+                エチオピアモカ・ラデュースで、いつものコーヒーが劇的変化！味のブレなし淹れ方レビュー
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>加藤珈琲店「エチオピアモカ・ラデュース500g×3袋セット」は、モカ特有のフルーティーで上品な香りが特徴。中煎りで豆本来の甘みを味わえ、豊かな香りと深い味わいが好評です。業務用1.5kgが4698円と高コスパで、毎日のコーヒーにおすすめ。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A8%25E3%2583%2581%25E3%2582%25AA%25E3%2583%2594%25E3%2582%25A2%25E3%2583%25A2%25E3%2582%25AB%25E3%2583%25BB%25E3%2583%25A9%25E3%2583%2587%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%25A7%25E3%2580%2581%25E3%2581%2584%25E3%2581%25A4%25E3%2582%2582%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%258C%25E5%258A%2587%25E7%259A%2584%25E5%25A4%2589%25E5%258C%2596%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2581%25AA%25E3%2581%2597%25E6%25B7%25B9%25E3%2582%258C%25E6%2596%25B9%25E3%2583%25AC%25E3%2583%2593" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A8%25E3%2583%2581%25E3%2582%25AA%25E3%2583%2594%25E3%2582%25A2%25E3%2583%25A2%25E3%2582%25AB%25E3%2583%25BB%25E3%2583%25A9%25E3%2583%2587%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%25A7%25E3%2580%2581%25E3%2581%2584%25E3%2581%25A4%25E3%2582%2582%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%258C%25E5%258A%2587%25E7%259A%2584%25E5%25A4%2589%25E5%258C%2596%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2581%25AA%25E3%2581%2597%25E6%25B7%25B9%25E3%2582%258C%25E6%2596%25B9%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://hb.afl.rakuten.co.jp/hgc/g00tysw1.ve2q59e0.g00tysw1.ve2q6d49/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falphasynodia%2Fcoffee_ethiopia_sidamo_500gx4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falphasynodia%2Fi%2F10000085%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25A8%25E3%2583%2581%25E3%2582%25AA%25E3%2583%2594%25E3%2582%25A2%25E3%2583%25A2%25E3%2582%25AB%25E3%2583%25BB%25E3%2583%25A9%25E3%2583%2587%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%25A7%25E3%2580%2581%25E3%2581%2584%25E3%2581%25A4%25E3%2582%2582%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%258C%25E5%258A%2587%25E7%259A%2584%25E5%25A4%2589%25E5%258C%2596%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2581%25AA%25E3%2581%2597%25E6%25B7%25B9%25E3%2582%258C%25E6%2596%25B9%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25A8%25E3%2583%2581%25E3%2582%25AA%25E3%2583%2594%25E3%2582%25A2%25E3%2583%25A2%25E3%2582%25AB%25E3%2583%25BB%25E3%2583%25A9%25E3%2583%2587%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%25A7%25E3%2580%2581%25E3%2581%2584%25E3%2581%25A4%25E3%2582%2582%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%258C%25E5%258A%2587%25E7%259A%2584%25E5%25A4%2589%25E5%258C%2596%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2581%25AA%25E3%2581%2597%25E6%25B7%25B9%25E3%2582%258C%25E6%2596%25B9%25E3%2583%25AC%25E3%2583%2593" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25A8%25E3%2583%2581%25E3%2582%25AA%25E3%2583%2594%25E3%2582%25A2%25E3%2583%25A2%25E3%2582%25AB%25E3%2583%25BB%25E3%2583%25A9%25E3%2583%2587%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%25A7%25E3%2580%2581%25E3%2581%2584%25E3%2581%25A4%25E3%2582%2582%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%258C%25E5%258A%2587%25E7%259A%2584%25E5%25A4%2589%25E5%258C%2596%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2581%25AA%25E3%2581%2597%25E6%25B7%25B9%25E3%2582%258C%25E6%2596%25B9%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
                     🟣 Yahoo!
                 </a>
                 
@@ -95,6 +101,20 @@ mediaType: 'beans'
 
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00pl5f1.ve2q5fd0.g00pl5f1.ve2q6f99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F0630-15%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10003833%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/0600/0630-15r.jpg?_ex=600x600" alt="エチオピアモカ・ラデュース500g×3袋セット(ラデュ×3)/グルメコーヒー豆専門加藤珈琲店/珈琲豆 画像" /></a>
 
+
+<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
+    <div style="font-size: 0.75rem; font-weight: bold; color: #78350f; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
+    <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #78350f; line-height: 1.4;">☕ 自分好みの豆が届く！コーヒー診断＆公式定期便</h3>
+    <div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【PostCoffee / ポストコーヒー】</div>
+    <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">簡単な無料のコーヒー診断を受けるだけで、世界中の厳選ロースターからあなた好みの豆が毎月届く人気サブスク。初回お試し特別割引実施中！</p>
+    <div style="text-align: center;">
+        <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fpostcoffee.co%2F" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15); transition: transform 0.2s;">
+            👉 無料でコーヒー診断を受けてみる
+        </a>
+    </div>
+</div>
+
+
 ## 万人受けはしないかもしれない、それでも選ばれる理由：味の好みと豆の特性
 
 もちろん、すべてのコーヒー愛好家にとってこの豆が「最高の選択」であるとは限らない。コーヒーの好みは非常に多様であり、個人の味覚や日々の気分に大きく左右されるためである。エチオピアモカ・ラデュースは、その特性上、苦味や酸味が穏やかで、全体的に優しく華やかな風味に特徴がある。そのため、深煎りの強い苦味や濃厚なコク、あるいはパンチのあるシャープな酸味を好むコーヒー愛好家にとっては、物足りなく感じる可能性も否定できない。
@@ -103,25 +123,31 @@ mediaType: 'beans'
 
 筆者自身、日によって深煎りのエスプレッソを飲んだり、浅煎りのシングルオリジンをハンドドリップで楽しんだりと、気分やシーンに合わせて様々なコーヒーを淹れ分けている。このような多様なコーヒーライフの中で、エチオピアモカ・ラデュースは「穏やかで心地よい日常」を演出する確かな存在として、その役割を果たしている。その軽やかでフルーティーな特性は、特にフルーツや軽めのスイーツとのペアリングにも適しており、コーヒータイムをさらに豊かに彩るだろう。
 
+    </div>
+    <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
+        ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
         <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/0600/0630-15r.jpg?_ex=600x600" alt="エチオピアモカ・ラデュースで、いつものコーヒーが劇的変化！味のブレなし淹れ方レビ" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
+            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2%E3%83%A2%E3%82%AB%E3%83%BB%E3%83%A9%E3%83%87" alt="エチオピアモカ・ラデュースで、いつものコーヒーが劇的変化！味のブレなし淹れ方レビュー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
         </div>
         <div style="flex: 1 1 280px;">
             <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                エチオピアモカ・ラデュースで、いつものコーヒーが劇的変化！味のブレなし淹れ方レビ
+                エチオピアモカ・ラデュースで、いつものコーヒーが劇的変化！味のブレなし淹れ方レビュー
             </h4>
-            <p style='margin: 0 0 16px 0; font-size: 0.9rem; color: #555; line-height: 1.5;'>加藤珈琲店「エチオピアモカ・ラデュース500g×3袋セット」は、モカ特有のフルーティーで上品な香りが特徴。中煎りで豆本来の甘みを味わえ、豊かな香りと深い味わいが好評です。業務用1.5kgが4698円と高コスパで、毎日のコーヒーにおすすめ。</p>
+            
             <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A8%25E3%2583%2581%25E3%2582%25AA%25E3%2583%2594%25E3%2582%25A2%25E3%2583%25A2%25E3%2582%25AB%25E3%2583%25BB%25E3%2583%25A9%25E3%2583%2587%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%25A7%25E3%2580%2581%25E3%2581%2584%25E3%2581%25A4%25E3%2582%2582%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%258C%25E5%258A%2587%25E7%259A%2584%25E5%25A4%2589%25E5%258C%2596%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2581%25AA%25E3%2581%2597%25E6%25B7%25B9%25E3%2582%258C%25E6%2596%25B9%25E3%2583%25AC%25E3%2583%2593" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A8%25E3%2583%2581%25E3%2582%25AA%25E3%2583%2594%25E3%2582%25A2%25E3%2583%25A2%25E3%2582%25AB%25E3%2583%25BB%25E3%2583%25A9%25E3%2583%2587%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%25A7%25E3%2580%2581%25E3%2581%2584%25E3%2581%25A4%25E3%2582%2582%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%258C%25E5%258A%2587%25E7%259A%2584%25E5%25A4%2589%25E5%258C%2596%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2581%25AA%25E3%2581%2597%25E6%25B7%25B9%25E3%2582%258C%25E6%2596%25B9%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
                     🛒 Amazon
                 </a>
-                <a href="https://hb.afl.rakuten.co.jp/hgc/g00tysw1.ve2q59e0.g00tysw1.ve2q6d49/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falphasynodia%2Fcoffee_ethiopia_sidamo_500gx4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falphasynodia%2Fi%2F10000085%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25A8%25E3%2583%2581%25E3%2582%25AA%25E3%2583%2594%25E3%2582%25A2%25E3%2583%25A2%25E3%2582%25AB%25E3%2583%25BB%25E3%2583%25A9%25E3%2583%2587%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%25A7%25E3%2580%2581%25E3%2581%2584%25E3%2581%25A4%25E3%2582%2582%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%258C%25E5%258A%2587%25E7%259A%2584%25E5%25A4%2589%25E5%258C%2596%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2581%25AA%25E3%2581%2597%25E6%25B7%25B9%25E3%2582%258C%25E6%2596%25B9%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
                     🔴 楽天市場
                 </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25A8%25E3%2583%2581%25E3%2582%25AA%25E3%2583%2594%25E3%2582%25A2%25E3%2583%25A2%25E3%2582%25AB%25E3%2583%25BB%25E3%2583%25A9%25E3%2583%2587%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%25A7%25E3%2580%2581%25E3%2581%2584%25E3%2581%25A4%25E3%2582%2582%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%258C%25E5%258A%2587%25E7%259A%2584%25E5%25A4%2589%25E5%258C%2596%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2581%25AA%25E3%2581%2597%25E6%25B7%25B9%25E3%2582%258C%25E6%2596%25B9%25E3%2583%25AC%25E3%2583%2593" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25A8%25E3%2583%2581%25E3%2582%25AA%25E3%2583%2594%25E3%2582%25A2%25E3%2583%25A2%25E3%2582%25AB%25E3%2583%25BB%25E3%2583%25A9%25E3%2583%2587%25E3%2583%25A5%25E3%2583%25BC%25E3%2582%25B9%25E3%2581%25A7%25E3%2580%2581%25E3%2581%2584%25E3%2581%25A4%25E3%2582%2582%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%258C%25E5%258A%2587%25E7%259A%2584%25E5%25A4%2589%25E5%258C%2596%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2581%25AA%25E3%2581%2597%25E6%25B7%25B9%25E3%2582%258C%25E6%2596%25B9%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
                     🟣 Yahoo!
                 </a>
                 
@@ -130,6 +156,31 @@ mediaType: 'beans'
     </div>
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
+    </div>
+</div>
+
+<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
+    <h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">💡 併せてチェックしたい関連アイテム・サービス</h4>
+    <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">手挽きコーヒーミル（高精度臼式グラインダー）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">挽きたての香りでコーヒーの旨味が激変</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
+        <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+            <div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">コーヒードリッパースケール（0.1g単位タイマー付）</div>
+            <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">抽出速度と湯量を正確に計測</div>
+            <div style="display: flex; gap: 6px;">
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #ff9900; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">Amazonで見る</a>
+                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200.1g%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 6px 4px; background: #bf0000; color: #fff !important; font-size: 0.75rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 4px;">楽天で見る</a>
+            </div>
+        </div>
+        
     </div>
 </div>
 
