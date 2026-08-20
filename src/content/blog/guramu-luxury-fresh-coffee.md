@@ -21,9 +21,7 @@ mediaType: 'beans'
 ---
 
 <!-- PR -->
-:::note
-本ページはアフィリエイトプログラムによる収益を得ている。
-:::
+> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ている。
 
 「自宅で淹れるコーヒーをもっと美味しくしたいが、お湯の温度管理や抽出の安定性に課題を感じている」――多くのコーヒー愛好家が抱える悩みだろう。せっかく高品質な豆を選んでも、そのポテンシャルを最大限に引き出せなければ、もどかしさを感じることも少なくない。
 
@@ -38,30 +36,16 @@ mediaType: 'beans'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=GURAMU%E3%81%A7%E6%AF%8E%E6%97%A5%E6%B7%B9" alt="GURAMUで毎日淹れたてを味わう贅沢。香りとコクが私のコーヒー生活を豊かにする理由" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                GURAMUで毎日淹れたてを味わう贅沢。香りとコクが私のコーヒー生活を豊かにする理由
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DGURAMU%25E3%2581%25A7%25E6%25AF%258E%25E6%2597%25A5%25E6%25B7%25B9%25E3%2582%258C%25E3%2581%259F%25E3%2581%25A6%25E3%2582%2592%25E5%2591%25B3%25E3%2582%258F%25E3%2581%2586%25E8%25B4%2585%25E6%25B2%25A2%25E3%2580%2582%25E9%25A6%2599%25E3%2582%258A%25E3%2581%25A8%25E3%2582%25B3%25E3%2582%25AF%25E3%2581%258C%25E7%25A7%2581%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E7%2594%259F%25E6%25B4%25BB%25E3%2582%2592%25E8%25B1%258A%25E3%2581%258B%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%25E7%2590%2586%25E7%2594%25B1" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGURAMU%25E3%2581%25A7%25E6%25AF%258E%25E6%2597%25A5%25E6%25B7%25B9%25E3%2582%258C%25E3%2581%259F%25E3%2581%25A6%25E3%2582%2592%25E5%2591%25B3%25E3%2582%258F%25E3%2581%2586%25E8%25B4%2585%25E6%25B2%25A2%25E3%2580%2582%25E9%25A6%2599%25E3%2582%258A%25E3%2581%25A8%25E3%2582%25B3%25E3%2582%25AF%25E3%2581%258C%25E7%25A7%2581%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E7%2594%259F%25E6%25B4%25BB%25E3%2582%2592%25E8%25B1%258A%25E3%2581%258B%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%25E7%2590%2586%25E7%2594%25B1%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DGURAMU%25E3%2581%25A7%25E6%25AF%258E%25E6%2597%25A5%25E6%25B7%25B9%25E3%2582%258C%25E3%2581%259F%25E3%2581%25A6%25E3%2582%2592%25E5%2591%25B3%25E3%2582%258F%25E3%2581%2586%25E8%25B4%2585%25E6%25B2%25A2%25E3%2580%2582%25E9%25A6%2599%25E3%2582%258A%25E3%2581%25A8%25E3%2582%25B3%25E3%2582%25AF%25E3%2581%258C%25E7%25A7%2581%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E7%2594%259F%25E6%25B4%25BB%25E3%2582%2592%25E8%25B1%258A%25E3%2581%258B%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%25E7%2590%2586%25E7%2594%25B1" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/guramu-luxury-fresh-coffee-body-1.png" alt="guramu-luxury-fresh-coffee" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">GURAMUで毎日淹れたてを味わう贅沢。香りとコクが私のコーヒー生活を豊かにする理由</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DGURAMU%25E3%2581%25A7%25E6%25AF%258E%25E6%2597%25A5%25E6%25B7%25B9%25E3%2582%258C%25E3%2581%259F%25E3%2581%25A6%25E3%2582%2592%25E5%2591%25B3%25E3%2582%258F%25E3%2581%2586%25E8%25B4%2585%25E6%25B2%25A2%25E3%2580%2582%25E9%25A6%2599%25E3%2582%258A%25E3%2581%25A8%25E3%2582%25B3%25E3%2582%25AF%25E3%2581%258C%25E7%25A7%2581%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E7%2594%259F%25E6%25B4%25BB%25E3%2582%2592%25E8%25B1%258A%25E3%2581%258B%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%25E7%2590%2586%25E7%2594%25B1" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
@@ -83,7 +67,7 @@ mediaType: 'beans'
 <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 1.25rem; margin: 2.5rem 0; box-shadow: 0 4px 20px -2px rgba(15, 23, 42, 0.04); display: flex; flex-direction: row; gap: 1.25rem; align-items: center; max-width: 100%; box-sizing: border-box; font-family: sans-serif; min-height: 140px;">
   <div style="flex-shrink: 0; width: 100px; height: 100px; display: flex; align-items: center; justify-content: center; background-color: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9; overflow: hidden;">
     <a href="https://hb.afl.rakuten.co.jp/hgc/g00uqhl1.ve2q5687.g00uqhl1.ve2q6d21/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-zakalife%2Fcafe07-1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-zakalife%2Fi%2F10000057%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: block; width: 100%; height: 100%; text-align: center; line-height: 100px;">
-      <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/e-zakalife/cabinet/upload/13517798/imgrc0104203210.jpg?_ex=600x600" alt="GURAMUで毎日淹れたてを味わう贅沢。香りとコクが私のコーヒー生活を豊かにする理由" style="max-width: 100%; max-height: 100%; object-fit: contain; vertical-align: middle; border: 0; display: inline-block;" />
+      <img src="/images/guramu-luxury-fresh-coffee-body-2.jpg" alt="guramu-luxury-fresh-coffee" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
     </a>
   </div>
   <div style="flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 0.35rem; text-align: left;">
@@ -196,30 +180,16 @@ mediaType: 'beans'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=GURAMU%E3%81%A7%E6%AF%8E%E6%97%A5%E6%B7%B9" alt="GURAMUで毎日淹れたてを味わう贅沢。香りとコクが私のコーヒー生活を豊かにする理由" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                GURAMUで毎日淹れたてを味わう贅沢。香りとコクが私のコーヒー生活を豊かにする理由
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DGURAMU%25E3%2581%25A7%25E6%25AF%258E%25E6%2597%25A5%25E6%25B7%25B9%25E3%2582%258C%25E3%2581%259F%25E3%2581%25A6%25E3%2582%2592%25E5%2591%25B3%25E3%2582%258F%25E3%2581%2586%25E8%25B4%2585%25E6%25B2%25A2%25E3%2580%2582%25E9%25A6%2599%25E3%2582%258A%25E3%2581%25A8%25E3%2582%25B3%25E3%2582%25AF%25E3%2581%258C%25E7%25A7%2581%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E7%2594%259F%25E6%25B4%25BB%25E3%2582%2592%25E8%25B1%258A%25E3%2581%258B%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%25E7%2590%2586%25E7%2594%25B1" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGURAMU%25E3%2581%25A7%25E6%25AF%258E%25E6%2597%25A5%25E6%25B7%25B9%25E3%2582%258C%25E3%2581%259F%25E3%2581%25A6%25E3%2582%2592%25E5%2591%25B3%25E3%2582%258F%25E3%2581%2586%25E8%25B4%2585%25E6%25B2%25A2%25E3%2580%2582%25E9%25A6%2599%25E3%2582%258A%25E3%2581%25A8%25E3%2582%25B3%25E3%2582%25AF%25E3%2581%258C%25E7%25A7%2581%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E7%2594%259F%25E6%25B4%25BB%25E3%2582%2592%25E8%25B1%258A%25E3%2581%258B%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%25E7%2590%2586%25E7%2594%25B1%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DGURAMU%25E3%2581%25A7%25E6%25AF%258E%25E6%2597%25A5%25E6%25B7%25B9%25E3%2582%258C%25E3%2581%259F%25E3%2581%25A6%25E3%2582%2592%25E5%2591%25B3%25E3%2582%258F%25E3%2581%2586%25E8%25B4%2585%25E6%25B2%25A2%25E3%2580%2582%25E9%25A6%2599%25E3%2582%258A%25E3%2581%25A8%25E3%2582%25B3%25E3%2582%25AF%25E3%2581%258C%25E7%25A7%2581%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E7%2594%259F%25E6%25B4%25BB%25E3%2582%2592%25E8%25B1%258A%25E3%2581%258B%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%25E7%2590%2586%25E7%2594%25B1" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/guramu-luxury-fresh-coffee-body-1.png" alt="guramu-luxury-fresh-coffee" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">GURAMUで毎日淹れたてを味わう贅沢。香りとコクが私のコーヒー生活を豊かにする理由</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DGURAMU%25E3%2581%25A7%25E6%25AF%258E%25E6%2597%25A5%25E6%25B7%25B9%25E3%2582%258C%25E3%2581%259F%25E3%2581%25A6%25E3%2582%2592%25E5%2591%25B3%25E3%2582%258F%25E3%2581%2586%25E8%25B4%2585%25E6%25B2%25A2%25E3%2580%2582%25E9%25A6%2599%25E3%2582%258A%25E3%2581%25A8%25E3%2582%25B3%25E3%2582%25AF%25E3%2581%258C%25E7%25A7%2581%25E3%2581%25AE%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E7%2594%259F%25E6%25B4%25BB%25E3%2582%2592%25E8%25B1%258A%25E3%2581%258B%25E3%2581%25AB%25E3%2581%2599%25E3%2582%258B%25E7%2590%2586%25E7%2594%25B1" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>

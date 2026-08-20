@@ -21,9 +21,7 @@ mediaType: 'grinder'
 ---
 
 <!-- PR -->
-:::note
-本ページはアフィリエイトプログラムによる収益を得ています。
-:::
+> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅で淹れるコーヒーの味わいに、物足りなさを感じている読者は少なくない。お湯の温度管理や抽出技術も重要だが、それ以前にコーヒーの風味を大きく左右するのが「豆の挽き方」である。特に、挽きたての豆が持つ豊かな香りと風味は格別だ。しかし、毎日の手挽きミルは手間がかかり、一般的な電動ミルはコードや設置場所の制約が気になることがある。
 
@@ -36,30 +34,16 @@ mediaType: 'grinder'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%81%A9%E3%81%93%E3%81%A7%E3%82%82%E3%80%81%E6%8C%BD%E3%81%8D%E3%81%9F%E3%81%A6%E3%80%82" alt="どこでも、挽きたて。コードレス臼式電動コーヒーミルが叶える、私だけの贅沢な香り" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                どこでも、挽きたて。コードレス臼式電動コーヒーミルが叶える、私だけの贅沢な香り
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%25A9%25E3%2581%2593%25E3%2581%25A7%25E3%2582%2582%25E3%2580%2581%25E6%258C%25BD%25E3%2581%258D%25E3%2581%259F%25E3%2581%25A6%25E3%2580%2582%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AC%25E3%2582%25B9%25E8%2587%25BC%25E5%25BC%258F%25E9%259B%25BB%25E5%258B%2595%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%25E3%2581%258C%25E5%258F%25B6%25E3%2581%2588%25E3%2582%258B%25E3%2580%2581%25E7%25A7%2581%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25AE%25E8%25B4%2585%25E6%25B2%25A2%25E3%2581%25AA%25E9%25A6%2599%25E3%2582%258A" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%25A9%25E3%2581%2593%25E3%2581%25A7%25E3%2582%2582%25E3%2580%2581%25E6%258C%25BD%25E3%2581%258D%25E3%2581%259F%25E3%2581%25A6%25E3%2580%2582%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AC%25E3%2582%25B9%25E8%2587%25BC%25E5%25BC%258F%25E9%259B%25BB%25E5%258B%2595%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%25E3%2581%258C%25E5%258F%25B6%25E3%2581%2588%25E3%2582%258B%25E3%2580%2581%25E7%25A7%2581%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25AE%25E8%25B4%2585%25E6%25B2%25A2%25E3%2581%25AA%25E9%25A6%2599%25E3%2582%258A%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2581%25A9%25E3%2581%2593%25E3%2581%25A7%25E3%2582%2582%25E3%2580%2581%25E6%258C%25BD%25E3%2581%258D%25E3%2581%259F%25E3%2581%25A6%25E3%2580%2582%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AC%25E3%2582%25B9%25E8%2587%25BC%25E5%25BC%258F%25E9%259B%25BB%25E5%258B%2595%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%25E3%2581%258C%25E5%258F%25B6%25E3%2581%2588%25E3%2582%258B%25E3%2580%2581%25E7%25A7%2581%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25AE%25E8%25B4%2585%25E6%25B2%25A2%25E3%2581%25AA%25E9%25A6%2599%25E3%2582%258A" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/cordless-burr-coffee-grinder-body-1.png" alt="cordless-burr-coffee-grinder" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">どこでも、挽きたて。コードレス臼式電動コーヒーミルが叶える、私だけの贅沢な香り</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%25A9%25E3%2581%2593%25E3%2581%25A7%25E3%2582%2582%25E3%2580%2581%25E6%258C%25BD%25E3%2581%258D%25E3%2581%259F%25E3%2581%25A6%25E3%2580%2582%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AC%25E3%2582%25B9%25E8%2587%25BC%25E5%25BC%258F%25E9%259B%25BB%25E5%258B%2595%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%25E3%2581%258C%25E5%258F%25B6%25E3%2581%2588%25E3%2582%258B%25E3%2580%2581%25E7%25A7%2581%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25AE%25E8%25B4%2585%25E6%25B2%25A2%25E3%2581%25AA%25E9%25A6%2599%25E3%2582%258A" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
@@ -79,7 +63,7 @@ mediaType: 'grinder'
 <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 1.25rem; margin: 2.5rem 0; box-shadow: 0 4px 20px -2px rgba(15, 23, 42, 0.04); display: flex; flex-direction: row; gap: 1.25rem; align-items: center; max-width: 100%; box-sizing: border-box; font-family: sans-serif; min-height: 140px;">
   <div style="flex-shrink: 0; width: 100px; height: 100px; display: flex; align-items: center; justify-content: center; background-color: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9; overflow: hidden;">
     <a href="https://hb.afl.rakuten.co.jp/hgc/g00s9pt1.ve2q54eb.g00s9pt1.ve2q6157/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Friccado%2F1014%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Friccado%2Fi%2F10000389%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: block; width: 100%; height: 100%; text-align: center; line-height: 100px;">
-      <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/riccado/cabinet/cg430/cg400_th_flag2.jpg?_ex=600x600" alt="どこでも、挽きたて。コードレス臼式電動[コーヒーミル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D)が叶える、私だけの贅沢な香り" style="max-width: 100%; max-height: 100%; object-fit: contain; vertical-align: middle; border: 0; display: inline-block;" />
+      <img src="/images/cordless-burr-coffee-grinder-body-2.jpg" alt="cordless-burr-coffee-grinder" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
     </a>
   </div>
   <div style="flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 0.35rem; text-align: left;">
@@ -171,30 +155,16 @@ mediaType: 'grinder'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%81%A9%E3%81%93%E3%81%A7%E3%82%82%E3%80%81%E6%8C%BD%E3%81%8D%E3%81%9F%E3%81%A6%E3%80%82" alt="どこでも、挽きたて。コードレス臼式電動コーヒーミルが叶える、私だけの贅沢な香り" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                どこでも、挽きたて。コードレス臼式電動コーヒーミルが叶える、私だけの贅沢な香り
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%25A9%25E3%2581%2593%25E3%2581%25A7%25E3%2582%2582%25E3%2580%2581%25E6%258C%25BD%25E3%2581%258D%25E3%2581%259F%25E3%2581%25A6%25E3%2580%2582%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AC%25E3%2582%25B9%25E8%2587%25BC%25E5%25BC%258F%25E9%259B%25BB%25E5%258B%2595%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%25E3%2581%258C%25E5%258F%25B6%25E3%2581%2588%25E3%2582%258B%25E3%2580%2581%25E7%25A7%2581%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25AE%25E8%25B4%2585%25E6%25B2%25A2%25E3%2581%25AA%25E9%25A6%2599%25E3%2582%258A" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2581%25A9%25E3%2581%2593%25E3%2581%25A7%25E3%2582%2582%25E3%2580%2581%25E6%258C%25BD%25E3%2581%258D%25E3%2581%259F%25E3%2581%25A6%25E3%2580%2582%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AC%25E3%2582%25B9%25E8%2587%25BC%25E5%25BC%258F%25E9%259B%25BB%25E5%258B%2595%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%25E3%2581%258C%25E5%258F%25B6%25E3%2581%2588%25E3%2582%258B%25E3%2580%2581%25E7%25A7%2581%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25AE%25E8%25B4%2585%25E6%25B2%25A2%25E3%2581%25AA%25E9%25A6%2599%25E3%2582%258A%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2581%25A9%25E3%2581%2593%25E3%2581%25A7%25E3%2582%2582%25E3%2580%2581%25E6%258C%25BD%25E3%2581%258D%25E3%2581%259F%25E3%2581%25A6%25E3%2580%2582%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AC%25E3%2582%25B9%25E8%2587%25BC%25E5%25BC%258F%25E9%259B%25BB%25E5%258B%2595%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%25E3%2581%258C%25E5%258F%25B6%25E3%2581%2588%25E3%2582%258B%25E3%2580%2581%25E7%25A7%2581%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25AE%25E8%25B4%2585%25E6%25B2%25A2%25E3%2581%25AA%25E9%25A6%2599%25E3%2582%258A" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/cordless-burr-coffee-grinder-body-1.png" alt="cordless-burr-coffee-grinder" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">どこでも、挽きたて。コードレス臼式電動コーヒーミルが叶える、私だけの贅沢な香り</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2581%25A9%25E3%2581%2593%25E3%2581%25A7%25E3%2582%2582%25E3%2580%2581%25E6%258C%25BD%25E3%2581%258D%25E3%2581%259F%25E3%2581%25A6%25E3%2580%2582%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AC%25E3%2582%25B9%25E8%2587%25BC%25E5%25BC%258F%25E9%259B%25BB%25E5%258B%2595%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%25E3%2581%258C%25E5%258F%25B6%25E3%2581%2588%25E3%2582%258B%25E3%2580%2581%25E7%25A7%2581%25E3%2581%25A0%25E3%2581%2591%25E3%2581%25AE%25E8%25B4%2585%25E6%25B2%25A2%25E3%2581%25AA%25E9%25A6%2599%25E3%2582%258A" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>

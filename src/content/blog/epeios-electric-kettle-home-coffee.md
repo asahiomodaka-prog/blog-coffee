@@ -21,9 +21,7 @@ mediaType: 'kettle'
 ---
 
 <!-- PR -->
-:::note
-本ページはアフィリエイトプログラムによる収益を得ています。
-:::
+> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅でハンドドリップコーヒーを淹れる際、お湯の温度管理や注ぎ方で味が安定しないと感じた経験はないだろうか。特に、お気に入りの豆を見つけても、毎回同じ味わいを再現するのは難しい。湯温計とケトルを両手に格闘したり、狙った湯量を注げずに雑味が出てしまったりと、理想の一杯にたどり着くまでの道のりは時に骨が折れるものだ。
 
@@ -38,30 +36,16 @@ mediaType: 'kettle'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=EPEIOS%20%E9%9B%BB%E6%B0%97%E3%82%B1" alt="EPEIOS 電気ケトルで淹れる一杯。香りが日常を彩る、自宅の至福コーヒー術" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                EPEIOS 電気ケトルで淹れる一杯。香りが日常を彩る、自宅の至福コーヒー術
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DEPEIOS%2520%25E9%259B%25BB%25E6%25B0%2597%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25E4%25B8%2580%25E6%259D%25AF%25E3%2580%2582%25E9%25A6%2599%25E3%2582%258A%25E3%2581%258C%25E6%2597%25A5%25E5%25B8%25B8%25E3%2582%2592%25E5%25BD%25A9%25E3%2582%258B%25E3%2580%2581%25E8%2587%25AA%25E5%25AE%2585%25E3%2581%25AE%25E8%2587%25B3%25E7%25A6%258F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25A1%2593" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEPEIOS%2520%25E9%259B%25BB%25E6%25B0%2597%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25E4%25B8%2580%25E6%259D%25AF%25E3%2580%2582%25E9%25A6%2599%25E3%2582%258A%25E3%2581%258C%25E6%2597%25A5%25E5%25B8%25B8%25E3%2582%2592%25E5%25BD%25A9%25E3%2582%258B%25E3%2580%2581%25E8%2587%25AA%25E5%25AE%2585%25E3%2581%25AE%25E8%2587%25B3%25E7%25A6%258F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25A1%2593%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DEPEIOS%2520%25E9%259B%25BB%25E6%25B0%2597%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25E4%25B8%2580%25E6%259D%25AF%25E3%2580%2582%25E9%25A6%2599%25E3%2582%258A%25E3%2581%258C%25E6%2597%25A5%25E5%25B8%25B8%25E3%2582%2592%25E5%25BD%25A9%25E3%2582%258B%25E3%2580%2581%25E8%2587%25AA%25E5%25AE%2585%25E3%2581%25AE%25E8%2587%25B3%25E7%25A6%258F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25A1%2593" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/epeios-electric-kettle-home-coffee-body-1.png" alt="epeios-electric-kettle-home-coffee" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">EPEIOS 電気ケトルで淹れる一杯。香りが日常を彩る、自宅の至福コーヒー術</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DEPEIOS%2520%25E9%259B%25BB%25E6%25B0%2597%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25E4%25B8%2580%25E6%259D%25AF%25E3%2580%2582%25E9%25A6%2599%25E3%2582%258A%25E3%2581%258C%25E6%2597%25A5%25E5%25B8%25B8%25E3%2582%2592%25E5%25BD%25A9%25E3%2582%258B%25E3%2580%2581%25E8%2587%25AA%25E5%25AE%2585%25E3%2581%25AE%25E8%2587%25B3%25E7%25A6%258F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25A1%2593" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
@@ -92,7 +76,7 @@ mediaType: 'kettle'
 <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 1.25rem; margin: 2.5rem 0; box-shadow: 0 4px 20px -2px rgba(15, 23, 42, 0.04); display: flex; flex-direction: row; gap: 1.25rem; align-items: center; max-width: 100%; box-sizing: border-box; font-family: sans-serif; min-height: 140px;">
   <div style="flex-shrink: 0; width: 100px; height: 100px; display: flex; align-items: center; justify-content: center; background-color: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9; overflow: hidden;">
     <a href="https://hb.afl.rakuten.co.jp/hgc/g00tqke1.ve2q53d8.g00tqke1.ve2q6270/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmpowjapan%2Fcp001agjp1%2F" target="_blank" rel="nofollow noopener noreferrer" style="display: block; width: 100%; height: 100%; text-align: center; line-height: 100px;">
-      <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/mpowjapan/cabinet/cp001/sp/nek2952-2.jpg?_ex=600x600" alt="[EPEIOS](https://px.a8.net/svt/ejp?a8mat=4B86H0+36WOJ6+5T0G+5YJRM) 電気ケトルで淹れる一杯。香りが日常を彩る、自宅の至福コーヒー術" style="max-width: 100%; max-height: 100%; object-fit: contain; vertical-align: middle; border: 0; display: inline-block;" />
+      <img src="/images/epeios-electric-kettle-home-coffee-body-2.jpg" alt="epeios-electric-kettle-home-coffee" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
     </a>
   </div>
   <div style="flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 0.35rem; text-align: left;">
@@ -210,30 +194,16 @@ mediaType: 'kettle'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=EPEIOS%20%E9%9B%BB%E6%B0%97%E3%82%B1" alt="EPEIOS 電気ケトルで淹れる一杯。香りが日常を彩る、自宅の至福コーヒー術" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                EPEIOS 電気ケトルで淹れる一杯。香りが日常を彩る、自宅の至福コーヒー術
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DEPEIOS%2520%25E9%259B%25BB%25E6%25B0%2597%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25E4%25B8%2580%25E6%259D%25AF%25E3%2580%2582%25E9%25A6%2599%25E3%2582%258A%25E3%2581%258C%25E6%2597%25A5%25E5%25B8%25B8%25E3%2582%2592%25E5%25BD%25A9%25E3%2582%258B%25E3%2580%2581%25E8%2587%25AA%25E5%25AE%2585%25E3%2581%25AE%25E8%2587%25B3%25E7%25A6%258F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25A1%2593" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEPEIOS%2520%25E9%259B%25BB%25E6%25B0%2597%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25E4%25B8%2580%25E6%259D%25AF%25E3%2580%2582%25E9%25A6%2599%25E3%2582%258A%25E3%2581%258C%25E6%2597%25A5%25E5%25B8%25B8%25E3%2582%2592%25E5%25BD%25A9%25E3%2582%258B%25E3%2580%2581%25E8%2587%25AA%25E5%25AE%2585%25E3%2581%25AE%25E8%2587%25B3%25E7%25A6%258F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25A1%2593%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DEPEIOS%2520%25E9%259B%25BB%25E6%25B0%2597%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25E4%25B8%2580%25E6%259D%25AF%25E3%2580%2582%25E9%25A6%2599%25E3%2582%258A%25E3%2581%258C%25E6%2597%25A5%25E5%25B8%25B8%25E3%2582%2592%25E5%25BD%25A9%25E3%2582%258B%25E3%2580%2581%25E8%2587%25AA%25E5%25AE%2585%25E3%2581%25AE%25E8%2587%25B3%25E7%25A6%258F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25A1%2593" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/epeios-electric-kettle-home-coffee-body-1.png" alt="epeios-electric-kettle-home-coffee" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">EPEIOS 電気ケトルで淹れる一杯。香りが日常を彩る、自宅の至福コーヒー術</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DEPEIOS%2520%25E9%259B%25BB%25E6%25B0%2597%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25E4%25B8%2580%25E6%259D%25AF%25E3%2580%2582%25E9%25A6%2599%25E3%2582%258A%25E3%2581%258C%25E6%2597%25A5%25E5%25B8%25B8%25E3%2582%2592%25E5%25BD%25A9%25E3%2582%258B%25E3%2580%2581%25E8%2587%25AA%25E5%25AE%2585%25E3%2581%25AE%25E8%2587%25B3%25E7%25A6%258F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25A1%2593" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>

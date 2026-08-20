@@ -24,9 +24,7 @@ mediaType: 'beans'
 ---
 
 <!-- PR -->
-:::note
-本ページはアフィリエイトプログラムによる収益を得ています。
-:::
+> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 浅煎りコーヒーの魅力は、その繊細かつ多様なアロマと風味プロファイルにある。フルーティーな酸味、フローラルな香り、時にはワインを思わせる複雑な余韻。これらを自宅で気軽に体験したいと考えるコーヒー愛好家にとって、質の高い浅煎り豆の飲み比べセットは理想的な選択肢となるだろう。本稿では、筆者が最近試用し、その魅力に強く惹きつけられた浅煎り豆の福袋について、その具体的な内容と、浅煎りコーヒーを最大限に楽しむための抽出術、そして優れたコストパフォーマンスについて深掘りする。
 
@@ -46,7 +44,7 @@ mediaType: 'beans'
 
 ### 浅煎りのポテンシャルを最大限に引き出す抽出術
 
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/fuku/imgrc0116238751.jpg?_ex=600x600" alt="コーヒー豆 浅煎り 福袋 お試しセット おすすめ 飲み比べ エチオピア モカ ナチュラル 120g. キリマンジャロ の雫80g. マンデリン ブレンド 清流長良川80g 計280g メール便 珈琲豆 粉 お中元ギフト 御中元 グルメ コーヒー福袋 コーヒー粉 お得 花以外" />
+<img src="/images/coffee-beans-light-roast-sampler-body-1.jpg" alt="coffee-beans-light-roast-sampler" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 浅煎り豆の魅力は、その繊細な果実香やフローラルなアロマにある。これを最大限に引き出すためには、抽出方法に工夫が必要である。筆者が実践している抽出術は以下の通りである。
 
@@ -72,7 +70,7 @@ mediaType: 'beans'
 
 さらに、メール便で届くため送料がかからないのも、購入者にとっては地味ながらも大きなメリットである。新鮮な豆を自宅で手軽に楽しめるという点で、この福袋は非常に優れたコストパフォーマンスを誇ると言えるだろう。様々な風味を少量ずつ試せるため、新たな好みの発見にも繋がる。
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-prom-bm2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000178%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/fuku/imgrc0116238751.jpg?_ex=600x600" alt="コーヒー豆 浅煎り 福袋 お試しセット おすすめ 飲み比べ エチオピア モカ ナチュラル 120g. キリマンジャロ の雫80g. マンデリン ブレンド 清流長良川80g 計280g メール便 珈琲豆 粉 お中元ギフト 御中元 グルメ コーヒー福袋 コーヒー粉 お得 花以外 画像" /></a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-prom-bm2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000178%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/coffee-beans-light-roast-sampler-body-2.jpg" alt="coffee-beans-light-roast-sampler" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 ### 浅煎りを楽しむ上での小さな注意点
 
@@ -98,30 +96,16 @@ mediaType: 'beans'
     </div>
 </div>
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2%E3%80%81%E3%82%AD%E3%83%AA%E3%83%9E%E3%83%B3" alt="エチオピア、キリマンジャロ…飲み比べで好みの味を見つける！" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                エチオピア、キリマンジャロ…飲み比べで好みの味を見つける！
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A8%25E3%2583%2581%25E3%2582%25AA%25E3%2583%2594%25E3%2582%25A2%25E3%2580%2581%25E3%2582%25AD%25E3%2583%25AA%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%25AD%25E2%2580%25A6%25E9%25A3%25B2%25E3%2581%25BF%25E6%25AF%2594%25E3%2581%25B9%25E3%2581%25A7%25E5%25A5%25BD%25E3%2581%25BF%25E3%2581%25AE%25E5%2591%25B3%25E3%2582%2592%25E8%25A6%258B%25E3%2581%25A4%25E3%2581%2591%25E3%2582%258B%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25A8%25E3%2583%2581%25E3%2582%25AA%25E3%2583%2594%25E3%2582%25A2%25E3%2580%2581%25E3%2582%25AD%25E3%2583%25AA%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%25AD%25E2%2580%25A6%25E9%25A3%25B2%25E3%2581%25BF%25E6%25AF%2594%25E3%2581%25B9%25E3%2581%25A7%25E5%25A5%25BD%25E3%2581%25BF%25E3%2581%25AE%25E5%2591%25B3%25E3%2582%2592%25E8%25A6%258B%25E3%2581%25A4%25E3%2581%2591%25E3%2582%258B%25EF%25BC%2581%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25A8%25E3%2583%2581%25E3%2582%25AA%25E3%2583%2594%25E3%2582%25A2%25E3%2580%2581%25E3%2582%25AD%25E3%2583%25AA%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%25AD%25E2%2580%25A6%25E9%25A3%25B2%25E3%2581%25BF%25E6%25AF%2594%25E3%2581%25B9%25E3%2581%25A7%25E5%25A5%25BD%25E3%2581%25BF%25E3%2581%25AE%25E5%2591%25B3%25E3%2582%2592%25E8%25A6%258B%25E3%2581%25A4%25E3%2581%2591%25E3%2582%258B%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/coffee-beans-light-roast-sampler-body-3.png" alt="coffee-beans-light-roast-sampler" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">エチオピア、キリマンジャロ…飲み比べで好みの味を見つける！</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A8%25E3%2583%2581%25E3%2582%25AA%25E3%2583%2594%25E3%2582%25A2%25E3%2580%2581%25E3%2582%25AD%25E3%2583%25AA%25E3%2583%259E%25E3%2583%25B3%25E3%2582%25B8%25E3%2583%25A3%25E3%2583%25AD%25E2%2580%25A6%25E9%25A3%25B2%25E3%2581%25BF%25E6%25AF%2594%25E3%2581%25B9%25E3%2581%25A7%25E5%25A5%25BD%25E3%2581%25BF%25E3%2581%25AE%25E5%2591%25B3%25E3%2582%2592%25E8%25A6%258B%25E3%2581%25A4%25E3%2581%2591%25E3%2582%258B%25EF%25BC%2581" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>

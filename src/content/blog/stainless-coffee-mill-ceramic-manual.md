@@ -24,9 +24,7 @@ mediaType: 'grinder'
 ---
 
 <!-- PR -->
-:::note
-本ページはアフィリエイトプログラムによる収益を得ています。
-:::
+> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅で本格的なコーヒー体験を追求する上で、欠かせないのが高品質な[コーヒーミル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D)である。特に手挽きミルは、豆を挽く一連の動作そのものが、心を落ち着かせ、五感を刺激する特別な時間を提供する。豆が砕ける音、手に伝わる微かな振動、そして挽きたての芳醇な香りは、一杯のコーヒーを単なる飲み物ではなく、五感で味わう体験へと昇華させるだろう。
 
@@ -41,30 +39,16 @@ mediaType: 'grinder'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%9F" alt="ステンレスコーヒーミルは本当に買い？手挽きなのに味が安定する理由を検証！" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                ステンレスコーヒーミルは本当に買い？手挽きなのに味が安定する理由を検証！
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25B3%25E3%2583%25AC%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%25E3%2581%25AF%25E6%259C%25AC%25E5%25BD%2593%25E3%2581%25AB%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%25AB%25E5%2591%25B3%25E3%2581%258C%25E5%25AE%2589%25E5%25AE%259A%25E3%2581%2599%25E3%2582%258B%25E7%2590%2586%25E7%2594%25B1%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25B3%25E3%2583%25AC%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%25E3%2581%25AF%25E6%259C%25AC%25E5%25BD%2593%25E3%2581%25AB%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%25AB%25E5%2591%25B3%25E3%2581%258C%25E5%25AE%2589%25E5%25AE%259A%25E3%2581%2599%25E3%2582%258B%25E7%2590%2586%25E7%2594%25B1%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%25EF%25BC%2581%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25B3%25E3%2583%25AC%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%25E3%2581%25AF%25E6%259C%25AC%25E5%25BD%2593%25E3%2581%25AB%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%25AB%25E5%2591%25B3%25E3%2581%258C%25E5%25AE%2589%25E5%25AE%259A%25E3%2581%2599%25E3%2582%258B%25E7%2590%2586%25E7%2594%25B1%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/stainless-coffee-mill-ceramic-manual-body-1.png" alt="stainless-coffee-mill-ceramic-manual" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">ステンレスコーヒーミルは本当に買い？手挽きなのに味が安定する理由を検証！</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25B3%25E3%2583%25AC%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%25E3%2581%25AF%25E6%259C%25AC%25E5%25BD%2593%25E3%2581%25AB%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%25AB%25E5%2591%25B3%25E3%2581%258C%25E5%25AE%2589%25E5%25AE%259A%25E3%2581%2599%25E3%2582%258B%25E7%2590%2586%25E7%2594%25B1%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%25EF%25BC%2581" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
@@ -83,7 +67,7 @@ mediaType: 'grinder'
 
 このミルの粒度調整は、非常に細かく設定できる。カチカチと段階を踏んで調整するタイプではなく、ネジ式で無段階に調整できるため、自分だけの「黄金比」を見つける過程もまた楽しみの一つとなる。それぞれの豆が持つ個性を最大限に引き出すためには、豆の種類や焙煎度、そして抽出方法に合わせて挽き目を微調整することが不可欠だ。このミルは、その探求心をしっかりとサポートしてくれる。オールステンレス製のボディも、豆を挽く際の安定感を高め、余計なブレや振動を抑えるため、より精密な粉砕を可能にしていると言える。
 
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f152048-sanjo/cabinet/sanjof/10000_3/imgrc0101036774.jpg?_ex=600x600" alt="ステンレスコーヒーミル オールステンレス セラミック刃 手動 手挽き" />
+<img src="/images/stainless-coffee-mill-ceramic-manual-body-2.jpg" alt="stainless-coffee-mill-ceramic-manual" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## 日常のパートナーとしての使い勝手と、静かなる経済性
 
@@ -111,7 +95,7 @@ mediaType: 'grinder'
 
 購入を検討している人がいれば、こうしたリアルなユーザーの声は非常に参考になるはずだ。安価なミルも存在するが、長期的な視点で見れば、初期投資は多少かかっても、こうした信頼性の高い製品を選ぶ方が、結果的に満足度は高いと私は考える。
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00thr51.ve2q5bd7.g00thr51.ve2q62e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff152048-sanjo%2F015s062%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff152048-sanjo%2Fi%2F10001941%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f152048-sanjo/cabinet/sanjof/10000_3/imgrc0101036774.jpg?_ex=600x600" alt="ステンレスコーヒーミル オールステンレス セラミック刃 手動 手挽き 画像" /></a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00thr51.ve2q5bd7.g00thr51.ve2q62e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff152048-sanjo%2F015s062%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff152048-sanjo%2Fi%2F10001941%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/stainless-coffee-mill-ceramic-manual-body-3.jpg" alt="stainless-coffee-mill-ceramic-manual" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -169,30 +153,16 @@ mediaType: 'grinder'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%9F" alt="ステンレスコーヒーミルは本当に買い？手挽きなのに味が安定する理由を検証！" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                ステンレスコーヒーミルは本当に買い？手挽きなのに味が安定する理由を検証！
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25B3%25E3%2583%25AC%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%25E3%2581%25AF%25E6%259C%25AC%25E5%25BD%2593%25E3%2581%25AB%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%25AB%25E5%2591%25B3%25E3%2581%258C%25E5%25AE%2589%25E5%25AE%259A%25E3%2581%2599%25E3%2582%258B%25E7%2590%2586%25E7%2594%25B1%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25B3%25E3%2583%25AC%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%25E3%2581%25AF%25E6%259C%25AC%25E5%25BD%2593%25E3%2581%25AB%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%25AB%25E5%2591%25B3%25E3%2581%258C%25E5%25AE%2589%25E5%25AE%259A%25E3%2581%2599%25E3%2582%258B%25E7%2590%2586%25E7%2594%25B1%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%25EF%25BC%2581%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25B3%25E3%2583%25AC%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%25E3%2581%25AF%25E6%259C%25AC%25E5%25BD%2593%25E3%2581%25AB%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%25AB%25E5%2591%25B3%25E3%2581%258C%25E5%25AE%2589%25E5%25AE%259A%25E3%2581%2599%25E3%2582%258B%25E7%2590%2586%25E7%2594%25B1%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%25EF%25BC%2581" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/stainless-coffee-mill-ceramic-manual-body-1.png" alt="stainless-coffee-mill-ceramic-manual" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">ステンレスコーヒーミルは本当に買い？手挽きなのに味が安定する理由を検証！</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25B3%25E3%2583%25AC%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%25E3%2581%25AF%25E6%259C%25AC%25E5%25BD%2593%25E3%2581%25AB%25E8%25B2%25B7%25E3%2581%2584%25EF%25BC%259F%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D%25E3%2581%25AA%25E3%2581%25AE%25E3%2581%25AB%25E5%2591%25B3%25E3%2581%258C%25E5%25AE%2589%25E5%25AE%259A%25E3%2581%2599%25E3%2582%258B%25E7%2590%2586%25E7%2594%25B1%25E3%2582%2592%25E6%25A4%259C%25E8%25A8%25BC%25EF%25BC%2581" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>

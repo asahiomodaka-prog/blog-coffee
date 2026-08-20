@@ -32,30 +32,16 @@ mediaType: 'beans'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=2kg%E6%9C%80%E5%AE%89%E5%80%A4%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC" alt="2kg最安値コーヒー豆の正直レビュー！味のブレ・鮮度はどう？" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                2kg最安値コーヒー豆の正直レビュー！味のブレ・鮮度はどう？
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D2kg%25E6%259C%2580%25E5%25AE%2589%25E5%2580%25A4%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2581%25AE%25E6%25AD%25A3%25E7%259B%25B4%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25BB%25E9%25AE%25AE%25E5%25BA%25A6%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F2kg%25E6%259C%2580%25E5%25AE%2589%25E5%2580%25A4%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2581%25AE%25E6%25AD%25A3%25E7%259B%25B4%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25BB%25E9%25AE%25AE%25E5%25BA%25A6%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25EF%25BC%259F%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D2kg%25E6%259C%2580%25E5%25AE%2589%25E5%2580%25A4%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2581%25AE%25E6%25AD%25A3%25E7%259B%25B4%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25BB%25E9%25AE%25AE%25E5%25BA%25A6%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/coffee-beans-2kg-cheapest-body-1.png" alt="coffee-beans-2kg-cheapest" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">2kg最安値コーヒー豆の正直レビュー！味のブレ・鮮度はどう？</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D2kg%25E6%259C%2580%25E5%25AE%2589%25E5%2580%25A4%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2581%25AE%25E6%25AD%25A3%25E7%259B%25B4%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25BB%25E9%25AE%25AE%25E5%25BA%25A6%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25EF%25BC%259F" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
@@ -82,7 +68,7 @@ mediaType: 'beans'
 
 私自身、様々な抽出方法と微調整を試してきたが、このハウスブレンドはハンドドリップにおける細かな調整によく応える。日によって挽き目をわずかに変えたり、湯温を1℃下げてみたりといった些細な調整が、カップの中の味わいに微妙ながらも明確な変化をもたらす。例えば、いつもより少し高温で抽出した日は、よりシャープな苦味とキレを、逆に少し低温でゆっくり抽出した日は、まろやかなコクと深みを味わうことができる。こうした調整は、まるでコーヒー豆という素材のポテンシャルを探求する、知的な実験のようであり、自宅でコーヒーを淹れる醍醐味の一つと言えるだろう。
 
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/dripcoffee/cabinet/it01/4571621611730_a.jpg?_ex=600x600" alt="2kg最安値に挑戦!2kgで3,980円！コーヒー豆 コーヒー 豆 粉" loading="lazy" decoding="async" />
+<img src="/images/coffee-beans-2kg-cheapest-body-2.jpg" alt="coffee-beans-2kg-cheapest" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 ## 1杯あたり約26円という経済性：日々のコーヒーライフへの影響
 
@@ -161,30 +147,16 @@ DRIP COFFEE FACTORYのこのハウスブレンドは、楽天ショップ・オ�
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=2kg%E6%9C%80%E5%AE%89%E5%80%A4%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC" alt="2kg最安値コーヒー豆の正直レビュー！味のブレ・鮮度はどう？" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                2kg最安値コーヒー豆の正直レビュー！味のブレ・鮮度はどう？
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D2kg%25E6%259C%2580%25E5%25AE%2589%25E5%2580%25A4%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2581%25AE%25E6%25AD%25A3%25E7%259B%25B4%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25BB%25E9%25AE%25AE%25E5%25BA%25A6%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F2kg%25E6%259C%2580%25E5%25AE%2589%25E5%2580%25A4%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2581%25AE%25E6%25AD%25A3%25E7%259B%25B4%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25BB%25E9%25AE%25AE%25E5%25BA%25A6%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25EF%25BC%259F%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D2kg%25E6%259C%2580%25E5%25AE%2589%25E5%2580%25A4%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2581%25AE%25E6%25AD%25A3%25E7%259B%25B4%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25BB%25E9%25AE%25AE%25E5%25BA%25A6%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/coffee-beans-2kg-cheapest-body-1.png" alt="coffee-beans-2kg-cheapest" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">2kg最安値コーヒー豆の正直レビュー！味のブレ・鮮度はどう？</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D2kg%25E6%259C%2580%25E5%25AE%2589%25E5%2580%25A4%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2581%25AE%25E6%25AD%25A3%25E7%259B%25B4%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25EF%25BC%2581%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25BB%25E9%25AE%25AE%25E5%25BA%25A6%25E3%2581%25AF%25E3%2581%25A9%25E3%2581%2586%25EF%25BC%259F" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>

@@ -24,9 +24,7 @@ mediaType: 'grinder'
 ---
 
 <!-- PR -->
-:::note
-本ページはアフィリエイトプログラムによる収益を得ています。
-:::
+> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 毎日のコーヒータイムを、もっと豊かにしたいと考える人は多いだろう。しかし、高品質なスペシャルティコーヒーは価格が高く、日常的に気軽に楽しめるものばかりではない。かといって、安価なコーヒーでは物足りなさを感じることもある。
 
@@ -41,30 +39,16 @@ mediaType: 'grinder'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%80%8C%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC5" alt="「ブレンドコーヒー500g」を細挽きで淹れる！温度と挽き目で味が激変するってホント？" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                「ブレンドコーヒー500g」を細挽きで淹れる！温度と挽き目で味が激変するってホント？
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC500g%25E3%2580%258D%25E3%2582%2592%25E7%25B4%25B0%25E6%258C%25BD%25E3%2581%258D%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25EF%25BC%2581%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A8%25E6%258C%25BD%25E3%2581%258D%25E7%259B%25AE%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E6%25BF%2580%25E5%25A4%2589%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A3%25E3%2581%25A6%25E3%2583%259B%25E3%2583%25B3%25E3%2583%2588%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2580%258C%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC500g%25E3%2580%258D%25E3%2582%2592%25E7%25B4%25B0%25E6%258C%25BD%25E3%2581%258D%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25EF%25BC%2581%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A8%25E6%258C%25BD%25E3%2581%258D%25E7%259B%25AE%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E6%25BF%2580%25E5%25A4%2589%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A3%25E3%2581%25A6%25E3%2583%259B%25E3%2583%25B3%25E3%2583%2588%25EF%25BC%259F%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2580%258C%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC500g%25E3%2580%258D%25E3%2582%2592%25E7%25B4%25B0%25E6%258C%25BD%25E3%2581%258D%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25EF%25BC%2581%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A8%25E6%258C%25BD%25E3%2581%258D%25E7%259B%25AE%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E6%25BF%2580%25E5%25A4%2589%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A3%25E3%2581%25A6%25E3%2583%259B%25E3%2583%25B3%25E3%2583%2588%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/coffee-beans-blend-500g-body-1.png" alt="coffee-beans-blend-500g" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">「ブレンドコーヒー500g」を細挽きで淹れる！温度と挽き目で味が激変するってホント？</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC500g%25E3%2580%258D%25E3%2582%2592%25E7%25B4%25B0%25E6%258C%25BD%25E3%2581%258D%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25EF%25BC%2581%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A8%25E6%258C%25BD%25E3%2581%258D%25E7%259B%25AE%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E6%25BF%2580%25E5%25A4%2589%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A3%25E3%2581%25A6%25E3%2583%259B%25E3%2583%25B3%25E3%2583%2588%25EF%25BC%259F" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
@@ -123,7 +107,7 @@ KOTENブレンドは、密閉式の容器に入れ、直射日光の当たらな
 
 自宅で淹れるコーヒーの満足度は、単に味だけではないと僕は考えている。自分で豆を選び、自分で挽き、自分で淹れるという一連のプロセスそのものが、心の充足につながる。KOTENブレンドは、その「自分で淹れる喜び」を存分に味わえる、非常にバランスの取れたブレンドだと感じた。カフェで飲むような特別な一杯も魅力的だが、日常の中で気軽に、そして美味しく飲めるコーヒーこそが、僕たちの生活を豊かにする要素の一つである。
 
-[<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/auc-koten/cabinet/coffee_01.jpg?_ex=600x600" alt="コーヒー豆 ブレンドコーヒー 500g 豆のまま 細挽き 画像" />](https://hb.afl.rakuten.co.jp/hgc/g00qpzd1.ve2q531d.g00qpzd1.ve2q6b51/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-koten%2Fco-koten-001_1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-koten%2Fi%2F10002453%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+[<img src="/images/coffee-beans-blend-500g-body-2.jpg" alt="coffee-beans-blend-500g" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />](https://hb.afl.rakuten.co.jp/hgc/g00qpzd1.ve2q531d.g00qpzd1.ve2q6b51/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-koten%2Fco-koten-001_1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-koten%2Fi%2F10002453%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -174,30 +158,16 @@ KOTENブレンドは、確かに深煎り系の味わいだが、淹れ方や飲
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%80%8C%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC5" alt="「ブレンドコーヒー500g」を細挽きで淹れる！温度と挽き目で味が激変するってホント？" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                「ブレンドコーヒー500g」を細挽きで淹れる！温度と挽き目で味が激変するってホント？
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC500g%25E3%2580%258D%25E3%2582%2592%25E7%25B4%25B0%25E6%258C%25BD%25E3%2581%258D%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25EF%25BC%2581%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A8%25E6%258C%25BD%25E3%2581%258D%25E7%259B%25AE%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E6%25BF%2580%25E5%25A4%2589%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A3%25E3%2581%25A6%25E3%2583%259B%25E3%2583%25B3%25E3%2583%2588%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2580%258C%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC500g%25E3%2580%258D%25E3%2582%2592%25E7%25B4%25B0%25E6%258C%25BD%25E3%2581%258D%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25EF%25BC%2581%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A8%25E6%258C%25BD%25E3%2581%258D%25E7%259B%25AE%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E6%25BF%2580%25E5%25A4%2589%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A3%25E3%2581%25A6%25E3%2583%259B%25E3%2583%25B3%25E3%2583%2588%25EF%25BC%259F%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2580%258C%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC500g%25E3%2580%258D%25E3%2582%2592%25E7%25B4%25B0%25E6%258C%25BD%25E3%2581%258D%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25EF%25BC%2581%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A8%25E6%258C%25BD%25E3%2581%258D%25E7%259B%25AE%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E6%25BF%2580%25E5%25A4%2589%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A3%25E3%2581%25A6%25E3%2583%259B%25E3%2583%25B3%25E3%2583%2588%25EF%25BC%259F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/coffee-beans-blend-500g-body-1.png" alt="coffee-beans-blend-500g" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">「ブレンドコーヒー500g」を細挽きで淹れる！温度と挽き目で味が激変するってホント？</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2580%258C%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC500g%25E3%2580%258D%25E3%2582%2592%25E7%25B4%25B0%25E6%258C%25BD%25E3%2581%258D%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25EF%25BC%2581%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A8%25E6%258C%25BD%25E3%2581%258D%25E7%259B%25AE%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E6%25BF%2580%25E5%25A4%2589%25E3%2581%2599%25E3%2582%258B%25E3%2581%25A3%25E3%2581%25A6%25E3%2583%259B%25E3%2583%25B3%25E3%2583%2588%25EF%25BC%259F" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>

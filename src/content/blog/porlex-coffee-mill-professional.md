@@ -24,9 +24,7 @@ mediaType: 'grinder'
 ---
 
 <!-- PR -->
-:::note
-本ページはアフィリエイトプログラムによる収益を得ています。
-:::
+> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅で淹れるコーヒーの味が安定しない、あるいは狙い通りの味わいにならないと悩む方は少なくない。同じ豆を使っているはずなのに、ドリップのたびに風味が異なる原因は、豆の「挽き方」にある可能性が高い。特にコーヒーの粒度均一性は、抽出効率に直結し、味を大きく左右する重要な要素である。手挽きミルに対して、手間や粒度の不安定さを懸念する声もあるが、今回紹介する「ポーレックス [コーヒーミル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D)・プロフェッショナル」は、その常識を覆す性能を備えている。
 
@@ -39,30 +37,16 @@ mediaType: 'grinder'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%83%9D%E3%83%BC%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%20%E3%82%B3%E3%83%BC%E3%83%92" alt="ポーレックス コーヒーミル・プロ本音レビュー。粒度の安定でコーヒーの味が劇変" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                ポーレックス コーヒーミル・プロ本音レビュー。粒度の安定でコーヒーの味が劇変
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259D%25E3%2583%25BC%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%25E3%2583%25BB%25E3%2583%2597%25E3%2583%25AD%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2580%2582%25E7%25B2%2592%25E5%25BA%25A6%25E3%2581%25AE%25E5%25AE%2589%25E5%25AE%259A%25E3%2581%25A7%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%25AE%25E5%2591%25B3%25E3%2581%258C%25E5%258A%2587%25E5%25A4%2589" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259D%25E3%2583%25BC%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%25E3%2583%25BB%25E3%2583%2597%25E3%2583%25AD%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2580%2582%25E7%25B2%2592%25E5%25BA%25A6%25E3%2581%25AE%25E5%25AE%2589%25E5%25AE%259A%25E3%2581%25A7%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%25AE%25E5%2591%25B3%25E3%2581%258C%25E5%258A%2587%25E5%25A4%2589%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%259D%25E3%2583%25BC%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%25E3%2583%25BB%25E3%2583%2597%25E3%2583%25AD%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2580%2582%25E7%25B2%2592%25E5%25BA%25A6%25E3%2581%25AE%25E5%25AE%2589%25E5%25AE%259A%25E3%2581%25A7%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%25AE%25E5%2591%25B3%25E3%2581%258C%25E5%258A%2587%25E5%25A4%2589" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/porlex-coffee-mill-professional-body-1.png" alt="porlex-coffee-mill-professional" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">ポーレックス コーヒーミル・プロ本音レビュー。粒度の安定でコーヒーの味が劇変</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259D%25E3%2583%25BC%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%25E3%2583%25BB%25E3%2583%2597%25E3%2583%25AD%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2580%2582%25E7%25B2%2592%25E5%25BA%25A6%25E3%2581%25AE%25E5%25AE%2589%25E5%25AE%259A%25E3%2581%25A7%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%25AE%25E5%2591%25B3%25E3%2581%258C%25E5%258A%2587%25E5%25A4%2589" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
@@ -76,7 +60,7 @@ mediaType: 'grinder'
 <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 1.25rem; margin: 2.5rem 0; box-shadow: 0 4px 20px -2px rgba(15, 23, 42, 0.04); display: flex; flex-direction: row; gap: 1.25rem; align-items: center; max-width: 100%; box-sizing: border-box; font-family: sans-serif; min-height: 140px;">
   <div style="flex-shrink: 0; width: 100px; height: 100px; display: flex; align-items: center; justify-content: center; background-color: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9; overflow: hidden;">
     <a href="https://hb.afl.rakuten.co.jp/hgc/g00t3qr1.ve2q5358.g00t3qr1.ve2q658e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff462187-kirishima%2Fk-199%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff462187-kirishima%2Fi%2F10001452%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: block; width: 100%; height: 100%; text-align: center; line-height: 100px;">
-      <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f462187-kirishima/cabinet/nt01/k-199_nt.jpg?_ex=600x600" alt="ポーレックス コーヒーミル・プロフェッショナル(トール・ミニ) コーヒーミル 手動 手挽きミル アウトドア 携帯 コーヒー豆挽き 珈琲ミル 正規品 日本 Japan Porlex" style="max-width: 100%; max-height: 100%; object-fit: contain; vertical-align: middle; border: 0; display: inline-block;" />
+      <img src="/images/porlex-coffee-mill-professional-body-2.jpg" alt="porlex-coffee-mill-professional" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
     </a>
   </div>
   <div style="flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 0.35rem; text-align: left;">
@@ -216,30 +200,16 @@ mediaType: 'grinder'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%83%9D%E3%83%BC%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%20%E3%82%B3%E3%83%BC%E3%83%92" alt="ポーレックス コーヒーミル・プロ本音レビュー。粒度の安定でコーヒーの味が劇変" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                ポーレックス コーヒーミル・プロ本音レビュー。粒度の安定でコーヒーの味が劇変
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259D%25E3%2583%25BC%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%25E3%2583%25BB%25E3%2583%2597%25E3%2583%25AD%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2580%2582%25E7%25B2%2592%25E5%25BA%25A6%25E3%2581%25AE%25E5%25AE%2589%25E5%25AE%259A%25E3%2581%25A7%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%25AE%25E5%2591%25B3%25E3%2581%258C%25E5%258A%2587%25E5%25A4%2589" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%259D%25E3%2583%25BC%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%25E3%2583%25BB%25E3%2583%2597%25E3%2583%25AD%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2580%2582%25E7%25B2%2592%25E5%25BA%25A6%25E3%2581%25AE%25E5%25AE%2589%25E5%25AE%259A%25E3%2581%25A7%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%25AE%25E5%2591%25B3%25E3%2581%258C%25E5%258A%2587%25E5%25A4%2589%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%259D%25E3%2583%25BC%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%25E3%2583%25BB%25E3%2583%2597%25E3%2583%25AD%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2580%2582%25E7%25B2%2592%25E5%25BA%25A6%25E3%2581%25AE%25E5%25AE%2589%25E5%25AE%259A%25E3%2581%25A7%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%25AE%25E5%2591%25B3%25E3%2581%258C%25E5%258A%2587%25E5%25A4%2589" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/porlex-coffee-mill-professional-body-1.png" alt="porlex-coffee-mill-professional" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">ポーレックス コーヒーミル・プロ本音レビュー。粒度の安定でコーヒーの味が劇変</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259D%25E3%2583%25BC%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%25E3%2583%25BB%25E3%2583%2597%25E3%2583%25AD%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2580%2582%25E7%25B2%2592%25E5%25BA%25A6%25E3%2581%25AE%25E5%25AE%2589%25E5%25AE%259A%25E3%2581%25A7%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2581%25AE%25E5%2591%25B3%25E3%2581%258C%25E5%258A%2587%25E5%25A4%2589" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>

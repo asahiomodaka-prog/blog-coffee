@@ -24,9 +24,7 @@ mediaType: 'beans'
 ---
 
 <!-- PR -->
-:::note
-本ページはアフィリエイトプログラムによる収益を得ています。
-:::
+> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅で淹れるカフェオレは、日常に豊かなひとときをもたらす。しかし、ミルクに負けない深みとコクを持つコーヒー豆を選ぶのは容易ではない。市販のコーヒーでは物足りなさを感じる、あるいはもっと質の高いカフェオレを自宅で楽しみたいと考えるコーヒー愛好家は少なくないだろう。
 
@@ -39,30 +37,16 @@ mediaType: 'beans'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E6%B7%B1%E7%85%8E" alt="ブラウンゴールド深煎りコーヒー豆セット本音レビュー。味の変化とコクを徹底検証" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                ブラウンゴールド深煎りコーヒー豆セット本音レビュー。味の変化とコクを徹底検証
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%25B3%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2580%2582%25E5%2591%25B3%25E3%2581%25AE%25E5%25A4%2589%25E5%258C%2596%25E3%2581%25A8%25E3%2582%25B3%25E3%2582%25AF%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%25B3%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2580%2582%25E5%2591%25B3%25E3%2581%25AE%25E5%25A4%2589%25E5%258C%2596%25E3%2581%25A8%25E3%2582%25B3%25E3%2582%25AF%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%25B3%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2580%2582%25E5%2591%25B3%25E3%2581%25AE%25E5%25A4%2589%25E5%258C%2596%25E3%2581%25A8%25E3%2582%25B3%25E3%2582%25AF%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/brown-gold-dark-roast-coffee-beans-body-1.png" alt="brown-gold-dark-roast-coffee-beans" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">ブラウンゴールド深煎りコーヒー豆セット本音レビュー。味の変化とコクを徹底検証</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%25B3%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2580%2582%25E5%2591%25B3%25E3%2581%25AE%25E5%25A4%2589%25E5%258C%2596%25E3%2581%25A8%25E3%2582%25B3%25E3%2582%25AF%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
@@ -81,7 +65,7 @@ mediaType: 'beans'
 
 ## 抽出理論から紐解く、深煎りコーヒーのポテンシャル
 
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/hiroshimacoffee/cabinet/2017/1bn167.jpg?_ex=600x600" alt="深煎りコーヒー豆コーヒー「ブラウンゴールドセット」！" />
+<img src="/images/brown-gold-dark-roast-coffee-beans-body-2.jpg" alt="brown-gold-dark-roast-coffee-beans" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 コーヒーの抽出は、豆の特性を理解した上での科学的なアプローチが求められる。特に深煎りの豆を扱う場合、そのアプローチは浅煎りや中煎りとは大きく異なる。深煎り豆は、焙煎の過程で細胞壁が破壊され、油分が豆の表面に滲み出ていることが多い。この油分には、コーヒー特有の豊かなコクや香りの成分が凝縮されている。
 
@@ -117,7 +101,7 @@ mediaType: 'beans'
 | 販売ショップ | 広島珈琲 |
 | レビュー評価 | 4.87 (577件) |
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00ppmo1.ve2q53a8.g00ppmo1.ve2q6f82/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhiroshimacoffee%2F458211%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhiroshimacoffee%2Fi%2F10000934%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/hiroshimacoffee/cabinet/2017/1bn167.jpg?_ex=600x600" alt="深煎りコーヒー豆コーヒー「ブラウンゴールドセット」！ 画像" /></a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00ppmo1.ve2q53a8.g00ppmo1.ve2q6f82/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhiroshimacoffee%2F458211%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhiroshimacoffee%2Fi%2F10000934%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/brown-gold-dark-roast-coffee-beans-body-3.jpg" alt="brown-gold-dark-roast-coffee-beans" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 ## ちょっとした工夫で、コーヒーライフはもっと深くなる
 
@@ -134,30 +118,16 @@ mediaType: 'beans'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E6%B7%B1%E7%85%8E" alt="ブラウンゴールド深煎りコーヒー豆セット本音レビュー。味の変化とコクを徹底検証" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                ブラウンゴールド深煎りコーヒー豆セット本音レビュー。味の変化とコクを徹底検証
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%25B3%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2580%2582%25E5%2591%25B3%25E3%2581%25AE%25E5%25A4%2589%25E5%258C%2596%25E3%2581%25A8%25E3%2582%25B3%25E3%2582%25AF%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%25B3%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2580%2582%25E5%2591%25B3%25E3%2581%25AE%25E5%25A4%2589%25E5%258C%2596%25E3%2581%25A8%25E3%2582%25B3%25E3%2582%25AF%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%25B3%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2580%2582%25E5%2591%25B3%25E3%2581%25AE%25E5%25A4%2589%25E5%258C%2596%25E3%2581%25A8%25E3%2582%25B3%25E3%2582%25AF%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/brown-gold-dark-roast-coffee-beans-body-1.png" alt="brown-gold-dark-roast-coffee-beans" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">ブラウンゴールド深煎りコーヒー豆セット本音レビュー。味の変化とコクを徹底検証</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%25B3%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%25E3%2580%2582%25E5%2591%25B3%25E3%2581%25AE%25E5%25A4%2589%25E5%258C%2596%25E3%2581%25A8%25E3%2582%25B3%25E3%2582%25AF%25E3%2582%2592%25E5%25BE%25B9%25E5%25BA%2595%25E6%25A4%259C%25E8%25A8%25BC" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>

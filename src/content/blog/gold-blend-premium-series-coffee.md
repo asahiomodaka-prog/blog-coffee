@@ -21,9 +21,7 @@ mediaType: 'beans'
 ---
 
 <!-- PR -->
-:::note
-本ページはアフィリエイトプログラムによる収益を得ています。
-:::
+> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅でのコーヒー抽出において、お湯の温度や挽き目の違いで味が安定しないという悩みを抱える人は少なくない。日々のコンディションによって「今日のベスト」が変動する経験は、コーヒー愛好家にとって尽きない課題だろう。
 
@@ -38,30 +36,16 @@ mediaType: 'beans'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%E3%83%97%E3%83%AC" alt="ゴールドブレンドプレミアムの香りと味わい。毎朝の一杯を格上げする本音レビュー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                ゴールドブレンドプレミアムの香りと味わい。毎朝の一杯を格上げする本音レビュー
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2583%2597%25E3%2583%25AC%25E3%2583%259F%25E3%2582%25A2%25E3%2583%25A0%25E3%2581%25AE%25E9%25A6%2599%25E3%2582%258A%25E3%2581%25A8%25E5%2591%25B3%25E3%2582%258F%25E3%2581%2584%25E3%2580%2582%25E6%25AF%258E%25E6%259C%259D%25E3%2581%25AE%25E4%25B8%2580%25E6%259D%25AF%25E3%2582%2592%25E6%25A0%25BC%25E4%25B8%258A%25E3%2581%2592%25E3%2581%2599%25E3%2582%258B%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2583%2597%25E3%2583%25AC%25E3%2583%259F%25E3%2582%25A2%25E3%2583%25A0%25E3%2581%25AE%25E9%25A6%2599%25E3%2582%258A%25E3%2581%25A8%25E5%2591%25B3%25E3%2582%258F%25E3%2581%2584%25E3%2580%2582%25E6%25AF%258E%25E6%259C%259D%25E3%2581%25AE%25E4%25B8%2580%25E6%259D%25AF%25E3%2582%2592%25E6%25A0%25BC%25E4%25B8%258A%25E3%2581%2592%25E3%2581%2599%25E3%2582%258B%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2583%2597%25E3%2583%25AC%25E3%2583%259F%25E3%2582%25A2%25E3%2583%25A0%25E3%2581%25AE%25E9%25A6%2599%25E3%2582%258A%25E3%2581%25A8%25E5%2591%25B3%25E3%2582%258F%25E3%2581%2584%25E3%2580%2582%25E6%25AF%258E%25E6%259C%259D%25E3%2581%25AE%25E4%25B8%2580%25E6%259D%25AF%25E3%2582%2592%25E6%25A0%25BC%25E4%25B8%258A%25E3%2581%2592%25E3%2581%2599%25E3%2582%258B%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/gold-blend-premium-series-coffee-body-1.png" alt="gold-blend-premium-series-coffee" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">ゴールドブレンドプレミアムの香りと味わい。毎朝の一杯を格上げする本音レビュー</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2583%2597%25E3%2583%25AC%25E3%2583%259F%25E3%2582%25A2%25E3%2583%25A0%25E3%2581%25AE%25E9%25A6%2599%25E3%2582%258A%25E3%2581%25A8%25E5%2591%25B3%25E3%2582%258F%25E3%2581%2584%25E3%2580%2582%25E6%25AF%258E%25E6%259C%259D%25E3%2581%25AE%25E4%25B8%2580%25E6%259D%25AF%25E3%2582%2592%25E6%25A0%25BC%25E4%25B8%258A%25E3%2581%2592%25E3%2581%2599%25E3%2582%258B%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
@@ -81,7 +65,7 @@ mediaType: 'beans'
 <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 16px; padding: 1.25rem; margin: 2.5rem 0; box-shadow: 0 4px 20px -2px rgba(15, 23, 42, 0.04); display: flex; flex-direction: row; gap: 1.25rem; align-items: center; max-width: 100%; box-sizing: border-box; font-family: sans-serif; min-height: 140px;">
   <div style="flex-shrink: 0; width: 100px; height: 100px; display: flex; align-items: center; justify-content: center; background-color: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9; overflow: hidden;">
     <a href="https://hb.afl.rakuten.co.jp/hgc/g00tbho1.ve2q5bdd.g00tbho1.ve2q671b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdripcoffee%2Fgold-500-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdripcoffee%2Fi%2F10000184%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="display: block; width: 100%; height: 100%; text-align: center; line-height: 100px;">
-      <img src="https://thumbnail.image.rakuten.co.jp/@0_mall/dripcoffee/cabinet/it01/limited/rc_premium/0400003300020_ne50p.jpg?_ex=600x600" alt="至福の香りが広がる 「ゴールド ブレンド プレミアムシリーズ」で始める、こだわりのコーヒー暮らし。" style="max-width: 100%; max-height: 100%; object-fit: contain; vertical-align: middle; border: 0; display: inline-block;" />
+      <img src="/images/gold-blend-premium-series-coffee-body-2.jpg" alt="gold-blend-premium-series-coffee" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
     </a>
   </div>
   <div style="flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 0.35rem; text-align: left;">
@@ -190,30 +174,16 @@ mediaType: 'beans'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%E3%83%97%E3%83%AC" alt="ゴールドブレンドプレミアムの香りと味わい。毎朝の一杯を格上げする本音レビュー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                ゴールドブレンドプレミアムの香りと味わい。毎朝の一杯を格上げする本音レビュー
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2583%2597%25E3%2583%25AC%25E3%2583%259F%25E3%2582%25A2%25E3%2583%25A0%25E3%2581%25AE%25E9%25A6%2599%25E3%2582%258A%25E3%2581%25A8%25E5%2591%25B3%25E3%2582%258F%25E3%2581%2584%25E3%2580%2582%25E6%25AF%258E%25E6%259C%259D%25E3%2581%25AE%25E4%25B8%2580%25E6%259D%25AF%25E3%2582%2592%25E6%25A0%25BC%25E4%25B8%258A%25E3%2581%2592%25E3%2581%2599%25E3%2582%258B%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2583%2597%25E3%2583%25AC%25E3%2583%259F%25E3%2582%25A2%25E3%2583%25A0%25E3%2581%25AE%25E9%25A6%2599%25E3%2582%258A%25E3%2581%25A8%25E5%2591%25B3%25E3%2582%258F%25E3%2581%2584%25E3%2580%2582%25E6%25AF%258E%25E6%259C%259D%25E3%2581%25AE%25E4%25B8%2580%25E6%259D%25AF%25E3%2582%2592%25E6%25A0%25BC%25E4%25B8%258A%25E3%2581%2592%25E3%2581%2599%25E3%2582%258B%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2583%2597%25E3%2583%25AC%25E3%2583%259F%25E3%2582%25A2%25E3%2583%25A0%25E3%2581%25AE%25E9%25A6%2599%25E3%2582%258A%25E3%2581%25A8%25E5%2591%25B3%25E3%2582%258F%25E3%2581%2584%25E3%2580%2582%25E6%25AF%258E%25E6%259C%259D%25E3%2581%25AE%25E4%25B8%2580%25E6%259D%25AF%25E3%2582%2592%25E6%25A0%25BC%25E4%25B8%258A%25E3%2581%2592%25E3%2581%2599%25E3%2582%258B%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/gold-blend-premium-series-coffee-body-1.png" alt="gold-blend-premium-series-coffee" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">ゴールドブレンドプレミアムの香りと味わい。毎朝の一杯を格上げする本音レビュー</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2583%2597%25E3%2583%25AC%25E3%2583%259F%25E3%2582%25A2%25E3%2583%25A0%25E3%2581%25AE%25E9%25A6%2599%25E3%2582%258A%25E3%2581%25A8%25E5%2591%25B3%25E3%2582%258F%25E3%2581%2584%25E3%2580%2582%25E6%25AF%258E%25E6%259C%259D%25E3%2581%25AE%25E4%25B8%2580%25E6%259D%25AF%25E3%2582%2592%25E6%25A0%25BC%25E4%25B8%258A%25E3%2581%2592%25E3%2581%2599%25E3%2582%258B%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>

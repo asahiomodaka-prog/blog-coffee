@@ -24,9 +24,7 @@ mediaType: 'beans'
 ---
 
 <!-- PR -->
-:::note
-本ページはアフィリエイトプログラムによる収益を得ています。
-:::
+> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅で淹れる一杯のコーヒーは、日々の生活に質の高い休息と活力を与える。豆の選定、挽き方、そして抽出の工程にこだわりを凝縮することで、その体験はより深いものとなる。特に、複数の豆を試したいと考えるコーヒー愛好家にとって、コストパフォーマンスと選択の自由度を両立させる商品は魅力的である。
 
@@ -39,30 +37,16 @@ mediaType: 'beans'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E8%B1%861.5kg" alt="コーヒー豆1.5kg福袋で味が劇的に変わる！好みの豆で淹れる喜び本音レビュー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                コーヒー豆1.5kg福袋で味が劇的に変わる！好みの豆で淹れる喜び本音レビュー
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%25861.5kg%25E7%25A6%258F%25E8%25A2%258B%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%258A%2587%25E7%259A%2584%25E3%2581%25AB%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25EF%25BC%2581%25E5%25A5%25BD%25E3%2581%25BF%25E3%2581%25AE%25E8%25B1%2586%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25E5%2596%259C%25E3%2581%25B3%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%25861.5kg%25E7%25A6%258F%25E8%25A2%258B%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%258A%2587%25E7%259A%2584%25E3%2581%25AB%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25EF%25BC%2581%25E5%25A5%25BD%25E3%2581%25BF%25E3%2581%25AE%25E8%25B1%2586%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25E5%2596%259C%25E3%2581%25B3%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%25861.5kg%25E7%25A6%258F%25E8%25A2%258B%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%258A%2587%25E7%259A%2584%25E3%2581%25AB%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25EF%25BC%2581%25E5%25A5%25BD%25E3%2581%25BF%25E3%2581%25AE%25E8%25B1%2586%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25E5%2596%259C%25E3%2581%25B3%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/coffee-beans-1-5kg-lucky-bag-body-1.png" alt="coffee-beans-1-5kg-lucky-bag" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">コーヒー豆1.5kg福袋で味が劇的に変わる！好みの豆で淹れる喜び本音レビュー</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%25861.5kg%25E7%25A6%258F%25E8%25A2%258B%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%258A%2587%25E7%259A%2584%25E3%2581%25AB%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25EF%25BC%2581%25E5%25A5%25BD%25E3%2581%25BF%25E3%2581%25AE%25E8%25B1%2586%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25E5%2596%259C%25E3%2581%25B3%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
@@ -81,7 +65,7 @@ mediaType: 'beans'
 
 加藤珈琲店の「コーヒー豆 1.5kg 福袋」は、こうした多様な精製方法や焙煎度合いの豆を14種類から自由に選択できるため、自宅で手軽に様々なコーヒーの表情を体験できる機会を提供する。筆者が今回選定したのは、透明感のある酸味を求めて「ケニアAA」、芳醇なフルーツ感を期待して「ホヌコペスペシャルティ・インドネシア・マンデリンゴールド」、そして日常使いに適した深煎り豆として「ビターブレンド（luxury）」の3種類である。この組み合わせにより、異なる風味特性を持つ豆の比較検証が可能となる。
 
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/2600/2699r.jpg?_ex=600x600" alt="コーヒー豆 コーヒー 1.5kg 福袋 組み合わせ自由な福袋(各500g)" />
+<img src="/images/coffee-beans-1-5kg-lucky-bag-body-2.jpg" alt="coffee-beans-1-5kg-lucky-bag" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 抽出のメカニズムを理解し、豆の特性に合わせた方法を適用することは、理想の風味を引き出す上で不可欠である。
 
@@ -133,7 +117,7 @@ mediaType: 'beans'
 
 筆者が最近試しているのは、[浅煎りタンザニアAA](/blog/tanzania-aa-light-roast-coffee-beans/)を用いた抽出である。お湯の温度を微調整するだけで、香りが全く異なる表情を見せる点が興味深い。今回選定したケニアAAも、同様に温度による香りの変化を検証してみたいと考えている。
 
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00pl5f1.ve2q5fd0.g00pl5f1.ve2q6f99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F2699%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10007479%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/2600/2699r.jpg?_ex=600x600" alt="コーヒー豆 コーヒー 1.5kg 福袋 組み合わせ自由な福袋(各500g) 画像" /></a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00pl5f1.ve2q5fd0.g00pl5f1.ve2q6f99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F2699%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10007479%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer"><img src="/images/coffee-beans-1-5kg-lucky-bag-body-3.jpg" alt="coffee-beans-1-5kg-lucky-bag" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" /></a>
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -182,30 +166,16 @@ mediaType: 'beans'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E8%B1%861.5kg" alt="コーヒー豆1.5kg福袋で味が劇的に変わる！好みの豆で淹れる喜び本音レビュー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                コーヒー豆1.5kg福袋で味が劇的に変わる！好みの豆で淹れる喜び本音レビュー
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%25861.5kg%25E7%25A6%258F%25E8%25A2%258B%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%258A%2587%25E7%259A%2584%25E3%2581%25AB%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25EF%25BC%2581%25E5%25A5%25BD%25E3%2581%25BF%25E3%2581%25AE%25E8%25B1%2586%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25E5%2596%259C%25E3%2581%25B3%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%25861.5kg%25E7%25A6%258F%25E8%25A2%258B%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%258A%2587%25E7%259A%2584%25E3%2581%25AB%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25EF%25BC%2581%25E5%25A5%25BD%25E3%2581%25BF%25E3%2581%25AE%25E8%25B1%2586%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25E5%2596%259C%25E3%2581%25B3%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%25861.5kg%25E7%25A6%258F%25E8%25A2%258B%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%258A%2587%25E7%259A%2584%25E3%2581%25AB%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25EF%25BC%2581%25E5%25A5%25BD%25E3%2581%25BF%25E3%2581%25AE%25E8%25B1%2586%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25E5%2596%259C%25E3%2581%25B3%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/coffee-beans-1-5kg-lucky-bag-body-1.png" alt="coffee-beans-1-5kg-lucky-bag" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">コーヒー豆1.5kg福袋で味が劇的に変わる！好みの豆で淹れる喜び本音レビュー</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%25861.5kg%25E7%25A6%258F%25E8%25A2%258B%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%258A%2587%25E7%259A%2584%25E3%2581%25AB%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25EF%25BC%2581%25E5%25A5%25BD%25E3%2581%25BF%25E3%2581%25AE%25E8%25B1%2586%25E3%2581%25A7%25E6%25B7%25B9%25E3%2582%258C%25E3%2582%258B%25E5%2596%259C%25E3%2581%25B3%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>

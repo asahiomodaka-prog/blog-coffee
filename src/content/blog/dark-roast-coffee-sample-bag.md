@@ -32,30 +32,16 @@ mediaType: 'beans'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E6%B7%B1%E7%85%8E%E3%82%8A%E3%81%8A%E8%A9%A6%E3%81%97%E7%A6%8F%E8%A2%8B%E3%81%A7%E5%91%B3" alt="深煎りお試し福袋で味が変わる！苦味の悩みを解決する本音レビュー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                深煎りお試し福袋で味が変わる！苦味の悩みを解決する本音レビュー
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2581%258A%25E8%25A9%25A6%25E3%2581%2597%25E7%25A6%258F%25E8%25A2%258B%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25EF%25BC%2581%25E8%258B%25A6%25E5%2591%25B3%25E3%2581%25AE%25E6%2582%25A9%25E3%2581%25BF%25E3%2582%2592%25E8%25A7%25A3%25E6%25B1%25BA%25E3%2581%2599%25E3%2582%258B%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2581%258A%25E8%25A9%25A6%25E3%2581%2597%25E7%25A6%258F%25E8%25A2%258B%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25EF%25BC%2581%25E8%258B%25A6%25E5%2591%25B3%25E3%2581%25AE%25E6%2582%25A9%25E3%2581%25BF%25E3%2582%2592%25E8%25A7%25A3%25E6%25B1%25BA%25E3%2581%2599%25E3%2582%258B%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2581%258A%25E8%25A9%25A6%25E3%2581%2597%25E7%25A6%258F%25E8%25A2%258B%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25EF%25BC%2581%25E8%258B%25A6%25E5%2591%25B3%25E3%2581%25AE%25E6%2582%25A9%25E3%2581%25BF%25E3%2582%2592%25E8%25A7%25A3%25E6%25B1%25BA%25E3%2581%2599%25E3%2582%258B%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/dark-roast-coffee-sample-bag-body-1.png" alt="dark-roast-coffee-sample-bag" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">深煎りお試し福袋で味が変わる！苦味の悩みを解決する本音レビュー</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2581%258A%25E8%25A9%25A6%25E3%2581%2597%25E7%25A6%258F%25E8%25A2%258B%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25EF%25BC%2581%25E8%258B%25A6%25E5%2591%25B3%25E3%2581%25AE%25E6%2582%25A9%25E3%2581%25BF%25E3%2582%2592%25E8%25A7%25A3%25E6%25B1%25BA%25E3%2581%2599%25E3%2582%258B%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
@@ -122,7 +108,7 @@ mediaType: 'beans'
 
 日々の多忙な生活の中で、自宅で淹れる一杯のコーヒーは、単なる飲み物以上の価値を持つ。この福袋は、そうした日常に、ささやかな贅沢と、飽きのこない風味の探求という喜びを提供してくれるだろう。
 
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/fuku/imgrc0116107610.jpg?_ex=600x600" alt="コーヒー豆 深煎り お試し 福袋" />
+<img src="/images/dark-roast-coffee-sample-bag-body-2.jpg" alt="dark-roast-coffee-sample-bag" class="article-body-img" style="max-width:100%;height:auto;border-radius:8px;margin:1.5rem 0;" loading="lazy" />
 
 
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
@@ -205,30 +191,16 @@ mediaType: 'beans'
 </div>
 
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 20px; border: 1px solid #e2e8f0; border-radius: 12px; background-color: #ffffff; box-shadow: 0 4px 12px rgba(0,0,0,0.04); font-family: sans-serif;">
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-        <div style="flex: 0 0 160px; max-width: 160px; margin: 0 auto; text-align: center;">
-            <img src="https://placehold.jp/24/f0f0f0/888888/300x300.png?text=%E6%B7%B1%E7%85%8E%E3%82%8A%E3%81%8A%E8%A9%A6%E3%81%97%E7%A6%8F%E8%A2%8B%E3%81%A7%E5%91%B3" alt="深煎りお試し福袋で味が変わる！苦味の悩みを解決する本音レビュー" style="max-width: 100%; height: auto; max-height: 160px; object-fit: contain; border-radius: 8px; border: 1px solid #edf2f7;" loading="lazy" />
-        </div>
-        <div style="flex: 1 1 280px;">
-            <h4 style="margin: 0 0 10px 0; font-size: 1.05rem; font-weight: 700; color: #1a202c; line-height: 1.4;">
-                深煎りお試し福袋で味が変わる！苦味の悩みを解決する本音レビュー
-            </h4>
-            
-            <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px;">
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2581%258A%25E8%25A9%25A6%25E3%2581%2597%25E7%25A6%258F%25E8%25A2%258B%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25EF%25BC%2581%25E8%258B%25A6%25E5%2591%25B3%25E3%2581%25AE%25E6%2582%25A9%25E3%2581%25BF%25E3%2582%2592%25E8%25A7%25A3%25E6%25B1%25BA%25E3%2581%2599%25E3%2582%258B%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,153,0,0.25); display: inline-block;">
-                    🛒 Amazon
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=54&pc_id=54&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2581%258A%25E8%25A9%25A6%25E3%2581%2597%25E7%25A6%258F%25E8%25A2%258B%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25EF%25BC%2581%25E8%258B%25A6%25E5%2591%25B3%25E3%2581%25AE%25E6%2582%25A9%25E3%2581%25BF%25E3%2582%2592%25E8%25A7%25A3%25E6%25B1%25BA%25E3%2581%2599%25E3%2582%258B%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(191,0,0,0.25); display: inline-block;">
-                    🔴 楽天市場
-                </a>
-                <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2581%258A%25E8%25A9%25A6%25E3%2581%2597%25E7%25A6%258F%25E8%25A2%258B%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25EF%25BC%2581%25E8%258B%25A6%25E5%2591%25B3%25E3%2581%25AE%25E6%2582%25A9%25E3%2581%25BF%25E3%2582%2592%25E8%25A7%25A3%25E6%25B1%25BA%25E3%2581%2599%25E3%2582%258B%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1 1 calc(33.3% - 6px); min-width: 120px; padding: 10px 8px; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important; text-align: center; text-decoration: none !important; border-radius: 6px; font-weight: bold; font-size: 0.85rem; box-shadow: 0 2px 4px rgba(255,0,51,0.25); display: inline-block;">
-                    🟣 Yahoo!
-                </a>
-                
-            </div>
-        </div>
-    </div>
+
+<div class="product-widget-card">
+  <img src="/images/dark-roast-coffee-sample-bag-body-1.png" alt="dark-roast-coffee-sample-bag" class="widget-img" loading="lazy" />
+  <div class="widget-info">
+    <h4 class="widget-title">深煎りお試し福袋で味が変わる！苦味の悩みを解決する本音レビュー</h4>
+    
+    <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2581%258A%25E8%25A9%25A6%25E3%2581%2597%25E7%25A6%258F%25E8%25A2%258B%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B%25EF%25BC%2581%25E8%258B%25A6%25E5%2591%25B3%25E3%2581%25AE%25E6%2582%25A9%25E3%2581%25BF%25E3%2582%2592%25E8%25A7%25A3%25E6%25B1%25BA%25E3%2581%2599%25E3%2582%258B%25E6%259C%25AC%25E9%259F%25B3%25E3%2583%25AC%25E3%2583%2593%25E3%2583%25A5%25E3%2583%25BC" target="_blank" rel="noopener noreferrer" class="widget-btn">🛒 Amazon &rarr;</a>
+  </div>
+</div>
+
     <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">
         ※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。
     </div>
