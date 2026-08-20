@@ -2,7 +2,7 @@
 title: 'EPEIOS 電気ケトルで淹れる一杯。香りが日常を彩る、自宅の至福コーヒー術'
 description: '自宅コーヒーの味が安定しない、温度管理が面倒と感じていませんか？EPEIOS 電気ケトル（14,960円）がプロの技を再現。細やかな温度設定と注ぎやすい構造で、誰でもブレない美味しい一杯を自宅で手軽に。'
 pubDate: '2026-07-13'
-heroImage: '../../assets/images/epeios-electric-kettle-home-coffee.jpg'
+heroImage: '/images/epeios-electric-kettle-home-coffee.jpg'
 genre: 'ケトル・ポット'
 sidebarProducts:
   - title: '[250円OFFクーポン/暑さ対策フェア]【公式は2年保証】電気ケトル おしゃれ ドリップ 一人暮らし コーヒー ケトル 600ml 0.6Lドリップケトル IKE-C601T-HA IKE-C601T-CW IKE-C800T ケトル 電気ケトル 電気 電気ポット [安心延長保証対象]'

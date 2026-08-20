@@ -2,7 +2,7 @@
 title: 'ブラウンゴールド深煎りコーヒー豆セット本音レビュー。味の変化とコクを徹底検証'
 description: '楽天の深煎りコーヒー豆「ブラウンゴールドセット」はカフェオレに最適。苦味とコクがミルクに負けず、深煎り好きも満足の味わい。ヨーロピアンブレンドなど3種500g×3で6,890円。'
 pubDate: '2026-07-24'
-heroImage: '../../assets/images/brown-gold-dark-roast-coffee-beans.jpg'
+heroImage: '/images/brown-gold-dark-roast-coffee-beans.jpg'
 genre: 'コーヒー豆・粉'
 sidebarProducts:
   - title: 'コーヒー豆 ブレンドコーヒー 500g 豆のまま 細挽き 中挽き 粗挽き 深煎り コーヒー 珈琲 珈琲豆 オリジナルブレンド KOTENブレンド【メール便送料無料】[M便 1/1]'

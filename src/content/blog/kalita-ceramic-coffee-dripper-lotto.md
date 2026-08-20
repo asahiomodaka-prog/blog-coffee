@@ -2,7 +2,7 @@
 title: '陶器製カリタ ロトのレビュー！「お湯の温度で味が変わる」を解決？'
 description: 'カリタの陶器製コーヒードリッパー「ロト」は、雑味を抑える3つ穴構造で、安定した美味しいハンドドリップを実現。保温性に優れ、初心者でも均一な抽出が可能です。価格1550円（楽天）。'
 pubDate: '2026-07-28'
-heroImage: '../../assets/images/kalita-ceramic-coffee-dripper-lotto.jpg'
+heroImage: '/images/kalita-ceramic-coffee-dripper-lotto.jpg'
 genre: 'ドリッパー・器具'
 sidebarProducts:
   - title: '★テレビで話題★＼楽天1位／コーヒードリッパー コーヒーフィルター ステンレス製 メッシュ二重構造フィルター ペーパーレス ステンレスフィルター くり返し使える おしゃれ ハンドドリップ 道具 ドリッパー フィルター不要 キャンプ アウトドア'

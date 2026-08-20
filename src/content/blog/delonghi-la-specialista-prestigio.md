@@ -2,7 +2,7 @@
 title: 'デロンギ ラ・スペシャリスタ・プレスティージオで。豆から香る、私の至福カフェ時間'
 description: '「自宅コーヒーの味が安定しない」「温度管理が面倒」そんな悩みに。デロンギ ラ・スペシャリスタ・プレスティージオは、豆から挽けるグラインダー付きで安定抽出を実現します。本格エスプレッソやカフェラテ、ラテアートも自宅で簡単に。その魅力を徹底解説。'
 pubDate: '2026-07-09'
-heroImage: '../../assets/images/delonghi-la-specialista-prestigio.jpg'
+heroImage: '/images/delonghi-la-specialista-prestigio.jpg'
 genre: 'エスプレッソ・マシン'
 sidebarProducts:
   - title: '【14％OFF】【数量限定】【販路限定モデル】＼楽天ランキング1位／デロンギ マグニフィカS 全自動コーヒーマシン エスプレッソメーカー [ECAM22112W] | デロンギコーヒーメーカー 豆から挽く エスプレッソ カプチーノ カフェラテ 全自動 コーヒー豆 コーヒーマシン 公式'

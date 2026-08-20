@@ -2,7 +2,7 @@
 title: '浅煎り「アメリカンブレンド」で失敗しない！お湯の温度で味が変わる本音レビュー'
 description: '浅煎りコーヒー「アメリカンブレンド」250g。リンゴのような甘く爽やかな風味を2680円（税込）で楽しめるコーヒー豆。メール便で手軽にお届け。抽出温度とスピードで変わる繊細な味わいを解説します。'
 pubDate: '2026-07-26'
-heroImage: '../../assets/images/light-roast-apple-flavor-coffee-250g.jpg'
+heroImage: '/images/light-roast-apple-flavor-coffee-250g.jpg'
 genre: 'コーヒー豆・粉'
 sidebarProducts:
   - title: 'コーヒー豆 浅煎り 福袋 送料無料 お試しセット おすすめ 飲み比べ エチオピア モカ ナチュラル 120g. キリマンジャロ の雫80g. マンデリン ブレンド 清流長良川80g 計280g メール便 珈琲豆 粉 お中元ギフト 御中元 グルメ コーヒー福袋 コーヒー粉 お得 花以外'

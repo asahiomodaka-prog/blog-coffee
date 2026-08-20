@@ -2,7 +2,7 @@
 title: 'HARIO 雫 SBS-5Bで激変！水出しコーヒーの味が決まる秘密と本音レビュー'
 description: 'HARIO「スロードリップブリューワーハリオ 雫」[SBS-5B]は、約1時間で本格水出しコーヒーが楽しめる点滴式器具。スピード調整不要で、雑味の少ないまろやかな味わいを手軽に堪能できます。水出し緑茶にも対応。'
 pubDate: '2026-07-30'
-heroImage: '../../assets/images/hario-cold-brew-dripper-shizuku.jpg'
+heroImage: '/images/hario-cold-brew-dripper-shizuku.jpg'
 genre: 'ドリッパー・器具'
 sidebarProducts:
   - title: '【ふるさと納税】極細3.4mmノズル ドリップポット(コーヒードリップポット) 350ml 1〜2人用 コーヒー ドリップ 珈琲器具 燕三条製【015P061/017S004】'

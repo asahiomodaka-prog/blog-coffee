@@ -2,7 +2,7 @@
 title: 'どこでも、挽きたて。コードレス臼式電動コーヒーミルが叶える、私だけの贅沢な香り'
 description: '「コードレス臼式電動コーヒーミル」で挽きたての本格コーヒーを。手挽きの苦労や場所の悩みを解決する3980円の高性能ミル。均一な粒度で雑味なく、いつでもどこでも美味しい一杯を楽天で。'
 pubDate: '2026-07-11'
-heroImage: '../../assets/images/cordless-burr-coffee-grinder.jpg'
+heroImage: '/images/cordless-burr-coffee-grinder.jpg'
 genre: 'ミル・グラインダー'
 sidebarProducts:
   - title: '【ふるさと納税】＜選べるサイズ＞ポーレックス コーヒーミル・プロフェッショナル(トール・ミニ) コーヒーミル 手動 手挽きミル アウトドア 携帯 コーヒー豆挽き 珈琲ミル 正規品 日本 Japan Porlex【ジャパンポーレックス】'

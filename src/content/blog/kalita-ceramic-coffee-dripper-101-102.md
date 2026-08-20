@@ -2,7 +2,7 @@
 title: 'カリタ陶器製コーヒードリッパー101/102検証。3つ穴抽出の味のブレと安定性'
 description: '【本日23:59まで半額】カリタ 陶器製ドリッパー「ロト101/102」が1380円。三つ穴構造で雑味を抑え、豆本来の旨みを最大限に引き出す抽出を実現。喫茶店のような本格コーヒーを自宅で手軽に楽しみたい方におすすめです。'
 pubDate: '2026-07-25'
-heroImage: '../../assets/images/kalita-ceramic-coffee-dripper-101-102.jpg'
+heroImage: '/images/kalita-ceramic-coffee-dripper-101-102.jpg'
 genre: 'ドリッパー・器具'
 sidebarProducts:
   - title: '【Kalita】コーヒードリッパー ロト カリタ 陶器 コーヒー ドリップ おしゃれ セラミック 101 102 1人 2人 3人 4人 1杯 2杯 3杯 4杯 ブラウン 白 黒 キッチン ダイニング ブラウン プレゼント ギフト インテリア カフェ 新生活 ハンドドリップ おすすめ'

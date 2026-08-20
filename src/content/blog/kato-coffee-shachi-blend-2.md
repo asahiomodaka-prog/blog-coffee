@@ -2,7 +2,7 @@
 title: '加藤珈琲店 しゃちブレンド2種。豆のまま挽く悦び、違いを楽しむ大人の珈琲時間'
 description: '加藤珈琲店「しゃちブレンド2種」飲み比べを本音レビュー。豆のまま挽く鮮度と奥深い香りの違いを徹底解説します。自宅で好みの味を見つけ、楽天で買える人気ブレンドで毎日の珈琲時間を充実させましょう。'
 pubDate: '2026-07-06'
-heroImage: '../../assets/images/kato-coffee-shachi-blend-2.jpg'
+heroImage: '/images/kato-coffee-shachi-blend-2.jpg'
 genre: 'ミル・グラインダー'
 sidebarProducts:
   - title: 'コーヒー豆 ブレンドコーヒー 500g 豆のまま 細挽き 中挽き 粗挽き 深煎り コーヒー 珈琲 珈琲豆 オリジナルブレンド KOTENブレンド【メール便送料無料】[M便 1/1]'

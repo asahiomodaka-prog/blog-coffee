@@ -2,7 +2,7 @@
 title: '「深煎りお試しコーヒー」は本当に買い？味のブレに悩む人への本音レビュー'
 description: '楽天「コーヒー豆 深煎り お試し 1000円ポッキリ」を体験。グアテマラ・マンデリンブレンドなど深煎り豆140gが、送料込み1000円で試せる。重厚な苦味と甘み、長く続く余韻を自宅で手軽に。高品質な一杯を求める方へ。'
 pubDate: '2026-08-06'
-heroImage: '../../assets/images/dark-roast-coffee-trial.jpg'
+heroImage: '/images/dark-roast-coffee-trial.jpg'
 genre: 'コーヒー豆・粉'
 sidebarProducts:
   - title: 'コーヒー豆 ブレンドコーヒー 500g 豆のまま 細挽き 中挽き 粗挽き 深煎り コーヒー 珈琲 珈琲豆 オリジナルブレンド KOTENブレンド【メール便送料無料】[M便 1/1]'

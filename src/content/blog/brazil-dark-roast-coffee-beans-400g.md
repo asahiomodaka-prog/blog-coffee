@@ -2,7 +2,7 @@
 title: 'ブラジル深煎り400g自家焙煎コーヒー豆！「苦すぎる」悩みを解決する本音レビュー'
 description: 'MellowCoffeeのブラジル産400g深煎りコーヒー豆。ナッツやチョコ風味のバランス良い味わいは、ドリップ・アイスコーヒーに最適。自宅で安定した美味しさを楽しめます。高品質な自家焙煎豆を2200円でお試し。日常使いやギフトにおすすめです。'
 pubDate: '2026-07-15'
-heroImage: '../../assets/images/brazil-dark-roast-coffee-beans-400g.jpg'
+heroImage: '/images/brazil-dark-roast-coffee-beans-400g.jpg'
 genre: 'コーヒー豆・粉'
 sidebarProducts:
   - title: 'コーヒー豆 ブレンドコーヒー 500g 豆のまま 細挽き 中挽き 粗挽き 深煎り コーヒー 珈琲 珈琲豆 オリジナルブレンド KOTENブレンド【メール便送料無料】[M便 1/1]'

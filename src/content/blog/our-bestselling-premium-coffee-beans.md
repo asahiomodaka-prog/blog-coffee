@@ -2,7 +2,7 @@
 title: 'プレミアム高級コーヒー豆16種飲み比べ。香りとコクのブレンド技術を徹底解説'
 description: '楽天で人気の自家焙煎コーヒー豆「当店1番人気 希少高級豆ブレンド」。日々の焙煎で生まれる多様な豆をブレンドするため、毎回異なる味を楽しめます。価格は5893円で1kgの大容量、送料無料。カリタ・コーノドリッパー推奨です。'
 pubDate: '2026-07-23'
-heroImage: '../../assets/images/our-bestselling-premium-coffee-beans.jpg'
+heroImage: '/images/our-bestselling-premium-coffee-beans.jpg'
 genre: 'コーヒー豆・粉'
 sidebarProducts:
   - title: '【店内全品ポイント5倍中】(要エントリー)(〜26日1:59)2kg最安値に挑戦!2kgで3,980円！コーヒー豆 コーヒー 豆 粉 2kg / 1kg ハウスブレンド ( 500g × 4袋 or 2袋 ) 深煎り 珈琲 珈琲豆 送料無料 ドリップコーヒーファクトリー'

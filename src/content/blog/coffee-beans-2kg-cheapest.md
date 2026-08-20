@@ -2,7 +2,7 @@
 title: '2kg最安値コーヒー豆の正直レビュー！味のブレ・鮮度はどう？'
 description: '楽天年間受賞！2kgで3,980円のコーヒー豆。1杯約26円で楽しめる、苦味とコクが際立つフレンチローストの深煎り。コスパ重視の普段飲みに最適。豆・粉を選べます。'
 pubDate: '2026-08-13'
-heroImage: '../../assets/images/coffee-beans-2kg-cheapest.jpg'
+heroImage: '/images/coffee-beans-2kg-cheapest.jpg'
 genre: 'コーヒー豆・粉'
 sidebarProducts:
   - title: '【焙煎人珈琲豆也のエチオピア　ゲイシャ ガニチ農園 豆でも粉でも可 1キロ】エチオピア コーヒー ゲイシャ コーヒー豆 珈琲豆 スペシャルティコーヒー'

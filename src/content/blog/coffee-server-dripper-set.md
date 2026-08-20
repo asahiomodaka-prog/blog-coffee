@@ -2,7 +2,7 @@
 title: 'コーヒードリップセットで味がブレる？初心者でも失敗しない淹れ方【本音レビュー】'
 description: '【楽天】「最安値挑戦」コーヒーサーバー＆ドリッパーセットが3060円。耐熱ガラス製でレンジOK、2層ステンレスメッシュでペーパー不要、洗ってエコ。オフィス・家庭で本格ドリップを楽しみたい方へ。'
 pubDate: '2026-08-08'
-heroImage: '../../assets/images/coffee-server-dripper-set.jpg'
+heroImage: '/images/coffee-server-dripper-set.jpg'
 genre: 'ドリッパー・器具'
 sidebarProducts:
   - title: '【最安値挑戦中】手挽き コーヒーミル 6段階調整 コーヒー グラインダー ドイツ LFGB アメリカ FDA 認証 手動 電源不要 コーヒー豆 coffee お手入れ簡単 スタイリッシュ ステンレス アウトドア キャンプ ソロキャン カフェ 粗挽き エスプレッソ 宅急便送料無料'

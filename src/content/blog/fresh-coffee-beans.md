@@ -2,7 +2,7 @@
 title: 'コーヒー豆 珈琲豆は温度で味が変わる！味のブレ解決する淹れ方レビュー'
 description: '楽天で1600円。「リバティブレンド深煎り」は、ブラジル・コロンビア・メキシコ豆をブレンドした本格珈琲豆。深いコクと長く続く余韻が特徴で、アイス・ミルク・砂糖とも相性抜群。多様な飲み方で満足できる一杯を求める方へ。'
 pubDate: '2026-08-05'
-heroImage: '../../assets/images/fresh-coffee-beans.jpg'
+heroImage: '/images/fresh-coffee-beans.jpg'
 genre: 'コーヒー豆・粉'
 sidebarProducts:
   - title: 'コーヒー豆 ブレンドコーヒー 500g 豆のまま 細挽き 中挽き 粗挽き 深煎り コーヒー 珈琲 珈琲豆 オリジナルブレンド KOTENブレンド【メール便送料無料】[M便 1/1]'

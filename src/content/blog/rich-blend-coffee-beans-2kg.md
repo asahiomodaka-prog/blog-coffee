@@ -2,7 +2,7 @@
 title: 'IGURAMUリッチブレンド2kg本音レビュー。日常使いのコスパとコクを徹底検証'
 description: '楽天モバイル感謝祭で2kg3,999円！GURAMUリッチブレンドは、芳醇な香りと甘み・コク、心地よいほろ苦さが特徴のベトナムコーヒー。豆のまま・中細挽きを選べ、カフェオレにも最適です。大容量で毎日惜しみなく楽しめます。'
 pubDate: '2026-07-21'
-heroImage: '../../assets/images/rich-blend-coffee-beans-2kg.jpg'
+heroImage: '/images/rich-blend-coffee-beans-2kg.jpg'
 genre: 'コーヒー豆・粉'
 sidebarProducts:
   - title: '【店内全品ポイント5倍中】(要エントリー)(〜26日1:59)2kg最安値に挑戦!2kgで3,980円！コーヒー豆 コーヒー 豆 粉 2kg / 1kg ハウスブレンド ( 500g × 4袋 or 2袋 ) 深煎り 珈琲 珈琲豆 送料無料 ドリップコーヒーファクトリー'

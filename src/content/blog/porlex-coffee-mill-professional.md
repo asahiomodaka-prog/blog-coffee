@@ -2,7 +2,7 @@
 title: 'ポーレックス コーヒーミル・プロ本音レビュー。粒度の安定でコーヒーの味が劇変'
 description: '自宅コーヒーの味が安定しない？ポーレックス コーヒーミル・プロフェッショナルが、手動手挽きミルのイメージを覆します。プロ仕様の粒度均一性で、いつでも狙い通りの安定した味を実現。高価格(4万円)でも選ばれる理由、アウトドアでの携帯性も解説。'
 pubDate: '2026-07-17'
-heroImage: '../../assets/images/porlex-coffee-mill-professional.jpg'
+heroImage: '/images/porlex-coffee-mill-professional.jpg'
 genre: 'ミル・グラインダー'
 sidebarProducts:
   - title: '【ふるさと納税】電動コーヒーミル CM-50（ブラック）｜kalita カリタ 珈琲 coffee ミル グラインダー 家電 キッチン キッチン用品 ギフト 贈答 贈り物 プレゼント お祝い ご褒美 記念日 景品 茨城県 古河市 _EW03'

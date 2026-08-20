@@ -2,7 +2,7 @@
 title: '多くのコーヒー愛好家が唸る！ステンレスドリッパーが紡ぐ、ペーパーレスな至福の香り'
 description: '自宅コーヒーの味、安定しない悩みを解決。ペーパーレス「ステンレスドリッパー」は、買い忘れ不要で経済的。コーヒーオイルを抽出し、風味とコクが格段にUPします。楽天で1980円から、毎日快適に格別な一杯を。'
 pubDate: '2026-07-06'
-heroImage: '../../assets/images/paperless-stainless-dripper.jpg'
+heroImage: '/images/paperless-stainless-dripper.jpg'
 genre: 'ドリッパー・器具'
 sidebarProducts:
   - title: '【楽天ランキング125週連続1位獲得！】 COFIL コーヒードリッパー コーヒーフィルター セラミックフィルター 円錐 おしゃれ ペーパーレス コーヒー キャンプ ギフト ドリップ 器具 プレゼント 紙フィルター 不要 コフィル 陶器 波佐見焼 有田焼 アウトドア エコ レビュー特典'

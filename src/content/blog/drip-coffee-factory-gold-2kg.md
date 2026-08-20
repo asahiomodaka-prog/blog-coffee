@@ -2,7 +2,7 @@
 title: 'プレミアム「ゴールド＆クラシック2kg」は買い？毎日のコーヒーマンネリ打破レポ'
 description: 'DRIP COFFEE FACTORY「ゴールド＆クラシック ブレンド プレミアムシリーズ アソート」2kgをレビュー。中深煎り・深煎りの2種で、深い苦味と甘さの余韻を比較検証。楽天で人気のコーヒー豆2kgを失敗せずに選びたい方へ、大容量でも飽きない魅力やコスパを徹底解説。'
 pubDate: '2026-07-19'
-heroImage: '../../assets/images/drip-coffee-factory-gold-2kg.jpg'
+heroImage: '/images/drip-coffee-factory-gold-2kg.jpg'
 genre: 'コーヒー豆・粉'
 sidebarProducts:
   - title: '【店内全品ポイント5倍中】(要エントリー)(〜26日1:59)2kg最安値に挑戦!2kgで3,980円！コーヒー豆 コーヒー 豆 粉 2kg / 1kg ハウスブレンド ( 500g × 4袋 or 2袋 ) 深煎り 珈琲 珈琲豆 送料無料 ドリップコーヒーファクトリー'

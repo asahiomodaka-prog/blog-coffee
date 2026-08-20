@@ -2,7 +2,7 @@
 title: '浅煎りコーヒー豆は酸っぱくない？苦味ゼロの秘訣と本音レビュー！'
 description: 'Specialtycoffee蒼の「浅煎り コーヒー豆 300g 苦くない」は、苦味や尖った酸味が苦手な方へ。果実のような甘みと澄み切った後味を両立し、軽やかなコーヒータイムを実現。楽天で3530円で手軽に高品質なスペシャルティコーヒーをお試しください。'
 pubDate: '2026-08-12'
-heroImage: '../../assets/images/light-roast-coffee-300g-mild.jpg'
+heroImage: '/images/light-roast-coffee-300g-mild.jpg'
 genre: 'コーヒー豆・粉'
 sidebarProducts:
   - title: 'コーヒー豆 浅煎り 福袋 送料無料 お試しセット おすすめ 飲み比べ エチオピア モカ ナチュラル 120g. キリマンジャロ の雫80g. マンデリン ブレンド 清流長良川80g 計280g メール便 珈琲豆 粉 お中元ギフト 御中元 グルメ コーヒー福袋 コーヒー粉 お得 花以外'

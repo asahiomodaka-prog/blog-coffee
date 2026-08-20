@@ -2,7 +2,7 @@
 title: 'ゴールドブレンドプレミアムの香りと味わい。毎朝の一杯を格上げする本音レビュー'
 description: '自宅コーヒーの「味のブレ」に終止符を。風味バランスに優れた「ゴールド ブレンド プレミアムシリーズ」なら、毎日安定して美味しい一杯を楽しめます。ブラジル・コロンビア他をブレンドした中深煎りで、楽天にて5500円。品質と使いやすさを両立。'
 pubDate: '2026-07-05'
-heroImage: '../../assets/images/gold-blend-premium-series-coffee.jpg'
+heroImage: '/images/gold-blend-premium-series-coffee.jpg'
 genre: 'コーヒー豆・粉'
 sidebarProducts:
   - title: 'コーヒー豆 ブレンドコーヒー 500g 豆のまま 細挽き 中挽き 粗挽き 深煎り コーヒー 珈琲 珈琲豆 オリジナルブレンド KOTENブレンド【メール便送料無料】[M便 1/1]'

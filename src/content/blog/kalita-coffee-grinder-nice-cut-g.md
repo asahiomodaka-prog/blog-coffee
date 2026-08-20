@@ -2,7 +2,7 @@
 title: '挽きムラでコーヒーが不味いなら。カリタ ナイスカットGで「安定した美味さ」を手に入れた話'
 description: '「カリタ 電動コーヒーミル グラインダー ナイスカットG」は、業務用同等の均一な挽き目を家庭で実現。36,980円で豆本来の風味を最大限に引き出し、雑味のないプロの味わいをお届けします。A5サイズで置き場所に困らず、本格コーヒー体験を。'
 pubDate: '2026-08-14'
-heroImage: '../../assets/images/kalita-coffee-grinder-nice-cut-g.jpg'
+heroImage: '/images/kalita-coffee-grinder-nice-cut-g.jpg'
 genre: 'ミル・グラインダー'
 sidebarProducts:
   - title: '【ふるさと納税】＜選べるサイズ＞ポーレックス コーヒーミル・プロフェッショナル(トール・ミニ) コーヒーミル 手動 手挽きミル アウトドア 携帯 コーヒー豆挽き 珈琲ミル 正規品 日本 Japan Porlex【ジャパンポーレックス】'

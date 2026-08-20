@@ -2,7 +2,7 @@
 title: 'コーヒー豆1.5kg福袋で味が劇的に変わる！好みの豆で淹れる喜び本音レビュー'
 description: '厳選14種から選べる！楽天のコーヒー豆1.5kg福袋（5238円）。アイスコーヒー向け含む多彩な豆の中から、あなただけのベスト3（各500g）をお届け。好みの味わいを自宅で毎日楽しめます。'
 pubDate: '2026-08-02'
-heroImage: '../../assets/images/coffee-beans-1-5kg-lucky-bag.jpg'
+heroImage: '/images/coffee-beans-1-5kg-lucky-bag.jpg'
 genre: 'コーヒー豆・粉'
 sidebarProducts:
   - title: '【ゲイシャ100% エチオピア産】スペシャルティコーヒー G1 ジャスミンの香り 200g 20杯用 | 600g 60杯用 高級コーヒー豆 送料無料 豆/粉選択可 ギフト お試し'

@@ -2,7 +2,7 @@
 title: 'ガイアの夜明けで話題！自家焙煎スペシャルティコーヒー定期便、お湯の温度で味ブレ解決！'
 description: 'ガイアの夜明けで紹介されたスペシャルティコーヒーの定期便。富士山の湧き水で自家焙煎した豆・粉400gを2〜12ヶ月お届け。ブルマンやハワイコナなど、世界トップクラスの希少な味わいを毎月堪能できます。'
 pubDate: '2026-07-21'
-heroImage: '../../assets/images/specialty-coffee-subscription.jpg'
+heroImage: '/images/specialty-coffee-subscription.jpg'
 genre: 'コーヒー豆・粉'
 sidebarProducts:
   - title: '＼最安値挑戦★2kgで3,999円／コーヒー 珈琲 コーヒー豆 コーヒー粉 豆のまま 1kg 2kg リッチブレンド 珈琲豆 大容量 ベトナムコーヒー 送料無料 GURAMU'

@@ -2,7 +2,7 @@
 title: '深煎りお試し福袋で味が変わる！苦味の悩みを解決する本音レビュー'
 description: 'コーヒー豆 深煎り お試し福袋は、楽天で人気の3種深煎り豆を3980円で体験。タンザニア、コロンビアなど、個性豊かな香りとコクを少量ずつ試せ、失敗なく新しい深煎りの世界を探求できます。'
 pubDate: '2026-08-09'
-heroImage: '../../assets/images/dark-roast-coffee-sample-bag.jpg'
+heroImage: '/images/dark-roast-coffee-sample-bag.jpg'
 genre: 'コーヒー豆・粉'
 sidebarProducts:
   - title: 'コーヒー豆 ブレンドコーヒー 500g 豆のまま 細挽き 中挽き 粗挽き 深煎り コーヒー 珈琲 珈琲豆 オリジナルブレンド KOTENブレンド【メール便送料無料】[M便 1/1]'

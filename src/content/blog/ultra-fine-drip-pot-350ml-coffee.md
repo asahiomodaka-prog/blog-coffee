@@ -2,7 +2,7 @@
 title: '極細3.4mmノズル ドリップポット本音レビュー！湯量調整で味は変わる？'
 description: '極細3.4mmノズルが特徴の「ドリップポット 350ml」は、狙い通りの湯量と速度で抽出可能。浅煎り豆のクリアな酸味も引き出しやすく、プロのような味わいを自宅で実現します。楽天で19,000円。'
 pubDate: '2026-07-29'
-heroImage: '../../assets/images/ultra-fine-drip-pot-350ml-coffee.jpg'
+heroImage: '/images/ultra-fine-drip-pot-350ml-coffee.jpg'
 genre: 'ケトル・ポット'
 sidebarProducts:
   - title: '【ふるさと納税】HARIO 点滴式水出しコーヒー器具「スロードリップブリューワーハリオ 雫」［SBS-5B］｜ハリオ 耐熱 ガラス キッチン 日用品 キッチン用品 日本製 おしゃれ かわいい 点滴式 水出し コーヒー お茶 ギフト プレゼント お祝 _BE40'

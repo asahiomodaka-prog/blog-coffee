@@ -2,7 +2,7 @@
 title: '「ブルーマウンテン＆コピ・ルアク」をどう活かす？正直な感想と淹れ方'
 description: '「木箱入 ブルーマウンテン ＆ コピ・ルアク」は、ジャマイカとインドネシアの希少な高級コーヒー生豆100gセット。自宅で最高峰の味を体験したい方や、大切な方への特別な贈り物に最適です。楽天で12,800円。'
 pubDate: '2026-08-11'
-heroImage: '../../assets/images/blue-mountain-kopi-luwak-coffee.jpg'
+heroImage: '/images/blue-mountain-kopi-luwak-coffee.jpg'
 genre: 'コーヒー豆・粉'
 sidebarProducts:
   - title: 'お中元 夏ギフト コーヒー 澤井珈琲 送料無料 コーヒーギフト【ソーシャルギフト対応】 珈琲 プレゼント "飾りたくなる木樽入りのコーヒーで贈る、粋な時間。" 高級珈琲豆 ブルーマウンテン 2樽 セット 贅沢 夏のギフト お中元ギフト 【RD】 【TS】'

@@ -2,7 +2,7 @@
 title: 'GURAMUで毎日淹れたてを味わう贅沢。香りとコクが私のコーヒー生活を豊かにする理由'
 description: '自宅コーヒーの味に満足できない方へ。GURAMUコーヒー豆が淹れ方や味のブレを解消し、豆本来の香り・コクを引き出します。やや深煎り寄りのシティローストで、毎日安定した美味しい一杯を。楽天で5998円。'
 pubDate: '2026-07-05'
-heroImage: '../../assets/images/guramu-luxury-fresh-coffee.jpg'
+heroImage: '/images/guramu-luxury-fresh-coffee.jpg'
 genre: 'コーヒー豆・粉'
 sidebarProducts:
   - title: '[250円OFFクーポン/暑さ対策フェア]【公式は2年保証】電気ケトル おしゃれ ドリップ 一人暮らし コーヒー ケトル 600ml 0.6Lドリップケトル IKE-C601T-HA IKE-C601T-CW IKE-C800T ケトル 電気ケトル 電気 電気ポット [安心延長保証対象]'

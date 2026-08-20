@@ -2,7 +2,7 @@
 title: '【浅煎りコーヒー福袋】エチオピア、キリマンジャロ…飲み比べで好みの味を見つける！'
 description: '3種の浅煎りコーヒー豆福袋が3980円！エチオピアモカの華やかさ、キリマンジャロの澄んだ酸味、マンデリンブレンドの深いコクを飲み比べ。メール便で手軽にお試しください。'
 pubDate: '2026-07-22'
-heroImage: '../../assets/images/coffee-beans-light-roast-sampler.jpg'
+heroImage: '/images/coffee-beans-light-roast-sampler.jpg'
 genre: 'コーヒー豆・粉'
 sidebarProducts:
   - title: '浅煎りコーヒー 送料無料『リンゴのような甘く爽やかな風味！』アメリカンブレンド(浅煎り)-250g メール便 コーヒー豆 レギュラーコーヒー アラビカ豆 コヒー豆 ポイント消化 内祝い お中元ギフト 御中元 花以外 男性 グルメ コーヒー粉 コーヒー豆 浅煎り お中元人気'
