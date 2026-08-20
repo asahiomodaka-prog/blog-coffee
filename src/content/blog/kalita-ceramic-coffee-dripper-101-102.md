@@ -5,10 +5,9 @@ pubDate: '2026-07-25'
 heroImage: '/images/kalita-ceramic-coffee-dripper-101-102.jpg'
 genre: 'ドリッパー・器具'
 sidebarProducts:
-  - title: '【Kalita】コーヒードリッパー ロト カリタ 陶器 コーヒー ドリップ おしゃれ セラミック 101 102 1人 2人 3人 4人 1杯 2杯 3杯 4杯 ブラウン 白 黒 キッチン ダイニング ブラウン プレゼント ギフト インテリア カフェ 新生活 ハンドドリップ おすすめ'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00u0011.ve2q5ff5.g00u0011.ve2q656e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcocopla%2F101-cxy0120e0001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcocopla%2Fi%2F10001024%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/cocopla/cabinet/item/005/cxy0120e0001_a001.jpg?_ex=600x600'
-    price: 1550
+  - title: 'カリタ陶器製コーヒードリッパー101'
+    url: ''
+    imageUrl: '/images/kalita-ceramic-coffee-dripper-101-102.jpg'
     microCopy: '詳細を見る'
   - title: '【ランキング入賞！】 【1等最大100％ポイントバックキャンペーン】 珈琲考具 ワンドリッパーコーヒードリッパー ステンレス ハンドドリップ 珈琲ドリッパーコーヒー coffee カ'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00t7ao1.ve2q5bd3.g00t7ao1.ve2q6e3a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsimomura-kihan%2F42158%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsimomura-kihan%2Fi%2F10000869%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -39,7 +38,7 @@ mediaType: 'dripper'
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/cocopla/cabinet/item/005/cxy0120e0001_a001.jpg?_ex=600x600" alt="カリタ陶器製コーヒードリッパー101" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="/images/kalita-ceramic-coffee-dripper-101-102.jpg" alt="カリタ陶器製コーヒードリッパー101" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>

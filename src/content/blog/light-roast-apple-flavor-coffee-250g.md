@@ -5,10 +5,9 @@ pubDate: '2026-07-26'
 heroImage: '/images/light-roast-apple-flavor-coffee-250g.jpg'
 genre: 'コーヒー豆・粉'
 sidebarProducts:
-  - title: 'コーヒー豆 浅煎り 福袋 送料無料 お試しセット おすすめ 飲み比べ エチオピア モカ ナチュラル 120g. キリマンジャロ の雫80g. マンデリン ブレンド 清流長良川80g 計280g メール便 珈琲豆 粉 お中元ギフト 御中元 グルメ コーヒー福袋 コーヒー粉 お得 花以外'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-prom-bm2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000178%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/fuku/imgrc0116238751.jpg?_ex=600x600'
-    price: 3980
+  - title: '浅煎り で失敗しない お湯の温度で味が変わる'
+    url: ''
+    imageUrl: '/images/light-roast-apple-flavor-coffee-250g.jpg'
     microCopy: '詳細を見る'
   - title: '浅煎り コーヒー豆 300g（150g×2）苦くない フルーティー スペシャルティコーヒー 飲み比べ 2種セット 送料無料'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00tg3e1.ve2q597b.g00tg3e1.ve2q665b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fspeciltycoffeesoh%2Fen300%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fspeciltycoffeesoh%2Fi%2F10000057%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -39,7 +38,7 @@ mediaType: 'beans'
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/fuku/imgrc0116238751.jpg?_ex=600x600" alt="浅煎り で失敗しない お湯の温度で味が変わる" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="/images/light-roast-apple-flavor-coffee-250g.jpg" alt="浅煎り で失敗しない お湯の温度で味が変わる" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>

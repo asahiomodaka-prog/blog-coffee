@@ -5,10 +5,9 @@ pubDate: '2026-08-13'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/dripcoffee/cabinet/it01/4571621611730_a.jpg?_ex=600x600'
 genre: 'コーヒー豆・粉'
 sidebarProducts:
-  - title: '【焙煎人珈琲豆也のエチオピア　ゲイシャ ガニチ農園 豆でも粉でも可 1キロ】エチオピア コーヒー ゲイシャ コーヒー豆 珈琲豆 スペシャルティコーヒー'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00tgnt1.ve2q5121.g00tgnt1.ve2q69fb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fliberty55%2Fgeisya1k%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fliberty55%2Fi%2F10000560%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/liberty55/cabinet/biiino/item/main-image/20201220195045_1.jpg?_ex=600x600'
-    price: 11052
+  - title: '2kg最安値コーヒー豆の正直レビュー'
+    url: ''
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/dripcoffee/cabinet/it01/4571621611730_a.jpg?_ex=600x600'
     microCopy: '詳細を見る'
   - title: '【ふるさと納税】加藤珈琲店 しゃちブレンド 2種飲み比べ コーヒー 豆のまま 1kg/2kg | 愛知県 名古屋市 楽天ふるさと納税 返礼品 お礼の品 コーヒー 珈琲 おいしいコーヒー 飲み比べ 飲み比べセット 詰め合わせセット セット 美味しい'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00u3241.ve2q5392.g00u3241.ve2q6545/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff231002-nagoya%2Fca001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff231002-nagoya%2Fi%2F10000410%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -39,7 +38,7 @@ mediaType: 'beans'
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/liberty55/cabinet/biiino/item/main-image/20201220195045_1.jpg?_ex=600x600" alt="2kg最安値コーヒー豆の正直レビュー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/dripcoffee/cabinet/it01/4571621611730_a.jpg?_ex=600x600" alt="2kg最安値コーヒー豆の正直レビュー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>

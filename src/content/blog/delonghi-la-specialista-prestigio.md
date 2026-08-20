@@ -5,10 +5,10 @@ pubDate: '2026-07-09'
 heroImage: '/images/delonghi-la-specialista-prestigio.jpg'
 genre: 'エスプレッソ・マシン'
 sidebarProducts:
-  - title: '【14％OFF】【数量限定】【販路限定モデル】＼楽天ランキング1位／デロンギ マグニフィカS 全自動コーヒーマシン エスプレッソメーカー [ECAM22112W] | デロンギコーヒーメーカー 豆から挽く エスプレッソ カプチーノ カフェラテ 全自動 コーヒー豆 コーヒーマシン 公式'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00t7tc1.ve2q5883.g00t7tc1.ve2q6e3b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdelonghi%2F0132213170%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdelonghi%2Fi%2F10002653%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/delonghi/cabinet/06618479/item/img01_n/0132213170.jpg?_ex=600x600'
-    price: 60000
+  - title: 'デロンギ ラ スペシャリスタ'
+    url: ''
+    imageUrl: '/images/delonghi-la-specialista-prestigio.jpg'
+    microCopy: '詳細を見る'
   - title: 'デロンギ ラ・スペシャリスタ・アルテ グラインダー付き エスプレッソ・カプチーノメーカー [EC9155J-B] delonghi 公式 豆から挽く エスプレッソ カプチーノメーカー コーヒー豆 在宅勤務 テレワーク おうちカフェ エスプレッソマシン カフェラテ ラテアート お手入れ 簡単'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00t7tc1.ve2q5883.g00t7tc1.ve2q6e3b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdelonghi%2F0132126088%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdelonghi%2Fi%2F10002705%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/delonghi/cabinet/06618479/item/ec9155j/0132126088.jpg?_ex=600x600'
@@ -38,7 +38,7 @@ mediaType: 'machine'
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/delonghi/cabinet/06618479/item/img01_n/0132213170.jpg?_ex=600x600" alt="デロンギ ラ スペシャリスタ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="/images/delonghi-la-specialista-prestigio.jpg" alt="デロンギ ラ スペシャリスタ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>

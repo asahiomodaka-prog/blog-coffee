@@ -5,10 +5,9 @@ pubDate: '2026-08-11'
 heroImage: '/images/blue-mountain-kopi-luwak-coffee.jpg'
 genre: 'コーヒー豆・粉'
 sidebarProducts:
-  - title: 'お中元 夏ギフト コーヒー 澤井珈琲 送料無料 コーヒーギフト【ソーシャルギフト対応】 珈琲 プレゼント "飾りたくなる木樽入りのコーヒーで贈る、粋な時間。" 高級珈琲豆 ブルーマウンテン 2樽 セット 贅沢 夏のギフト お中元ギフト 【RD】 【TS】'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00powb1.ve2q5783.g00powb1.ve2q6ef7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsawaicoffee-tea%2F210406%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsawaicoffee-tea%2Fi%2F10000479%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/sawaicoffee-tea/cabinet/thum/sg26/bluebarrelgift_t_01.jpg?_ex=600x600'
-    price: 5000
+  - title: '「ブルーマウンテン＆コピ・ルアク」を'
+    url: ''
+    imageUrl: '/images/blue-mountain-kopi-luwak-coffee.jpg'
     microCopy: '詳細を見る'
   - title: 'Nスタで紹介 コーヒー豆 雪の下熟成珈琲 ギフト 珈琲豆 コーヒー 粉雪・綿雪 ブラジル インドネシア 100g×2 200g 熟成珈琲 コーヒー好きが喜ぶ コーヒーギフト コーヒー 好きな人へのプレゼント おしゃれ 高級コーヒー豆 飲み比べ セット 焙煎したて 中挽き 豆のまま'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00qpk51.ve2q5d69.g00qpk51.ve2q6723/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkomi-coffee%2Fyukibeensgift400%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkomi-coffee%2Fi%2F10000663%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -39,7 +38,7 @@ mediaType: 'beans'
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/sawaicoffee-tea/cabinet/thum/sg26/bluebarrelgift_t_01.jpg?_ex=600x600" alt="を" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="/images/blue-mountain-kopi-luwak-coffee.jpg" alt="を" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>

@@ -5,10 +5,9 @@ pubDate: '2026-08-02'
 heroImage: '/images/coffee-beans-1-5kg-lucky-bag.jpg'
 genre: 'コーヒー豆・粉'
 sidebarProducts:
-  - title: '【ゲイシャ100% エチオピア産】スペシャルティコーヒー G1 ジャスミンの香り 200g 20杯用 | 600g 60杯用 高級コーヒー豆 送料無料 豆/粉選択可 ギフト お試し'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/g00tha71.ve2q5a91.g00tha71.ve2q6884/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgc-coffee%2F011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgc-coffee%2Fi%2F10000004%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/gc-coffee/cabinet/07096041/geosha/imgrc0155718252.jpg?_ex=600x600'
-    price: 2680
+  - title: 'コーヒー豆1 5kg福袋で味が劇的に変わる'
+    url: ''
+    imageUrl: '/images/coffee-beans-1-5kg-lucky-bag.jpg'
     microCopy: '詳細を見る'
   - title: 'スペシャルティコーヒーを識るセット 【300g×4パック】 1.2kg【送料込み】【木曜焙煎】コーヒー豆 コーヒー 珈琲豆 珈琲 スペシャルティ 自家焙煎'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00pnko1.ve2q5bb9.g00pnko1.ve2q6d8a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeeyasan%2F3500111500ss00%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeeyasan%2Fi%2F10013340%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
@@ -39,7 +38,7 @@ mediaType: 'beans'
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/gc-coffee/cabinet/07096041/geosha/imgrc0155718252.jpg?_ex=600x600" alt="コーヒー豆1 5kg福袋で味が劇的に変わる" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="/images/coffee-beans-1-5kg-lucky-bag.jpg" alt="コーヒー豆1 5kg福袋で味が劇的に変わる" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
