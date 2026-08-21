@@ -14,7 +14,7 @@ mediaType: dripper
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-日々のコーヒータイムにおいて、抽出のブレや風味の物足りなさを感じたことはないだろうか。豆の鮮度、挽き目（粒度）の均一性、そしてお湯の注ぎ方ひとつで、カップに宿るアロマと酸味・苦味のバランスは劇的に変化する。本稿では、本格的なカフェ体験を自宅で手軽に実現する「**波佐見焼COFIL**」を専門エディターの視点から徹底解剖する。
+自宅で淹れるコーヒーの味が安定せず、豆本来の豊かな風味を引き出すことに難しさを感じている人もいるだろう。波佐見焼COFILセラミックドリッパーは、その課題を解決する。ペーパーレス構造がコーヒーオイルや旨味を最大限に抽出し、自宅のコーヒーを格段に安定させ、ワンランク上の味わいを実現する。お湯の温度管理に悩むことなく、いつもの一杯を誰でも手軽に格段に美味しくするだろう。
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #b45309; border-radius: 10px; background: linear-gradient(135deg, #fffbeb, #fef3c7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>

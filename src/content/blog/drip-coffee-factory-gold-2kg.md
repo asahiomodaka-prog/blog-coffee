@@ -14,7 +14,7 @@ mediaType: beans
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-日々のコーヒータイムにおいて、抽出のブレや風味の物足りなさを感じたことはないだろうか。豆の鮮度、挽き目（粒度）の均一性、そしてお湯の注ぎ方ひとつで、カップに宿るアロマと酸味・苦味のバランスは劇的に変化する。本稿では、本格的なカフェ体験を自宅で手軽に実現する「**プレミアム「ゴールド＆クラシック2kg」**」を専門エディターの視点から徹底解剖する。
+毎日のコーヒーがマンネリ化し、大容量の豆選びで失敗を避けたいと願う人は少なくないだろう。DRIP COFFEE FACTORY「ゴールド＆クラシック ブレンド プレミアムシリーズ アソート」2kgは、まさにその悩みに応える解決策となり得る。中深煎りと深煎りの2種が織りなす深い苦味と甘さの余韻は、日々異なる風味の楽しみを提供し、大容量でも飽きさせない魅力を備えている。この人気アソートが、毎日のコーヒータイムにどのような価値をもたらすのか、その実力を検証する。
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #b45309; border-radius: 10px; background: linear-gradient(135deg, #fffbeb, #fef3c7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>

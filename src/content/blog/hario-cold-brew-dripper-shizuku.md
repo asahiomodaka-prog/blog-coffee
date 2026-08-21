@@ -14,7 +14,7 @@ mediaType: dripper
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-日々のコーヒータイムにおいて、抽出のブレや風味の物足りなさを感じたことはないだろうか。豆の鮮度、挽き目（粒度）の均一性、そしてお湯の注ぎ方ひとつで、カップに宿るアロマと酸味・苦味のバランスは劇的に変化する。本稿では、本格的なカフェ体験を自宅で手軽に実現する「**[HARIO](https://px.a8.net/svt/ejp?a8mat=4B86H0+36B8XE+4XPI+5ZEMP) 雫 SBS-5Bで激変**」を専門エディターの視点から徹底解剖する。
+水出しコーヒーの豊かな風味を求めつつも、抽出時間や手間の多さに尻込みしていた人も少なくないだろう。HARIO「スロードリップブリューワーハリオ 雫 SBS-5B」は、その課題を根本から解決する。約1時間という短時間で、点滴速度の調整をすることなく、雑味の少ないまろやかな本格水出しコーヒーを実現。これにより、高品質な一杯を手軽に日常に取り入れたいコーヒー愛好家にとって、理想的な選択肢となるだろう。
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #b45309; border-radius: 10px; background: linear-gradient(135deg, #fffbeb, #fef3c7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>

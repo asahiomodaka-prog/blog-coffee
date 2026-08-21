@@ -14,7 +14,7 @@ mediaType: kettle
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-日々のコーヒータイムにおいて、抽出のブレや風味の物足りなさを感じたことはないだろうか。豆の鮮度、挽き目（粒度）の均一性、そしてお湯の注ぎ方ひとつで、カップに宿るアロマと酸味・苦味のバランスは劇的に変化する。本稿では、本格的なカフェ体験を自宅で手軽に実現する「**[EPEIOS](https://px.a8.net/svt/ejp?a8mat=4B86H0+36WOJ6+5T0G+5YJRM)**」を専門エディターの視点から徹底解剖する。
+自宅で淹れるコーヒーの味が安定せず、温度管理に手間を感じる人は少なくない。EPEIOS 電気ケトルは、そんな悩みを解決し、プロが淹れたようなブレのない一杯を自宅で手軽に再現する。細やかな温度設定と計算された注ぎ口は、いつものコーヒーを至福の香りで満たす。
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #b45309; border-radius: 10px; background: linear-gradient(135deg, #fffbeb, #fef3c7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>

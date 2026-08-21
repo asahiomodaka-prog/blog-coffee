@@ -14,7 +14,7 @@ mediaType: beans
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-日々のコーヒータイムにおいて、抽出のブレや風味の物足りなさを感じたことはないだろうか。豆の鮮度、挽き目（粒度）の均一性、そしてお湯の注ぎ方ひとつで、カップに宿るアロマと酸味・苦味のバランスは劇的に変化する。本稿では、本格的なカフェ体験を自宅で手軽に実現する「**「ブルーマウンテン＆コピ ルアク」**」を専門エディターの視点から徹底解剖する。
+ブルーマウンテン」と「コピ・ルアク」、これらの希少な最高級生豆を自宅でどう活かし、その真価を最大限に引き出すか。この問いは、究極のコーヒー体験を求める愛好家や、心に残る特別な贈り物を探す層にとって、常に尽きない課題である。本商品は、比類なき香りと味わいを約束する、まさにその解決策となり得る。記事では、この贅沢な豆の正直な感想とともに、最適な淹れ方と楽しみ方を深掘りする。
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #b45309; border-radius: 10px; background: linear-gradient(135deg, #fffbeb, #fef3c7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>

@@ -14,7 +14,7 @@ mediaType: dripper
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-日々のコーヒータイムにおいて、抽出のブレや風味の物足りなさを感じたことはないだろうか。豆の鮮度、挽き目（粒度）の均一性、そしてお湯の注ぎ方ひとつで、カップに宿るアロマと酸味・苦味のバランスは劇的に変化する。本稿では、本格的なカフェ体験を自宅で手軽に実現する「**陶器製カリタ ロトのレビュー**」を専門エディターの視点から徹底解剖する。
+ハンドドリップで安定した美味しいコーヒーを淹れる際、お湯の温度変化は味のブレを生む大きな要因だ。カリタの陶器製ドリッパー「ロト」は、その悩みを根本から解決する。優れた保温性で抽出中の温度を安定させ、雑味を抑える3つ穴構造が、初心者でも均一で洗練された味わいを実現するだろう。いつも変わらない、最高のコーヒー体験を追求する人にこそ試してほしい逸品だ。
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #b45309; border-radius: 10px; background: linear-gradient(135deg, #fffbeb, #fef3c7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>

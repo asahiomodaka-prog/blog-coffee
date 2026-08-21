@@ -14,7 +14,7 @@ mediaType: beans
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-日々のコーヒータイムにおいて、抽出のブレや風味の物足りなさを感じたことはないだろうか。豆の鮮度、挽き目（粒度）の均一性、そしてお湯の注ぎ方ひとつで、カップに宿るアロマと酸味・苦味のバランスは劇的に変化する。本稿では、本格的なカフェ体験を自宅で手軽に実現する「**ドリップコーヒーファクトリー淡路島アソート 3種飲み比べ**」を専門エディターの視点から徹底解剖する。
+自宅で本格的なドリップコーヒーを毎日手軽に楽しみたいと考えるなら、ドリップコーヒーファクトリー淡路島アソートはその理想を叶える。この3種飲み比べは、手軽に多様な風味を発見し、我が家のコーヒータイムを格別なものに変えるだろう。毎日ブレない安定した品質の一杯が、自分だけの贅沢なカフェ時間を演出する。手間なく好みの一杯を見つけ、豊かな香りに包まれる至福を味わえるはずだ。
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #b45309; border-radius: 10px; background: linear-gradient(135deg, #fffbeb, #fef3c7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
