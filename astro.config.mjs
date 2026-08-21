@@ -22,7 +22,7 @@ export default defineConfig({
 		'/blog/深煎りブラジル400gで始める自宅カフェの贅沢豆選びのこだわりと至福の一杯': '/blog/brazil-dark-roast-coffee-beans-400g',
 		'/blog/至福の香りが広がるゴールド-ブレンド-プレミアムシリーズで始めるこだわりのコーヒー暮らし': '/blog/gold-blend-premium-series-coffee',
 	},
-	site: 'https://coffeegurasi.ariawriter.com',
+	site: 'https://ariawriter.com',
 	integrations: [mdx(), sitemap()],
 	image: {
 		domains: [

@@ -61,18 +61,6 @@ mediaType: beans
 2. **味わいの輪郭**: 酸味と苦味の角が取れ、まろやかで奥深いコクが最後まで心地よく続く。
 3. **メンテナンス性**: パーツの分解や水洗いが容易で、日常的に使い続けやすい実用性を備えている。
 
-<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
-<div style="font-size: 0.75rem; font-weight: bold; color: #78350f; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
-<h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #78350f; line-height: 1.4;">☕ 自分好みの豆が届く！コーヒー診断＆公式定期便</h3>
-<div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【PostCoffee / ポストコーヒー】</div>
-<p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">簡単な無料のコーヒー診断を受けるだけで、世界中の厳選ロースターからあなた好みの豆が毎月届く人気サブスク。初回お試し特別割引実施中！</p>
-<div style="text-align: center;">
-<a href="https://postcoffee.co/" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
-👉 無料でコーヒー診断を受けてみる
-</a>
-</div>
-</div>
-
 ## 失敗しないための賢い活用法と抽出のコツ
 
 本品を最大限に活かすためには、以下のポイントを意識することが推奨される。
@@ -83,25 +71,3 @@ mediaType: beans
 ## まとめ：自宅を至高のカフェ空間に変える価値ある選択
 
 「2kg最安値コーヒー豆の正直レビュー 味のブレ」は、日常の一杯を妥協したくないコーヒー愛好家にとって、期待以上の満足感をもたらしてくれる頼もしい相棒である。贅沢なカフェ時間を自宅で満喫したい方は、ぜひこの機会に試してみてはいかがだろうか。
-
-<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
-
-<h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">☕ 併せて揃えたい関連おすすめコーヒー器具</h4>
-<div style="display: flex; flex-wrap: wrap; gap: 12px;">
-<div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">手挽きコーヒーミル（高精度臼式グラインダー）</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">挽きたての香りでコーヒーの旨味が激変</div>
-<div style="display: flex; gap: 6px;">
-<a href="https://www.amazon.co.jp/s?k=%E6%89%8B%E6%8C%BD%E3%81%8D%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%9F%E3%83%AB" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%89%8B%E6%8C%BD%E3%81%8D%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%9F%E3%83%AB%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
-</div>
-</div><div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">コーヒードリッパースケール（0.1g単位タイマー付）</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">抽出速度と湯量を正確に計測</div>
-<div style="display: flex; gap: 6px;">
-<a href="https://www.amazon.co.jp/s?k=%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%200%201g" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%200%201g%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
-</div>
-</div>
-</div>
-</div>
