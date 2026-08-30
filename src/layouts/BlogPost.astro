@@ -756,6 +756,7 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 				line-height: 1.7;
 				border-top: 1px solid #f1f5f9;
 				margin-top: 0.25rem;
+			}
 			/* パンくずリスト */
 			.breadcrumb-nav {
 				margin-bottom: 1.25rem;
@@ -956,8 +957,13 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 									}
 								</div>
 							)}
-							<h1>{title}{pubDate && <span class="title-date-suffix">（<FormattedDate date={pubDate} />）</span>}</h1>
+							<h1>{title}</h1>
 						</div>
+						{heroImage && (
+							<div class="hero-image">
+								<img src={heroImage} alt={title} loading="eager" />
+							</div>
+						)}
 						<slot />
 						{pubDate && (
 							<div class="post-end-date">
