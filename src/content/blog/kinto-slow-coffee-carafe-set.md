@@ -83,7 +83,7 @@ KINTO SLOW COFFEE STYLE コーヒーカラフェセットが「豆本来の風�
 
 豆が持つ個性を最大限に引き出すための工夫が、このシンプルな器具には凝縮されている。
 
-![KINTO SLOW COFFEE STYLE コーヒーカラフェセット 300ml](None)
+<div style="text-align: center; margin: 28px 0;"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/daily-3/cabinet/item/kin/kin02-01_1.jpg?_ex=600x600" alt="KINTO SLOW COFFEE STYLE コーヒーカラフェセット 300ml" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" /></div>
 
 ## シンプルさが生む、手軽さと経済性
 
@@ -194,9 +194,7 @@ KINTOのカラフェは、そのプロセスを五感で楽しみながら、自
 
 ガラスとステンレスの組み合わせは、モダンでありながら温かみがあり、どんな空間にも自然に溶け込む。出しっぱなしにしていても絵になるため、収納の手間を省きたい人にも推奨できる。
 
-
 そして、**ペーパーフィルターの消費を抑えたい、または環境に配慮したい人**。ペーパーレスであることは、経済的なメリットだけでなく、ごみを減らすという点でも大きな意味がある。
-
 
 最後に、**一人でじっくりと、または大切な人と二人で静かにコーヒー時間を楽しみたい人**。300mlという容量は、まさにそのために設計されたようなサイズ感だ。
 

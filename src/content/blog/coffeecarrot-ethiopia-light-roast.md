@@ -89,7 +89,7 @@ faq:
 
 この豆を通じて、コーヒーの科学的な側面と、それが生み出す感動的な味わいを深く理解することが可能になるだろう。
 
-![珈琲きゃろっと 浅煎りコーヒー豆 エチオピア](None)
+<div style="text-align: center; margin: 28px 0;"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/coffee-carrot/cabinet/item/ethiopia_m.jpg?_ex=600x600" alt="珈琲きゃろっと 浅煎りコーヒー豆 エチオピア" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" /></div>
 
 ## 日常に溶け込む贅沢：イルガチェフェが変えるコーヒー習慣とコストパフォーマンス
 

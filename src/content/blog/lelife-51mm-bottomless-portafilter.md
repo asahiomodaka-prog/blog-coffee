@@ -89,7 +89,7 @@ faq:
 
 この過程は、まさにバリスタスキルを感覚ではなく、論理的に身につけていく貴重な経験だと感じている。
 
-![Lelife 51mm ボトムレス ポルタフィルター Delonghi EC0680](None)
+<div style="text-align: center; margin: 28px 0;"><img src="/images/lelife-51mm-bottomless-portafilter.png" alt="Lelife 51mm ボトムレス ポルタフィルター Delonghi EC0680" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" /></div>
 
 ## 日常の使い勝手とコストパフォーマンス：価格以上の価値を見出す
 

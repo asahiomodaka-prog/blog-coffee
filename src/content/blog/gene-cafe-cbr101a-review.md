@@ -68,7 +68,7 @@ faq:
 
 焙煎中の香ばしい香りが部屋中に広がり、約15〜20分後には煎りたての豆が手に入る。
 
-![Gene Cafe コーヒー豆焙煎機 CBR-101A](None)
+<div style="text-align: center; margin: 28px 0;"><img src="/images/gene-cafe-cbr101a-review.png" alt="Gene Cafe コーヒー豆焙煎機 CBR-101A" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" /></div>
 
 手入れのしやすさも、日常使いには欠かせないポイントだ。チャフ分離機能のおかげで、焙煎後に散らばるチャフの量が大幅に削減される。集まったチャフを捨てるだけなので、掃除の手間が格段に減る。ガラスドラムも取り外して洗いやすく、清潔を保ちやすい構造だ。
 
