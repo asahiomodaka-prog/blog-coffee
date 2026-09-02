@@ -13,6 +13,9 @@ faq:
   - question: '鮮度を保つための効果的な保存方法を教えてください。'
     answer: '豆が届いたらすぐに密閉性の高いキャニスターに入れ、直射日光が当たらず、温度変化の少ない冷暗所で保存するのが基本です。長期保存する場合は、小分けにして冷凍庫で保存することも可能です。ただし、冷凍から使う際は、結露を防ぐため、使う分だけ取り出し、常温に戻してから開封するようにしてください。'
 ---
+
+> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
+
 ---
 
 #### 商品情報
@@ -27,15 +30,12 @@ faq:
 
 [ブラジル深煎り400g自家焙煎コーヒー豆](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25B8%25E3%2583%25AB%2520%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%2520400g)
 
-
-> 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
-
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #b45309; border-radius: 10px; background: linear-gradient(135deg, #fffbeb, #fef3c7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
 <ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #451a03; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 雑味やブレを抑え、豆本来の華やかなアロマとクリアなコクを誰でも安定して引き出せる設計。</li>
+<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 鮮度と焙煎度にこだわり、豆本来の豊かなアロマと奥深いコクを自宅で手軽に味わえる点。</li>
 <li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 毎日のカフェ代を抑えつつ、おうちで妥協のない本格ドリップを楽しみたいコーヒー愛好家。</li>
-<li><strong>購入前の注意点</strong>: 器具の抽出容量（杯数）と、好みの焙煎度・挽き目との相性をチェックして選ぶのがベスト。</li>
+<li><strong>購入前の注意点</strong>: 好みの焙煎度（浅煎り・深煎り）や挽き目、開封後の密閉保存環境をチェックして選ぶのがベスト。</li>
 </ul>
 </div>
 

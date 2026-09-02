@@ -33,9 +33,9 @@ mediaType: comic
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #b45309; border-radius: 10px; background: linear-gradient(135deg, #fffbeb, #fef3c7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
 <ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #451a03; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 雑味やブレを抑え、豆本来の華やかなアロマとクリアなコクを誰でも安定して引き出せる設計。</li>
+<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 鮮度と焙煎度にこだわり、豆本来の豊かなアロマと奥深いコクを自宅で手軽に味わえる点。</li>
 <li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 毎日のカフェ代を抑えつつ、おうちで妥協のない本格ドリップを楽しみたいコーヒー愛好家。</li>
-<li><strong>購入前の注意点</strong>: 器具の抽出容量（杯数）と、好みの焙煎度・挽き目との相性をチェックして選ぶのがベスト。</li>
+<li><strong>購入前の注意点</strong>: 好みの焙煎度（浅煎り・深煎り）や挽き目、開封後の密閉保存環境をチェックして選ぶのがベスト。</li>
 </ul>
 </div>
 
@@ -141,7 +141,7 @@ mediaType: comic
 </div>
 </div>
 
-## 毎日の1杯を「至福 of the day」に変える、キリマンジャロへの投資
+## 毎日の1杯を「極上の1杯」に変える、キリマンジャロへの投資
 
 日々の忙しさに追われ、ついインスタントコーヒーで済ませてしまうこともあるだろう。僕もそうだった。
 
@@ -159,4 +159,4 @@ mediaType: comic
 
 「他のコーヒーは飲めなくなりますので、ご注意ください」という「コーヒーばかの店」の注意書きは、決して誇張ではない。一度この美味しさを知ってしまうと、もう普通のコーヒーでは物足りなくなってしまうだろう。それは、僕がこの豆と出会って以来、日々実感していることだ。
 
-もしあなたが、日々のコーヒータイムをもっと特別なものにしたいと考えているなら、ぜひ一度、このタンザニア・AA（キリマンジャロ）の浅煎り豆を試してみてほしい。きっと、あなたの毎日の1杯を、最高の「至福 of the day」に変えてくれるはずだ。
+もしあなたが、日々のコーヒータイムをもっと特別なものにしたいと考えているなら、ぜひ一度、このタンザニア・AA（キリマンジャロ）の浅煎り豆を試してみてほしい。きっと、あなたの毎日の1杯を、最高の「極上の1杯」に変えてくれるはずだ。

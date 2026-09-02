@@ -19,9 +19,9 @@ faq:
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #b45309; border-radius: 10px; background: linear-gradient(135deg, #fffbeb, #fef3c7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
 <ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #451a03; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 雑味やブレを抑え、豆本来の華やかなアロマとクリアなコクを誰でも安定して引き出せる設計。</li>
+<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 鮮度と焙煎度にこだわり、豆本来の豊かなアロマと奥深いコクを自宅で手軽に味わえる点。</li>
 <li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 毎日のカフェ代を抑えつつ、おうちで妥協のない本格ドリップを楽しみたいコーヒー愛好家。</li>
-<li><strong>購入前の注意点</strong>: 器具の抽出容量（杯数）と、好みの焙煎度・挽き目との相性をチェックして選ぶのがベスト。</li>
+<li><strong>購入前の注意点</strong>: 好みの焙煎度（浅煎り・深煎り）や挽き目、開封後の密閉保存環境をチェックして選ぶのがベスト。</li>
 </ul>
 </div>
 
@@ -103,7 +103,6 @@ faq:
 
 次に、具体的なコストパフォーマンスを計算してみる。
 仮に、筆者が1杯あたり15gのコーヒー豆を使ってドリップするとする。
-
 
 2kg（2000g）の豆があれば、`2000g ÷ 15g/杯 ＝ 約133杯`のコーヒーが淹れられる計算になる。
 もしこの[IGURAMUリッチブレンド2kg](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DGURAMU%2520%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2581%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25202kg)が例えば3,000円だと仮定すると、1杯あたりのコストは`3,000円 ÷ 133杯 ＝ 約22.5円`となる。
@@ -232,10 +231,8 @@ faq:
 特に、以下のような読者には推奨できる。
 *   毎日複数杯のコーヒーを飲む習慣があり、豆の消費量が多い人。
 
-
 *   カフェのコーヒー代を節約しつつ、自宅で質の高いコーヒーを楽しみたい人。
 *   深煎り主体の、しっかりとしたコクと苦味、そして甘みのあるバランスの取れた味わいを好む人。
-
 
 *   様々な抽出方法でコーヒーを試してみたいと考えている人。
 *   大容量豆の鮮度管理に手間をかける覚悟があり、それを上回るメリットを求める人。
