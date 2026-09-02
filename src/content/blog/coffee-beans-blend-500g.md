@@ -14,18 +14,43 @@ faq:
     answer: '商品データに具体的な焙煎度の記載はありませんが、「細挽きで淹れる」という特性から推測すると、深煎りから中深煎りのブレンドである可能性が高いです。細挽きは浅煎りのフルーティーな酸味を引き出しにくい傾向にあるため、濃厚なコクと苦味、カラメルのような甘み、そして香ばしさを最大限に引き出す設計になっていると考えるのが自然です。期待できる味わいとしては、口いっぱいに広がる重厚なボディ感、深い甘みを伴う苦味、そしてクリアな後味が特徴となるでしょう。エスプレッソのような力強さがありながら、ドリップならではの滑らかさも楽しめるはずです。 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid e2e8f0; border-radius: 14px; background-color: ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;"> <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;"> <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;"> <img src="/images/coffee-beans-blend-500g.jpg" alt="自家焙煎 ブレンドコーヒー 500g（豆・中細挽き）" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" /> </div> <div style="flex: 1 1 280px;"> <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: fffbeb; color: 78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="background: fef3c7; color: b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: 64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div> <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: 1a202c; line-height: 1.4;">を細挽きで淹れる</h4> <p style=''margin: 0 0 12px 0; font-size: 0.86rem; color: 475569; line-height: 1.5;''>を細挽きで淹れる review and specs.</p> <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;"> <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520500g%2520%25E8%2587%25AA%25E5%25AE%25B6%25E7%2584%2599%25E7%2585%258E" target="blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, ff9900, e68a00); color: ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る</a> <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;"> <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%20500g%20%E8%87%AA%E5%AE%B6%E7%84%99%E7%85%8E%2F" target="blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, bf0000, 9e0000); color: ffffff !important;">🔴 楽天市場</a> <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520500g%2520%25E8%2587%25AA%25E5%25AE%25B6%25E7%2584%2599%25E7%2585%258E" target="blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, ff0033, cc0029); color: ffffff !important;">🟣 Yahoo!</a> </div> </div> </div> </div> <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div> </div> <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid fcd34d; border-radius: 14px; background: linear-gradient(135deg, fef3c7, fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);"> <div style="font-size: 0.75rem; font-weight: bold; color: 78350f; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div> <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: 78350f; line-height: 1.4;">☕ 自分好みの豆が届く！コーヒー診断＆公式定期便</h3> <div style="font-size: 0.85rem; font-weight: bold; color: 475569; margin-bottom: 10px;">【PostCoffee / ポストコーヒー】</div> <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: 334155; line-height: 1.6;">簡単な無料のコーヒー診断を受けるだけで、世界中の厳選ロースターからあなた好みの豆が毎月届く人気サブスク。初回お試し特別割引実施中！</p> <div style="text-align: center;"> <a href="https://postcoffee.co/" target="blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, b45309, 78350f); color: ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);"> 👉 無料でコーヒー診断を受けてみる </a> </div> </div> <div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: f8fafc; border-radius: 12px; border: 1px solid f1f5f9;"> <h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: 0f172a;">☕ 併せて揃えたい関連おすすめコーヒー器具</h4> <div style="display: flex; flex-wrap: wrap; gap: 12px;"> <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: ffffff; border: 1px solid e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);"> <div style="font-size: 0.88rem; font-weight: bold; color: 1e293b; margin-bottom: 4px;">手挽きコーヒーミル（高精度臼式グラインダー）</div> <div style="font-size: 0.78rem; color: 64748b; margin-bottom: 10px;">挽きたての香りでコーヒーの旨味が激変</div> <div style="display: flex; gap: 6px;"> <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520500g%2520%25E8%2587%25AA%25E5%25AE%25B6%25E7%2584%2599%25E7%2585%258E" target="blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: ff9900; color: fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a> <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%20500g%20%E8%87%AA%E5%AE%B6%E7%84%99%E7%85%8E%2F" target="blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: bf0000; color: fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a> </div> </div><div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: ffffff; border: 1px solid e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);"> <div style="font-size: 0.88rem; font-weight: bold; color: 1e293b; margin-bottom: 4px;">コーヒードリッパースケール（0.1g単位タイマー付）</div> <div style="font-size: 0.78rem; color: 64748b; margin-bottom: 10px;">抽出速度と湯量を正確に計測</div> <div style="display: flex; gap: 6px;"> <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520500g%2520%25E8%2587%25AA%25E5%25AE%25B6%25E7%2584%2599%25E7%2585%258E" target="blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: ff9900; color: fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a> <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%20500g%20%E8%87%AA%E5%AE%B6%E7%84%99%E7%85%8E%2F" target="blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: bf0000; color: fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a> </div> </div> </div> </div>'
 ---
 
-
-
-
-
-
-
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 自宅で濃厚かつクリアなコーヒー体験を求めるなら、「自家焙煎 ブレンドコーヒー 500g（豆・中細挽き）」は最適な選択肢となる。このブレンドは、細挽きドリップによってその真価を発揮し、一般的な中挽きでは得られない深いコクと複雑な風味を引き出すことに特化して設計されている。
 
 普段のコーヒーに物足りなさを感じている読者にとって、これまでのドリップ体験を一変させる、新しい発見と満足をもたらすだろう。
 細挽きは、苦味が強く出すぎたり、雑味が増したりすると敬遠されがちである。しかし、「自家焙煎 ブレンドコーヒー 500g（豆・中細挽き）」は、そのネガティブな側面を払拭し、むしろ細挽きだからこそ到達できる、重厚で滑らかな口当たりと、深い甘みを伴う苦味を提供することを目指している。朝の目覚めの一杯を、カフェで飲むようなパンチのある一杯に変えたい、あるいは午後の集中力を高めるための、力強いコーヒーを求めているのであれば、この豆と細挽きドリップの組み合わせは、検討に値する選択肢となる。
+
+<div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #b45309; border-radius: 10px; background: linear-gradient(135deg, #fffbeb, #fef3c7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
+<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
+<ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #451a03; line-height: 1.65;">
+<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 雑味やブレを抑え、豆本来の華やかなアロマとクリアなコクを誰でも安定して引き出せる設計。</li>
+<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 毎日のカフェ代を抑えつつ、おうちで妥協のない本格ドリップを楽しみたいコーヒー愛好家。</li>
+<li><strong>購入前の注意点</strong>: 器具の抽出容量（杯数）と、好みの焙煎度・挽き目との相性をチェックして選ぶのがベスト。</li>
+</ul>
+</div>
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
+<div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
+<img src="/images/coffee-beans-blend-500g.jpg" alt="ブレンドコーヒー500g" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+</div>
+<div style="flex: 1 1 280px;">
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">ブレンドコーヒー500g</h4>
+
+<div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC500g" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC500g%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC500g" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
+
+</div>
+</div>
+</div>
+</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
+</div>
 
 ## 豆のポテンシャルを最大限に引き出す細挽きの科学
 
@@ -39,7 +64,7 @@ faq:
 
 蒸らしが終わった後の抽出フェーズでは、湯温の維持が鍵となる。細挽きの場合、お湯が粉層を通過するのに時間がかかるため、注ぐお湯の温度が途中で下がってしまうと、抽出効率が落ち、結果として狙った風味が得られにくくなる。筆者はケトルを保温機能付きのものにすることで、常に90℃前後の安定した湯温を保つようにしている。一般的に、高温すぎると雑味が、低温すぎると薄味になる傾向があるが、このブレンドでは、少し高めの温度で一気に抽出し、濃厚さを引き出すのが筆者の好みである。
 
-さらに、細挽きは粉同士の接触面積も大きくなるため、コーヒー粉全体にお湯が行き渡る「対流」を意識することも重要である。お湯を注ぐ際、単に中心に注ぎ続けるのではなく、ドリッパーの縁に近い部分からゆっくりと円を描くように注ぎ、粉全体が常に穏やかに攪拌される状態を保つことで、均一な抽出を促す。この緻密なコントロールが、「自家焙煎 ブレンドコーヒー 500g（豆・中細挽き）」から、雑味なく、かつ力強い旨味を引き出す秘訣である。細挽きという条件が、まるで精密な化学実験のように、筆者の探求心を刺激する。
+さらに、細挽きは粉同士の接触面積も大きくなるため、コーヒー粉全体にお湯が行き渡る「対流」を意識することも重要である。お湯を注ぐ際、単に中心に注ぎ続けるのではなく、[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC)の縁に近い部分からゆっくりと円を描くように注ぎ、粉全体が常に穏やかに攪拌される状態を保つことで、均一な抽出を促す。この緻密なコントロールが、「自家焙煎 ブレンドコーヒー 500g（豆・中細挽き）」から、雑味なく、かつ力強い旨味を引き出す秘訣である。細挽きという条件が、まるで精密な化学実験のように、筆者の探求心を刺激する。
 
 ## 日常への溶け込みと経済的な恩恵
 
@@ -47,14 +72,14 @@ faq:
 
 正直なところ、細挽きを安定して淹れるには、それなりの準備と知識が求められる。まず、重要なのが高品質なグラインダーである。均一な細挽きを実現するには、手挽きのミルでは限界がある場合が多く、電動のコニカル刃グラインダーが望ましい。初期投資としては数万円かかるものもあるが、筆者が使用しているものは、細挽きでもほとんど微粉が出ず、粒度が揃っているため、抽出ムラが格段に減る。これを導入してからは、毎回安定して狙い通りの味わいを再現できるようになった。
 
-ドリッパーに関しては、カリタウェーブのようなフラットボトム型は、お湯が均一に広がりやすく、細挽きとの相性が良いと感じる。一方で、[ハリオ](https://px.a8.net/svt/ejp?a8mat=4B86H0+36B8XE+4XPI+5ZEMP)V60のような円錐形ドリッパーは、抽出速度が速くなりがちであるため、細挽きの特徴を活かすためには、より慎重な注ぎ方と湯量調整が求められる。筆者は気分や淹れる量に合わせて使い分けているが、「自家焙煎 ブレンドコーヒー 500g（豆・中細挽き）」の濃厚さを存分に味わいたい時は、フラットボトムを使用することが多い。
+[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC)に関しては、カリタウェーブのようなフラットボトム型は、お湯が均一に広がりやすく、細挽きとの相性が良いと感じる。一方で、[ハリオ](https://px.a8.net/svt/ejp?a8mat=4B86H0+36B8XE+4XPI+5ZEMP)V60のような円錐形[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC)は、抽出速度が速くなりがちであるため、細挽きの特徴を活かすためには、より慎重な注ぎ方と湯量調整が求められる。筆者は気分や淹れる量に合わせて使い分けているが、「自家焙煎 ブレンドコーヒー 500g（豆・中細挽き）」の濃厚さを存分に味わいたい時は、フラットボトムを使用することが多い。
 
 ![自家焙煎 ブレンドコーヒー 500g（豆・中細挽き）](/images/coffee-beans-blend-500g.jpg)
 
 さて、気になるのはコストパフォーマンスであろう。
 「自家焙煎 ブレンドコーヒー 500g（豆・中細挽き）」の具体的な価格情報は現時点ではないため一般論で語るが、筆者が普段使用している高品質なスペシャルティコーヒー豆が100gあたり約800円と仮定する。一般的なドリップコーヒー1杯に必要な豆の量は15g〜20g程度だが、細挽きで濃厚なコーヒーを淹れる場合、少し少なめの12g〜15gでも十分に満足できる場合が多い。仮に15g使うとして、1杯あたりの豆のコストは、(800円 / 100g) × 15g = 120円となる。フィルターや電気代などを加えても、1杯あたり150円以下で、カフェで600円以上するような上質なコーヒーが自宅で毎日楽しめる計算になる。
 
-これを毎日1杯飲むとして、1ヶ月で約4,500円。もし毎日カフェでコーヒーを飲んでいたとすれば、月に18,000円はかかるだろうから、月々13,500円以上の節約になる計算だ。グラインダーなどの初期投資は確かにあるが、長い目で見れば圧倒的に経済的である。そして何より、筆者が最も評価しているのは、朝の慌ただしい時間でも、たった数分の抽出作業で、自宅が最高のカフェ空間に変わるという体験である。洗い物もドリッパーとマグカップ程度で、パーツが少ない分、手入れも非常に楽な点も、オフィスワーカーである筆者にとっては地味にありがたい。この豆は、手間をかける価値、そしてそれに見合う経済的な恩恵を、筆者にもたらしていると感じている。
+これを毎日1杯飲むとして、1ヶ月で約4,500円。もし毎日カフェでコーヒーを飲んでいたとすれば、月に18,000円はかかるだろうから、月々13,500円以上の節約になる計算だ。グラインダーなどの初期投資は確かにあるが、長い目で見れば圧倒的に経済的である。そして何より、筆者が最も評価しているのは、朝の慌ただしい時間でも、たった数分の抽出作業で、自宅が最高のカフェ空間に変わるという体験である。洗い物も[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC)とマグカップ程度で、パーツが少ない分、手入れも非常に楽な点も、オフィスワーカーである筆者にとっては地味にありがたい。この豆は、手間をかける価値、そしてそれに見合う経済的な恩恵を、筆者にもたらしていると感じている。
 
 [自家焙煎 ブレンドコーヒー 500g（豆・中細挽き）](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520500g%2520%25E8%2587%25AA%25E5%25AE%25B6%25E7%2584%2599%25E7%2585%258E)
 
@@ -70,6 +95,18 @@ faq:
 特に朝食のトーストや、午後のちょっとした休憩時間に、この濃い一杯があることで、日常がぐっと引き締まる感覚がある。仕事で行き詰まった時など、このコーヒーを一口飲むだけで、気分転換になり、再び集中できる。単なる飲み物以上の、精神的な支えになっていることは確かである。
 
 「自家焙煎 ブレンドコーヒー 500g（豆・中細挽き）」というブレンドが、これほどまでに細挽きという抽出法とマッチするのは、おそらく豆の焙煎度合いやブレンド比率が、その抽出特性を最大限に引き出すように設計されているからだろう。筆者の評価としては、自宅でのコーヒー体験をワンランクもツーランクも引き上げてくれる、非常に価値のある豆であると断言できる。ただ漠然とコーヒーを淹れるのではなく、自分の手で「最高の状態」を引き出す喜びを教えてくれる、そんな豆である。
+
+<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
+<div style="font-size: 0.75rem; font-weight: bold; color: #78350f; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
+<h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #78350f; line-height: 1.4;">☕ 自分好みの豆が届く！コーヒー診断＆公式定期便</h3>
+<div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【PostCoffee / ポストコーヒー】</div>
+<p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">簡単な無料のコーヒー診断を受けるだけで、世界中の厳選ロースターからあなた好みの豆が毎月届く人気サブスク。初回お試し特別割引実施中！</p>
+<div style="text-align: center;">
+<a href="https://postcoffee.co/" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
+👉 無料でコーヒー診断を受けてみる
+</a>
+</div>
+</div>
 
 ## 他の抽出法との比較とライフスタイルへの適合
 
@@ -94,7 +131,7 @@ faq:
 「自家焙煎 ブレンドコーヒー 500g（豆・中細挽き）」の魅力を最大限に引き出す細挽きドリップだが、正直なところ、いくつか課題も存在する。しかし、それらは適切な知識と工夫で十分に克服できるものである。
 
 最大の課題は、やはり**均一な抽出の難しさ**であろう。細挽きは粉同士の密度が高く、お湯の通り道が非常に繊細である。前述した「チャネリング」が起こりやすく、一部の粉からだけ過剰に抽出されたり、全く抽出されない部分が出たりすると、せっかくの豆のポテンシャルが台無しになる。
-これに対するアドバイスは、まず**蒸らしを徹底する**ことである。最初の少量のお湯で粉全体をしっかりと湿らせ、30秒ほど待つことで、コーヒー豆に含まれるガスが適切に放出され、その後の抽出がスムーズになる。そして、**お湯を注ぐ際は、極細口のケトルを使い、粉が舞い上がらないように優しく、ゆっくりと、そして均一に注ぐ**こと。一箇所に集中して注ぐのではなく、ドリッパー全体を意識し、粉層が崩れないように細心の注意を払うことが重要である。
+これに対するアドバイスは、まず**蒸らしを徹底する**ことである。最初の少量のお湯で粉全体をしっかりと湿らせ、30秒ほど待つことで、コーヒー豆に含まれるガスが適切に放出され、その後の抽出がスムーズになる。そして、**お湯を注ぐ際は、極細口のケトルを使い、粉が舞い上がらないように優しく、ゆっくりと、そして均一に注ぐ**こと。一箇所に集中して注ぐのではなく、[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC)全体を意識し、粉層が崩れないように細心の注意を払うことが重要である。
 
 二つ目の課題は、**グラインダーの手入れ**である。細挽きは微粉が出やすく、グラインダーの刃の間に粉が詰まりやすい。これを怠ると、次の抽出時に古い粉の匂いが混じったり、粒度が安定しなくなったりする原因となる。
 筆者のアドバイスとしては、**週に一度はグラインダーの分解清掃を行う**ことだ。特にコニカル刃の電動グラインダーは、ブラシで丁寧に粉を取り除き、必要であればエアブロワーで吹き飛ばす。これにより、常に清潔な状態で最高の挽き目を保つことができる。これは少々手間がかかる作業ではあるが、美味しいコーヒーのためには避けて通れない工程であると筆者は考えている。
@@ -114,6 +151,50 @@ faq:
 
 筆者が提案するのは、まず[自家焙煎 ブレンドコーヒー 500g（豆・中細挽き）](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520500g%2520%25E8%2587%25AA%25E5%25AE%25B6%25E7%2584%2599%25E7%2585%258E)を手に入れ、そしてできれば粒度の揃った細挽きができるグラインダーを用意することである。そして、焦らず、丁寧に、蒸らしから抽出までの一連のプロセスを楽しんでみてほしい。きっと、これまでのコーヒー観が変わり、自宅で淹れる一杯が、読者にとってかけがえのない時間になるだろう。この豆は、手間をかけるだけの価値を、確実にリターンするだろう。
 
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
+<div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
+<img src="/images/coffee-beans-blend-500g.jpg" alt="ブレンドコーヒー500g" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+</div>
+<div style="flex: 1 1 280px;">
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">ブレンドコーヒー500g</h4>
+
+<div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC500g" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC500g%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC500g" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
+
+</div>
+</div>
+</div>
+</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
+</div>
+
+<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
+
+<h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">☕ 併せて揃えたい関連おすすめコーヒー器具</h4>
+<div style="display: flex; flex-wrap: wrap; gap: 12px;">
+<div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">手挽きコーヒーミル（高精度臼式グラインダー）</div>
+<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">挽きたての香りでコーヒーの旨味が激変</div>
+<div style="display: flex; gap: 6px;">
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%89%8B%E6%8C%BD%E3%81%8D%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%9F%E3%83%AB%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
+</div>
+</div><div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
+<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">コーヒードリッパースケール（0.1g単位タイマー付）</div>
+<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">抽出速度と湯量を正確に計測</div>
+<div style="display: flex; gap: 6px;">
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200%25201g" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%200%201g%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
+</div>
+</div>
+</div>
+</div>
+
 ## よくある質問
 
 **Q1: 細挽きで淹れると、どうしても苦味が強く出てしまいます。どうすれば良いですか？**
@@ -125,58 +206,5 @@ A2: 粉詰まりは、挽き目が細かすぎることや、蒸らしの段階�
 **Q3: 「自家焙煎 ブレンドコーヒー 500g（豆・中細挽き）」は、どの焙煎度の豆に該当しますか？どんな味わいが期待できますか？**
 A3: 商品データに具体的な焙煎度の記載はありませんが、「細挽きで淹れる」という特性から推測すると、深煎りから中深煎りのブレンドである可能性が高いです。細挽きは浅煎りのフルーティーな酸味を引き出しにくい傾向にあるため、濃厚なコクと苦味、カラメルのような甘み、そして香ばしさを最大限に引き出す設計になっていると考えるのが自然です。期待できる味わいとしては、口いっぱいに広がる重厚なボディ感、深い甘みを伴う苦味、そしてクリアな後味が特徴となるでしょう。エスプレッソのような力強さがありながら、ドリップならではの滑らかさも楽しめるはずです。
 
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
-<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
-<div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/coffee-beans-blend-500g.jpg" alt="自家焙煎 ブレンドコーヒー 500g" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
-</div>
-<div style="flex: 1 1 280px;">
-<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">自家焙煎 ブレンドコーヒー 500g</h4>
-<p style='margin: 0 0 12px 0; font-size: 0.86rem; color: #475569; line-height: 1.5;'>自家焙煎 ブレンドコーヒー 500g（豆・中細挽き） review and specs.</p>
-<div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520500g%2520%25E8%2587%25AA%25E5%25AE%25B6%25E7%2584%2599%25E7%2585%258E" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る</a>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%20500g%20%E8%87%AA%E5%AE%B6%E7%84%99%E7%85%8E%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520500g%2520%25E8%2587%25AA%25E5%25AE%25B6%25E7%2584%2599%25E7%2585%258E" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!</a>
-
-</div>
-</div>
-</div>
-</div>
-<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
-</div>
-
-<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
-<div style="font-size: 0.75rem; font-weight: bold; color: #78350f; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
-<h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #78350f; line-height: 1.4;">☕ 自分好みの豆が届く！コーヒー診断＆公式定期便</h3>
-<div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【PostCoffee / ポストコーヒー】</div>
-<p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">簡単な無料のコーヒー診断を受けるだけで、世界中の厳選ロースターからあなた好みの豆が毎月届く人気サブスク。初回お試し特別割引実施中！</p>
-<div style="text-align: center;">
-<a href="https://postcoffee.co/" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
-👉 無料でコーヒー診断を受けてみる
 </a>
-</div>
-</div>
-
-<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
-
-<h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">☕ 併せて揃えたい関連おすすめコーヒー器具</h4>
-<div style="display: flex; flex-wrap: wrap; gap: 12px;">
-<div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">手挽きコーヒーミル（高精度臼式グラインダー）</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">挽きたての香りでコーヒーの旨味が激変</div>
-<div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520500g%2520%25E8%2587%25AA%25E5%25AE%25B6%25E7%2584%2599%25E7%2585%258E" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%20500g%20%E8%87%AA%E5%AE%B6%E7%84%99%E7%85%8E%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
-</div>
-</div><div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">コーヒードリッパースケール（0.1g単位タイマー付）</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">抽出速度と湯量を正確に計測</div>
-<div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520500g%2520%25E8%2587%25AA%25E5%25AE%25B6%25E7%2584%2599%25E7%2585%258E" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%20500g%20%E8%87%AA%E5%AE%B6%E7%84%99%E7%85%8E%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
-</div>
-</div>
-</div>
-</div>

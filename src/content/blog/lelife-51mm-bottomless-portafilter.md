@@ -14,28 +14,31 @@ faq:
     answer: '抽出時にコーヒーが飛び散る「スプラッシュ」は、主にチャネリングが原因で起こる。これを防ぐためには、まずエスプレッソ用の適切なグラインダーで均一な挽き目を得ること、そしてタンパーで粉を均一かつ適切にタンピングすることが最も重要だ。また、カップをできるだけポルタフィルターに近づけて抽出したり、深めのカップを使ったりすることで、飛び散りを軽減できる。最初は汚れることも覚悟の上で、試行錯誤を繰り返すことでスプラッシュは劇的に減っていくはずだ。'
 ---
 
-
-
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-## 自宅エスプレッソの質を高める選択肢：ボトムレスポルタフィルターが変える抽出体験
-
-自宅でエスプレッソを淹れる際、どうも味が安定しない、あるいはカフェのような豊かなクレマが出ないと感じることはないだろうか。特にデロンギEC0680のようなエントリーモデルを使っていると、抽出のばらつきに悩むこともあるだろう。そんな時に検討すべきは、[Lelife 51mm ボトムレス ポルタフィルター Delonghi EC0680](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDelonghi%2520EC0680%25E3%2581%25AE%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E8%25A7%25A3%25E6%25B6%2588)のようなボトムレスポルタフィルターだ。これは単なる見た目の変化だけでなく、抽出の「見える化」を通じて、粉の状態、タンピングの均一性、そして何よりも安定したエスプレッソの品質向上に直結する。自宅で「プロの味」を追求したい、もっと自分の抽出技術を向上させたいと考えるなら、この互換品は費用対効果の高い投資となるだろう。
+<div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #b45309; border-radius: 10px; background: linear-gradient(135deg, #fffbeb, #fef3c7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
+<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
+<ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #451a03; line-height: 1.65;">
+<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 雑味やブレを抑え、豆本来の華やかなアロマとクリアなコクを誰でも安定して引き出せる設計。</li>
+<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 毎日のカフェ代を抑えつつ、おうちで妥協のない本格ドリップを楽しみたいコーヒー愛好家。</li>
+<li><strong>購入前の注意点</strong>: 器具の抽出容量（杯数）と、好みの焙煎度・挽き目との相性をチェックして選ぶのがベスト。</li>
+</ul>
+</div>
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/lelife-51mm-bottomless-portafilter.png" alt="Lelife 51mm ボトムレス ポルタフィルター Delonghi EC0680" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="/images/lelife-51mm-bottomless-portafilter.png" alt="Delonghi EC0680の味のブレ解消" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Lelife 51mm ボトムレス ポルタフィルター Delonghi EC0680</h4>
-<p style='margin: 0 0 12px 0; font-size: 0.86rem; color: #475569; line-height: 1.5;'>エスプレッソ抽出時の粉の状態やチャネリングを視覚的に確認できるボトムレスポルタフィルターです。デロンギ社製エスプレッソマシン（51mmグループヘッド）に対応し、均一な抽出を促します。より豊かなクレマと芳醇なアロマを引き出し、バリスタスキル向</p>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Delonghi EC0680の味のブレ解消</h4>
+
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDelonghi%2520EC0680%25E3%2581%25AE%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E8%25A7%25A3%25E6%25B6%2588" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDelonghi%2520EC0680%25E3%2581%25AE%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E8%25A7%25A3%25E6%25B6%2588" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDelonghi%20EC0680%E3%81%AE%E5%91%B3%E3%81%AE%E3%83%96%E3%83%AC%E8%A7%A3%E6%B6%88%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DDelonghi%2520EC0680%25E3%2581%25AE%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E8%25A7%25A3%25E6%25B6%2588" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDelonghi%20EC0680%E3%81%AE%E5%91%B3%E3%81%AE%E3%83%96%E3%83%AC%E8%A7%A3%E6%B6%88%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DDelonghi%2520EC0680%25E3%2581%25AE%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E8%25A7%25A3%25E6%25B6%2588" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
 
 </div>
 </div>
@@ -43,6 +46,10 @@ faq:
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
+
+## 自宅エスプレッソの質を高める選択肢：ボトムレスポルタフィルターが変える抽出体験
+
+自宅でエスプレッソを淹れる際、どうも味が安定しない、あるいはカフェのような豊かなクレマが出ないと感じることはないだろうか。特にデロンギEC0680のようなエントリーモデルを使っていると、抽出のばらつきに悩むこともあるだろう。そんな時に検討すべきは、[Lelife 51mm ボトムレス ポルタフィルター Delonghi EC0680](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDelonghi%2520EC0680%25E3%2581%25AE%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E8%25A7%25A3%25E6%25B6%2588)のようなボトムレスポルタフィルターだ。これは単なる見た目の変化だけでなく、抽出の「見える化」を通じて、粉の状態、タンピングの均一性、そして何よりも安定したエスプレッソの品質向上に直結する。自宅で「プロの味」を追求したい、もっと自分の抽出技術を向上させたいと考えるなら、この互換品は費用対効果の高い投資となるだろう。
 
 ## 抽出の神秘を解き明かす：ボトムレス構造がもたらす科学的恩恵
 
@@ -81,18 +88,6 @@ Lelifeという互換品メーカーだが、製品の品質は価格を考え�
 | 型番/仕様 | 51mm径、3耳（イヤー）、ステンレス製ヘッド、木製ハンドル |
 | 主な特徴 | エスプレッソ抽出の視覚的確認、チャネリング防止と均一な抽出サポート、豊かなクレマとアロマの実現、バリスタスキル向上、対応機種：デロンギ EC0680, EC0685, ECP3420, EC155など51mmグループヘッド搭載モデル |
 
-## リアルな声と僕の評価：自宅で追求するエスプレッソの醍醐味
-
-このボトムレスポルタフィルターを導入してから、僕の自宅でのエスプレッソ体験は大きく変わった。インターネット上のレビューや口コミでも共通して言われていることだが、やはり「抽出の可視化」がもたらす影響は計り知れない。多くのユーザーが、チャネリングの発見や、タンピングの重要性を再認識したと語っている。僕自身も、まさにその一人だ。
-
-正直なところ、最初にこのボトムレスポルタフィルターで抽出した時、バスケットの底から噴き出すコーヒーの筋がバラバラで、まるで壊れたシャワーヘッドを見ているようだった。あの時の衝撃は忘れられない。同時に、自分がこれまでどれほど感覚的に、そして不均一な抽出をしていたのかを痛感した瞬間でもあった。しかし、その「生々しい失敗」を目の当たりにしたからこそ、僕は真剣に抽出について考えるようになったのだ。
-
-一般的な口コミでは、「スプラッシュ（飛び散り）がすごい」「使いこなすには技術が必要」といった声も聞かれる。それはまさしくその通りで、僕も最初のうちはエスプレッソマシン周りがコーヒーまみれになった経験がある。しかし、それは決してネガティブな要素だけではない。むしろ、そのスプラッシュこそが、自分の抽出に問題があることを明確に示してくれるサインなのだ。スプラッシュを避けるためにはどうすればいいか？挽き目を細かくしてみようか、タンピングの圧力を均一にしてみようか、粉の量を増やしてみようか……といった具体的な思考と実践のサイクルが生まれる。この「失敗から学ぶ」プロセスこそが、自宅でエスプレッソを淹れる醍醐味であり、僕がこの器具から得た最大の満足度だ。
-
-抽出が安定してくると、バスケットの底全体から均一な流れでコーヒーが滴り落ち、やがて太い一本の筋になり、最後は美しいクレマをまとったエスプレッソがカップに注がれる。この一連の流れを視覚的に捉えられた時の喜びは、何物にも代えがたい。まるで科学実験が成功したような達成感がある。そして、その達成感は、そのままカップに注がれたエスプレッソの味わいに直結する。明らかにボディがしっかりとし、酸味と苦味、甘みのバランスが取れた、芳醇なアロマが際立つ一杯になるのだ。
-
-「自宅でプロレベルの味」という公式説明は、確かに誇張ではないと感じる。もちろん、プロのバリスタが使うような数百万、数千万円する業務用マシンと全く同じ味が再現できるわけではない。しかし、デロンギEC0680のような家庭用マシンで、抽出の最適化を突き詰めることで、そのマシンの持つポテンシャルを最大限に引き出し、ワンランク上のエスプレッソを自宅で安定して淹れられるようになる。僕にとってこのボトムレスポルタフィルターは、コーヒーの世界への扉をさらに深く開いてくれた、そんな存在だ。感覚ではなく、論理的に、そして視覚的に抽出を理解し、改善していく喜びを教えてくれた。
-
 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
 <div style="font-size: 0.75rem; font-weight: bold; color: #78350f; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
 <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #78350f; line-height: 1.4;">☕ 自分好みの豆が届く！コーヒー診断＆公式定期便</h3>
@@ -104,6 +99,18 @@ Lelifeという互換品メーカーだが、製品の品質は価格を考え�
 </a>
 </div>
 </div>
+
+## リアルな声と僕の評価：自宅で追求するエスプレッソの醍醐味
+
+このボトムレスポルタフィルターを導入してから、僕の自宅でのエスプレッソ体験は大きく変わった。インターネット上のレビューや口コミでも共通して言われていることだが、やはり「抽出の可視化」がもたらす影響は計り知れない。多くのユーザーが、チャネリングの発見や、タンピングの重要性を再認識したと語っている。僕自身も、まさにその一人だ。
+
+正直なところ、最初にこのボトムレスポルタフィルターで抽出した時、バスケットの底から噴き出すコーヒーの筋がバラバラで、まるで壊れたシャワーヘッドを見ているようだった。あの時の衝撃は忘れられない。同時に、自分がこれまでどれほど感覚的に、そして不均一な抽出をしていたのかを痛感した瞬間でもあった。しかし、その「生々しい失敗」を目の当たりにしたからこそ、僕は真剣に抽出について考えるようになったのだ。
+
+一般的な口コミでは、「スプラッシュ（飛び散り）がすごい」「使いこなすには技術が必要」といった声も聞かれる。それはまさしくその通りで、僕も最初のうちはエスプレッソマシン周りがコーヒーまみれになった経験がある。しかし、それは決してネガティブな要素だけではない。むしろ、そのスプラッシュこそが、自分の抽出に問題があることを明確に示してくれるサインなのだ。スプラッシュを避けるためにはどうすればいいか？挽き目を細かくしてみようか、タンピングの圧力を均一にしてみようか、粉の量を増やしてみようか……といった具体的な思考と実践のサイクルが生まれる。この「失敗から学ぶ」プロセスこそが、自宅でエスプレッソを淹れる醍醐味であり、僕がこの器具から得た最大の満足度だ。
+
+抽出が安定してくると、バスケットの底全体から均一な流れでコーヒーが滴り落ち、やがて太い一本の筋になり、最後は美しいクレマをまとったエスプレッソがカップに注がれる。この一連の流れを視覚的に捉えられた時の喜びは、何物にも代えがたい。まるで科学実験が成功したような達成感がある。そして、その達成感は、そのままカップに注がれたエスプレッソの味わいに直結する。明らかにボディがしっかりとし、酸味と苦味、甘みのバランスが取れた、芳醇なアロマが際立つ一杯になるのだ。
+
+「自宅でプロレベルの味」という公式説明は、確かに誇張ではないと感じる。もちろん、プロのバリスタが使うような数百万、数千万円する業務用マシンと全く同じ味が再現できるわけではない。しかし、デロンギEC0680のような家庭用マシンで、抽出の最適化を突き詰めることで、そのマシンの持つポテンシャルを最大限に引き出し、ワンランク上のエスプレッソを自宅で安定して淹れられるようになる。僕にとってこのボトムレスポルタフィルターは、コーヒーの世界への扉をさらに深く開いてくれた、そんな存在だ。感覚ではなく、論理的に、そして視覚的に抽出を理解し、改善していく喜びを教えてくれた。
 
 ## 道具の選び方：他の抽出方法との棲み分けと推奨される組み合わせ
 
@@ -137,20 +144,23 @@ Lelifeという互換品メーカーだが、製品の品質は価格を考え�
 
 豊かなクレマと芳醇なアロマ、そして何よりも安定した抽出品質を追求するなら、このボトムレスポルタフィルターはあなたのコーヒーライフに確かな変化をもたらすだろう。日々の手間を少し増やしてでも、納得のいく一杯を自宅で淹れたいと願う、すべてのコーヒー愛好家にとって、この道具は単なる互換品以上の価値を提供するものになる。
 
+</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDelonghi%20EC0680%E3%81%AE%E5%91%B3%E3%81%AE%E3%83%96%E3%83%AC%E8%A7%A3%E6%B6%88%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
+
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/lelife-51mm-bottomless-portafilter.png" alt="Lelife 51mm ボトムレス ポルタフィルター Delonghi EC0680" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="/images/lelife-51mm-bottomless-portafilter.png" alt="Delonghi EC0680の味のブレ解消" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Lelife 51mm ボトムレス ポルタフィルター Delonghi EC0680</h4>
-<p style='margin: 0 0 12px 0; font-size: 0.86rem; color: #475569; line-height: 1.5;'>エスプレッソ抽出時の粉の状態やチャネリングを視覚的に確認できるボトムレスポルタフィルターです。デロンギ社製エスプレッソマシン（51mmグループヘッド）に対応し、均一な抽出を促します。より豊かなクレマと芳醇なアロマを引き出し、バリスタスキル向</p>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Delonghi EC0680の味のブレ解消</h4>
+
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDelonghi%2520EC0680%25E3%2581%25AE%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E8%25A7%25A3%25E6%25B6%2588" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDelonghi%2520EC0680%25E3%2581%25AE%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E8%25A7%25A3%25E6%25B6%2588" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDelonghi%20EC0680%E3%81%AE%E5%91%B3%E3%81%AE%E3%83%96%E3%83%AC%E8%A7%A3%E6%B6%88%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DDelonghi%2520EC0680%25E3%2581%25AE%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E8%25A7%25A3%25E6%25B6%2588" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDelonghi%20EC0680%E3%81%AE%E5%91%B3%E3%81%AE%E3%83%96%E3%83%AC%E8%A7%A3%E6%B6%88%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DDelonghi%2520EC0680%25E3%2581%25AE%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E8%25A7%25A3%25E6%25B6%2588" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
 
 </div>
 </div>
@@ -164,18 +174,18 @@ Lelifeという互換品メーカーだが、製品の品質は価格を考え�
 <h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">☕ 併せて揃えたい関連おすすめコーヒー器具</h4>
 <div style="display: flex; flex-wrap: wrap; gap: 12px;">
 <div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">手挽き[コーヒーミル](/blog/manual-coffee-grinder-6-level/)（高精度臼式グラインダー）</div>
+<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">手挽きコーヒーミル（高精度臼式グラインダー）</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">挽きたての香りでコーヒーの旨味が激変</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDelonghi%2520EC0680%25E3%2581%25AE%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E8%25A7%25A3%25E6%25B6%2588" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDelonghi%20EC0680%E3%81%AE%E5%91%B3%E3%81%AE%E3%83%96%E3%83%AC%E8%A7%A3%E6%B6%88%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%89%8B%E6%8C%BD%E3%81%8D%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%9F%E3%83%AB%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 </div>
 </div><div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">コーヒー[ドリッパー](/blog/coffee-dripper-1-3-cup/)スケール（0.1g単位タイマー付）</div>
+<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">コーヒードリッパースケール（0.1g単位タイマー付）</div>
 <div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">抽出速度と湯量を正確に計測</div>
 <div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DDelonghi%2520EC0680%25E3%2581%25AE%25E5%2591%25B3%25E3%2581%25AE%25E3%2583%2596%25E3%2583%25AC%25E8%25A7%25A3%25E6%25B6%2588" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FDelonghi%20EC0680%E3%81%AE%E5%91%B3%E3%81%AE%E3%83%96%E3%83%AC%E8%A7%A3%E6%B6%88%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200%25201g" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%200%201g%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 </div>
 </div>
 </div>
