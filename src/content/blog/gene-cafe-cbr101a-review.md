@@ -28,7 +28,7 @@ faq:
 <img src="/images/gene-cafe-cbr101a-review.png" alt="Gene Cafe コーヒー豆焙煎機 CBR-101A" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
-<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Gene Cafe コーヒー豆焙煎機 CBR-101A</h4>
 <p style='margin: 0 0 12px 0; font-size: 0.86rem; color: #475569; line-height: 1.5;'>ドラム式の本格的な家庭用コーヒー豆焙煎機。クリアなガラス管で焙煎中の豆の様子を視覚的に確認でき、温度・時間設定も可能なため、自分好みの焙煎度合いを追求できます。チャフ分離機能も搭載し、手軽に本格的な自家焙煎が楽しめる人気モデルです。</p>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
@@ -145,7 +145,7 @@ Gene Cafe コーヒー豆焙煎機 CBR-101Aは、単に生豆を焙煎するだ�
 <img src="/images/gene-cafe-cbr101a-review.png" alt="Gene Cafe コーヒー豆焙煎機 CBR-101A" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
-<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="background: #fef3c7; color: #b45309; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">★ 4.8 / 5.0</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">Gene Cafe コーヒー豆焙煎機 CBR-101A</h4>
 <p style='margin: 0 0 12px 0; font-size: 0.86rem; color: #475569; line-height: 1.5;'>ドラム式の本格的な家庭用コーヒー豆焙煎機。クリアなガラス管で焙煎中の豆の様子を視覚的に確認でき、温度・時間設定も可能なため、自分好みの焙煎度合いを追求できます。チャフ分離機能も搭載し、手軽に本格的な自家焙煎が楽しめる人気モデルです。</p>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
