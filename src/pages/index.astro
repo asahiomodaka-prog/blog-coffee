@@ -29,6 +29,29 @@ const mediaBadgeMap: Record<string, { label: string; icon: string }> = {
 	kettle: { label: 'ケトル', icon: '🫖' },
 	machine: { label: 'マシン', icon: '☕️' },
 };
+
+interface ArticleTypeBadge {
+	type: 'ranking' | 'comparison' | 'guide' | 'review';
+	label: string;
+	icon: string;
+	className: string;
+}
+
+function getArticleTypeBadge(post: { id: string; data: { title: string } }): ArticleTypeBadge {
+	const slug = post.id.toLowerCase();
+	const title = post.data.title.toLowerCase();
+
+	if (slug.includes('ranking') || title.includes('ランキング') || title.includes('ranking') || title.includes('top5') || title.includes('top10')) {
+		return { type: 'ranking', label: 'ランキング', icon: '👑', className: 'badge-type-ranking' };
+	}
+	if (slug.includes('vs') || slug.includes('comparison') || title.includes(' vs ') || title.includes('比較') || title.includes('どっち') || title.includes('徹底比較') || title.includes('対比')) {
+		return { type: 'comparison', label: '徹底比較', icon: '⚖️', className: 'badge-type-comparison' };
+	}
+	if (slug.includes('guide') || title.includes('ガイド') || title.includes('選び方') || title.includes('入門') || title.includes('初心者')) {
+		return { type: 'guide', label: '選び方ガイド', icon: '📖', className: 'badge-type-guide' };
+	}
+	return { type: 'review', label: '本音レビュー', icon: '🔍', className: 'badge-type-review' };
+}
 ---
 
 <!doctype html>
@@ -187,25 +210,56 @@ const mediaBadgeMap: Record<string, { label: string; icon: string }> = {
 			}
 			.badge-row {
 				display: flex;
-				gap: 0.5rem;
+				flex-wrap: wrap;
+				gap: 0.45rem;
 				align-items: center;
 				margin-bottom: 0.75rem;
+			}
+			.badge-type {
+				font-size: 0.74rem;
+				font-weight: 700;
+				padding: 0.22rem 0.6rem;
+				border-radius: 6px;
+				display: inline-flex;
+				align-items: center;
+				gap: 0.25rem;
+				letter-spacing: -0.01em;
+			}
+			.badge-type-ranking {
+				background: #fef3c7;
+				color: #92400e;
+				border: 1px solid rgba(217, 119, 6, 0.3);
+			}
+			.badge-type-comparison {
+				background: #f3e8ff;
+				color: #6b21a8;
+				border: 1px solid rgba(147, 51, 234, 0.3);
+			}
+			.badge-type-guide {
+				background: #ecfdf5;
+				color: #065f46;
+				border: 1px solid rgba(16, 185, 129, 0.3);
+			}
+			.badge-type-review {
+				background: #f1f5f9;
+				color: #334155;
+				border: 1px solid rgba(100, 116, 139, 0.25);
 			}
 			.badge-media {
 				background: #fdf6e2;
 				color: #78350f;
-				font-size: 0.75rem;
+				font-size: 0.74rem;
 				font-weight: 700;
-				padding: 0.25rem 0.6rem;
+				padding: 0.22rem 0.55rem;
 				border-radius: 6px;
 				border: 1px solid rgba(120, 53, 15, 0.2);
 			}
 			.badge-genre {
 				background: rgba(140, 120, 105, 0.12);
 				color: #5c524a;
-				font-size: 0.75rem;
+				font-size: 0.74rem;
 				font-weight: 600;
-				padding: 0.25rem 0.6rem;
+				padding: 0.22rem 0.55rem;
 				border-radius: 6px;
 			}
 			.featured-title {
@@ -424,6 +478,14 @@ const mediaBadgeMap: Record<string, { label: string; icon: string }> = {
 							</div>
 							<div class="featured-body">
 								<div class="badge-row">
+									{featuredPost && (() => {
+										const tb = getArticleTypeBadge(featuredPost);
+										return (
+											<span class={`badge-type ${tb.className}`}>
+												{tb.icon} {tb.label}
+											</span>
+										);
+									})()}
 									{featuredPost.data.mediaType && mediaBadgeMap[featuredPost.data.mediaType] && (
 										<span class="badge-media">
 											{mediaBadgeMap[featuredPost.data.mediaType].icon} {mediaBadgeMap[featuredPost.data.mediaType].label}
@@ -475,6 +537,14 @@ const mediaBadgeMap: Record<string, { label: string; icon: string }> = {
 									</div>
 									<div class="card-body">
 										<div class="badge-row">
+											{(() => {
+												const tb = getArticleTypeBadge(post);
+												return (
+													<span class={`badge-type ${tb.className}`}>
+														{tb.icon} {tb.label}
+													</span>
+												);
+											})()}
 											{media && (
 												<span class="badge-media">
 													{media.icon} {media.label}
