@@ -4,7 +4,9 @@ description: 'KINTO SLOW COFFEE STYLE コーヒーカラフェセット 300mlは
 pubDate: '2026-08-30'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/daily-3/cabinet/item/kin/kin02-01_1.jpg?_ex=600x600'
 genre: 'coffee'
-mediaType: 'beans'
+mediaType: 'dripper'
+tags:
+  - 'angle:flavor-daily'
 faq:
   - question: 'ペーパーフィルター不要とのことですが、一般的なドリップコーヒーとの味の違いはありますか？'
     answer: 'はい、明確な違いがあります。KINTOのカラフェセットのステンレスフィルターは、コーヒーオイルを透過させるため、一般的なペーパーフィルターで淹れたコーヒーに比べて、よりまろやかでコクがあり、ボディ感のしっかりした味わいになります。豆本来の複雑な風味やアロマをダイレクトに感じやすいのが特徴です。微粉がカップの底に若干残る可能性はありますが、それがコーヒーオイルによる豊かな風味の証拠でもあります。'

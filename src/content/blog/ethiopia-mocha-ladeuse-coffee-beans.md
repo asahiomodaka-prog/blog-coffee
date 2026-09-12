@@ -5,6 +5,8 @@ pubDate: '2026-07-27'
 heroImage: '/images/ethiopia-mocha-ladeuse-coffee-beans.jpg'
 genre: 'coffee'
 mediaType: 'beans'
+tags:
+  - 'angle:roast-origin'
 faq:
   - question: 'エチオピアモカはどのような風味のコーヒーですか？'
     answer: 'エチオピアモカは、一般的に華やかでフローラルな香り、柑橘系のようなフルーティーな酸味、そして紅茶のような透明感のある口当たりが特徴である。後味にはチョコレートのような甘みが感じられることもあり、苦味は控えめで、すっきりと飲みやすい傾向がある。'

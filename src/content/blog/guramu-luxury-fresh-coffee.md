@@ -5,6 +5,8 @@ pubDate: '2026-07-05'
 heroImage: '/images/guramu-luxury-fresh-coffee.jpg'
 genre: 'coffee'
 mediaType: 'beans'
+tags:
+  - 'angle:flavor-daily'
 faq:
   - question: 'GURAMUは初心者でも美味しいコーヒーを淹れられるか？'
     answer: 'はい、十分に可能である。GURAMUは、その構造設計により、湯の注ぎ方や流速のバラつきをある程度吸収し、粉全体に均一に湯が浸透するように工夫されている。これにより、ハンドドリップの経験が少ない方でも、雑味の少ないクリアで香り高いコーヒーを安定して淹れることができる。基本的な淹れ方（蒸らし→数回に分けて注ぐ）さえ守れば、すぐにその違いを実感できるだろう。'

@@ -4,7 +4,9 @@ description: '加藤珈琲店のコーヒー豆を徹底レビュー。自宅で
 pubDate: '2026-07-06'
 heroImage: '/images/kato-coffee-shachi-blend-2.jpg'
 genre: 'coffee'
-mediaType: 'comic'
+mediaType: 'beans'
+tags:
+  - 'angle:roast-origin'
 faq:
   - question: '加藤珈琲店の豆はどのような味の傾向が多いですか？'
     answer: '加藤珈琲店は、酸味、苦味、甘みのバランスが取れた、まろやかで飲みやすいブレンド豆を多く扱っています。特定の個性が突出しているというよりは、多くの人に「美味しい」と感じてもらえるような、普遍的な味わいを追求している傾向があります。フルーティーな浅煎りから、コク深い深煎りまで幅広いラインナップがあるので、好みや用途に合わせて選べます。'

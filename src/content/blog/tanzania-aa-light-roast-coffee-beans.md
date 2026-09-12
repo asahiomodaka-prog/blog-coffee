@@ -9,7 +9,9 @@ sidebarProducts:
     url: ''
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/2019/imgrc0082051036.jpg?_ex=600x600'
     microCopy: '詳細を見る'
-mediaType: comic
+mediaType: 'beans'
+tags:
+  - 'angle:roast-origin'
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

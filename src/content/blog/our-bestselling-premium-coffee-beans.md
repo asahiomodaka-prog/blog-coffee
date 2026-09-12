@@ -5,6 +5,8 @@ pubDate: '2026-07-23'
 heroImage: '/images/our-bestselling-premium-coffee-beans.jpg'
 genre: 'coffee'
 mediaType: 'beans'
+tags:
+  - 'angle:comparison'
 faq:
   - question: '16種類もの豆があると、鮮度が落ちる前に全てを飲み切れるか心配です。'
     answer: '各銘柄は少量ずつ小分けパックになっているため、必要な時に必要な分だけ開封することが可能です。未開封の状態であれば風味は長持ちしますが、開封後は酸化が進むため、密閉容器に入れて冷蔵庫または冷凍庫で保存し、なるべく早く消費することを推奨します。一度に飲み切れない場合は、アイスコーヒーやコーヒーゼリーにするなど、異なる楽しみ方も有効でしょう。'

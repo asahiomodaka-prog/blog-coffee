@@ -5,6 +5,8 @@ pubDate: '2026-08-30'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/e-lodge/cabinet/item03/shf-st-940_1.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'grinder'
+tags:
+  - 'angle:beginner'
 faq:
   - question: '手入れは簡単ですか？'
     answer: '各パーツは簡単に分解できるため、洗浄は比較的容易である。特に、コーヒーミル内部のセラミック刃は水洗いが可能であり、豆の油分や微粉をきれいに洗い流せるため、衛生的に保てる。ただし、金属部分は十分に乾燥させないと錆の原因となるため、洗浄後はしっかりと乾燥させてから収納することを推奨する。'

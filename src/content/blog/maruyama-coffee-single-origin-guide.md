@@ -5,6 +5,8 @@ pubDate: '2026-09-07'
 heroImage: '/images/maruyama-coffee-single-origin-guide.jpg'
 genre: 'coffee'
 mediaType: 'beans'
+tags:
+  - 'angle:beginner'
 faq:
   - question: 'シングルオリジンコーヒーとは何ですか？'
     answer: 'シングルオリジンコーヒーとは、単一の生産地、単一の農園、あるいは単一の品種から収穫されたコーヒー豆のことだ。これにより、その土地ならではの独特な風味や個性をより深く楽しめる。丸山珈琲では、バイヤーが直接現地で買い付け、品質を厳しく管理している。'

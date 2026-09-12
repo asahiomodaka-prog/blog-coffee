@@ -5,6 +5,8 @@ pubDate: '2026-07-09'
 heroImage: '/images/cofil-paperless-coffee.jpg'
 genre: 'coffee'
 mediaType: 'dripper'
+tags:
+  - 'angle:brewing-science'
 faq:
   - question: 'メンテナンスは本当に大変なのか？'
     answer: '日常的な手入れは水洗いで十分である。しかし、コーヒーの油分による目詰まりを防ぎ、最適な抽出性能を維持するため、月に一度程度の定期的なメンテナンスは必要だ。熱湯での煮沸消毒や、重曹を使った浸け置き洗いが効果的であり、これを習慣にすれば長く快適に使える。適切な手入れをすることで、フィルターの性能をより長く維持し、愛着を持って使い続けられるはずである。'

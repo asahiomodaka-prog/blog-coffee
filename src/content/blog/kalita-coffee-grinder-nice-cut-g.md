@@ -5,6 +5,8 @@ pubDate: '2026-08-14'
 heroImage: '/images/kalita-coffee-grinder-nice-cut-g.jpg'
 genre: 'coffee'
 mediaType: 'grinder'
+tags:
+  - 'angle:review'
 faq:
   - question: '手入れはどのくらい頻繁に必要か？'
     answer: '日常的には、豆を挽くたびに受け皿の粉を捨て、本体に残った微粉を軽く付属のブラシで払う程度で十分である。しかし、グラインダーの性能とコーヒーの品質を維持するためには、週に一度は分解できる範囲で刃の周りや粉の通路をブラシで丁寧に清掃することをおすすめする。これにより、酸化した古いコーヒーの油分や微粉が新しい豆の風味を損なうのを防ぐことができる。'

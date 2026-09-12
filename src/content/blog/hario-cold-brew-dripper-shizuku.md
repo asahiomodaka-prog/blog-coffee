@@ -5,6 +5,8 @@ pubDate: '2026-07-30'
 heroImage: '/images/hario-cold-brew-dripper-shizuku.jpg'
 genre: 'coffee'
 mediaType: 'dripper'
+tags:
+  - 'angle:brewing-science'
 faq:
   - question: 'HARIO 雫 SBS-5Bは、ドリップ初心者でも使いこなせますか？'
     answer: 'ドリップ初心者の方でも問題なく使いこなせる。むしろ、湯量コントロールという最も難しい部分を極細口ノズルがサポートするため、安定したドリップを習得しやすいだろう。最初は何度か空のドリッパーで注ぎ方の練習をすると、感覚を掴みやすくなる。'

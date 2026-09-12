@@ -5,6 +5,8 @@ pubDate: '2026-09-06'
 heroImage: '/images/kaldi-mild-coffee-review.png'
 genre: 'coffee'
 mediaType: 'beans'
+tags:
+  - 'angle:review'
 faq:
   - question: 'マイルドカルディは、どんな抽出方法に向いていますか？'
     answer: '中煎りでバランスが取れているため、ペーパードリップ、フレンチプレス、コーヒーメーカーなど、ほとんどの抽出方法で美味しく淹れられます。好みに合わせて、お湯の温度や挽き目を微調整すると良いでしょう。'

@@ -6,6 +6,7 @@ heroImage: '/images/kono-siphon-lampwick-review.jpg'
 genre: 'coffee'
 mediaType: 'beans'
 tags:
+  - 'angle:brewing-science'
   - 'angle:review'
 faq:
   - question: 'KONO以外のメーカーのサイフォンでも使えるか？'

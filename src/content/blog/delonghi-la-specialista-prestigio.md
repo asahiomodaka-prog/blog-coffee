@@ -9,7 +9,9 @@ sidebarProducts:
     url: ''
     imageUrl: '/images/delonghi-la-specialista-prestigio.jpg'
     microCopy: '詳細を見る'
-mediaType: machine
+mediaType: 'machine'
+tags:
+  - 'angle:review'
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

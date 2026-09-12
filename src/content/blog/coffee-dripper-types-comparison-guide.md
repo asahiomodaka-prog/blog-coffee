@@ -5,6 +5,8 @@ pubDate: '2026-09-08'
 heroImage: '/images/coffee-dripper-types-comparison-guide.jpg'
 genre: 'coffee'
 mediaType: 'dripper'
+tags:
+  - 'angle:comparison'
 faq:
   - question: 'ドリッパーの素材（プラスチック、ガラス、陶器）で味は変わりますか？'
     answer: '素材自体の味はコーヒーに影響しませんが、保温性が変わることで抽出の安定性が変わります。陶器は蓄熱性が高く、抽出中の湯温低下を防ぎやすいです。 プラスチックやガラスは手軽で、破損のリスクも少ない点がメリットです。'

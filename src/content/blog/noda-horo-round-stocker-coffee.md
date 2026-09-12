@@ -5,6 +5,8 @@ pubDate: '2026-09-05'
 heroImage: '/images/noda-horo-round-stocker-coffee.png'
 genre: 'coffee'
 mediaType: 'beans'
+tags:
+  - 'angle:review'
 faq:
   - question: 'ホーロー容器の手入れで特に気をつけることはありますか？'
     answer: '琺瑯はガラス質のため、落としたりぶつけたりして衝撃を与えると欠ける可能性があります。優しく扱い、直火や電子レンジでの使用は避けてください。中性洗剤で洗い、よく乾燥させることが大切です。'

@@ -5,6 +5,8 @@ pubDate: '2026-08-30'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/coffee-carrot/cabinet/item/ethiopia_m.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'beans'
+tags:
+  - 'angle:flavor-daily'
 faq:
   - question: '浅煎りとのことですが、酸味が強すぎて飲みにくいことはありませんか？'
     answer: '珈琲きゃろっとのエチオピア イルガチェフェは浅煎りですが、一般的な強い酸味だけのコーヒーとは一線を画します。レモンやオレンジのような柑橘系の爽やかな酸味に加え、フローラルな香りとフルーティーな甘みが特徴で、酸味が単独で目立つのではなく、全体のバランスが取れています。冷めても美味しく、嫌な酸味や雑味がないため、普段深煎りばかり飲んでいる方も、クリーンで心地よい酸味として楽しめるはずです。コーヒー本来の多様な風味を発見する良い機会となるでしょう。'

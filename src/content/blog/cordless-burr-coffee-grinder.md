@@ -5,6 +5,8 @@ pubDate: '2026-07-11'
 heroImage: '/images/cordless-burr-coffee-grinder.jpg'
 genre: 'coffee'
 mediaType: 'grinder'
+tags:
+  - 'angle:beginner'
 faq:
   - question: '臼式電動ミルは初めてだが、手入れは難しいか？'
     answer: 'いいえ、それほど難しくはありません。本製品は臼部分を比較的簡単に分解でき、付属のブラシを使ってコーヒー粉のカスや油分を定期的に取り除けば、性能を維持できます。コーヒーの風味を保つためにも、使用頻度に合わせて月に1回程度の分解清掃をおすすめします。'

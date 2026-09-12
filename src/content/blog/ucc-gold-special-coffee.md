@@ -5,6 +5,8 @@ pubDate: '2026-08-30'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/648/4901201034648.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'beans'
+tags:
+  - 'angle:comparison'
 faq:
   - question: '初めて自宅でコーヒーを淹れるが、この粉で大丈夫か？'
     answer: '全く問題ない。むしろ、最初のステップとして最適である。UCCゴールドスペシャルは、芳醇な香りとコク、すっきりとした後味がバランス良く、どのような抽出器具を使っても安定した味わいを出しやすい。失敗が少なく、コーヒーの美味しさを実感しやすいだろう。'

@@ -5,6 +5,8 @@ pubDate: '2026-08-31'
 heroImage: '/images/lelife-51mm-bottomless-portafilter.png'
 genre: 'coffee'
 mediaType: 'machine'
+tags:
+  - 'angle:brewing-science'
 faq:
   - question: 'Lelife製の互換品ですが、デロンギ純正品と比べて品質や耐久性に問題はありませんか？'
     answer: '僕自身が使用した経験から言えば、品質面で大きな問題は感じられない。ステンレス製のヘッドは頑丈で、マシンへの装着感も良好だ。木製ハンドルも手に馴染み、価格を考慮すれば十分な満足度が得られる。ただし、互換品である以上、純正品と寸分違わぬ完璧さを求める人には、わずかな精度の差が気になる可能性もある。長く使うためには、木製ハンドルの適切な手入れ（使用後の拭き取り、定期的なオイル塗布など）が推奨される。'

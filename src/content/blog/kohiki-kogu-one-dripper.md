@@ -5,6 +5,8 @@ pubDate: '2026-07-12'
 heroImage: '/images/kohiki-kogu-one-dripper.jpg'
 genre: 'coffee'
 mediaType: 'dripper'
+tags:
+  - 'angle:flavor-daily'
 faq:
   - question: 'コーヒー初心者でも使いこなせるか？'
     answer: 'はい、初心者の方にこそおすすめしたいドリッパーである。珈琲考具は抽出が安定しやすい設計になっているため、お湯の注ぎ方や挽き目に対する許容範囲が広く、ちょっとした手元のブレが致命的な味の悪化につながりにくい。基本的なドリップの作法を覚えれば、すぐに満足のいく一杯を淹れられるようになるだろう。'

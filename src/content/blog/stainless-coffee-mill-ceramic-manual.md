@@ -5,6 +5,8 @@ pubDate: '2026-07-31'
 heroImage: '/images/stainless-coffee-mill-ceramic-manual.jpg'
 genre: 'coffee'
 mediaType: 'grinder'
+tags:
+  - 'angle:comparison'
 faq:
   - question: '電動ミルと比べて、手挽きミルを選ぶメリットは何ですか？'
     answer: '手挽きミルの最大のメリットは、熱による風味劣化のリスクが少ないことと、挽き目の均一性を高めやすい点です。電動ミルは利便性が高いですが、高速回転による摩擦熱で豆の香りが飛んでしまう可能性や、安価なモデルでは挽き目が不均一になりがちです。また、手挽きは電力不要で、アウトドアなど場所を選ばずに使え、挽くプロセス自体を楽しめるという側面もあります。'

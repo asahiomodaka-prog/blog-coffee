@@ -5,6 +5,8 @@ pubDate: '2026-08-11'
 heroImage: '/images/blue-mountain-kopi-luwak-coffee.jpg'
 genre: 'coffee'
 mediaType: 'beans'
+tags:
+  - 'angle:roast-origin'
 faq:
   - question: '高級豆は自宅で淹れても違いがわかるものですか？'
     answer: 'はい、はっきりと違いがわかります。特に「ブルーマウンテン＆コピ・ルアク 高級コーヒー豆 飲み比べ」で提供されるブルーマウンテンとコピ・ルアクは、一般的なコーヒー豆とは香り、酸味、苦味、甘み、コクのバランス、そして口当たりが大きく異なります。自宅で丁寧に淹れることで、カフェで飲むような上質な体験を再現でき、その繊細な風味の差を十分に楽しむことができるはずです。'

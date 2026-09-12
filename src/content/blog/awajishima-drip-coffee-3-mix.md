@@ -5,6 +5,8 @@ pubDate: '2026-07-06'
 heroImage: '/images/awajishima-drip-coffee-3-mix.jpg'
 genre: 'coffee'
 mediaType: 'beans'
+tags:
+  - 'angle:flavor-daily'
 faq:
   - question: 'ドリップバッグでも本格的な味わいが本当に楽しめるのか？'
     answer: 'はい、ドリップコーヒーファクトリー淡路島アソートは、ドリップバッグの緻密な構造と、工場で最適化されたコーヒー豆の挽き目・鮮度により、安定して本格的な味わいを楽しめます。一般的なハンドドリップで陥りがちな抽出のムラが少なく、豆本来の風味をクリアに感じられるでしょう。製造過程における厳格な品質管理が、安定した高品質の基盤となっています。'

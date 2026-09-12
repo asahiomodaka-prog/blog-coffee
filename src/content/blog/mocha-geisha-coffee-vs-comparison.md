@@ -5,6 +5,8 @@ pubDate: '2026-09-09'
 heroImage: '/images/mocha-geisha-coffee-vs-comparison.jpg'
 genre: 'coffee'
 mediaType: 'beans'
+tags:
+  - 'angle:comparison'
 faq:
   - question: 'ゲイシャ種を美味しく淹れるコツは？'
     answer: 'ゲイシャ種は繊細な香りが特徴のため、浅煎りで提供されることが多い。抽出温度は少し高めの90℃前後がおすすめだ。湯量を絞ってゆっくりとドリップすることで、その複雑な香りを最大限に引き出せる。'

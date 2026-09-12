@@ -5,6 +5,8 @@ pubDate: '2026-08-13'
 heroImage: '/images/coffee-beans-2kg-cheapest.jpg'
 genre: 'coffee'
 mediaType: 'beans'
+tags:
+  - 'angle:comparison'
 faq:
   - question: '2kgという大容量ですが、鮮度維持はどうすれば良いですか？'
     answer: '最も効果的な方法は、購入後すぐに小分けにして冷凍保存することです。密閉性の高いジップロックやフリーザーバッグに100g〜200gずつ小分けにし、冷凍庫で保管してください。使う分だけ冷凍庫から取り出し、常温に戻してから挽くことで、豆の酸化を大幅に抑え、長期間にわたって風味を保つことが可能となります。'
