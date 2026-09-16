@@ -24,15 +24,6 @@ faq:
 
 このホーロー容器は、日本の老舗メーカー野田琺瑯が手がけた逸品だ。優れた遮光性と密閉性で、大切なコーヒー豆の風味をしっかりと守ってくれる。長く愛用できる実用性とメンテナンス性にも優れており、自宅コーヒーを追求する僕にとって欠かせない存在となった。
 
-<div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #b45309; border-radius: 10px; background: linear-gradient(135deg, #fffbeb, #fef3c7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
-<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
-<ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #451a03; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 鮮度と焙煎度にこだわり、豆本来の豊かなアロマと奥深いコクを自宅で手軽に味わえる点。</li>
-<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 毎日のカフェ代を抑えつつ、おうちで妥協のない本格ドリップを楽しみたいコーヒー愛好家。</li>
-<li><strong>購入前の注意点</strong>: 好みの焙煎度（浅煎り・深煎り）や挽き目、開封後の密閉保存環境をチェックして選ぶのがベスト。</li>
-</ul>
-</div>
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -126,15 +117,6 @@ faq:
 この容器を選ぶことは、単に豆を保存するだけでなく、日々の暮らしに上質な道具を取り入れ、丁寧にコーヒーと向き合う時間を作り出すことにも繋がる。あなたのコーヒーライフをきっと充実させてくれるだろう。
 
 [野田琺瑯 ホーロー密閉容器 ラウンドストッカー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%2587%258E%25E7%2594%25B0%25E7%2590%25BA%25E7%2591%25AF%2520%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B9%25E3%2583%2588%25E3%2583%2583%25E3%2582%25AB%252018cm)
-
-<div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #b45309; border-radius: 10px; background: linear-gradient(135deg, #fffbeb, #fef3c7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
-<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
-<ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #451a03; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 鮮度と焙煎度にこだわり、豆本来の豊かなアロマと奥深いコクを自宅で手軽に味わえる点。</li>
-<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 毎日のカフェ代を抑えつつ、おうちで妥協のない本格ドリップを楽しみたいコーヒー愛好家。</li>
-<li><strong>購入前の注意点</strong>: 好みの焙煎度（浅煎り・深煎り）や挽き目、開封後の密閉保存環境をチェックして選ぶのがベスト。</li>
-</ul>
-</div>
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">

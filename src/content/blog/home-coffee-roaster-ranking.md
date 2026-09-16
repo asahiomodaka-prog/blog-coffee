@@ -42,7 +42,7 @@ sidebarProducts:
 
 今回は、そんな僕が実際に選ぶならこれ、という視点で、おすすめの家庭用コーヒー焙煎機を厳選して紹介する。本格派志向の人も、まずは手軽に始めてみたい人も、自分にぴったりの一台を見つける参考にしてほしい。
 
-### 家庭用コーヒー焙煎機の選び方
+## 家庭用コーヒー焙煎機の選び方
 
 家庭用焙煎機を選ぶ際、僕が特に重視するポイントはいくつかある。まず、最も大きな要素は**価格帯と予算**だ。数万円で手軽に始められるモデルもあれば、数十万円の本格的なモデルもある。自分のコーヒーへの情熱と投資できる金額を考慮して選ぶことが重要だ。
 
@@ -54,7 +54,7 @@ sidebarProducts:
 
 そして、意外と見落としがちなのが**メンテナンス性**だ。チャフ（豆の薄皮）の処理や本体の清掃が簡単かどうかも、日々の使いやすさに直結する要素だろう。
 
-### 第1位：SANDBOX SMART R2 コーヒーロースター（Sandbox Smart店）
+## 第1位：SANDBOX SMART R2 コーヒーロースター（Sandbox Smart店）
 
 #### 本格的な自家焙煎を追求するならこの一台
 
@@ -82,7 +82,7 @@ sidebarProducts:
 
 👉 正規品 送料無料 コーヒー焙煎機 SANDBOX SMART R2 コーヒーロースター R2 珈琲焙煎機 [コーヒー豆](/blog/fresh-coffee-beans/) 焙煎器 生豆 コーヒー 自家焙煎 家庭用焙煎機 の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00ujmt1.ve2q5d99.g00ujmt1.ve2q6b70/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsandboxsmart%2Fr2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsandboxsmart%2Fi%2F10000000%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
-### 第2位：SANDBOX SMART R2 サンドボックススマートコーヒーロースター R2（Kオンラインショップ）
+## 第2位：SANDBOX SMART R2 サンドボックススマートコーヒーロースター R2（Kオンラインショップ）
 
 #### 高機能ロースターを少しでもお得に手に入れたいなら
 
@@ -102,7 +102,7 @@ sidebarProducts:
 
 👉 コーヒー焙煎機 SANDBOX SMART R2 サンドボックススマートコーヒーロースター R2 珈琲焙煎機 [コーヒー豆](/blog/mocha-geisha-coffee-vs-comparison/) 焙煎器 生豆 コーヒー 自家焙煎 家庭用焙煎機 国内正規品 の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00ud9c1.ve2q5ac7.g00ud9c1.ve2q69a0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-online-shop%2F10000001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-online-shop%2Fi%2F10000001%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
-### 第3位：家庭用コーヒー焙煎機 THE ROASTER Lite版
+## 第3位：家庭用コーヒー焙煎機 THE ROASTER Lite版
 
 #### 自家焙煎の楽しさを手軽に体験したい入門機
 
@@ -140,7 +140,7 @@ Lite版は上位モデルから一部機能をシンプル化し、メーカー1
 
 👉 [【中古】【未使用】コーヒー焙煎機 SANDBOX SMART R2 コーヒーロースター R2 珈琲焙煎機 コーヒー豆 焙煎器 生豆 コーヒー 自家焙煎 家庭用焙煎機 の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00tywq1.ve2q50f4.g00tywq1.ve2q643b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fajimura4861%2Fsb0b49jvgyz%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fajimura4861%2Fi%2F12823328%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
-### まとめ：あなたにぴったりの自家焙煎機を見つけよう
+## まとめ：あなたにぴったりの自家焙煎機を見つけよう
 
 今回は、家庭用コーヒー焙煎機を3機種紹介した。
 「SANDBOX SMART R2」は、価格は高めだが、本格的な機能と大容量、アプリ連携による緻密な焙煎プロファイル設定が可能だ。

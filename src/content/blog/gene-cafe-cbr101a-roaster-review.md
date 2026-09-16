@@ -40,12 +40,12 @@ sidebarProducts:
 
 今回は、CBR-101Aの内部機構を科学的に解き明かし、浅煎りから深煎りまで狙った風味を正確に引き出すプロファイル設計論を深掘りします。
 
-<div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #b45309; border-radius: 10px; background: linear-gradient(135deg, #fffbeb, #fef3c7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03 British);">
-<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 焙煎科学の3分要約</div>
-<ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #451a03; line-height: 1.65 British;">
-<li style="margin-bottom: 6px;"><strong>3Dオフセンター攪拌</strong>: 斜め回転軸による立体流動が、直火式のような接触焦げを完全排除。</li>
-<li style="margin-bottom: 6px;"><strong>精密サーモスタット</strong>: ダイヤル操作で熱風温度をリアルタイム調整し、RoRカーブをコントロール可能。</li>
-<li><strong>急冷熱暴走カット</strong>: 焙煎停止直後の強制送風冷却により、余熱による味の過剰進行を瞬時に遮断。</li>
+<div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #b45309; border-radius: 10px; background: linear-gradient(135deg, #fffbeb, #fef3c7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
+<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
+<ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #451a03; line-height: 1.65;">
+<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 鮮度と焙煎度にこだわり、豆本来の豊かなアロマと奥深いコクを自宅で味わえる点。</li>
+<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 毎日のカフェ代を抑えつつ、おうちで妥協のない本格ドリップを楽しみたいコーヒー愛好家。</li>
+<li><strong>購入前の注意点</strong>: 好みの焙煎度（浅煎り・中煎り・深煎り）と挽き目、開封後の密閉保存環境をチェック。</li>
 </ul>
 </div>
 
@@ -66,7 +66,7 @@ sidebarProducts:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 
-## 3Dオフセンター回転×間接熱風が生み出す「焼きムラゼロ」のメカニズム
+## 3Dオフセンター回転×間接熱風が生み出す「焼きムラゼロ」の仕組みと使いやすさの秘密
 
 従来の家庭用ドラム焙煎機における最大の課題は、ドラム底面に接する豆と上部にある豆との「温度不均一」でした。円筒型ドラムを水平回転させるだけでは、豆が同じ軌道で転がりやすく、一部の豆だけがドラム壁面に長く接触してスコーチング（表面焦げ）を起こしやすくなります。
 
@@ -113,3 +113,14 @@ CBR-101Aでは、停止ボタンを押した瞬間にヒーター給電が完全
 科学的アプローチで自分だけの最高の一杯をデザインしたい愛好家にとって、Gene Cafe CBR-101Aは家庭で到達できる究極のロースティング環境を提供してくれるはずです。
 
 [Gene Cafe ジェネカフェ CBR-101A](https://hb.afl.rakuten.co.jp/hgc/g00ud9c1.ve2q5ac7.g00ud9c1.ve2q69a0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-online-shop%2F10000000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-online-shop%2Fi%2F10000000%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+
+### よくある質問
+
+**Q1: 手網や直火式焙煎機と比べて、熱風式のメリットは何ですか？**
+A1: 最大のメリットは「熱伝導の均一性」と「再現性の高さ」です。直火式のようにドラム壁面の局所加熱による焦げ（スコーチングやチップ）が発生せず、間接熱風が豆の内部まで均等に浸透するため、芯残りやムラが完全に排除されます。
+
+**Q2: 浅煎りでフルーティーな酸味を残すためのプロファイルのコツは？**
+A2: 初期設定温度を220℃〜230℃とやや高めに維持し、水分が抜けるドライエンド（約6分前後）までしっかり熱量を投入します。1ハゼが始まったら（約11分前後）、過度な温度上昇を抑えて1ハゼ終了直後（約12〜13分）で急速冷却へ移行することで、繊細な有機酸や揮発性アロマを損なわずに仕上がります。
+
+**Q3: 焙煎中の排気温度センサーの精度はどうですか？**
+A3: CBR-101Aの電子制御サーモスタットは設定温度に対して±数℃の範囲で高精度に追従します。ダイヤルを途中で回してリアルタイムに温度昇降を行えるため、手動で細やかな温度プロファイルを再現できます。

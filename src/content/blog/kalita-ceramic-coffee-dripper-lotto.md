@@ -31,11 +31,11 @@ sidebarProducts:
 今回は、101と102の抽出効率の決定的な違い、プラスチック製・ガラス製との素材比較、そして陶器ならではの予熱テクニックを徹底比較・解説します。
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #b45309; border-radius: 10px; background: linear-gradient(135deg, #fffbeb, #fef3c7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
-<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 サイズ選び＆素材比較の3分要約</div>
+<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
 <ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #451a03; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>大は小を兼ねない</strong>: 1人分メインなら絶対に「101」。適正な粉の厚み（ベッドハイト）が濃厚なコクを生む。</li>
-<li style="margin-bottom: 6px;"><strong>陶器 vs プラの決定打</strong>: プラは手軽だが傷・着色に弱い。陶器は予熱必須だが卓越した蓄熱性と美観が一生続く。</li>
-<li><strong>湯通し予熱の重要性</strong>: ドリッパーが冷たいとお湯の温度が5〜8℃急降下。抽出前の1杯の湯通しで味がプロ級に。</li>
+<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 抽出速度やお湯の抜けを最適化し、豆本来の華やかなアロマとクリアなコクを安定して引き出す設計。</li>
+<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 自宅での抽出クオリティを一段引き上げ、道具の手入れも含めてコーヒー時間を楽しみたい方。</li>
+<li><strong>購入前の注意点</strong>: 器具の抽出容量（杯数）やペーパーフィルター規格、パーツの洗いやすさをチェック。</li>
 </ul>
 </div>
 
@@ -97,5 +97,19 @@ sidebarProducts:
 - **衝撃対策**: 陶器であるため、シンク内での他の食器との衝突には注意が必要です。洗う際は単独で手洗いし、急激な冷水での冷却（ヒートショック）を避けることで、ヒビ割れを防ぎ10年、20年と使い続けることができます。
 
 正しいサイズを選び、丁寧な予熱を施すことで、カリタ陶器ロトはあなたのハンドドリップを生涯にわたって支える最高峰のツールになってくれるはずです。
+
+
+### よくある質問
+
+**Q1: 101（1〜2人用）と102（2〜4人用）、どちらを買うべきですか？**
+A1: 普段1人分（150〜200ml）を淹れる機会が多いなら「101」一択です。大きな102で少量の粉を淹れると、粉の層が薄くなりすぎてお湯が素通りし、薄いコーヒーになってしまいます。逆に家族分やマグカップ2杯分（300ml以上）を一度に淹れるなら「102」が適しています。
+
+**Q2: プラスチック製と陶器製で味や使い勝手はどう違いますか？**
+A2: プラスチック製は軽くて割れず予熱なしで手軽ですが、長年使うと細かな傷や色移りが目立ちます。陶器製は予熱の手間と割れるリスクがありますが、重厚な保温力で味が安定し、汚れやニオイが染み付かず半永久的に美しい艶を保ちます。
+
+**Q3: 陶器の予熱はどのようにおこなうのがベストですか？**
+A3: ペーパーフィルターをセットする前に、ケトルの熱湯をドリッパーの内側全体に回しかけ、下のサーバーに落とします。ドリッパーの外側を手で触って「じんわり熱い」と感じるまで温まったら、サーバーのお湯を捨ててからペーパーと粉をセットしてください。
+
+## まとめ：カリタ陶器ロトがもたらす安定した珈琲抽出の時間
 
 [カリタ 陶器製 ドリッパー ロト](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%82%AB%E3%83%AA%E3%82%BF%20%E9%99%B6%E5%99%A8%E8%A3%BD%20%E3%83%89%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC%20%E3%83%AD%E3%83%88)

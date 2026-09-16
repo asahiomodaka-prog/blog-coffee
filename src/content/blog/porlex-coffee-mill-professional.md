@@ -33,11 +33,11 @@ sidebarProducts:
 今回は、なぜポーレックスが雑味のないクリアなカップを実現できるのか、その切削幾何学と粒度調整の科学を検証します。
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #b45309; border-radius: 10px; background: linear-gradient(135deg, #fffbeb, #fef3c7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
-<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 抽出科学の3分要約</div>
+<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
 <ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #451a03; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>コニカル臼歯の破砕ジオメトリ</strong>: 上部で粗割りし、下部で精密カットする2段階破砕で微粉を激減。</li>
-<li style="margin-bottom: 6px;"><strong>摩擦熱ゼロのセラミック</strong>: 金属刃のような蓄熱がなく、コーヒーオイルの熱変性を完全に防止。</li>
-<li><strong>クリック式再現性</strong>: 1クリック単位で隙間をデジタル感覚で設定可能。狙った味を100%再現。</li>
+<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 高精度な刃による均一な挽き目で微粉を抑え、雑味のないクリアで芳醇な風味を実現。</li>
+<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 挽きたての鮮烈なアロマを毎日体感し、抽出前の豆のポテンシャルを最大限に引き出したい方。</li>
+<li><strong>購入前の注意点</strong>: 刃の材質（セラミックまたはステンレス）と、日々の分解・ブラシ清掃のしやすさ。</li>
 </ul>
 </div>
 
@@ -97,5 +97,19 @@ sidebarProducts:
 数字で管理できる再現性があるからこそ、「今日は少し苦味を抑えたいから1クリック緩めよう」といった論理的なアプローチが可能になり、自宅ドリップの解像度が一気にプロレベルへと引き上がります。
 
 雑味のないピュアなカップクオリティを本気で手に入れたいなら、ポーレックスの切削精度は間違いなく確固たる土台となってくれるはずです。
+
+
+### よくある質問
+
+**Q1: コニカル（円錐）式セラミック刃の構造的な強みは何ですか？**
+A1: プロペラ式（ブレード式）のように豆を叩き砕くのではなく、内外2枚の精密な臼歯で豆を挟み込み、すり潰すように一定のサイズへカットする点です。豆にかかる摩擦熱が極めて少なく、揮発性の高い繊細なアロマ成分の破壊を防ぎます。
+
+**Q2: ペーパードリップに最適なクリック数はいくつですか？**
+A2: ネジを完全に締め込んだゼロ点から、時計と反対回りに「8〜11クリック」緩めた位置が中細挽き〜中挽きの黄金比です。酸味をクリアに際立たせたい浅煎りは8〜9クリック、苦味と甘みのバランスを取りたい中煎り〜深煎りは10〜11クリックを基準に微調整してください。
+
+**Q3: エスプレッソ用の極細挽きにも対応していますか？**
+A3: 2〜4クリックの締まり位置で直火式マキネッタや家庭用エスプレッソに対応する極細パウダー状に挽くことが可能です。ただし、完全なパウダー状にする際は手にかかるトルクが大きくなるため、本体をしっかり握ってゆっくり挽くのが均一化のコツです。
+
+## まとめ：ポーレックス コーヒーミルII プロが叶える上質な粒度と挽き心地
 
 [ポーレックス コーヒーミル プロ](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259D%25E3%2583%25BC%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E3%2583%2597%25E3%2583%25AD)

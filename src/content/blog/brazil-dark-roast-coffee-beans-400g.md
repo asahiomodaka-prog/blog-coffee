@@ -25,11 +25,11 @@ faq:
 今回は、忙しい毎朝の食卓を彩るカフェオレや、仕事の合間のリフレッシュに欠かせない急冷アイスコーヒーに特化して、その魅力と美味しく飲むレシピを徹底解説します。
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #b45309; border-radius: 10px; background: linear-gradient(135deg, #fffbeb, #fef3c7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
-<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 カフェオレ・アイス特化の3分要約</div>
+<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
 <ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #451a03; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>ミルクに勝つビター感</strong>: ダークチョコを思わせる力強いコクが、牛乳の甘みを最大限に引き立てる。</li>
-<li style="margin-bottom: 6px;"><strong>急冷アイスに最適</strong>: 氷で急冷しても香りが飛ばず、透明感のあるシャープな後味を実現。</li>
-<li><strong>たっぷり400g</strong>: 毎日2杯飲んでも約2〜3週間楽しめるデイリーユースに嬉しい大容量パッケージ。</li>
+<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 高精度な刃による均一な挽き目で微粉を抑え、雑味のないクリアで芳醇な風味を実現。</li>
+<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 挽きたての鮮烈なアロマを毎日体感し、抽出前の豆のポテンシャルを最大限に引き出したい方。</li>
+<li><strong>購入前の注意点</strong>: 刃の材質（セラミックまたはステンレス）と、日々の分解・ブラシ清掃のしやすさ。</li>
 </ul>
 </div>
 
@@ -81,5 +81,19 @@ faq:
 深煎り豆は表面にオイルが浮きやすいため、袋を開封した後は密閉キャニスターに移し、直射日光の当たらない涼しい場所で保管するのが美味しさを長持ちさせるコツです。
 
 朝の目覚ましカフェオレから、午後のキリッとしたアイスコーヒーまで。日常のあらゆるブレイクタイムを力強く支えてくれるブラジル深煎り豆は、あなたのコーヒー生活に欠かせない常備豆になってくれるはずです。
+
+
+### よくある質問
+
+**Q1: カフェオレにする際の理想的なコーヒーとミルクの比率は？**
+A1: コーヒー1：温めた牛乳1の同量比率が黄金比です。本豆を通常ドリップよりやや濃いめ（粉20gに対してお湯120〜140ml）に抽出し、人肌程度（60〜65℃）に温めた成分無調整牛乳と合わせることで、カフェで飲むような濃厚なカフェオレが完成します。
+
+**Q2: ブラックで飲むと苦すぎませんか？**
+A2: ブラジル豆特有のナッツのような香ばしさとマイルドな甘みが土台にあるため、刺すようなトゲのある苦味はありません。ビターチョコやカカオのような心地よいほろ苦さで、甘い洋菓子や和菓子との相性も抜群です。
+
+**Q3: 急冷アイスコーヒーを淹れるコツは？**
+A3: サーバーにあらかじめ氷を150gほど入れておき、粉25gに対して沸騰したてのお湯150mlをゆっくり注ぎます。落ちてきた熱い原液が瞬時に氷で冷やされることで、香気成分が液体の中に閉じ込められ、濁りのない透き通った極上アイスコーヒーになります。
+
+## まとめ：深煎りブラジル400gで毎日のコーヒー習慣を格上げ
 
 [ブラジル深煎り400g自家焙煎コーヒー豆](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25B8%25E3%2583%25AB%2520%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%2520400g)

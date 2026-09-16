@@ -31,11 +31,11 @@ sidebarProducts:
 今回は、[カリタ (Kalita) 陶器製 コーヒードリッパー 101 / 102](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%82%AB%E3%83%AA%E3%82%BF%20%E9%99%B6%E5%99%A8%E8%A3%BD%20%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%89%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC%20101%20102) の構造を科学的に解体し、3つ穴がもたらす味覚の必然性を解説します。
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #b45309; border-radius: 10px; background: linear-gradient(135deg, #fffbeb, #fef3c7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
-<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 3つ穴抽出科学の3分要約</div>
+<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
 <ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #451a03; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>台形3つ穴の物理制御</strong>: 穴の総面積がお湯の透過速度を自然に律速。注湯テクニックによる味のブレを最小化。</li>
-<li style="margin-bottom: 6px;"><strong>直線リブの最短導線</strong>: 側面を垂直に走るリブが空気層を保ち、お湯を旋回させずに均一な下向き流速を維持。</li>
-<li><strong>雑味を吸着する厚い粉層</strong>: 台形構造によって粉の深さ（ベッドハイト）が確保され、粉自体が天然のフィルターとして機能。</li>
+<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 抽出速度やお湯の抜けを最適化し、豆本来の華やかなアロマとクリアなコクを安定して引き出す設計。</li>
+<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 自宅での抽出クオリティを一段引き上げ、道具の手入れも含めてコーヒー時間を楽しみたい方。</li>
+<li><strong>購入前の注意点</strong>: 器具の抽出容量（杯数）やペーパーフィルター規格、パーツの洗いやすさをチェック。</li>
 </ul>
 </div>
 
@@ -70,7 +70,7 @@ sidebarProducts:
 
 「淹れる人の腕に依存せず、器具側が抽出スピードをコントロールしてくれる」というこの特性こそが、朝の忙しい時間でも常に同じクオリティの味を再現できる最大の科学的根拠です。
 
-## 直線リブが導く下向き水流：雑味を逃さない「ろ過層」のメカニズム
+## 直線リブが導く下向き水流：雑味を逃さない「ろ過層」の仕組みと使いやすさの秘密
 
 ドリッパー内壁に刻まれたリブ（溝）の形状も、抽出効率に直結する重要パーツです。
 
@@ -93,5 +93,19 @@ sidebarProducts:
 コーヒーの成分抽出において、80℃前半まで温度が急落すると、未抽出による薄っぺらい酸味が出やすくなります。陶器の安定した保温力は、豆の深部に眠る香気成分と芳醇なボディ感を限界まで引き出すための理想的な抽出環境をキープし続けてくれます。
 
 理にかなった日本のものづくりが生んだカリタ陶器ドリッパー。その揺るぎない抽出理論は、毎朝の一杯を確かな安心感で満たしてくれるはずです。
+
+
+### よくある質問
+
+**Q1: 円すい型（ハリオV60等）とカリタ3つ穴の最大の違いは何ですか？**
+A1: お湯が粉を通過する「流速の決定権」の所在です。V60のような大きな1つ穴は注湯スピードによって味が大きく変動しますが、カリタの3つ穴台形は底面の小さな3穴が流速を物理的に制限するため、誰が淹れても過剰な湯抜けや過剰滞留が起きず、安定したバランスの良い濃度が抽出されます。
+
+**Q2: 直線リブの役割は何ですか？**
+A2: ペーパーフィルターとドリッパー内壁の間に一定の空気層（抜け道）を確保し、スムーズなガス放出とお湯の均一な下降を促す役割を持ちます。リブが直線であることで、お湯が旋回せず最短距離で3つの穴へ導かれます。
+
+**Q3: 陶器製はプラスチック製と比べて抽出温度にどう影響しますか？**
+A3: 陶器は比熱容量が大きく、事前にお湯でしっかり温める（予熱する）ことで、抽出中の急激な湯温低下を防ぎます。特に冬場でも一定の抽出温度（85〜90℃前後）をキープしやすく、豆の持つ甘みとコクを損なわずに溶出させます。
+
+## まとめ：カリタ陶器ドリッパーで楽しむ端正なハンドドリップ
 
 [カリタ (Kalita) 陶器製 コーヒードリッパー 101 / 102](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%E3%82%AB%E3%83%AA%E3%82%BF%20%E9%99%B6%E5%99%A8%E8%A3%BD%20%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%89%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC%20101%20102)

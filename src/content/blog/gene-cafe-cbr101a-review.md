@@ -25,11 +25,11 @@ faq:
 今回は、自宅焙煎をこれから始める初心者が安心して導入できるよう、煙・チャフ対策から初回の失敗しない焙煎手順まで分かりやすく解説します。
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #b45309; border-radius: 10px; background: linear-gradient(135deg, #fffbeb, #fef3c7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
-<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 初心者のための3分要約</div>
+<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
 <ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #451a03; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>ガラスドラムで安心</strong>: 焙煎中の豆の色付きが常に見えるため、焦がす失敗を100%防止。</li>
-<li style="margin-bottom: 6px;"><strong>チャフ自動分離</strong>: 薄皮が飛び散らずコレクターに集約されるため、後片付けが圧倒的に簡単。</li>
-<li><strong>高コスパ</strong>: 生豆は焙煎豆の半額以下。1杯あたり約30〜40円で最高鮮度のコーヒーが飲める。</li>
+<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 鮮度と焙煎度にこだわり、豆本来の豊かなアロマと奥深いコクを自宅で味わえる点。</li>
+<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 毎日のカフェ代を抑えつつ、おうちで妥協のない本格ドリップを楽しみたいコーヒー愛好家。</li>
+<li><strong>購入前の注意点</strong>: 好みの焙煎度（浅煎り・中煎り・深煎り）と挽き目、開封後の密閉保存環境をチェック。</li>
 </ul>
 </div>
 
@@ -116,3 +116,14 @@ CBR-101Aの本体価格は約8万〜10万円前後と、初期投資としては
 失敗のない確実な自宅焙煎ライフをスタートさせたいなら、Gene Cafe CBR-101Aは間違いなく後悔のない最高のパートナーになってくれるでしょう。
 
 [Gene Cafe コーヒー豆焙煎機 CBR-101A](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%258D%25E3%2582%25AB%25E3%2583%2595%25E3%2582%25A7%2520%25E7%258F%2588%25E7%2590%25B2%25E7%2584%2599%25E7%2585%258E%25E6%25A9%259F%2520CBR-101A)
+
+### よくある質問
+
+**Q1: 焙煎が初めてでも失敗せずに使いこなせますか？**
+A1: はい、完全に自動化されたドラム回転とデジタル温度管理により、初心者でも初回から失敗なく焙煎できます。透明な耐熱ガラスドラムから豆の色の変化が常に見えるため、直火式のような「中が見えずに焦がしてしまう」心配が一切ありません。
+
+**Q2: マンションのキッチンでも煙やニオイで困りませんか？**
+A2: 換気扇の直下で使用すれば、通常の調理と同等レベルの換気で十分に対応可能です。大容量チャフコレクターが豆の薄皮を自動回収するため、コンロ周りにゴミが飛び散るストレスもありません。
+
+**Q3: 最初の生豆は何を選べば良いですか？**
+A3: 粒が揃っていて水分量が安定している「ブラジル・サントス」や「コロンビア・スプレモ」がおすすめです。中煎り（シティロースト前後）に仕上げやすく、香ばしいナッツ感とマイルドな甘みを誰でも簡単に引き出せます。

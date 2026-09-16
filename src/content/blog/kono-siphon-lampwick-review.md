@@ -40,15 +40,6 @@ sidebarProducts:
 
 この部品は、サイフォン抽出の根幹を支えるアルコールランプの心臓部だ。安定した熱量を供給し、雑味のない、豆本来の風味を最大限に引き出すコーヒーを淹れるために欠かせない。サイフォニストなら、ぜひ手元に置いておきたい必須アイテムと言える。
 
-<div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #b45309; border-radius: 10px; background: linear-gradient(135deg, #fffbeb, #fef3c7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
-<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
-<ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #451a03; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 雑味やブレを抑え、豆本来の華やかなアロマとクリアなコクを誰でも安定して引き出せる設計。</li>
-<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 自宅での抽出クオリティを一段引き上げ、道具の手入れも含めてコーヒー時間を楽しみたい方。</li>
-<li><strong>購入前の注意点</strong>: 器具の抽出容量（杯数）やパーツの洗いやすさ、手持ちの熱源との相性をチェックして選ぶのがベスト。</li>
-</ul>
-</div>
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -138,15 +129,6 @@ KONOのランプ芯は、サイフォン抽出の品質にこだわりたい人�
 安定した火力は、抽出の精度を格段に高める。結果として、豆本来の風味を損なうことなく、クリアで深みのある一杯を自宅で楽しめるようになるだろう。サイフォンの持つ魅力を最大限に引き出し、僕のコーヒーライフを豊かにしてくれた。
 
 この[KONO コーノ ランプ芯 セト口付 サイフォン](https://hb.afl.rakuten.co.jp/hgc/g00twes1.ve2q5361.g00twes1.ve2q6fb7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftobidasu-baisenjo%2Fkig-syphon-lampwick%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftobidasu-baisenjo%2Fi%2F10000247%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)は、サイフォン抽出を愛する全ての人に、自信を持って推薦できる。日々のコーヒータイムが、より一層充実したものになるはずだ。
-
-<div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #b45309; border-radius: 10px; background: linear-gradient(135deg, #fffbeb, #fef3c7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
-<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
-<ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #451a03; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 雑味やブレを抑え、豆本来の華やかなアロマとクリアなコクを誰でも安定して引き出せる設計。</li>
-<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 自宅での抽出クオリティを一段引き上げ、道具の手入れも含めてコーヒー時間を楽しみたい方。</li>
-<li><strong>購入前の注意点</strong>: 器具の抽出容量（杯数）やパーツの洗いやすさ、手持ちの熱源との相性をチェックして選ぶのがベスト。</li>
-</ul>
-</div>
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">

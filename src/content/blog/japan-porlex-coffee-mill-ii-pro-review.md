@@ -41,11 +41,11 @@ sidebarProducts:
 今回は、初心者が最初の1台として選ぶべき実用性、パッキングの快適さ、そして一生モノとして付き合える手入れのしやすさにフォーカスしてレビューします。
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #b45309; border-radius: 10px; background: linear-gradient(135deg, #fffbeb, #fef3c7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
-<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 携帯性と使い勝手の3分要約</div>
+<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
 <ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #451a03; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>驚異のポータビリティ</strong>: ハンドルホルダー一体型でスリムにパッキング可能。アウトドアの荷物を一切邪魔しない。</li>
-<li style="margin-bottom: 6px;"><strong>完全丸洗い対応</strong>: セラミック刃とステンレス製だから水洗いOK。古い油分の酸化臭をシャットアウト。</li>
-<li><strong>高耐久日本製</strong>: 鹿児島県霧島市の自社工場製。金属臭移りがなく、落としても割れない頑強設計。</li>
+<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 高精度な刃による均一な挽き目で微粉を抑え、雑味のないクリアで芳醇な風味を実現。</li>
+<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 挽きたての鮮烈なアロマを毎日体感し、抽出前の豆のポテンシャルを最大限に引き出したい方。</li>
+<li><strong>購入前の注意点</strong>: 刃の材質（セラミックまたはステンレス）と、日々の分解・ブラシ清掃のしやすさ。</li>
 </ul>
 </div>
 
@@ -107,3 +107,14 @@ sidebarProducts:
 自宅のキッチンでのデイリーユースはもちろん、週末のピクニック、本格的な登山やソロキャンプまで。どこへ連れて行っても変わらぬ信頼感で最高の一杯を約束してくれるポーレックス コーヒーミルIIは、まさに一生モノと呼ぶにふさわしい逸品です。
 
 [コーヒーミル・II / プロフェッショナル](https://hb.afl.rakuten.co.jp/hgc/g00r9tv1.ve2q5135.g00r9tv1.ve2q6507/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frealjapanprojectstore%2F0121r002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frealjapanprojectstore%2Fi%2F10005593%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+
+### よくある質問
+
+**Q1: 丸洗いできるとのことですが、手入れは本当に簡単ですか？**
+A1: 極めて簡単です。本体が工具なしで簡単に分解でき、セラミック刃も含めて全てのパーツを水洗いできます。金属刃と違って錆びる心配がなく、洗剤を使わずぬるま湯で洗い流して乾かすだけで、古い酸化油分や微粉のニオイを完全にリセットできます。
+
+**Q2: キャンプや登山での携帯性はどうですか？**
+A2: 直径約4.9cm、高さ約13.5cm、重量約250g（ミニサイズ相当）と驚くほどスリムです。ハンドルを外して本体側面のシリコン製バンドに固定できるため、バックパックの隙間やクッカーの中にすっぽり収まり、荷物を圧迫しません。
+
+**Q3: 一度に何杯分の豆を挽けますか？**
+A3: プロフェッショナル（標準サイズ）で約30g（2〜3杯分）、ミニサイズで約20g（1〜2杯分）を一度に挽くことができます。ソロキャンプやカップルでの使用にジャストな容量設計です。

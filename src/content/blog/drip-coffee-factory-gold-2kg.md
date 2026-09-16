@@ -29,9 +29,9 @@ faq:
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #b45309; border-radius: 10px; background: linear-gradient(135deg, #fffbeb, #fef3c7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
 <ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #451a03; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 雑味やブレを抑え、豆本来の華やかなアロマとクリアなコクを誰でも安定して引き出せる設計。</li>
-<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 毎日のカフェ代を抑えつつ、おうちで妥協のない本格ドリップを楽しみたいコーヒー愛好家。</li>
-<li><strong>購入前の注意点</strong>: 器具の抽出容量（杯数）と、好みの焙煎度・挽き目との相性をチェックして選ぶのがベスト。</li>
+<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 抽出速度やお湯の抜けを最適化し、豆本来の華やかなアロマとクリアなコクを安定して引き出す設計。</li>
+<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 自宅での抽出クオリティを一段引き上げ、道具の手入れも含めてコーヒー時間を楽しみたい方。</li>
+<li><strong>購入前の注意点</strong>: 器具の抽出容量（杯数）やペーパーフィルター規格、パーツの洗いやすさをチェック。</li>
 </ul>
 </div>
 
@@ -206,7 +206,7 @@ faq:
 
 この器具が提供するのは、安定した美味しい一杯だけでなく、それを生み出すプロセスへの信頼と、日々の生活を豊かにする心のゆとりである。
 
-もし自宅でのコーヒー体験をもう一歩先に進めたい、もっと安定して美味しいコーヒーを飲みたいと願っているなら、「プレミアム」は、その願いを叶えるための有力な選択肢となるだろう。初期投資は必要かもしれないが、それ以上に得られる「質」と「満足感」は、あなたのコーヒーライフを根底から変える可能性を秘めている。
+もし自宅でのコーヒー体験をもう一歩先に進めたい、もっと安定して美味しいコーヒーを飲みたいと願っているなら、「プレミアム」は、その願いを叶えるための頼もしい選択肢になりますだろう。初期投資は必要かもしれないが、それ以上に得られる「質」と「満足感」は、あなたのコーヒーライフを根底から変える可能性を秘めている。
 
 </a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%89%E3%83%AA%E3%83%83%E3%83%97%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%20%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%20%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>

@@ -2,7 +2,7 @@
 title: 'KINTOコーヒーカラフェセットは「おしゃれだけ」じゃない！ドリップのコツと実力レビュー'
 description: 'KINTO SLOW COFFEE STYLE コーヒーカラフェセット 300mlは、ペーパーフィルター不要のステンレスフィルターで豆本来の風味をダイレクト抽出。初心者でも手軽に本格的な味わいを楽しめます。amazonで4,840円。'
 pubDate: '2026-08-30'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/daily-3/cabinet/item/kin/kin02-01_1.jpg?_ex=600x600'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/e-goods/cabinet/th/ry1104900_th.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'dripper'
 tags:
@@ -29,16 +29,16 @@ faq:
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #b45309; border-radius: 10px; background: linear-gradient(135deg, #fffbeb, #fef3c7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
 <ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #451a03; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 雑味やブレを抑え、豆本来の華やかなアロマとクリアなコクを誰でも安定して引き出せる設計。</li>
-<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 毎日のカフェ代を抑えつつ、おうちで妥協のない本格ドリップを楽しみたいコーヒー愛好家。</li>
-<li><strong>購入前の注意点</strong>: 器具の抽出容量（杯数）と、好みの焙煎度・挽き目との相性をチェックして選ぶのがベスト。</li>
+<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 抽出速度やお湯の抜けを最適化し、豆本来の華やかなアロマとクリアなコクを安定して引き出す設計。</li>
+<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 自宅での抽出クオリティを一段引き上げ、道具の手入れも含めてコーヒー時間を楽しみたい方。</li>
+<li><strong>購入前の注意点</strong>: 器具の抽出容量（杯数）やペーパーフィルター規格、パーツの洗いやすさをチェック。</li>
 </ul>
 </div>
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/daily-3/cabinet/item/kin/kin02-01_1.jpg?_ex=600x600" alt="KINTO コーヒーカラフェセット" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/e-goods/cabinet/th/ry1104900_th.jpg?_ex=600x600" alt="KINTO コーヒーカラフェセット" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
@@ -85,7 +85,7 @@ KINTO SLOW COFFEE STYLE コーヒーカラフェセットが「豆本来の風�
 
 豆が持つ個性を最大限に引き出すための工夫が、このシンプルな器具には凝縮されている。
 
-<div style="text-align: center; margin: 28px 0;"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/daily-3/cabinet/item/kin/kin02-01_1.jpg?_ex=600x600" alt="KINTO SLOW COFFEE STYLE コーヒーカラフェセット 300ml" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" /></div>
+<div style="text-align: center; margin: 28px 0;"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/e-goods/cabinet/th/ry1104900_th.jpg?_ex=600x600" alt="KINTO SLOW COFFEE STYLE コーヒーカラフェセット 300ml" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" /></div>
 
 ## シンプルさが生む、手軽さと経済性
 
@@ -254,7 +254,7 @@ KINTO SLOW COFFEE STYLE コーヒーカラフェセット 300mlは、自宅で�
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/daily-3/cabinet/item/kin/kin02-01_1.jpg?_ex=600x600" alt="KINTO コーヒーカラフェセット" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/e-goods/cabinet/th/ry1104900_th.jpg?_ex=600x600" alt="KINTO コーヒーカラフェセット" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>

@@ -13,7 +13,7 @@ faq:
   - question: 'ケトルのお手入れはどれくらいの頻度で必要か？'
     answer: '毎日使用する場合は、使用後に水で軽くすすぎ洗いするだけで十分な清潔を保つことができる。週に一度程度は、柔らかいスポンジで内部を丁寧に洗い、必要に応じて水垢が付着してきた場合には、クエン酸を薄めた水を入れて沸騰させ、しばらく置いてから洗い流すことで綺麗に保てる。定期的な手入れを行うことで、ケトルを長持ちさせ、衛生的に使用することが可能となる。'
   - question: 'EPEIOSを使うと、本当に味が変わるのか？'
-    answer: 'その変化は明確であると言える。特に、これまで湯温管理や注湯に苦労していた方ほど、その変化は顕著に感じられるであろう。EPEIOSの精密な温度制御と注ぎやすいノズルは、コーヒー豆が持つ本来のポテンシャルを最大限に引き出すことを可能にする。雑味が減り、クリーンで複雑な香りが際立つ、安定した美味しい一杯を毎日楽しめるようになるであろう。それは、単なる「味の変化」に留まらず、コーヒーとの新たな対話が始まる瞬間とも言える。 <div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid fcd34d; border-radius: 14px; background: linear-gradient(135deg, fef3c7, fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);"> <div style="font-size: 0.75rem; font-weight: bold; color: 78350f; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div> <h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: 78350f; line-height: 1.4;">☕ 自分好みの豆が届く！コーヒー診断＆公式定期便</h3> <div style="font-size: 0.85rem; font-weight: bold; color: 475569; margin-bottom: 10px;">【PostCoffee / ポストコーヒー】</div> <p style="margin: 0 0 16px 0; font-size: 0.88rem; color: 334155; line-height: 1.6;">簡単な無料のコーヒー診断を受けるだけで、世界中の厳選ロースターからあなた好みの豆が毎月届く人気サブスク。初回お試し特別割引実施中！</p> <div style="text-align: center;"> <a href="https://postcoffee.co/" target="blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, b45309, 78350f); color: ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);"> 👉 無料でコーヒー診断を受けてみる </a> </div> </div>'
+    answer: 'その変化は明確であると言える。特に、これまで湯温管理や注湯に苦労していた方ほど、その変化は顕著に感じられるであろう。EPEIOSの精密な温度制御と注ぎやすいノズルは、コーヒー豆が持つ本来のポテンシャルを最大限に引き出すことを可能にする。雑味が減り、クリーンで複雑な香りが際立つ、安定した美味しい一杯を毎日楽しめるようになるであろう。それは、単なる「味の変化」に留まらず、コーヒーとの新たな対話が始まる瞬間とも言える。'
 ---
 ---
 【商品データ】:
@@ -39,9 +39,9 @@ faq:
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #b45309; border-radius: 10px; background: linear-gradient(135deg, #fffbeb, #fef3c7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
 <ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #451a03; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 雑味やブレを抑え、豆本来の華やかなアロマとクリアなコクを誰でも安定して引き出せる設計。</li>
-<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 毎日のカフェ代を抑えつつ、おうちで妥協のない本格ドリップを楽しみたいコーヒー愛好家。</li>
-<li><strong>購入前の注意点</strong>: 器具の抽出容量（杯数）と、好みの焙煎度・挽き目との相性をチェックして選ぶのがベスト。</li>
+<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 細口ノズルによる湯量・注湯スピードの精密なコントロールと、ブレのない安定した抽出。</li>
+<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: ハンドドリップの再現性を高め、好みの味わいを思い通りに引き出したいコーヒー愛好家。</li>
+<li><strong>購入前の注意点</strong>: 本体の満水容量（0.6L〜1.0L）や持ちやすさ、手持ちの熱源（IH/直火）との適合性。</li>
 </ul>
 </div>
 

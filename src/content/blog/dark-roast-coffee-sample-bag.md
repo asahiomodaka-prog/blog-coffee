@@ -33,11 +33,11 @@ sidebarProducts:
 今回は、深煎りの代表的産地であるブラジル、マンデリン（インドネシア）、コロンビアの3銘柄を軸に、それぞれの味の構造と自分好みの選び分け基準を徹底比較します。
 
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #b45309; border-radius: 10px; background: linear-gradient(135deg, #fffbeb, #fef3c7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
-<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 深煎り産地比較の3分要約</div>
+<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
 <ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #451a03; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>ブラジル（香ばしさの王道）</strong>: ローストナッツとミルクチョコの風味。突出したクセがなく万人受けするバランス。</li>
-<li style="margin-bottom: 6px;"><strong>マンデリン（圧倒的重厚感）</strong>: スマトラ式特有の大地やハーブを思わせるアーシーな苦味と濃厚なオイル感。</li>
-<li><strong>コロンビア（芳醇な甘み）</strong>: 深煎りの中に生きるドライフルーツのような円熟した甘みと滑らかなシルキーボディ。</li>
+<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 鮮度と焙煎度にこだわり、豆本来の豊かなアロマと奥深いコクを自宅で味わえる点。</li>
+<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 毎日のカフェ代を抑えつつ、おうちで妥協のない本格ドリップを楽しみたいコーヒー愛好家。</li>
+<li><strong>購入前の注意点</strong>: 好みの焙煎度（浅煎り・中煎り・深煎り）と挽き目、開封後の密閉保存環境をチェック。</li>
 </ul>
 </div>
 
@@ -85,5 +85,19 @@ sidebarProducts:
 「平日の朝はスッキリ飲めるブラジル」「仕事で疲れた夜はマンデリンの濃厚な一口」「休日のスイーツタイムにはコロンビア」と、時間帯や気分に合わせて深煎りを使い分ける生活は、日常のカフェタイムを何段階も贅沢にしてくれます。
 
 あなたにとって最も心安らぐ深煎りの個性を、ぜひこの福袋で見つけ出してみてください。
+
+
+### よくある質問
+
+**Q1: 深煎りにすると、産地ごとの味の違いは消えてしまいませんか？**
+A1: 決して消えません。確かに浅煎り特有の繊細なフルーツ酸味はロースト香に隠れますが、豆が本来持っている油脂分（オイル）、ミネラル感、糖分の密度によって、後味に抜けるアロマやコクの質感（ボディ感）に決定的な違いが現れます。
+
+**Q2: 酸味が苦手な人が最初に選ぶべき深煎り産地はどこですか？**
+A2: まずは「ブラジル深煎り」をおすすめします。酸味がほぼゼロで、ローストナッツやチョコレートのような親しみやすい甘香ばしさがあるため、誰でも美味しく飲めます。さらに力強い重厚感を求めるなら「マンデリン」へとステップアップするのがベストです。
+
+**Q3: お試し福袋の豆を飲み比べる順番にコツはありますか？**
+A3: ボディの軽い方から重い方へと順にテイスティングするのがコツです。「コロンビア（フルーティー＆甘み）」→「ブラジル（香ばしさ＆バランス）」→「マンデリン（濃厚重厚＆スパイシー）」の順序で飲むと、それぞれの個性を舌の上で鮮明に識別できます。
+
+## まとめ：深煎り福袋で見つける自分だけの王道ブレンド
 
 [深煎りお試し福袋](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2581%258A%25E8%25A9%25A6%25E3%2581%2597%25E7%25A6%258F%25E8%25A2%258B%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586)

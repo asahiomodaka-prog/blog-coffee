@@ -2,7 +2,7 @@
 title: '「浅煎り苦手」が激変！珈琲きゃろっと エチオピアで毎日の朝が変わる'
 description: '珈琲きゃろっとの浅煎りコーヒー豆 エチオピア イルガチェフェは、華やかなフローラル香と柑橘系の酸味、フルーティーな甘みが魅力。自宅で本格的なスペシャルティコーヒーを。Amazonで2480円。冷めても美味しいクリーンな味わいを体験。'
 pubDate: '2026-08-30'
-heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/coffee-carrot/cabinet/item/ethiopia_m.jpg?_ex=600x600'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/mellowcoffee/cabinet/07316465/07551229/043_main1.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'beans'
 tags:
@@ -29,16 +29,16 @@ faq:
 <div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #b45309; border-radius: 10px; background: linear-gradient(135deg, #fffbeb, #fef3c7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
 <div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
 <ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #451a03; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 鮮度と焙煎度にこだわり、豆本来の豊かなアロマと奥深いコクを自宅で手軽に味わえる点。</li>
+<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 鮮度と焙煎度にこだわり、豆本来の豊かなアロマと奥深いコクを自宅で味わえる点。</li>
 <li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 毎日のカフェ代を抑えつつ、おうちで妥協のない本格ドリップを楽しみたいコーヒー愛好家。</li>
-<li><strong>購入前の注意点</strong>: 好みの焙煎度（浅煎り・深煎り）や挽き目、開封後の密閉保存環境をチェックして選ぶのがベスト。</li>
+<li><strong>購入前の注意点</strong>: 好みの焙煎度（浅煎り・中煎り・深煎り）と挽き目、開封後の密閉保存環境をチェック。</li>
 </ul>
 </div>
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/coffee-carrot/cabinet/item/ethiopia_m.jpg?_ex=600x600" alt="珈琲きゃろっと エチオピアで毎日の朝が変わる" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/mellowcoffee/cabinet/07316465/07551229/043_main1.jpg?_ex=600x600" alt="珈琲きゃろっと エチオピアで毎日の朝が変わる" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
@@ -91,7 +91,7 @@ faq:
 
 この豆を通じて、コーヒーの科学的な側面と、それが生み出す感動的な味わいを深く理解することが可能になるだろう。
 
-<div style="text-align: center; margin: 28px 0;"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/coffee-carrot/cabinet/item/ethiopia_m.jpg?_ex=600x600" alt="珈琲きゃろっと 浅煎りコーヒー豆 エチオピア" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" /></div>
+<div style="text-align: center; margin: 28px 0;"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/mellowcoffee/cabinet/07316465/07551229/043_main1.jpg?_ex=600x600" alt="珈琲きゃろっと 浅煎りコーヒー豆 エチオピア" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" /></div>
 
 ## 日常に溶け込む贅沢：イルガチェフェが変えるコーヒー習慣とコストパフォーマンス
 
@@ -280,7 +280,7 @@ A3: 珈琲きゃろっとの浅煎り豆は、鮮度が非常に重要です。
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/coffee-carrot/cabinet/item/ethiopia_m.jpg?_ex=600x600" alt="珈琲きゃろっと エチオピアで毎日の朝が変わる" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/mellowcoffee/cabinet/07316465/07551229/043_main1.jpg?_ex=600x600" alt="珈琲きゃろっと エチオピアで毎日の朝が変わる" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
