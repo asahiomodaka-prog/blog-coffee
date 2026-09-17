@@ -61,7 +61,7 @@ sidebarProducts:
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">カリタ ドリッパー WDC-155 銅製 ツバメ</h4>
-<p style='margin: 0 0 12px 0; font-size: 0.86rem; color: #475569; line-height: 1.5;'>Pickup Item！カリタ ドリッパー WDS-155 ステンレス5,280円カリタ ドリッパー WDC-185 銅製 ツバ7,980円カリタ ドリッパー WDS-185 ステンレス5,480円カリタ ウェーブドリッパー 155S [ </p>
+<p style='margin: 0 0 12px 0; font-size: 0.86rem; color: #475569; line-height: 1.5;'>熱伝導に優れた銅素材と燕三条の職人技術が融合したウェーブドリッパー。安定した湯温と三つ穴構造で誰でもクリアな味わいを抽出できます。</p>
 <div class="live-price-box" data-product-key="カリタ-ドリッパー-wdc-155-銅製-ツバメ" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span class="live-stock-badge" style="display: inline-flex; align-items: center; background: #ecfdf5; color: #047857; font-size: 0.75rem; font-weight: 700; padding: 2px 8px; border-radius: 9999px;">🟢 在庫あり（即納対応）</span>
@@ -203,7 +203,7 @@ WDC-155を使ってから、僕のコーヒーライフは格段に豊かにな�
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">カリタ ドリッパー WDC-155 銅製 ツバメ</h4>
-<p style='margin: 0 0 12px 0; font-size: 0.86rem; color: #475569; line-height: 1.5;'>Pickup Item！カリタ ドリッパー WDS-155 ステンレス5,280円カリタ ドリッパー WDC-185 銅製 ツバ7,980円カリタ ドリッパー WDS-185 ステンレス5,480円カリタ ウェーブドリッパー 155S [ </p>
+<p style='margin: 0 0 12px 0; font-size: 0.86rem; color: #475569; line-height: 1.5;'>熱伝導に優れた銅素材と燕三条の職人技術が融合したウェーブドリッパー。安定した湯温と三つ穴構造で誰でもクリアな味わいを抽出できます。</p>
 <div class="live-price-box" data-product-key="カリタ-ドリッパー-wdc-155-銅製-ツバメ" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
 <span class="live-stock-badge" style="display: inline-flex; align-items: center; background: #ecfdf5; color: #047857; font-size: 0.75rem; font-weight: 700; padding: 2px 8px; border-radius: 9999px;">🟢 在庫あり（即納対応）</span>
