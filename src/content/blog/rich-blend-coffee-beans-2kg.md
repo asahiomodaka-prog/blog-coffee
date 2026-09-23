@@ -131,7 +131,6 @@ faq:
 <div style="text-align: center;">
 <a href="https://postcoffee.co/" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 無料でコーヒー診断を受けてみる
-</a>
 </div>
 </div>
 
@@ -159,10 +158,10 @@ faq:
 
 友人にも好評で、「家でこんなに美味しいコーヒーが飲めるのか」と驚かれることも少なくない。筆者がこのブレンドに見出す価値は、単なる味覚的な満足だけに留まらず、筆者のライフスタイル全体に溶け込み、日常を豊かにする点にある。
 
-| 項目   | 内容                   |
-| :----- | :--------------------- |
+| 項目 | 内容 |
+| --- | --- |
 | 商品名 | IGURAMUリッチブレンド |
-| 容量   | 2kg                    |
+| 容量 | 2kg |
 
 ## 最適な抽出方法を見つける：このブレンドが輝く組み合わせ
 
@@ -243,7 +242,6 @@ faq:
 
 この豆がもたらすのは、日常を彩る豊かな香りと味わい、そして、自宅で高品質なコーヒーを追求する喜びである。あなたのコーヒーライフを、より深く、より豊かにするための選択肢として、[IGURAMUリッチブレンド2kg](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DGURAMU%2520%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2581%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25202kg)を検討してみる価値は大いにあるだろう。
 
-</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGURAMU%20%E3%83%AA%E3%83%83%E3%83%81%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%20%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E8%B1%86%202kg%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">

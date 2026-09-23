@@ -126,7 +126,7 @@ KINTO SLOW COFFEE STYLE コーヒーカラフェセットが「豆本来の風�
 機能性と美しさを両立させている点も、日々の満足度を高める要因の一つである。
 
 | 項目 | 詳細 |
-| :--- | :--- |
+| --- | --- |
 | 価格 | 4,840円 |
 | メーカー | KINTO (キントー) |
 | 型番/仕様 | 27620 (300ml) / 耐熱ガラス、ステンレス、コポリエステル、コットン |
@@ -164,7 +164,6 @@ KINTO SLOW COFFEE STYLE コーヒーカラフェセットが「豆本来の風�
 <div style="text-align: center;">
 <a href="https://postcoffee.co/" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 無料でコーヒー診断を受けてみる
-</a>
 </div>
 </div>
 
@@ -248,7 +247,6 @@ KINTO SLOW COFFEE STYLE コーヒーカラフェセット 300mlは、自宅で�
 
 [KINTO SLOW COFFEE STYLE コーヒーカラフェセット 300ml](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DKINTO%20%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%AB%E3%83%A9%E3%83%95%E3%82%A7%E3%82%BB%E3%83%83%E3%83%88)
 
-</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKINTO%20%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%AB%E3%83%A9%E3%83%95%E3%82%A7%E3%82%BB%E3%83%83%E3%83%88%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">

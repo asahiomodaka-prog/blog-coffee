@@ -143,7 +143,7 @@ faq:
 最初は半信半疑だった人も、一度挽きたてのコーヒーを体験すれば、その違いに納得するだろう。
 
 | 項目 | 詳細 |
-| :--- | :--- |
+| --- | --- |
 | 商品タイトル | 手挽き [コーヒーミル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D) |
 | 公式説明 | 手挽き [コーヒーミル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D) review and specs. |
 
@@ -155,7 +155,6 @@ faq:
 <div style="text-align: center;">
 <a href="https://postcoffee.co/" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 無料でコーヒー診断を受けてみる
-</a>
 </div>
 </div>
 

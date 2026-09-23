@@ -92,7 +92,6 @@ sidebarProducts:
 <div style="text-align: center;">
 <a href="https://postcoffee.co/" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 無料でコーヒー診断を受けてみる
-</a>
 </div>
 </div>
 
@@ -107,7 +106,7 @@ KONO製のランプ芯に交換してからは、その違いに驚いた。炎�
 サイフォンでコーヒーを淹れる醍醐味は、その視覚的な美しさにもある。炎が安定していると、湯がフラスコ内を行き交う様子も落ち着いて見え、コーヒーを淹れる時間がより豊かなものになる。この小さな部品が、僕のコーヒー体験を一段階引き上げてくれたのだ。
 
 | 項目 | 詳細 |
-| :--- | :--- |
+| --- | --- |
 | 価格 | 420円 |
 | 販売ショップ | とびだす焙煎所 |
 | レビュー評価 | 4.25 (4件) |

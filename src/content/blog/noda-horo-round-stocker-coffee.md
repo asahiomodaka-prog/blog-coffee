@@ -78,7 +78,6 @@ faq:
 <div style="text-align: center;">
 <a href="https://postcoffee.co/" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 無料でコーヒー診断を受けてみる
-</a>
 </div>
 </div>
 
@@ -103,7 +102,7 @@ faq:
 パッキンは消耗品だが、野田琺瑯から交換用パーツが販売されている場合が多いので安心だ。もし劣化を感じたら、早めに交換すれば初期の密閉性を維持できる。少しだけ手間はかかるが、これらは長く愛用するための小さな投資と考えるべきだろう。
 
 | 項目 | 詳細 |
-| :--- | :--- |
+| --- | --- |
 | 価格 | 3,800円 |
 | メーカー | 野田琺瑯 |
 | 型番/仕様 | RSP-18F (18cm), 容量: 2.2L（コーヒー豆約600g目安）, 材質: 琺瑯, シリコンパッキン付密閉蓋 |

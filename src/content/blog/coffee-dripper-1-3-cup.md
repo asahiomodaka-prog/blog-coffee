@@ -170,7 +170,6 @@ SNSやコーヒーコミュニティでも、「コーヒードリッパー (1�
 <div style="text-align: center;">
 <a href="https://postcoffee.co/" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 無料でコーヒー診断を受けてみる
-</a>
 </div>
 </div>
 
@@ -230,7 +229,7 @@ SNSやコーヒーコミュニティでも、「コーヒードリッパー (1�
 
 ### スペック情報
 | 項目 | 内容 |
-|:---|:---|
+| --- | --- |
 | 製品カテゴリ | コーヒー抽出安定化システム |
 | 対応抽出方式 | ドリップ式 |
 | 主な機能 | 湯温制御、注湯量・速度制御、安定抽出 |
@@ -258,7 +257,6 @@ SNSやコーヒーコミュニティでも、「コーヒードリッパー (1�
 
 [コーヒードリッパー (1〜3杯用・円すい/台形フィルター対応)](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC%25201-3%25E6%259D%25AF%25E7%2594%25A8)
 
-</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%89%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC%201-3%E6%9D%AF%E7%94%A8%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">

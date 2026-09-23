@@ -133,7 +133,7 @@ A3: 粉に挽いた状態は表面積が増えて酸化が進みやすいため�
 ## デロンギ エスプレッソ・カプチーノメーカー その他のモデル（参考情報）
 
 | 項目 | デロンギ ラ・スペシャリスタ・プレスティージオ |
-| :--- | :--- |
+| --- | --- |
 | **価格** | 168,000円（執筆時点） |
 | **本体寸法** | 幅38.5cm x 奥行37.0cm x 高さ45.0cm |
 | **本体重量** | 13.5kg |
@@ -149,7 +149,7 @@ A3: 粉に挽いた状態は表面積が増えて酸化が進みやすいため�
 | **消費電力** | 1450W |
 
 | 商品名 | 価格 | 詳細 |
-| :--- | :--- | :--- |
+| --- | --- | --- |
 | [デロンギ 全自動コーヒーメーカー](https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%87%E3%83%AD%E3%83%B3%E3%82%AE%20%E3%83%A9%20%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AA%E3%82%B9%E3%82%BF%20%E3%83%97%E3%83%AC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%82%B8%E3%82%AA%2F) | 60,000円 | [詳細はこちら](https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%87%E3%83%AD%E3%83%B3%E3%82%AE%20%E3%83%A9%20%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AA%E3%82%B9%E3%82%BF%20%E3%83%97%E3%83%AC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%82%B8%E3%82%AA%2F) |
 | [デロンギ ラ・スペシャリスタ・アルテ グラインダー付き エスプレッソ・カプチーノメーカー](https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%87%E3%83%AD%E3%83%B3%E3%82%AE%20%E3%83%A9%20%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AA%E3%82%B9%E3%82%BF%20%E3%83%97%E3%83%AC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%82%B8%E3%82%AA%2F) | 128,000円 | [詳細はこちら](https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%87%E3%83%AD%E3%83%B3%E3%82%AE%20%E3%83%A9%20%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AA%E3%82%B9%E3%82%BF%20%E3%83%97%E3%83%AC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%82%B8%E3%82%AA%2F) |
 | [デロンギ スティローザ エスプレッソ・カプチーノメーカー](https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%87%E3%83%AD%E3%83%B3%E3%82%AE%20%E3%83%A9%20%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AA%E3%82%B9%E3%82%BF%20%E3%83%97%E3%83%AC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%82%B8%E3%82%AA%2F) | 19,380円 | [詳細はこちら](https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%87%E3%83%AD%E3%83%B3%E3%82%AE%20%E3%83%A9%20%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AA%E3%82%B9%E3%82%BF%20%E3%83%97%E3%83%AC%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%82%B8%E3%82%AA%2F) |

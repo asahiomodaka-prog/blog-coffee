@@ -116,7 +116,6 @@ WDC-155が安定したクリアなコーヒーを抽出できる理由は、そ�
 <div style="text-align: center;">
 <a href="https://postcoffee.co/" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 無料でコーヒー診断を受けてみる
-</a>
 </div>
 </div>
 
@@ -153,7 +152,7 @@ WDC-155は抽出の質だけでなく、日々の使い勝手にも優れてい�
 また、本体重量が約197gと、プラスチック製よりは重い。しかし、この適度な重みがドリッパーを安定させ、抽出中に不用意に動いてしまうリスクを減らしてくれる。これは一長一短だが、個人的には安定感につながる点で好ましいと感じている。
 
 | 項目 | 詳細 |
-| :--- | :--- |
+| --- | --- |
 | 価格 | 7,080円 |
 | 販売ショップ | ショップワールド |
 | レビュー評価 | 5.0 (3件) |

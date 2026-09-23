@@ -157,7 +157,6 @@ faq:
 <div style="text-align: center;">
 <a href="https://postcoffee.co/" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 無料でコーヒー診断を受けてみる
-</a>
 </div>
 </div>
 
@@ -182,7 +181,7 @@ faq:
 自宅で豆を挽き、丁寧に湯を注ぎ、立ち上る香りを嗅ぎながらの一杯は、僕にとって最高の贅沢だ。特に、仕事で疲れた日や、集中して作業に取り組みたい時など、その日の気分に合わせて「しゃちブレンド」の力強い一杯で気合を入れたり、もう一方のブレンドで心を落ち着かせたりと、柔軟に対応できるのがこのセットの大きな魅力だ。
 
 | 項目 | 詳細 |
-| :--- | :--- |
+| --- | --- |
 | 価格 | 2,480円 |
 | メーカー | グルメコーヒー豆専門 加藤珈琲店 |
 | 型番/仕様 | コーヒー豆 500g×2種（豆のまま、または挽き方選択可） |
@@ -272,7 +271,6 @@ faq:
 
 自分だけのコーヒー道を極めたいと願うなら、この加藤珈琲店の飲み比べセットから、その一歩を踏み出してみるのも良い選択肢だろう。あなたの日常に、新たなコーヒーの扉が開かれることを願ってやまない。
 
-</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%200%201g%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">

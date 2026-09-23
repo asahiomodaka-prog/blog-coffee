@@ -29,7 +29,8 @@ sidebarProducts:
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00pl5f1.ve2q5fd0.g00pl5f1.ve2q6f99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F1202-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10007300%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
     imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/1200/1202-4r.jpg?_ex=600x600'
     price: 4104
-    microCopy: '詳細を見る'---
+    microCopy: '詳細を見る'
+---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
@@ -112,7 +113,7 @@ sidebarProducts:
 急にコーヒーが欲しくなった時のために、インスタントコーヒーやドリップバッグを常備しておくのも良いだろう。水出しコーヒーは「作り置き」として割り切り、計画的に楽しむのが、最もこのパックの恩恵を受けられる方法だと思う。
 
 | 項目 | 詳細 |
-| :--- | :--- |
+| --- | --- |
 | 価格 | 1,990円 |
 | 販売ショップ | ティーライフshop 健康茶 自然食品 |
 | レビュー評価 | 4.66 (1779件) |
@@ -200,7 +201,6 @@ A3: 抽出した水出しコーヒーは、冷蔵庫で密閉容器に入れて�
 <div style="text-align: center;">
 <a href="https://postcoffee.co/" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 無料でコーヒー診断を受けてみる
-</a>
 </div>
 </div>
 

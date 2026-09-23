@@ -81,7 +81,6 @@ faq:
 <div style="text-align: center;">
 <a href="https://postcoffee.co/" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 無料でコーヒー診断を受けてみる
-</a>
 </div>
 </div>
 
@@ -139,7 +138,7 @@ Melittaの全自動コーヒーメーカーは、その細部にまでコーヒ�
 ステンレスポットは、抽出温度に近い状態を長時間保つことで、コーヒーの風味劣化を遅らせる効果がある。約1.4Lという容量で、複数人で楽しむ場合や、一日を通してコーヒーを飲む習慣がある場合に、淹れたての味わいを保てるのは非常に実用的だ。
 
 | 項目 | 詳細 |
-| :--- | :--- |
+| --- | --- |
 | 価格 | 32,900円 |
 | メーカー | Melitta (メリタ) |
 | 型番/仕様 | AFT1022-1B, 容量: 1.4L (約10杯分), 挽き目調整3段階, 濃度調整可能, ステンレス製保温ポット |

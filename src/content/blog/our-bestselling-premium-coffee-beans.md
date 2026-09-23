@@ -155,7 +155,6 @@ faq:
 <div style="text-align: center;">
 <a href="https://postcoffee.co/" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 無料でコーヒー診断を受けてみる
-</a>
 </div>
 </div>
 
@@ -222,7 +221,6 @@ A3: もちろん、一つの抽出器具しか所有していなくても本セ�
 
 このセットは、一つの器具で多様な豆の個性を引き出す「抽出技術」を磨くための優れた教材にもなり得ます。まずは手持ちの器具で様々な豆を試すことから始め、真に気に入った豆が見つかった際に、その豆に最適な器具を検討するのも良いアプローチとなるでしょう。
 
-</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%AB%98%E7%B4%9A%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E8%B1%86%20%E9%A3%B2%E3%81%BF%E6%AF%94%E3%81%B9%20%E3%82%A2%E3%82%BD%E3%83%BC%E3%83%88%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">

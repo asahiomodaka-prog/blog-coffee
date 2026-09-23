@@ -117,7 +117,6 @@ UCCゴールドスペシャルも、開封したての際は「蒸らし」の�
 <div style="text-align: center;">
 <a href="https://postcoffee.co/" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 無料でコーヒー診断を受けてみる
-</a>
 </div>
 </div>
 
@@ -188,7 +187,7 @@ UCCゴールドスペシャルは優れたレギュラーコーヒー粉だが�
 これらの対策を講じることで、UCCゴールドスペシャルの持つバランスの取れた味わいを、より長く楽しむことができるはずである。日常使いのコーヒーとしては、この手軽さと品質は非常に魅力的であり、適切な保存法を実践することで、その価値を最大限に引き出すことができる。
 
 | 項目 | 詳細 |
-| :--- | :--- |
+| --- | --- |
 | 価格 | 600円程度 |
 | メーカー | UCC上島珈琲 |
 | 型番/仕様 | レギュラーコーヒー（粉）、スペシャルブレンド、内容量360g、生豆生産国名：ベトナム、ブラジル他 |

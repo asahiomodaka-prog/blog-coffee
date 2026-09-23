@@ -102,8 +102,8 @@ faq:
 一般的なコーヒー1杯に必要な豆の量は15gとすると、300gで約20杯分淹れることが可能である。この場合、1杯あたりの豆のコストは75円となる計算である。
 
 | 商品名 | 容量 | 価格（仮定） | 1杯あたりの豆の量 | 1袋で淹れられる杯数 | 1杯あたりのコスト |
-| :----------------------- | :--- | :----------- | :----------------- | :------------------ | :---------------- |
-| 浅煎りコーヒー豆は酸っぱくない | 300g | 1,500円      | 15g                | 約20杯              | 約75円            |
+| --- | --- | --- | --- | --- | --- |
+| 浅煎りコーヒー豆は酸っぱくない | 300g | 1,500円 | 15g | 約20杯 | 約75円 |
 
 もしこれがカフェで提供される同じクオリティの浅煎りスペシャルティコーヒーであれば、1杯あたり500円から700円はかかるであろう。それを考慮すれば、自宅でこれだけの高品質な浅煎りコーヒーを1杯75円で楽しめるというのは、非常に高いコストパフォーマンスであると言える。
 
@@ -151,7 +151,6 @@ faq:
 <div style="text-align: center;">
 <a href="https://postcoffee.co/" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 無料でコーヒー診断を受けてみる
-</a>
 </div>
 </div>
 
@@ -222,7 +221,6 @@ A3: コーヒー豆は鮮度が非常に重要です。特に浅煎り豆は、�
 
 開封後は2週間から1ヶ月を目安に飲み切るのが理想的です。
 
-</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%B5%85%E7%85%8E%E3%82%8A%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E8%B1%86%20300g%20%E3%83%95%E3%83%AB%E3%83%BC%E3%83%86%E3%82%A3%E3%83%BC%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">

@@ -105,7 +105,6 @@ sidebarProducts:
 <div style="text-align: center;">
 <a href="https://postcoffee.co/" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 無料でコーヒー診断を受けてみる
-</a>
 </div>
 </div>
 
@@ -160,7 +159,7 @@ sidebarProducts:
 実際、レビュー評価4.59（136件）という高い数字が、多くの人がその品質に納得している証拠だ。
 
 | 項目 | 詳細 |
-| :--- | :--- |
+| --- | --- |
 | 価格 | 4,536円 |
 | 販売ショップ | コーヒー通販 香福屋 |
 | レビュー評価 | 4.59 (136件) |

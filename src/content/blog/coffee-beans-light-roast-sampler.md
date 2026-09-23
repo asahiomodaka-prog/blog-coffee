@@ -139,7 +139,6 @@ faq:
 <div style="text-align: center;">
 <a href="https://postcoffee.co/" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 無料でコーヒー診断を受けてみる
-</a>
 </div>
 </div>
 
@@ -247,7 +246,6 @@ faq:
 
 [浅煎りコーヒー 飲み比べお試しセット（エチオピア・キリマンジャロ等）](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B5%2585%25E7%2585%258E%25E3%2582%258A%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520%25E9%25A3%25B2%25E3%2581%25BF%25E6%25AF%2594%25E3%2581%25B9%2520%25E7%25A6%258F%25E8%25A2%258B%2520%25E3%2582%25A8%25E3%2583%2581%25E3%2582%25AA%25E3%2583%2594%25E3%2582%25A2)を手に入れ、あなただけのコーヒーを見つける第一歩を踏み出すことを検討してほしい。
 
-</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%B5%85%E7%85%8E%E3%82%8A%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%20%E9%A3%B2%E3%81%BF%E6%AF%94%E3%81%B9%20%E7%A6%8F%E8%A2%8B%20%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">

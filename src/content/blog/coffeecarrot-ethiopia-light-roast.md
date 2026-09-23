@@ -166,7 +166,7 @@ faq:
 この豆は、コーヒーの世界を広げてくれる、そんな力を持っている。
 
 | 項目 | 詳細 |
-| :--- | :--- |
+| --- | --- |
 | 価格 | 2,480円（執筆時点） |
 | メーカー | 珈琲きゃろっと |
 | 型番/仕様 | エチオピア イルガチェフェ コチャレ G1、浅煎り焙煎、スペシャルティコーヒー、豆のまま（挽き豆も選択可）、200g |
@@ -180,7 +180,6 @@ faq:
 <div style="text-align: center;">
 <a href="https://postcoffee.co/" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 無料でコーヒー診断を受けてみる
-</a>
 </div>
 </div>
 
@@ -274,7 +273,6 @@ A3: 珈琲きゃろっとの浅煎り豆は、鮮度が非常に重要です。
 
 開封後は、付属の密閉袋に入れるか、光を遮る密閉容器に移し替えて冷蔵庫の野菜室で保存することをおすすめします。豆は非常にデリケートなため、光、空気、熱、湿気から守り、できるだけ空気に触れないようにすることが鮮度維持の重要なポイントです。
 
-</a>
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%8F%88%E7%90%B2%E3%81%8D%E3%82%83%E3%82%8D%E3%81%A3%E3%81%A8%20%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2%20%E6%B5%85%E7%85%8E%E3%82%8A%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
