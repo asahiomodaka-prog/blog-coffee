@@ -14,6 +14,12 @@ faq:
     answer: '初心者には、手軽に始められるペーパードリップか、手間いらずの全自動コーヒーメーカーが特におすすめである。UCCゴールドスペシャルは、どちらの器具でもその特性を活かした美味しいコーヒーを淹れることができる。慣れてきたら、フレンチプレスでより濃厚な風味を試すのも良いだろう。'
   - question: '鮮度を保つためのコツはあるか？'
     answer: 'コーヒー粉は空気に触れると酸化が進みやすいため、開封後は密閉容器に移し替え、冷暗所か冷蔵庫で保存するのが最良である。他の食品の匂いを吸着しないよう、しっかりと密閉することが重要だ。また、購入からなるべく早く飲み切ることで、より新鮮な風味を楽しむことができる。'
+sidebarProducts:
+  - title: 'UCCゴールドスペシャルは結局どれがいい'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FUCC%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%81%AF%E7%B5%90%E5%B1%80%E3%81%A9%E3%82%8C%E3%81%8C%E3%81%84%E3%81%84%2F'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/cocodecow/cabinet/271/664055.jpg?_ex=600x600'
+    price: 600
+    microCopy: '詳細を見る'
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

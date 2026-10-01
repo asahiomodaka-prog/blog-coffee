@@ -14,6 +14,12 @@ faq:
     answer: '換気扇の直下で使用すれば、通常の調理と同等レベルの換気で十分に対応可能です。大容量チャフコレクターが豆の薄皮を自動回収するため、コンロ周りにゴミが飛び散るストレスもありません。'
   - question: '最初の生豆は何を選べば良いですか？'
     answer: '粒が揃っていて水分量が安定している「ブラジル・サントス」や「コロンビア・スプレモ」がおすすめです。中煎り（シティロースト前後）に仕上げやすく、香ばしいナッツ感とマイルドな甘みを誰でも簡単に引き出せます。'
+sidebarProducts:
+  - title: 'Gene Cafe コーヒー豆焙煎機 CBR-101A'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGene%20Cafe%20%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E8%B1%86%E7%84%99%E7%85%8E%E6%A9%9F%20CBR-101A%2F'
+    imageUrl: '/images/gene-cafe-cbr101a-review.png'
+    price: 0
+    microCopy: '詳細を見る'
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

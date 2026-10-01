@@ -14,6 +14,12 @@ faq:
     answer: '鮮度を保ち、より豊かな風味を楽しむなら、豆で購入し淹れる直前に挽くのがおすすめです。挽きたての香りは格別ですが、手軽さを優先するなら粉でも十分満足できるでしょう。'
   - question: '他のカルディのブレンド豆と比べて、マイルドカルディはどのような位置づけですか？'
     answer: 'マイルドカルディは、カルディのブレンドの中でも最も「標準的」で「バランスの取れた」味わいが特徴です。酸味や苦味が控えめで飲みやすいため、他のブレンドを試す際の基準としても最適です。'
+sidebarProducts:
+  - title: 'カルディコーヒーファーム マイルドカルディ'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AB%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%95%E3%82%A1%E3%83%BC%E3%83%A0%20%E3%83%9E%E3%82%A4%E3%83%AB%E3%83%89%E3%82%AB%E3%83%AB%E3%83%87%E3%82%A3%2F'
+    imageUrl: '/images/kaldi-mild-coffee-review.png'
+    price: 0
+    microCopy: '詳細を見る'
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

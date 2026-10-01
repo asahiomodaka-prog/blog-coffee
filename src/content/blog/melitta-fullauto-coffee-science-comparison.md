@@ -14,6 +14,12 @@ faq:
     answer: 'はい、レギュラーコーヒー豆であれば基本的にどんな種類でも使用可能です。メーカーによっては推奨する焙煎度合いもありますが、挽き目を3段階で調整できるため、浅煎りから深煎りまで好みに合わせて楽しめます。 フレーバーコーヒーなどの着香された豆は、ミル部分に香りが残りやすいため注意が必要です。'
   - question: '淹れたてのコーヒーはどのくらい温かい状態を保てますか？'
     answer: 'ステンレス製真空二重構造の保温ポットは、一般的なガラスポットと異なり、保温プレートで加熱し続ける必要がありません。これによりコーヒーが煮詰まるのを防ぎ、淹れたての風味と温度を約2時間程度、高いレベルでキープしてくれます。 僕の体感では、朝淹れたものが午前中いっぱい温かく楽しめる印象です。'
+sidebarProducts:
+  - title: 'Melitta 全自動コーヒーメーカー'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMelitta%20%E5%85%A8%E8%87%AA%E5%8B%95%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%2F'
+    imageUrl: '/images/melitta-fullauto-coffee-science-comparison.png'
+    price: 0
+    microCopy: '詳細を見る'
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

@@ -14,6 +14,12 @@ faq:
     answer: 'ステンレス製真空二重ポットなので、抽出後2〜3時間はかなり温かい状態を保てます。僕の体感では、朝7時に淹れて、11時頃に飲んでもまだしっかり温かさを感じられます。 一般的なガラスポットの保温プレート式のように煮詰まる心配がないため、時間の経過による風味劣化が少ないのも利点です。'
   - question: '挽き目や濃さの調整で、味はどこまで変わるのか？'
     answer: '挽き目3段階と濃度調整機能の組み合わせで、コーヒーの味わいはかなり変化します。例えば、同じ豆でも細挽きにするとコクや苦味が強調され、粗挽きにすると酸味やフルーティーさが引き出されやすくなります。 さらに濃度調整を組み合わせることで、好みの味をかなり細かく再現できるようになります。様々な豆を試しながら、最適な設定を見つける楽しみもあります。'
+sidebarProducts:
+  - title: 'Melitta 全自動コーヒーメーカー'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMelitta%20%E5%85%A8%E8%87%AA%E5%8B%95%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%2F'
+    imageUrl: '/images/melitta-full-auto-coffee-maker-review-comparison.png'
+    price: 0
+    microCopy: '詳細を見る'
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。

@@ -14,6 +14,12 @@ faq:
     answer: 'はい、セラミック刃の下部にある調整ネジを回すことで、粗挽きから細挽きまで挽き目の調整が可能である。時計回りに締めると細かく、反時計回りに緩めると粗くなる。最初は何度か試用し、自身の好みの挽き目を見つけることを推奨する。'
   - question: '複数人で使うことはできますか？'
     answer: '本製品のマグカップ容量は約200mlで、基本的に1人分の抽出を想定している。複数人で利用する場合は、その都度豆を挽き、抽出を繰り返す必要がある。コンパクトさを重視した設計のため、大人数での使用には多少の手間がかかるかもしれないが、連続して淹れること自体は問題ない。 [SOTO ポータブルコーヒーメーカー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DSOTO%2520%25E3%2583%259D%25E3%2583%25BC%25E3%2582%25BF%25E3%2583%2596%25E3%2583%25AB%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC)'
+sidebarProducts:
+  - title: 'SOTO (ソト) ポータブルコーヒーメーカー ST-930'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FSOTO%20%E3%83%9D%E3%83%BC%E3%82%BF%E3%83%96%E3%83%AB%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%20ST-930%2F'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/002/main-26862.jpg?_ex=600x600'
+    price: 7980
+    microCopy: '詳細を見る'
 ---
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
