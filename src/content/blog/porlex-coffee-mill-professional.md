@@ -4,6 +4,8 @@ description: '手挽きミルの名機「ポーレックス コーヒーミルII
 pubDate: '2026-07-17'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f462187-kirishima/cabinet/nt01/k-199_nt.jpg?_ex=600x600'
 genre: 'coffee'
+featured: true
+featuredOrder: 1
 mediaType: 'grinder'
 tags:
   - 'angle:brewing-science'

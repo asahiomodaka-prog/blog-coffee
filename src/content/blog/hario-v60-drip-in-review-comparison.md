@@ -4,7 +4,9 @@ description: 'ハリオV60ドリップイン（VDIR-02-B）を徹底検証。ス
 pubDate: '2026-09-25'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/rakuten24/cabinet/296/4977642143296.jpg?_ex=600x600'
 genre: 'coffee'
-mediaType: 'beans'
+featured: true
+featuredOrder: 2
+mediaType: 'dripper'
 tags:
   - 'angle:comparison'
 faq:

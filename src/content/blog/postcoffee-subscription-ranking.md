@@ -4,6 +4,8 @@ description: 'ポストコーヒー 定期便の選び方・おすすめ比較�
 pubDate: '2026-09-13'
 heroImage: '/images/postcoffee-subscription-ranking.jpg'
 genre: 'coffee'
+featured: true
+featuredOrder: 3
 mediaType: 'beans'
 tags:
   - 'angle:ranking'
