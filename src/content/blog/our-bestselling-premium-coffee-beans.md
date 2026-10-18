@@ -2,7 +2,7 @@
 title: 'プレミアム高級コーヒー豆16種飲み比べ。香りとコクのブレンド技術を徹底解説'
 description: '「プレミアム高級コーヒー豆16種飲み比べ。香り」をAmazonで2980円から購入検討中の方へ。16種の異なる味と香りを徹底比較し、本当にお好みの1杯を見つけるためのレビュー。全種の選び方や特徴を解説し、自宅コーヒーを格上げします。(119文字)'
 pubDate: '2026-07-23'
-heroImage: '/images/our-bestselling-premium-coffee-beans.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/0400/0403-20r.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'beans'
 tags:
@@ -17,7 +17,7 @@ faq:
 sidebarProducts:
   - title: 'プレミアム高級コーヒー豆16種飲み比べ'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E9%AB%98%E7%B4%9A%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E8%B1%8616%E7%A8%AE%E9%A3%B2%E3%81%BF%E6%AF%94%E3%81%B9%2F'
-    imageUrl: '/images/our-bestselling-premium-coffee-beans.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/0400/0403-20r.jpg?_ex=600x600'
     price: 2980
     microCopy: '詳細を見る'
 ---
@@ -42,7 +42,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/our-bestselling-premium-coffee-beans.jpg" alt="プレミアム高級コーヒー豆16種飲み比べ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/0400/0403-20r.jpg?_ex=600x600" alt="プレミアム高級コーヒー豆16種飲み比べ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
@@ -93,7 +93,7 @@ sidebarProducts:
 
 ## 日常のコーヒー体験に革命を起こす：賢い選択と抜群のコストパフォーマンス
 
-![プレミアム高級コーヒー豆16種飲み比べ。香り](/images/our-bestselling-premium-coffee-beans.jpg)
+![プレミアム高級コーヒー豆16種飲み比べ。香り](https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/0400/0403-20r.jpg?_ex=600x600)
 
 この「プレミアム高級コーヒー豆16種飲み比べ。香り」セットの真価は、その日常的な利便性と、長期的な視点でのコストパフォーマンスにあると筆者は考える。
 
@@ -232,7 +232,7 @@ A3: もちろん、一つの抽出器具しか所有していなくても本セ�
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/our-bestselling-premium-coffee-beans.jpg" alt="プレミアム高級コーヒー豆16種飲み比べ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/0400/0403-20r.jpg?_ex=600x600" alt="プレミアム高級コーヒー豆16種飲み比べ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>

@@ -2,7 +2,7 @@
 title: 'ティーライフ水出し珈琲パックの深層：クリアな味わいの秘密と自宅ドリップとの賢い使い分け'
 description: 'ティーライフの水出し珈琲パックは、忙しい朝でも手軽に本格的なアイスコーヒーを楽しめる逸品。なぜクリアな味わいになるのか、その抽出メカニズムを深掘りし、自宅ドリップとの違いや最適な選び方を徹底解説する。'
 pubDate: '2026-09-18'
-heroImage: '/images/tea-life-cold-brew-coffee-pack-review-comparison.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/tea-life/cabinet/drink/c-coffee/90919_thumb03.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'dripper'
 tags:

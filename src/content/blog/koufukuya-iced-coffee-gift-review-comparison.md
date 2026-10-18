@@ -2,7 +2,7 @@
 title: '香福屋アイスコーヒー ギフトでプロの味を自宅に！手間なし濃厚クリア体験'
 description: '自宅で安定した美味しいアイスコーヒーを淹れるのは意外と難しい。香福屋のギフトアイスコーヒーは、プロが抽出した濃厚かつクリアな味わいを手軽に楽しめる逸品だ。その抽出の秘密と日常での活用法を深掘りする。'
 pubDate: '2026-09-17'
-heroImage: '/images/koufukuya-iced-coffee-gift-review-comparison.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/komi-coffee/cabinet/03480701/10000296-top.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'grinder'
 tags:

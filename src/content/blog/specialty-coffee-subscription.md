@@ -2,7 +2,7 @@
 title: 'PostCoffee（ポストコーヒー）の評判と口コミを徹底検証！無料コーヒー診断から届く定期便の本音レビュー'
 description: '国内外30店以上の有名ロースターから好みに合わせて届くPostCoffee（ポストコーヒー）。無料コーヒー診断の精度、届く豆の鮮度、他社サブスクとのコスパ比較まで、忖度なしで本音レビューします。'
 pubDate: '2026-07-21'
-heroImage: '/images/specialty-coffee-subscription.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f282260-awaji/cabinet/kakou2/at14003s01.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'beans'
 tags:
@@ -19,7 +19,7 @@ faq:
 sidebarProducts:
   - title: 'PostCoffee スペシャルティコーヒー定期便'
     url: 'https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DPostCoffee'
-    imageUrl: '/images/specialty-coffee-subscription.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f282260-awaji/cabinet/kakou2/at14003s01.jpg?_ex=600x600'
     price: 1598
     microCopy: '診断して自分好みの豆を試す'
 ---
@@ -46,7 +46,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/specialty-coffee-subscription.jpg" alt="PostCoffee スペシャルティコーヒー定期便" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f282260-awaji/cabinet/kakou2/at14003s01.jpg?_ex=600x600" alt="PostCoffee スペシャルティコーヒー定期便" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">AI診断・ポスト投函</span></div>

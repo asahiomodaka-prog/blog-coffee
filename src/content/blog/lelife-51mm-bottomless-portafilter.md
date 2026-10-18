@@ -2,7 +2,7 @@
 title: 'Delonghi EC0680の味のブレ解消！ボトムレス ポルタフィルター導入レビュー'
 description: 'デロンギEC0680のエスプレッソ抽出を格上げ！Lelife 51mm ボトムレス ポルタフィルター (7280円)で粉の状態を視覚化。チャネリングを防ぎ、均一抽出で豊かなクレマと芳醇なアロマを。自宅でプロ級の味とバリスタスキル向上を実感できます。'
 pubDate: '2026-08-31'
-heroImage: '/images/lelife-51mm-bottomless-portafilter.png'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/gerbera-global/cabinet/08976190/ger0270.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'machine'
 tags:
@@ -15,10 +15,10 @@ faq:
   - question: '抽出時にコーヒーが飛び散ると聞きましたが、対策はありますか？'
     answer: '抽出時にコーヒーが飛び散る「スプラッシュ」は、主にチャネリングが原因で起こる。これを防ぐためには、まずエスプレッソ用の適切なグラインダーで均一な挽き目を得ること、そしてタンパーで粉を均一かつ適切にタンピングすることが最も重要だ。また、カップをできるだけポルタフィルターに近づけて抽出したり、深めのカップを使ったりすることで、飛び散りを軽減できる。最初は汚れることも覚悟の上で、試行錯誤を繰り返すことでスプラッシュは劇的に減っていくはずだ。'
 sidebarProducts:
-  - title: '51mm ボトムレス ポルタフィルター (デロンギ EC680対応)'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%87%E3%83%AD%E3%83%B3%E3%82%AE%20EC680%20%E3%83%9C%E3%83%88%E3%83%A0%E3%83%AC%E3%82%B9%20%E3%83%9D%E3%83%AB%E3%82%BF%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC%2051mm%2F'
-    imageUrl: '/images/lelife-51mm-bottomless-portafilter.png'
-    price: 7280
+  - title: 'ポルタフィルター 51mm エスプレッソボトムレスポルタフィルター 交換用 Delonghi EC680/EC685適用'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00tq7j1.ve2q58bb.g00tq7j1.ve2q6d35/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgerbera-global%2Fger0270%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgerbera-global%2Fi%2F10000525%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/gerbera-global/cabinet/08976190/ger0270.jpg?_ex=600x600'
+    price: 4980
     microCopy: '詳細を見る'
 ---
 
@@ -36,7 +36,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/lelife-51mm-bottomless-portafilter.png" alt="デロンギ EC680 ボトムレス ポルタフィルター 51mm" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/gerbera-global/cabinet/08976190/ger0270.jpg?_ex=600x600" alt="デロンギ EC680 ボトムレス ポルタフィルター 51mm" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
@@ -97,7 +97,7 @@ sidebarProducts:
 
 この過程は、まさにバリスタスキルを感覚ではなく、論理的に身につけていく貴重な経験だと感じている。
 
-<div style="text-align: center; margin: 28px 0;"><img src="/images/lelife-51mm-bottomless-portafilter.png" alt="Lelife 51mm ボトムレス ポルタフィルター Delonghi EC0680" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" /></div>
+<div style="text-align: center; margin: 28px 0;"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/gerbera-global/cabinet/08976190/ger0270.jpg?_ex=600x600" alt="Lelife 51mm ボトムレス ポルタフィルター Delonghi EC0680" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" /></div>
 
 ## 日常の使い勝手とコストパフォーマンス：価格以上の価値を見出す
 
@@ -242,7 +242,7 @@ Lelifeという互換品メーカーだが、製品の品質は価格を考え�
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/lelife-51mm-bottomless-portafilter.png" alt="デロンギ EC680 ボトムレス ポルタフィルター 51mm" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/gerbera-global/cabinet/08976190/ger0270.jpg?_ex=600x600" alt="デロンギ EC680 ボトムレス ポルタフィルター 51mm" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>

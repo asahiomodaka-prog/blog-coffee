@@ -2,7 +2,7 @@
 title: '浅煎りコーヒー豆は酸っぱくない？苦味ゼロの秘訣と本音レビュー！'
 description: '「浅煎りコーヒー豆は酸っぱい」という誤解を解消！商品名「浅煎りコーヒー豆は酸っぱくない」のレビューとスペックを徹底解説。2980円でAmazonから購入可能。フルーティーな酸味と複雑な甘みが織りなす、あなたの新しいコーヒー体験がここから始まります。'
 pubDate: '2026-08-12'
-heroImage: '/images/light-roast-coffee-300g-mild.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/2019/imgrc0082131311.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'beans'
 tags:
@@ -17,7 +17,7 @@ faq:
 sidebarProducts:
   - title: '浅煎りコーヒー豆は酸っぱくない 苦味ゼロの秘訣'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%B5%85%E7%85%8E%E3%82%8A%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E8%B1%86%E3%81%AF%E9%85%B8%E3%81%A3%E3%81%B1%E3%81%8F%E3%81%AA%E3%81%84%20%E8%8B%A6%E5%91%B3%E3%82%BC%E3%83%AD%E3%81%AE%E7%A7%98%E8%A8%A3%2F'
-    imageUrl: '/images/light-roast-coffee-300g-mild.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/2019/imgrc0082131311.jpg?_ex=600x600'
     price: 2980
     microCopy: '詳細を見る'
 ---
@@ -40,7 +40,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/light-roast-coffee-300g-mild.jpg" alt="浅煎りコーヒー豆は酸っぱくない 苦味ゼロの秘訣" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/2019/imgrc0082131311.jpg?_ex=600x600" alt="浅煎りコーヒー豆は酸っぱくない 苦味ゼロの秘訣" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
@@ -91,7 +91,7 @@ sidebarProducts:
 
 その結果、高めの湯温でやや細挽き、そして丁寧なハンドドリップが、この豆の持つ柑橘系の爽やかさや、ほのかなフローラルな香りを一番引き出すと実感している。
 
-![浅煎りコーヒー豆は酸っぱくない](/images/light-roast-coffee-300g-mild.jpg)
+![浅煎りコーヒー豆は酸っぱくない](https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/2019/imgrc0082131311.jpg?_ex=600x600)
 
 ## 日常での取り扱いと、納得のコストパフォーマンス
 
@@ -232,7 +232,7 @@ A3: コーヒー豆は鮮度が非常に重要です。特に浅煎り豆は、�
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/light-roast-coffee-300g-mild.jpg" alt="浅煎りコーヒー豆は酸っぱくない 苦味ゼロの秘訣" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/2019/imgrc0082131311.jpg?_ex=600x600" alt="浅煎りコーヒー豆は酸っぱくない 苦味ゼロの秘訣" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>

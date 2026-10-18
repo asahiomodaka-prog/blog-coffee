@@ -2,7 +2,7 @@
 title: 'ゴールドブレンドプレミアムの香りと味わい。毎朝の一杯を格上げする本音レビュー'
 description: '「ゴールドブレンドプレミアムの香りと味わい。毎」のレビューとスペックを徹底解説。忙しい日常でも手軽に本格的なコーヒーが楽しめるメリット・デメリットを検証。Amazonでの価格2980円に見合う価値があるか、スペックから実用性も詳しく解説します。'
 pubDate: '2026-07-05'
-heroImage: '/images/gold-blend-premium-series-coffee.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/fuku/imgrc0116107610.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'beans'
 tags:
@@ -17,7 +17,7 @@ faq:
 sidebarProducts:
   - title: 'ゴールドブレンドプレミアムの香りと味わい'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%E3%83%96%E3%83%AC%E3%83%B3%E3%83%89%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0%E3%81%AE%E9%A6%99%E3%82%8A%E3%81%A8%E5%91%B3%E3%82%8F%E3%81%84%2F'
-    imageUrl: '/images/gold-blend-premium-series-coffee.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/fuku/imgrc0116107610.jpg?_ex=600x600'
     price: 2980
     microCopy: '詳細を見る'
 ---
@@ -42,7 +42,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/gold-blend-premium-series-coffee.jpg" alt="ゴールドブレンドプレミアムの香りと味わい" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/fuku/imgrc0116107610.jpg?_ex=600x600" alt="ゴールドブレンドプレミアムの香りと味わい" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
@@ -89,7 +89,7 @@ sidebarProducts:
 
 それをさらに、お湯に溶ける瞬間に再現できる微細な粒子の状態に加工する。この一連のプロセスは、筆者が自宅で豆を選び、焙煎度を吟味し、挽き目を調整するのと同様に、一杯のコーヒーに込められた情熱と論理を感じさせるものだ。
 
-![ゴールドブレンドプレミアムの香りと味わい。毎](/images/gold-blend-premium-series-coffee.jpg)
+![ゴールドブレンドプレミアムの香りと味わい。毎](https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/fuku/imgrc0116107610.jpg?_ex=600x600)
 
 自宅でドリップする喜びとは異なるが、「ゴールドブレンドプレミアムの香りと味わい。毎」は、時間や手間といった制約がある中で、いかに高品質なコーヒー体験を提供するかという問いに対する、一つの洗練された答えを示していると言える。
 
@@ -237,7 +237,7 @@ A3: インスタントコーヒーは湿気を吸収しやすく、光や高温�
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/gold-blend-premium-series-coffee.jpg" alt="ゴールドブレンドプレミアムの香りと味わい" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/fuku/imgrc0116107610.jpg?_ex=600x600" alt="ゴールドブレンドプレミアムの香りと味わい" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>

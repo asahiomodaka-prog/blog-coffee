@@ -2,7 +2,7 @@
 title: 'メリタ全自動で淹れる「いつもの」コーヒーが、なぜ特別なのか？設計思想と抽出科学に迫る'
 description: 'メリタ全自動コーヒーメーカー「アロマフレッシュサーモ」の魅力は、ただ手軽なだけではない。台形ドリッパーの設計思想、挽き目調整、保温ポットの秘密まで、抽出科学に踏み込み、安定した美味しさの理由を深掘りする。忙しい朝のコーヒータイムを変える、その奥深さを解説。'
 pubDate: '2026-09-22'
-heroImage: '/images/melitta-fullauto-coffee-science-comparison.png'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/homeshop/cabinet/kadenb28/s5406-mel-9123_1.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'grinder'
 tags:
@@ -15,10 +15,10 @@ faq:
   - question: '淹れたてのコーヒーはどのくらい温かい状態を保てますか？'
     answer: 'ステンレス製真空二重構造の保温ポットは、一般的なガラスポットと異なり、保温プレートで加熱し続ける必要がありません。これによりコーヒーが煮詰まるのを防ぎ、淹れたての風味と温度を約2時間程度、高いレベルでキープしてくれます。 僕の体感では、朝淹れたものが午前中いっぱい温かく楽しめる印象です。'
 sidebarProducts:
-  - title: 'Melitta 全自動コーヒーメーカー'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMelitta%20%E5%85%A8%E8%87%AA%E5%8B%95%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%2F'
-    imageUrl: '/images/melitta-fullauto-coffee-science-comparison.png'
-    price: 0
+  - title: 'メリタ ミル付き AFT1022-1B アロマフレッシュ 全自動 コーヒーメーカー'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00pssb1.ve2q5288.g00pssb1.ve2q60f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhomeshop%2Fs5406-mel-9123%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhomeshop%2Fi%2F10340320%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/homeshop/cabinet/kadenb28/s5406-mel-9123_1.jpg?_ex=600x600'
+    price: 34800
     microCopy: '詳細を見る'
 ---
 
@@ -80,7 +80,7 @@ Melitta 全自動コーヒーメーカーは非常に満足度の高い製品だ
 
 そして、設置スペースだ。本体サイズは幅16.5cm、奥行22cm、高さ31cmと比較的コンパクトにまとまっているが、キッチンの限られたスペースでは存在感がある。購入前に必ず設置場所の寸法を確認することをおすすめする。
 
-<div style="text-align: center; margin: 28px 0;"><img src="/images/melitta-fullauto-coffee-science-comparison.png" alt="Melitta 全自動コーヒーメーカー" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" /></div>
+<div style="text-align: center; margin: 28px 0;"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/homeshop/cabinet/kadenb28/s5406-mel-9123_1.jpg?_ex=600x600" alt="Melitta 全自動コーヒーメーカー" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" /></div>
 
 ## 競合モデルと比べてどうか？Melittaの立ち位置
 
@@ -144,7 +144,7 @@ A3: ステンレス製真空二重構造の保温ポットは、一般的なガ�
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/melitta-fullauto-coffee-science-comparison.png" alt="Melitta 全自動コーヒーメーカー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/homeshop/cabinet/kadenb28/s5406-mel-9123_1.jpg?_ex=600x600" alt="Melitta 全自動コーヒーメーカー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>

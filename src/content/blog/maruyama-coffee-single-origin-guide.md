@@ -2,7 +2,7 @@
 title: '初心者のための「丸山珈琲 シングルオリジン」完全選び方ガイド！失敗しないポイント'
 description: '丸山珈琲 シングルオリジンの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-09-07'
-heroImage: '/images/maruyama-coffee-single-origin-guide.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/maruyamacoffee/cabinet/item/most/st3870-1.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'beans'
 tags:

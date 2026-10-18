@@ -2,7 +2,7 @@
 title: 'HARIO 雫 SBS-5Bで激変！水出しコーヒーの味が決まる秘密と本音レビュー'
 description: '自宅コーヒーの抽出ムラに悩む方へ。HARIO 雫 SBS-5B極細口ドリップケトルが湯量コントロールを劇的に改善。雑味のないクリアな味わいを実現し、豆の魅力を最大限に引き出します。レビュー・スペックを徹底解説。Amazonで2980円。'
 pubDate: '2026-07-30'
-heroImage: '/images/hario-cold-brew-dripper-shizuku.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f082040-koga/cabinet/i3/5701-43016-01.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'dripper'
 tags:
@@ -17,7 +17,7 @@ faq:
 sidebarProducts:
   - title: 'HARIO (ハリオ) ウォータードリップサーバー 雫 SBS-5B'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FHARIO%20%E3%83%8F%E3%83%AA%E3%82%AA%20%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%89%E3%83%AA%E3%83%83%E3%83%97%20%E9%9B%AB%20SBS-5B%2F'
-    imageUrl: '/images/hario-cold-brew-dripper-shizuku.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f082040-koga/cabinet/i3/5701-43016-01.jpg?_ex=600x600'
     price: 2980
     microCopy: '詳細を見る'
 ---
@@ -42,7 +42,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/hario-cold-brew-dripper-shizuku.jpg" alt="HARIO ハリオ ウォータードリップ 雫 SBS-5B" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f082040-koga/cabinet/i3/5701-43016-01.jpg?_ex=600x600" alt="HARIO ハリオ ウォータードリップ 雫 SBS-5B" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
@@ -236,7 +236,7 @@ HARIO 雫 SBS-5Bは、単なるお湯を注ぐ道具ではない。それは、�
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/hario-cold-brew-dripper-shizuku.jpg" alt="HARIO ハリオ ウォータードリップ 雫 SBS-5B" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f082040-koga/cabinet/i3/5701-43016-01.jpg?_ex=600x600" alt="HARIO ハリオ ウォータードリップ 雫 SBS-5B" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>

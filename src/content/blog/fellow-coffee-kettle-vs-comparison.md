@@ -2,7 +2,7 @@
 title: '正規販売店 vs FELLOW フェロー ケトル Stagg Pour-Over Kettle 1リットル 徹底比較！どっちを選ぶべき？'
 description: 'フェロー Fellow ケトルの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-10-11'
-heroImage: '/images/fellow-coffee-kettle-vs-comparison.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/inter-c/cabinet/08642320/11403003/fs-pk-main.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'kettle'
 heroImages:

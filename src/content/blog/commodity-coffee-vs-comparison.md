@@ -2,7 +2,7 @@
 title: '生豆 コモディティコーヒー vs 大容量 コーヒー豆 2kg 業務用 ブラジルNO 徹底比較！どっちを選ぶべき？'
 description: 'コモディティコーヒーの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-10-18'
-heroImage: '/images/commodity-coffee-vs-comparison.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/alphasynodia/cabinet/07891189/wholesale_coffee/ws_br_no2_sc1718cr.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'beans'
 heroImages:

@@ -2,7 +2,7 @@
 title: '【焙煎プロファイル制御】Gene Cafe CBR-101Aで極める温度・時間設計！1ハゼ・2ハゼを見極める抽出科学'
 description: 'Gene Cafe CBR-101Aの3Dオフセンター回転ドラムと熱風循環システムを科学的に検証。浅煎り・中煎り・深煎りの温度時間プロファイル、メイラード反応と1ハゼ・2ハゼのコントロール術を徹底解説。'
 pubDate: '2026-09-08'
-heroImage: '/images/gene-cafe-cbr101a-roaster-review.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/k-online-shop/cabinet/09440415/imgrc0153417508.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'machine'
 tags:

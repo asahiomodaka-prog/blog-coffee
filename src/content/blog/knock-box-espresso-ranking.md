@@ -2,7 +2,7 @@
 title: '【2026年最新】ノックボックス エスプレッソ用おすすめ人気ランキング4選を徹底比較！'
 description: 'ノックボックス エスプレッソ用の選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-10-03'
-heroImage: '/images/knock-box-espresso-ranking.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/alphaespace-usa/cabinet/img25/2009024.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'machine'
 tags:

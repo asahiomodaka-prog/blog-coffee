@@ -2,7 +2,7 @@
 title: 'Outin Nanoでどこでも本格エスプレッソの秘密を解剖する'
 description: '自宅やアウトドアで本格エスプレッソを楽しみたいなら、小型・コードレスのOutin Nanoが解決策だ。抽出メカニズムからコスパ、競合との比較まで、その魅力を深掘りする。'
 pubDate: '2026-09-24'
-heroImage: '/images/outin-nano-espresso-machine-review-comparison.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/esports/cabinet/6000-196/6000000144016.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'machine'
 tags:

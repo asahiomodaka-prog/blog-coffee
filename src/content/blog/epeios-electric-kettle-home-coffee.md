@@ -2,7 +2,7 @@
 title: 'EPEIOS 電気ケトルで淹れる一杯。香りが日常を彩る、自宅の至福コーヒー術'
 description: 'EPEIOS電気ケトルの実機レビュー！自宅でのハンドドリップコーヒーが劇的に変わる、精密な湯温管理と安定した注湯を徹底解説。amazonで2980円。プロの味を叶えるスペックやメリット・デメリットも紹介。'
 pubDate: '2026-07-13'
-heroImage: '/images/epeios-electric-kettle-home-coffee.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/mpowjapan/cabinet/cp004/sp/cp004.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'kettle'
 tags:
@@ -17,7 +17,7 @@ faq:
 sidebarProducts:
   - title: 'EPEIOS 電気ケトルで淹れる一杯'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FEPEIOS%20%E9%9B%BB%E6%B0%97%E3%82%B1%E3%83%88%E3%83%AB%E3%81%A7%E6%B7%B9%E3%82%8C%E3%82%8B%E4%B8%80%E6%9D%AF%2F'
-    imageUrl: '/images/epeios-electric-kettle-home-coffee.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/mpowjapan/cabinet/cp004/sp/cp004.jpg?_ex=600x600'
     price: 2980
     microCopy: '詳細を見る'
 ---
@@ -54,7 +54,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/epeios-electric-kettle-home-coffee.jpg" alt="EPEIOS 電気ケトルで淹れる一杯" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/mpowjapan/cabinet/cp004/sp/cp004.jpg?_ex=600x600" alt="EPEIOS 電気ケトルで淹れる一杯" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
@@ -115,7 +115,7 @@ sidebarProducts:
 
 つまり、挽き目や豆の量、抽出時間といった他の要素の「正解」を見つけ出すプロセス自体が、より楽しく、そして効率的になったと感じている。湯を注ぐ際の静かで安定した湯の流れは、集中力を高め、自身のコーヒータイムをより豊かなものへと深化させてくれる。
 
-![EPEIOS](/images/epeios-electric-kettle-home-coffee.jpg)
+![EPEIOS](https://thumbnail.image.rakuten.co.jp/@0_mall/mpowjapan/cabinet/cp004/sp/cp004.jpg?_ex=600x600)
 
 ## 日常で感じるEPEIOSの快適さ。手入れの容易さと経済的な満足度
 
@@ -249,7 +249,7 @@ EPEIOSは、単なる道具ではなく、自身のコーヒーライフを共�
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/epeios-electric-kettle-home-coffee.jpg" alt="EPEIOS 電気ケトルで淹れる一杯" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/mpowjapan/cabinet/cp004/sp/cp004.jpg?_ex=600x600" alt="EPEIOS 電気ケトルで淹れる一杯" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>

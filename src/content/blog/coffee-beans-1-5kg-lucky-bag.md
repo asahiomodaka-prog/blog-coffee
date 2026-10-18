@@ -2,7 +2,7 @@
 title: 'コーヒー豆1.5kg福袋で味が劇的に変わる！好みの豆で淹れる喜び本音レビュー'
 description: '「コーヒー豆1 5kg福袋」でいつもの味が劇的に変わる！Amazonで人気の2980円福袋を徹底レビュー。複数の高品質な豆が織りなす奥深い風味で、あなたのコーヒーライフを次のレベルへ導きます。'
 pubDate: '2026-08-02'
-heroImage: '/images/coffee-beans-1-5kg-lucky-bag.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/coffeeyasan/cabinet/b/09467470/shiru-new2309.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'beans'
 tags:
@@ -17,7 +17,7 @@ faq:
 sidebarProducts:
   - title: 'コーヒー豆1 5kg福袋で味が劇的に変わる'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E8%B1%861%205kg%E7%A6%8F%E8%A2%8B%E3%81%A7%E5%91%B3%E3%81%8C%E5%8A%87%E7%9A%84%E3%81%AB%E5%A4%89%E3%82%8F%E3%82%8B%2F'
-    imageUrl: '/images/coffee-beans-1-5kg-lucky-bag.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/coffeeyasan/cabinet/b/09467470/shiru-new2309.jpg?_ex=600x600'
     price: 2980
     microCopy: '詳細を見る'
 ---
@@ -42,7 +42,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/coffee-beans-1-5kg-lucky-bag.jpg" alt="コーヒー豆1 5kg福袋で味が劇的に変わる" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/coffeeyasan/cabinet/b/09467470/shiru-new2309.jpg?_ex=600x600" alt="コーヒー豆1 5kg福袋で味が劇的に変わる" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
@@ -91,7 +91,7 @@ sidebarProducts:
 
 [コーヒー豆1 5kg福袋で味が劇的に変わる](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25201%25205kg%2520%25E7%25A6%258F%25E8%25A2%258B%2520%25E8%2587%25AA%25E5%25AE%25B6%25E7%2584%2599%25E7%2585%258E)
 
-![コーヒー豆1 5kg福袋で味が劇的に変わる](/images/coffee-beans-1-5kg-lucky-bag.jpg)
+![コーヒー豆1 5kg福袋で味が劇的に変わる](https://thumbnail.image.rakuten.co.jp/@0_mall/coffeeyasan/cabinet/b/09467470/shiru-new2309.jpg?_ex=600x600)
 
 ## 自宅での運用性と費用対効果の検証
 
@@ -228,7 +228,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/coffee-beans-1-5kg-lucky-bag.jpg" alt="コーヒー豆1 5kg福袋で味が劇的に変わる" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/coffeeyasan/cabinet/b/09467470/shiru-new2309.jpg?_ex=600x600" alt="コーヒー豆1 5kg福袋で味が劇的に変わる" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>

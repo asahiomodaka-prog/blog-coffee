@@ -2,7 +2,7 @@
 title: '【日常使いの深煎り王道レビュー】深煎りお試しセットのコスパ検証と鮮度を守る密閉・冷凍保存術'
 description: '深煎りお試しコーヒーセットを王道レビュー！日常使いとしてのコスパ、深煎り特有の表面オイルと酸化スピードの真実、1ヶ月以上美味しさをキープする密閉キャニスター＆冷凍保存のテクニックを徹底解説します。'
 pubDate: '2026-07-28'
-heroImage: '/images/dark-roast-coffee-trial.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/beans510/cabinet/beans/set/otameshiset1040x1041.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'beans'
 tags:
@@ -15,9 +15,9 @@ faq:
   - question: '日常使いとしてのお試しセットのコスパはどうですか？'
     answer: '1杯（10〜12g）あたり約40〜60円で本格的な自家焙煎クオリティが楽しめます。大手チェーンのテイクアウトコーヒー（約300〜400円）と比較して約1/6〜1/8のコストで済み、家計に優しく毎日気兼ねなく続けられます。'
 sidebarProducts:
-  - title: '深煎りお試しコーヒー セット'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%B7%B1%E7%85%8E%E3%82%8A%20%E3%81%8A%E8%A9%A6%E3%81%97%20%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%2F'
-    imageUrl: '/images/dark-roast-coffee-trial.jpg'
+  - title: 'コーヒー豆 初回限定お試しセット 400g'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00pmvw1.ve2q5054.g00pmvw1.ve2q6577/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbeans510%2F10000394%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbeans510%2Fi%2F10000394%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/beans510/cabinet/beans/set/otameshiset1040x1041.jpg?_ex=600x600'
     price: 1980
     microCopy: '詳細を見る'
 ---
@@ -42,7 +42,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/dark-roast-coffee-trial.jpg" alt="深煎りお試しコーヒー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/beans510/cabinet/beans/set/otameshiset1040x1041.jpg?_ex=600x600" alt="深煎りお試しコーヒー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 王道デイリー深煎り</span><span style="color: #64748b; font-size: 0.75rem;">濃厚コク・長期保存</span></div>

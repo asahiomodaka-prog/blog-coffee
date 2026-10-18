@@ -2,7 +2,7 @@
 title: 'プレミアム「ゴールド＆クラシック2kg」は買い？毎日のコーヒーマンネリ打破レポ'
 description: '自宅で安定しないコーヒーの味に終止符を。「プレミアム」は、熟練バリスタの味を再現する抽出器具。2980円で安定した質の高い一杯を自宅で。Amazonでの詳細レビューとスペック、メリット・デメリットを解説。'
 pubDate: '2026-07-19'
-heroImage: '/images/drip-coffee-factory-gold-2kg.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f282260-awaji/cabinet/kakou2/at14003s01.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'beans'
 tags:
@@ -17,7 +17,7 @@ faq:
 sidebarProducts:
   - title: 'ゴールド＆クラシック2kg'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%EF%BC%86%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF2kg%2F'
-    imageUrl: '/images/drip-coffee-factory-gold-2kg.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f282260-awaji/cabinet/kakou2/at14003s01.jpg?_ex=600x600'
     price: 2980
     microCopy: '詳細を見る'
 ---
@@ -44,7 +44,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/drip-coffee-factory-gold-2kg.jpg" alt="ゴールド＆クラシック2kg" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f282260-awaji/cabinet/kakou2/at14003s01.jpg?_ex=600x600" alt="ゴールド＆クラシック2kg" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
@@ -109,7 +109,7 @@ sidebarProducts:
 
 筆者は数年単位でこの器具を使用するつもりであり、トータルで考えれば、カフェで消費していた金額を大幅に削減できるだけでなく、自宅でより質の高いコーヒーを毎日楽しめるようになったと評価している。
 
-![プレミアム](/images/drip-coffee-factory-gold-2kg.jpg)
+![プレミアム](https://thumbnail.image.rakuten.co.jp/@0_mall/f282260-awaji/cabinet/kakou2/at14003s01.jpg?_ex=600x600)
 
 初期費用は確かに一度の出費としては大きく感じられるかもしれない。しかし、「プレミアム」がもたらす日々の満足感と、長い目で見たときの経済的なメリットを考慮すれば、これは賢明な投資であると言える。
 
@@ -218,7 +218,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/drip-coffee-factory-gold-2kg.jpg" alt="ゴールド＆クラシック2kg" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f282260-awaji/cabinet/kakou2/at14003s01.jpg?_ex=600x600" alt="ゴールド＆クラシック2kg" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>

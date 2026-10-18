@@ -2,7 +2,7 @@
 title: '初心者のための「カリタ ナイスカットG」完全選び方ガイド！失敗しないポイント'
 description: 'カリタ ナイスカットGの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-10-09'
-heroImage: '/images/kalita-nice-cut-g-guide.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/mitenekakakubamboo/cabinet/03168880/03952843/04062394/61119.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'grinder'
 heroImages:

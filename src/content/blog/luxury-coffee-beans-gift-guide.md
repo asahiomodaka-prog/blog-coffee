@@ -2,7 +2,7 @@
 title: '初心者のための「高級コーヒー豆 ギフト」完全選び方ガイド！失敗しないポイント'
 description: '高級コーヒー豆 ギフトの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-09-12'
-heroImage: '/images/luxury-coffee-beans-gift-guide.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/yorozuya462/cabinet/compass1776424658.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'beans'
 tags:

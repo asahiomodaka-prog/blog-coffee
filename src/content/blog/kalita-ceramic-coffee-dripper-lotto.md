@@ -2,7 +2,7 @@
 title: '【サイズ比較＆素材選び】カリタ陶器ロトの選び分け！101 vs 102の杯数差と予熱の保温テクニック'
 description: 'カリタ陶器製ドリッパー「ロト」の完全選び分けガイド！1〜2人用（101）と2〜4人用（102）の粉面高・抽出効率の差、プラスチック製との保温性比較、陶器の割れを防ぐ扱い方まで徹底解説。'
 pubDate: '2026-07-28'
-heroImage: '/images/kalita-ceramic-coffee-dripper-lotto.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/simomura-kihan/cabinet/06700296/42158-60.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'dripper'
 tags:
@@ -17,7 +17,7 @@ faq:
 sidebarProducts:
   - title: 'カリタ (Kalita) 陶器製 コーヒードリッパー ロト (101 / 102)'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AB%E3%83%AA%E3%82%BF%20%E9%99%B6%E5%99%A8%E8%A3%BD%20%E3%83%89%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC%20%E3%83%AD%E3%83%88%2F'
-    imageUrl: '/images/kalita-ceramic-coffee-dripper-lotto.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/simomura-kihan/cabinet/06700296/42158-60.jpg?_ex=600x600'
     price: 2980
     microCopy: '詳細を見る'
 ---
@@ -42,7 +42,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/kalita-ceramic-coffee-dripper-lotto.jpg" alt="カリタ 陶器製 ドリッパー ロト" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/simomura-kihan/cabinet/06700296/42158-60.jpg?_ex=600x600" alt="カリタ 陶器製 ドリッパー ロト" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 陶器製ドリッパー</span><span style="color: #64748b; font-size: 0.75rem;">サイズ選び・保温美濃焼</span></div>

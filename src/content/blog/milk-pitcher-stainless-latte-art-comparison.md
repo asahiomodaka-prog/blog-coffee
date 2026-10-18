@@ -2,7 +2,7 @@
 title: '自宅ラテアートが劇的に変わる？ミルクピッチャーの素材と形状に隠された泡立ちの科学'
 description: '自宅でカフェのようなラテアートを楽しみたい人へ。このステンレス製ミルクピッチャーがなぜキメ細かいフォームミルクを作れるのか、素材や注ぎ口の設計思想から深掘り。初心者でも失敗しにくいコツと選び方を解説する。'
 pubDate: '2026-09-20'
-heroImage: '/images/milk-pitcher-stainless-latte-art-comparison.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/unibuyoutdoor/cabinet/compass1742340912.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'grinder'
 tags:

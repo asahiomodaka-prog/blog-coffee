@@ -2,7 +2,7 @@
 title: '野田琺瑯ラウンドストッカー：コーヒー豆の鮮度を守る逸品を徹底レビュー'
 description: '野田琺瑯のホーロー密閉容器ラウンドストッカーを徹底レビュー。コーヒー豆の鮮度保持に欠かせない遮光性・密閉性、そして長期的なコスパと手入れのしやすさを、自宅ドリップ愛好家の僕が詳しく解説する。'
 pubDate: '2026-09-05'
-heroImage: '/images/noda-horo-round-stocker-coffee.png'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/gbft-ltd/cabinet/img04/nt-n13n-ur82.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'beans'
 tags:
@@ -15,10 +15,10 @@ faq:
   - question: 'シリコンパッキンの交換時期はどのように判断すれば良いですか？'
     answer: 'パッキンの弾力性がなくなったり、ひび割れや変色が見られたりしたら交換のサインです。密閉性が低下すると鮮度保持能力が落ちるため、定期的に状態を確認し、野田琺瑯から販売されている交換用パッキンと交換することをおすすめします。'
 sidebarProducts:
-  - title: '野田琺瑯 ホーロー密閉容器 ラウンドストッカー'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E9%87%8E%E7%94%B0%E7%90%BA%E7%91%AF%20%E3%83%9B%E3%83%BC%E3%83%AD%E3%83%BC%E5%AF%86%E9%96%89%E5%AE%B9%E5%99%A8%20%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%89%E3%82%B9%E3%83%88%E3%83%83%E3%82%AB%E3%83%BC%2F'
-    imageUrl: '/images/noda-horo-round-stocker-coffee.png'
-    price: 0
+  - title: '野田琺瑯 ラウンドストッカー 18cm ホワイトシリーズ WRS-18'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00s8b01.ve2q5b75.g00s8b01.ve2q6694/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgbft-ltd%2Fnt-n13n-ur82%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgbft-ltd%2Fi%2F10013976%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/gbft-ltd/cabinet/img04/nt-n13n-ur82.jpg?_ex=600x600'
+    price: 4240
     microCopy: '詳細を見る'
 ---
 
@@ -33,7 +33,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/noda-horo-round-stocker-coffee.png" alt="野田琺瑯 ホーロー密閉容器 ラウンドストッカー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/gbft-ltd/cabinet/img04/nt-n13n-ur82.jpg?_ex=600x600" alt="野田琺瑯 ホーロー密閉容器 ラウンドストッカー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
@@ -61,7 +61,7 @@ sidebarProducts:
 
 付属の蓋はシリコンパッキン付きで、高い密閉性を確保している。これにより、湿気や酸素の侵入を最小限に抑え、豆の酸化を遅らせることが可能になる。購入したばかりの新鮮な豆を最高の状態で保存し、毎回安定した味わいを引き出すための基盤を築いてくれる。
 
-<div style="text-align: center; margin: 28px 0;"><img src="/images/noda-horo-round-stocker-coffee.png" alt="野田琺瑯 ホーロー密閉容器 ラウンドストッカー" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" /></div>
+<div style="text-align: center; margin: 28px 0;"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/gbft-ltd/cabinet/img04/nt-n13n-ur82.jpg?_ex=600x600" alt="野田琺瑯 ホーロー密閉容器 ラウンドストッカー" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" /></div>
 
 ## 日常の使い勝手と長期的なコストパフォーマンス
 このラウンドストッカーの魅力は、その優れた保存機能だけではない。日々の使い勝手と長期的なコストパフォーマンスも際立っている。まず、構造が非常にシンプルだ。本体と蓋、そしてシリコンパッキンという最小限のパーツで構成されている。
@@ -126,7 +126,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/noda-horo-round-stocker-coffee.png" alt="野田琺瑯 ホーロー密閉容器 ラウンドストッカー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/gbft-ltd/cabinet/img04/nt-n13n-ur82.jpg?_ex=600x600" alt="野田琺瑯 ホーロー密閉容器 ラウンドストッカー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>

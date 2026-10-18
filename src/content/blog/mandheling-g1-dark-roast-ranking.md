@@ -2,7 +2,7 @@
 title: '【2026年最新】マンデリン G1 深煎りおすすめ人気ランキング4選を徹底比較！'
 description: 'マンデリン G1 深煎りの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-09-27'
-heroImage: '/images/mandheling-g1-dark-roast-ranking.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/mellowcoffee/cabinet/07316465/07551229/052_main1.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'beans'
 tags:

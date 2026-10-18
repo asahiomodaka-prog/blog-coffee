@@ -2,7 +2,7 @@
 title: '初心者のための「エアロプレス コーヒーメーカー」完全選び方ガイド！失敗しないポイント'
 description: 'エアロプレス コーヒーメーカーの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-10-05'
-heroImage: '/images/aeropress-coffee-maker-guide.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/oc-shop/cabinet/item/09710650/imgrc0102524767.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'beans'
 heroImages:

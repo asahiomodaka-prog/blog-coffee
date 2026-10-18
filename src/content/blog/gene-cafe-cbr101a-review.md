@@ -2,7 +2,7 @@
 title: '【初めての自宅焙煎】Gene Cafe CBR-101A完全導入ガイド！煙・チャフ対策と失敗しない焙煎ステップ'
 description: '自宅でコーヒー焙煎を始めたい初心者へ！Gene Cafe CBR-101Aの導入手順、キッチンの煙・チャフ（薄皮）飛散対策、生豆の選び方から初回焙煎の失敗しないコツまで実践レビューします。'
 pubDate: '2026-09-02'
-heroImage: '/images/gene-cafe-cbr101a-review.png'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/k-online-shop/cabinet/09440415/imgrc0125791929.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'machine'
 tags:
@@ -15,10 +15,10 @@ faq:
   - question: '最初の生豆は何を選べば良いですか？'
     answer: '粒が揃っていて水分量が安定している「ブラジル・サントス」や「コロンビア・スプレモ」がおすすめです。中煎り（シティロースト前後）に仕上げやすく、香ばしいナッツ感とマイルドな甘みを誰でも簡単に引き出せます。'
 sidebarProducts:
-  - title: 'Gene Cafe コーヒー豆焙煎機 CBR-101A'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FGene%20Cafe%20%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E8%B1%86%E7%84%99%E7%85%8E%E6%A9%9F%20CBR-101A%2F'
-    imageUrl: '/images/gene-cafe-cbr101a-review.png'
-    price: 0
+  - title: 'Gene Cafe ジェネカフェ CBR-101A 珈琲焙煎機コーヒーロースター'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00ud9c1.ve2q5ac7.g00ud9c1.ve2q69a0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-online-shop%2F10000000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-online-shop%2Fi%2F10000000%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/k-online-shop/cabinet/09440415/imgrc0125791929.jpg?_ex=600x600'
+    price: 82100
     microCopy: '詳細を見る'
 ---
 
@@ -42,7 +42,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/gene-cafe-cbr101a-review.png" alt="Gene Cafe コーヒー豆焙煎機 CBR-101A" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/k-online-shop/cabinet/09440415/imgrc0125791929.jpg?_ex=600x600" alt="Gene Cafe コーヒー豆焙煎機 CBR-101A" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 初心者安心焙煎機</span><span style="color: #64748b; font-size: 0.75rem;">耐熱ガラスドラム・チャフ集約</span></div>

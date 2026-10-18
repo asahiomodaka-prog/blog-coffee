@@ -2,7 +2,7 @@
 title: '【2026年最新】ポストコーヒー 定期便おすすめ人気ランキング4選を徹底比較！'
 description: 'ポストコーヒー 定期便の選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-09-13'
-heroImage: '/images/postcoffee-subscription-ranking.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f453838-aya/cabinet/krr/19-20_01.jpg?_ex=600x600'
 genre: 'coffee'
 featured: true
 featuredOrder: 3

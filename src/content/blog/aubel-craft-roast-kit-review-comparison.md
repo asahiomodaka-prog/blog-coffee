@@ -2,7 +2,7 @@
 title: '自家焙煎の壁を越える。アウベルクラフト焙煎キットで自宅コーヒーが劇的に変わる理由'
 description: 'アウベルクラフト遠赤コーヒー焙煎キットは、手軽に自家焙煎を楽しみたい人に最適な逸品だ。その独特の設計思想と抽出科学から、安定した豆の膨らみとクリアな風味を生み出すメカニズムを深掘りし、リアルな使用感とコストパフォーマンスを解説する。'
 pubDate: '2026-09-21'
-heroImage: '/images/aubel-craft-roast-kit-review-comparison.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f232165-tokoname/cabinet/item3/10833667/tkdh-002_s01.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'beans'
 tags:

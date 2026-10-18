@@ -2,7 +2,7 @@
 title: '加藤珈琲店でコーヒーが格段に美味しく！もう豆選びに迷わない本音'
 description: 'グルメコーヒー豆専門 加藤珈琲店のブレンド2種飲み比べセット。深煎り「しゃちブレンド」など、異なる焙煎度合いのコーヒー豆を気分で選べます。Amazonで2480円とコスパも優秀。日々の自宅コーヒーに変化と深みを求める方にぴったりの定番商品です。'
 pubDate: '2026-09-01'
-heroImage: '/images/kato-coffee-gourmet-beans.png'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/2600/2630-10w.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'beans'
 tags:
@@ -15,10 +15,10 @@ faq:
   - question: '鮮度を保つための保存方法はありますか？'
     answer: 'コーヒー豆の鮮度を保つためには、密閉容器に入れ、冷暗所で保存するのが基本です。特に光や湿気、酸素は豆の劣化を早めるため、これらを避けることが重要です。長期保存を考えるのであれば、密閉容器に入れた上で冷凍庫に入れるのも有効ですが、その際は解凍せずにそのまま使用し、再冷凍は避けるようにしてください。このセットは500g×2袋なので、開封した袋は早めに密閉容器に移し、もう一方の未開封の袋はそのまま冷暗所で保管するのが良いでしょう。'
 sidebarProducts:
-  - title: '加藤珈琲店でコーヒーが格段に美味しく'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%8A%A0%E8%97%A4%E7%8F%88%E7%90%B2%E5%BA%97%E3%81%A7%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%81%8C%E6%A0%BC%E6%AE%B5%E3%81%AB%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%8F%2F'
-    imageUrl: '/images/kato-coffee-gourmet-beans.png'
-    price: 2480
+  - title: '加藤珈琲店 1kg ゴールデンブレンドセット 500g×2袋 珈琲豆'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00pl5f1.ve2q5fd0.g00pl5f1.ve2q6f99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F2630-10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10006798%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/2600/2630-10w.jpg?_ex=600x600'
+    price: 3599
     microCopy: '詳細を見る'
 ---
 
@@ -42,7 +42,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/kato-coffee-gourmet-beans.png" alt="加藤珈琲店でコーヒーが格段に美味しく" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/2600/2630-10w.jpg?_ex=600x600" alt="加藤珈琲店でコーヒーが格段に美味しく" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
@@ -182,7 +182,7 @@ sidebarProducts:
 
 僕が自宅で淹れるコーヒーの満足度は、豆の品質と僕自身の抽出技術の組み合わせで決まると思っているが、この加藤珈琲店の豆は、どちらのブレンドも安定して高いレベルの味わいを提供してくれるため、毎回のドリップが期待値通り、あるいはそれ以上のものになることが多い。
 
-<div style="text-align: center; margin: 28px 0;"><img src="/images/kato-coffee-gourmet-beans.png" alt="グルメコーヒー豆専門 加藤珈琲店" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" /></div>
+<div style="text-align: center; margin: 28px 0;"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/2600/2630-10w.jpg?_ex=600x600" alt="グルメコーヒー豆専門 加藤珈琲店" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" /></div>
 
 自宅で豆を挽き、丁寧に湯を注ぎ、立ち上る香りを嗅ぎながらの一杯は、僕にとって最高の贅沢だ。特に、仕事で疲れた日や、集中して作業に取り組みたい時など、その日の気分に合わせて「しゃちブレンド」の力強い一杯で気合を入れたり、もう一方のブレンドで心を落ち着かせたりと、柔軟に対応できるのがこのセットの大きな魅力だ。
 
@@ -282,7 +282,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/kato-coffee-gourmet-beans.png" alt="加藤珈琲店でコーヒーが格段に美味しく" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/2600/2630-10w.jpg?_ex=600x600" alt="加藤珈琲店でコーヒーが格段に美味しく" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>

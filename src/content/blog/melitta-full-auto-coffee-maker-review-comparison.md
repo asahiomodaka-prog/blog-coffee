@@ -2,7 +2,7 @@
 title: 'メリタ全自動コーヒーメーカー：台形ドリッパーが導く「安定クリア」な一杯の秘密'
 description: 'メリタ全自動コーヒーメーカーの深掘りレビュー。なぜその形状と機能で味がブレないのか？抽出メカニズムと日々の使い勝手、競合比較から見つける本当に価値ある選択を解説する。'
 pubDate: '2026-09-19'
-heroImage: '/images/melitta-full-auto-coffee-maker-review-comparison.png'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/melittajapan/cabinet/biiino/item/new-main-image/imgrc0131909646.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'grinder'
 tags:
@@ -15,10 +15,10 @@ faq:
   - question: '挽き目や濃さの調整で、味はどこまで変わるのか？'
     answer: '挽き目3段階と濃度調整機能の組み合わせで、コーヒーの味わいはかなり変化します。例えば、同じ豆でも細挽きにするとコクや苦味が強調され、粗挽きにすると酸味やフルーティーさが引き出されやすくなります。 さらに濃度調整を組み合わせることで、好みの味をかなり細かく再現できるようになります。様々な豆を試しながら、最適な設定を見つける楽しみもあります。'
 sidebarProducts:
-  - title: 'Melitta 全自動コーヒーメーカー'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FMelitta%20%E5%85%A8%E8%87%AA%E5%8B%95%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%2F'
-    imageUrl: '/images/melitta-full-auto-coffee-maker-review-comparison.png'
-    price: 0
+  - title: '【公式】メリタ アロマフレッシュ ミル付 全自動 コーヒーメーカー Melitta'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00u5nc1.ve2q54c6.g00u5nc1.ve2q6ed3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmelittajapan%2Faft1022%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmelittajapan%2Fi%2F10000119%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/melittajapan/cabinet/biiino/item/new-main-image/imgrc0131909646.jpg?_ex=600x600'
+    price: 30000
     microCopy: '詳細を見る'
 ---
 
@@ -42,7 +42,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/melitta-full-auto-coffee-maker-review-comparison.png" alt="Melitta 全自動コーヒーメーカー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/melittajapan/cabinet/biiino/item/new-main-image/imgrc0131909646.jpg?_ex=600x600" alt="Melitta 全自動コーヒーメーカー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
@@ -130,7 +130,7 @@ Melitta 全自動コーヒーメーカーは素晴らしい製品だが、もち
 
 しかし、この程度のメンテナンスは、良いコーヒーを維持するための必要経費と考えるべきだろう。
 
-<div style="text-align: center; margin: 28px 0;"><img src="/images/melitta-full-auto-coffee-maker-review-comparison.png" alt="Melitta 全自動コーヒーメーカー" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" /></div>
+<div style="text-align: center; margin: 28px 0;"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/melittajapan/cabinet/biiino/item/new-main-image/imgrc0131909646.jpg?_ex=600x600" alt="Melitta 全自動コーヒーメーカー" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" /></div>
 
 ## プロが唸る設計：台形ドリッパーとステンレスポットのこだわり
 Melittaの全自動コーヒーメーカーは、その細部にまでコーヒーへの深い理解とこだわりが詰まっている。特に、台形ドリッパーの採用は、円すい形ドリッパーが主流となりつつある現代において、メリタの確固たる設計思想を示すものだ。
@@ -181,7 +181,7 @@ Melitta 全自動コーヒーメーカーは、コーヒーを「淹れる手間
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/melitta-full-auto-coffee-maker-review-comparison.png" alt="Melitta 全自動コーヒーメーカー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/melittajapan/cabinet/biiino/item/new-main-image/imgrc0131909646.jpg?_ex=600x600" alt="Melitta 全自動コーヒーメーカー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>

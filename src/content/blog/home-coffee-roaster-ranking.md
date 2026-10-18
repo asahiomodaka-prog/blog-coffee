@@ -2,7 +2,7 @@
 title: '【2026年最新】家庭用焙煎機 自家焙煎おすすめ人気ランキング4選を徹底比較！'
 description: '家庭用焙煎機 自家焙煎の選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-09-15'
-heroImage: '/images/home-coffee-roaster-ranking.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/sandboxsmart/cabinet/listing/r2/listing_01.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'beans'
 tags:

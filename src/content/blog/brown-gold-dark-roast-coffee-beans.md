@@ -2,7 +2,7 @@
 title: '【深煎りの苦味を極上の甘みに変える】ブラウンゴールド深煎り豆の低温抽出科学！82℃ドリップで雑味を消す技術'
 description: '深煎りコーヒー豆の「苦すぎる」「エグみが出る」悩みを科学的に解決！ブラウンゴールド深煎り豆を使い、82〜85℃の低温抽出と粗挽き短時間ドリップで、濃厚なキャラメル感と甘みだけを引き出す抽出理論を徹底解説します。'
 pubDate: '2026-07-28'
-heroImage: '/images/brown-gold-dark-roast-coffee-beans.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/dripcoffee/cabinet/it01/0400003329496_ne2.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'beans'
 tags:
@@ -15,10 +15,10 @@ faq:
   - question: '挽き目はどのように調整すべきですか？'
     answer: '中粗挽き（グラニュー糖よりやや大きめのザラメ状）を推奨します。細かく挽きすぎるとフィルター内でお湯が滞留し、低温であっても過抽出を起こしやすくなります。粒度を少し粗めにしてサッと短時間で透過させるのが澄んだコクを出す秘訣です。'
 sidebarProducts:
-  - title: 'ブラウンゴールド深煎りコーヒー豆 セット'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%96%E3%83%A9%E3%82%A6%E3%83%B3%E3%82%B0%E3%83%BC%E3%83%AB%E3%83%89%20%E6%B7%B1%E7%85%8E%E3%82%8A%20%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E8%B1%86%2F'
-    imageUrl: '/images/brown-gold-dark-roast-coffee-beans.jpg'
-    price: 3280
+  - title: 'コーヒー豆 2kg ストロング ブレンド 深煎り'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00tbho1.ve2q5bdd.g00tbho1.ve2q671b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdripcoffee%2Fstrong-500-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdripcoffee%2Fi%2F10000423%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/dripcoffee/cabinet/it01/0400003329496_ne2.jpg?_ex=600x600'
+    price: 5700
     microCopy: '詳細を見る'
 ---
 
@@ -44,7 +44,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/brown-gold-dark-roast-coffee-beans.jpg" alt="ブラウンゴールド深煎りコーヒー豆セット" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/dripcoffee/cabinet/it01/0400003329496_ne2.jpg?_ex=600x600" alt="ブラウンゴールド深煎りコーヒー豆セット" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 深煎り抽出科学</span><span style="color: #64748b; font-size: 0.75rem;">低温82℃・キャラメル甘み</span></div>

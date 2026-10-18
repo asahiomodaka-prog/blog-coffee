@@ -2,7 +2,7 @@
 title: '挽きムラでコーヒーが不味いなら。カリタ ナイスカットGで「安定した美味さ」を手に入れた話'
 description: '挽きムラでコーヒーが不味いとお悩みの方へ。カリタのグラインダーは均一な挽き目で雑味のない、安定した一杯を実現します。自宅コーヒーの質を劇的に向上させる高コスパモデル。Amazonで2,980円から、美味しいコーヒーを始めましょう。'
 pubDate: '2026-08-14'
-heroImage: '/images/kalita-coffee-grinder-nice-cut-g.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/riccado/cabinet/cg430/cg400_th_flag2.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'grinder'
 tags:
@@ -17,7 +17,7 @@ faq:
 sidebarProducts:
   - title: '安定した美味さ'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%AE%89%E5%AE%9A%E3%81%97%E3%81%9F%E7%BE%8E%E5%91%B3%E3%81%95%2F'
-    imageUrl: '/images/kalita-coffee-grinder-nice-cut-g.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/riccado/cabinet/cg430/cg400_th_flag2.jpg?_ex=600x600'
     price: 2980
     microCopy: '詳細を見る'
 ---
@@ -44,7 +44,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/kalita-coffee-grinder-nice-cut-g.jpg" alt="安定した美味さ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/riccado/cabinet/cg430/cg400_th_flag2.jpg?_ex=600x600" alt="安定した美味さ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
@@ -93,7 +93,7 @@ sidebarProducts:
 
 筆者自身、このグラインダーを導入してから、毎日のコーヒーの透明感が増し、豆ごとの個性をより鮮明に感じられるようになった。
 
-![挽きムラでコーヒーが不味いなら。カリタ](/images/kalita-coffee-grinder-nice-cut-g.jpg)
+![挽きムラでコーヒーが不味いなら。カリタ](https://thumbnail.image.rakuten.co.jp/@0_mall/riccado/cabinet/cg430/cg400_th_flag2.jpg?_ex=600x600)
 
 ## 日常の使い勝手と、一杯に込める価値
 
@@ -217,7 +217,7 @@ SNSやコーヒー愛好家のコミュニティでも、同様の声が多く�
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/kalita-coffee-grinder-nice-cut-g.jpg" alt="安定した美味さ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/riccado/cabinet/cg430/cg400_th_flag2.jpg?_ex=600x600" alt="安定した美味さ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>

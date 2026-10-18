@@ -2,7 +2,7 @@
 title: 'カルディ「マイルドカルディ」の真価：定番が選ばれる理由と自宅コーヒーの最適解'
 description: 'カルディの定番「マイルドカルディ」はなぜ多くの人に愛されるのか。自宅ドリップで味わえるその真価と、他の豆との比較から見えてくる明確な強みと割り切りを、コーヒー愛好家が徹底解説します。'
 pubDate: '2026-09-06'
-heroImage: '/images/kaldi-mild-coffee-review.png'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/galman/cabinet/compass1778579603.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'beans'
 tags:
@@ -15,10 +15,10 @@ faq:
   - question: '他のカルディのブレンド豆と比べて、マイルドカルディはどのような位置づけですか？'
     answer: 'マイルドカルディは、カルディのブレンドの中でも最も「標準的」で「バランスの取れた」味わいが特徴です。酸味や苦味が控えめで飲みやすいため、他のブレンドを試す際の基準としても最適です。'
 sidebarProducts:
-  - title: 'カルディコーヒーファーム マイルドカルディ'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AB%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%95%E3%82%A1%E3%83%BC%E3%83%A0%20%E3%83%9E%E3%82%A4%E3%83%AB%E3%83%89%E3%82%AB%E3%83%AB%E3%83%87%E3%82%A3%2F'
-    imageUrl: '/images/kaldi-mild-coffee-review.png'
-    price: 0
+  - title: 'カフェカルディ ドリップ マイルドカルディ 3袋セット KALDI'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00tvsr1.ve2q53d5.g00tvsr1.ve2q640a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgalman%2Fkaldi0003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgalman%2Fi%2F10000479%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/galman/cabinet/compass1778579603.jpg?_ex=600x600'
+    price: 3790
     microCopy: '詳細を見る'
 ---
 
@@ -35,7 +35,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/kaldi-mild-coffee-review.png" alt="カルディコーヒーファーム マイルドカルディ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/galman/cabinet/compass1778579603.jpg?_ex=600x600" alt="カルディコーヒーファーム マイルドカルディ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
@@ -78,7 +78,7 @@ sidebarProducts:
 
 計量して挽き、いつものようにドリップするだけで、期待通りのコクと香りがカップに広がる。抽出に神経質になる必要がなく、気軽に日常に上質な一杯を取り入れられる手軽さは、まさにオフィスワーカーの私にとっての「救世主」と言える。
 
-<div style="text-align: center; margin: 28px 0;"><img src="/images/kaldi-mild-coffee-review.png" alt="カルディコーヒーファーム マイルドカルディ" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" /></div>
+<div style="text-align: center; margin: 28px 0;"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/galman/cabinet/compass1778579603.jpg?_ex=600x600" alt="カルディコーヒーファーム マイルドカルディ" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" /></div>
 
 ### 商品スペック
 | 項目 | 詳細 |
@@ -130,7 +130,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/kaldi-mild-coffee-review.png" alt="カルディコーヒーファーム マイルドカルディ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/galman/cabinet/compass1778579603.jpg?_ex=600x600" alt="カルディコーヒーファーム マイルドカルディ" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>

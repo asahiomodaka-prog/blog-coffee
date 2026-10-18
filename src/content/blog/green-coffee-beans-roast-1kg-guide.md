@@ -2,7 +2,7 @@
 title: '初心者のための「コーヒー生豆 焙煎用 1kg」完全選び方ガイド！失敗しないポイント'
 description: 'コーヒー生豆 焙煎用 1kgの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-09-14'
-heroImage: '/images/green-coffee-beans-roast-1kg-guide.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/8coffee/cabinet/compass1730964130.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'beans'
 tags:

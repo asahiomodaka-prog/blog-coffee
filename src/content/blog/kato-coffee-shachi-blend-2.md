@@ -2,7 +2,7 @@
 title: '加藤珈琲店 しゃちブレンド2種。豆のまま挽く悦び、違いを楽しむ大人の珈琲時間'
 description: '加藤珈琲店のコーヒー豆を徹底レビュー。自宅で「いつ淹れても美味しい」安定したドリップコーヒーを淹れたい方へ。高品質とコスパを両立し、Amazonで2980円から手軽に楽しめる魅力を解説します。'
 pubDate: '2026-07-06'
-heroImage: '/images/kato-coffee-shachi-blend-2.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f231002-nagoya/cabinet/frp_goods/frp036/24058954.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'beans'
 tags:
@@ -17,7 +17,7 @@ faq:
 sidebarProducts:
   - title: '加藤珈琲店 しゃちブレンド2種 豆のまま挽く悦び'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%8A%A0%E8%97%A4%E7%8F%88%E7%90%B2%E5%BA%97%20%E3%81%97%E3%82%83%E3%81%A1%E3%83%96%E3%83%AC%E3%83%B3%E3%83%892%E7%A8%AE%20%E8%B1%86%E3%81%AE%E3%81%BE%E3%81%BE%E6%8C%BD%E3%81%8F%E6%82%A6%E3%81%B3%2F'
-    imageUrl: '/images/kato-coffee-shachi-blend-2.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f231002-nagoya/cabinet/frp_goods/frp036/24058954.jpg?_ex=600x600'
     price: 2980
     microCopy: '詳細を見る'
 ---
@@ -44,7 +44,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/kato-coffee-shachi-blend-2.jpg" alt="加藤珈琲店 しゃちブレンド2種 豆のまま挽く悦び" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f231002-nagoya/cabinet/frp_goods/frp036/24058954.jpg?_ex=600x600" alt="加藤珈琲店 しゃちブレンド2種 豆のまま挽く悦び" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
@@ -310,7 +310,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/kato-coffee-shachi-blend-2.jpg" alt="加藤珈琲店 しゃちブレンド2種 豆のまま挽く悦び" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f231002-nagoya/cabinet/frp_goods/frp036/24058954.jpg?_ex=600x600" alt="加藤珈琲店 しゃちブレンド2種 豆のまま挽く悦び" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>

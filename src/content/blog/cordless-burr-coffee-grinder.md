@@ -2,7 +2,7 @@
 title: 'どこでも、挽きたて。コードレス臼式電動コーヒーミルが叶える、私だけの贅沢な香り'
 description: '「コードレス 臼式 電動コーヒーミル（USB充電式・コニカルコーン刃）」のAmazonレビュー。2980円で本格臼式ミルを。コードレスで場所を選ばず、均一な粒度で自宅ドリップの質が向上するメリットを徹底解説。手挽きの労力解消にも。'
 pubDate: '2026-07-11'
-heroImage: '/images/cordless-burr-coffee-grinder.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/superdeal/cabinet/12592494/12696131/imgrc0340341815.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'grinder'
 tags:
@@ -17,7 +17,7 @@ faq:
 sidebarProducts:
   - title: 'どこでも 挽きたて コードレス臼式電動コーヒーミル'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%81%A9%E3%81%93%E3%81%A7%E3%82%82%20%E6%8C%BD%E3%81%8D%E3%81%9F%E3%81%A6%20%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AC%E3%82%B9%E8%87%BC%E5%BC%8F%E9%9B%BB%E5%8B%95%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%9F%E3%83%AB%2F'
-    imageUrl: '/images/cordless-burr-coffee-grinder.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/superdeal/cabinet/12592494/12696131/imgrc0340341815.jpg?_ex=600x600'
     price: 2980
     microCopy: '詳細を見る'
 ---
@@ -42,7 +42,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/cordless-burr-coffee-grinder.jpg" alt="どこでも 挽きたて コードレス臼式電動コーヒーミル" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/superdeal/cabinet/12592494/12696131/imgrc0340341815.jpg?_ex=600x600" alt="どこでも 挽きたて コードレス臼式電動コーヒーミル" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
@@ -253,7 +253,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/cordless-burr-coffee-grinder.jpg" alt="どこでも 挽きたて コードレス臼式電動コーヒーミル" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/superdeal/cabinet/12592494/12696131/imgrc0340341815.jpg?_ex=600x600" alt="どこでも 挽きたて コードレス臼式電動コーヒーミル" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>

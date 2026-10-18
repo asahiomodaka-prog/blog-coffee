@@ -2,7 +2,7 @@
 title: 'カリタ銅製ウェーブドリッパーWDC-155 レビュー：抽出の科学と銅素材の魅力'
 description: 'カリタ銅製ウェーブドリッパーWDC-155の魅力に迫る。三つ穴構造と銅素材がなぜクリアな味を生むのか、抽出の科学から深掘り。他社ドリッパーとの比較や日常使いのコツも解説。'
 pubDate: '2026-09-16'
-heroImage: '/images/kalita-wdc155-copper-review-comparison.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/shopworld/cabinet/05902777/05932121/imgrc0117714385.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'dripper'
 tags:

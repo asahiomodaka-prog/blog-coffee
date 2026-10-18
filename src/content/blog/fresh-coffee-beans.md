@@ -2,7 +2,7 @@
 title: 'コーヒー豆 珈琲豆は温度で味が変わる！味のブレ解決する淹れ方レビュー'
 description: '自宅で「コーヒー豆 珈琲豆は温度で味が変わる」を徹底レビュー。2980円のこの豆で、抽出温度がもたらす味の変化を体験。安定しないコーヒーの悩みを解決し、科学的アプローチで自分好みの味わいを自在に追求しよう。amazonで購入可能。'
 pubDate: '2026-08-05'
-heroImage: '/images/fresh-coffee-beans.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/mellowcoffee/cabinet/07316465/07434623/010_main1.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'beans'
 tags:
@@ -17,7 +17,7 @@ faq:
 sidebarProducts:
   - title: 'コーヒー豆 珈琲豆は温度で味が変わる'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E8%B1%86%20%E7%8F%88%E7%90%B2%E8%B1%86%E3%81%AF%E6%B8%A9%E5%BA%A6%E3%81%A7%E5%91%B3%E3%81%8C%E5%A4%89%E3%82%8F%E3%82%8B%2F'
-    imageUrl: '/images/fresh-coffee-beans.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/mellowcoffee/cabinet/07316465/07434623/010_main1.jpg?_ex=600x600'
     price: 2980
     microCopy: '詳細を見る'
 ---
@@ -42,7 +42,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/fresh-coffee-beans.jpg" alt="コーヒー豆 珈琲豆は温度で味が変わる" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/mellowcoffee/cabinet/07316465/07434623/010_main1.jpg?_ex=600x600" alt="コーヒー豆 珈琲豆は温度で味が変わる" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
@@ -132,7 +132,7 @@ sidebarProducts:
 
 さらに、ペーパーフィルターや水道光熱費を加えても、一杯あたりのコストは200円前後で収まる。これは、コンビニコーヒーやカフェのテイクアウトと比較しても、経済的に優位である。
 
-![コーヒー豆 珈琲豆は温度で味が変わる](/images/fresh-coffee-beans.jpg)
+![コーヒー豆 珈琲豆は温度で味が変わる](https://thumbnail.image.rakuten.co.jp/@0_mall/mellowcoffee/cabinet/07316465/07434623/010_main1.jpg?_ex=600x600)
 
 さらに言えば、この「コーヒー豆 珈琲豆は温度で味が変わる」という豆は、一杯のコーヒーに支払う対価以上の価値を与えてくれる。同じ豆から異なる味を引き出せるということは、実質的に「一つの豆で複数のフレーバーを楽しめる」ことに他ならない。
 
@@ -269,7 +269,7 @@ SNSやコーヒー愛好家のフォーラムでは、以下のような声が�
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/fresh-coffee-beans.jpg" alt="コーヒー豆 珈琲豆は温度で味が変わる" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/mellowcoffee/cabinet/07316465/07434623/010_main1.jpg?_ex=600x600" alt="コーヒー豆 珈琲豆は温度で味が変わる" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>

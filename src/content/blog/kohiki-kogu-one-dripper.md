@@ -2,7 +2,7 @@
 title: '一杯の贅沢。珈琲考具 ワンドリッパーでゆっくり味わう、豊かなコーヒー暮らし'
 description: '「珈琲考具」で自宅コーヒーの抽出を安定させ、毎日クリアな味わいを実現。Amazonで2980円のドリッパーを徹底レビュー。日々の抽出の課題解決、手入れのしやすさ、コスパまで、具体的なメリットとスペックを解説。(119文字)'
 pubDate: '2026-07-12'
-heroImage: '/images/kohiki-kogu-one-dripper.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/longlife-global/cabinet/08208996/08211510/imgrc0113115449.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'dripper'
 tags:
@@ -17,7 +17,7 @@ faq:
 sidebarProducts:
   - title: '一杯の贅沢 珈琲考具'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E4%B8%80%E6%9D%AF%E3%81%AE%E8%B4%85%E6%B2%A2%20%E7%8F%88%E7%90%B2%E8%80%83%E5%85%B7%2F'
-    imageUrl: '/images/kohiki-kogu-one-dripper.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/longlife-global/cabinet/08208996/08211510/imgrc0113115449.jpg?_ex=600x600'
     price: 2980
     microCopy: '詳細を見る'
 ---
@@ -36,7 +36,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/kohiki-kogu-one-dripper.jpg" alt="一杯の贅沢 珈琲考具" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/longlife-global/cabinet/08208996/08211510/imgrc0113115449.jpg?_ex=600x600" alt="一杯の贅沢 珈琲考具" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
@@ -188,7 +188,7 @@ sidebarProducts:
 
 抽出後の粉を見ると、均一にお湯が透過していることがわかる「きれいなマウンド」ができている。これは、適切な抽出が行われている客観的な証拠として、淹れ手である私に確かな満足感を与えてくれる。
 
-![一杯の贅沢。珈琲考具](/images/kohiki-kogu-one-dripper.jpg)
+![一杯の贅沢。珈琲考具](https://thumbnail.image.rakuten.co.jp/@0_mall/longlife-global/cabinet/08208996/08211510/imgrc0113115449.jpg?_ex=600x600)
 
 ### スペック情報
 
@@ -276,7 +276,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/kohiki-kogu-one-dripper.jpg" alt="一杯の贅沢 珈琲考具" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/longlife-global/cabinet/08208996/08211510/imgrc0113115449.jpg?_ex=600x600" alt="一杯の贅沢 珈琲考具" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>

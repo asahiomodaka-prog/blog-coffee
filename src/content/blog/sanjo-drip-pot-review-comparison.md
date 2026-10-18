@@ -2,7 +2,7 @@
 title: '極細ノズルが導く理想の抽出：燕三条製ドリップポット深掘り'
 description: '燕三条製の極細3.4mmノズルドリップポットの秘密を徹底解説。なぜ狙い通りのクリアな一杯が淹れられるのか、抽出科学と他社比較からその本質に迫る。'
 pubDate: '2026-09-30'
-heroImage: '/images/sanjo-drip-pot-review-comparison.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f152048-sanjo/cabinet/sanjof/10000_4/imgrc0103201400.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'kettle'
 tags:

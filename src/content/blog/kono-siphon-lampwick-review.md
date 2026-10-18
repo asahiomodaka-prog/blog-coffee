@@ -2,7 +2,7 @@
 title: 'KONOサイフォンランプ芯で変わる抽出体験 本格コーヒーの秘密'
 description: 'KONOサイフォンのランプ芯は、安定した抽出温度を保ち、コーヒーの風味を最大限に引き出す。自宅で本格的なサイフォンコーヒーを楽しみたい人におすすめの交換部品を徹底解説する。'
 pubDate: '2026-09-10'
-heroImage: '/images/kono-siphon-lampwick-review.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/tobidasu-baisenjo/cabinet/shouhin01/07871280/09325562/imgrc0150793912.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'beans'
 tags:

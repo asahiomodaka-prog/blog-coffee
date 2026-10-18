@@ -2,7 +2,7 @@
 title: '初心者のための「水出し アイスコーヒー パック」完全選び方ガイド！失敗しないポイント'
 description: '水出し アイスコーヒー パックの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-10-12'
-heroImage: '/images/cold-brew-iced-coffee-pack-guide.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/1200/1202-4r.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'dripper'
 heroImages:

@@ -2,7 +2,7 @@
 title: '自宅コーヒーが劇的に変わる！山善の温度調節ケトルで失敗しないドリップ術'
 description: '自宅ドリップコーヒーを始めたいけれど、味のブレが心配？山善の温度調節電気ケトルEGL-C1281があれば、誰でも簡単に安定した一杯を淹れられる。初心者でも失敗しない温度管理と注ぎやすさが魅力。'
 pubDate: '2026-09-15'
-heroImage: '/images/yamazen-electric-kettle-drip-beginner.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/018/main-s4x25.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'kettle'
 tags:

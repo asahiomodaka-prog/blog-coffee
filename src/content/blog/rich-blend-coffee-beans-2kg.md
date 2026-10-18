@@ -2,7 +2,7 @@
 title: 'IGURAMUリッチブレンド2kg本音レビュー。日常使いのコスパとコクを徹底検証'
 description: 'IGURAMUリッチブレンド2kgはamazonで2980円。レビューで価格以上の真価を徹底解説！バランスの取れた深煎り味わい、安定抽出、深みとコクが毎日のコーヒー体験を格上げ。大容量で高品質を求める方に最適です。'
 pubDate: '2026-07-21'
-heroImage: '/images/rich-blend-coffee-beans-2kg.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/0400/0403-20r.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'beans'
 tags:
@@ -17,7 +17,7 @@ faq:
 sidebarProducts:
   - title: 'IGURAMUリッチブレンド2kg'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FIGURAMU%E3%83%AA%E3%83%83%E3%83%81%E3%83%96%E3%83%AC%E3%83%B3%E3%83%892kg%2F'
-    imageUrl: '/images/rich-blend-coffee-beans-2kg.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/0400/0403-20r.jpg?_ex=600x600'
     price: 2980
     microCopy: '詳細を見る'
 ---
@@ -36,7 +36,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/rich-blend-coffee-beans-2kg.jpg" alt="IGURAMUリッチブレンド2kg" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/0400/0403-20r.jpg?_ex=600x600" alt="IGURAMUリッチブレンド2kg" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
@@ -99,7 +99,7 @@ sidebarProducts:
 
 深煎り豆は、焙煎によってガスが抜けやすくなっているため、浅煎り豆ほど劇的に膨らむことは少ないが、それでも丁寧に湯を注げば、美しい泡立ちとともに、粉層全体がゆっくりと持ち上がり、均一な抽出が視覚的に確認できる。カップに落ちるコーヒー液は、深みのある濃い茶色で、香り高く、口に含んだ瞬間に感じる滑らかな舌触りが、その抽出の成功を物語る。
 
-![IGURAMUリッチブレンド2kg](/images/rich-blend-coffee-beans-2kg.jpg)
+![IGURAMUリッチブレンド2kg](https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/0400/0403-20r.jpg?_ex=600x600)
 
 ## 2kgの大容量がもたらす「ゆとりの日常」：計算で見る驚異のコストパフォーマンス
 
@@ -253,7 +253,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/rich-blend-coffee-beans-2kg.jpg" alt="IGURAMUリッチブレンド2kg" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/0400/0403-20r.jpg?_ex=600x600" alt="IGURAMUリッチブレンド2kg" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>

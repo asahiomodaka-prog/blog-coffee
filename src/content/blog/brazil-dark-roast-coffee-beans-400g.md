@@ -2,7 +2,7 @@
 title: '【カフェオレ＆急冷アイス特化】ブラジル深煎り400gの真価！ミルクに負けない濃厚コクと抽出黄金比'
 description: 'ブラジル深煎り自家焙煎コーヒー豆400gを徹底レビュー！牛乳と1:1で割っても負けないビターチョコレートのような重厚なコク、氷に直接落とす急冷アイスコーヒーの黄金レシピを詳しく解説します。'
 pubDate: '2026-07-15'
-heroImage: '/images/brazil-dark-roast-coffee-beans-400g.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/andushcoffee/cabinet/202210/001_brazil400.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'beans'
 tags:
@@ -15,10 +15,10 @@ faq:
   - question: '急冷アイスコーヒーを淹れるコツは？'
     answer: 'サーバーにあらかじめ氷を150gほど入れておき、粉25gに対して沸騰したてのお湯150mlをゆっくり注ぎます。落ちてきた熱い原液が瞬時に氷で冷やされることで、香気成分が液体の中に閉じ込められ、濁りのない透き通った極上アイスコーヒーになります。'
 sidebarProducts:
-  - title: 'ブラジル深煎り400g 自家焙煎コーヒー豆'
-    url: 'https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25B8%25E3%2583%25AB%2520%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%2520400g'
-    imageUrl: '/images/brazil-dark-roast-coffee-beans-400g.jpg'
-    price: 0
+  - title: 'ブラジル サントス 400g 中深煎り 珈琲豆 コーヒー豆'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00tl781.ve2q5962.g00tl781.ve2q66b9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fandushcoffee%2Fbrazilsantos400nekopos%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fandushcoffee%2Fi%2F10000433%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/andushcoffee/cabinet/202210/001_brazil400.jpg?_ex=600x600'
+    price: 3330
     microCopy: '詳細を見る'
 ---
 
@@ -42,7 +42,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/brazil-dark-roast-coffee-beans-400g.jpg" alt="ブラジル深煎り400g自家焙煎コーヒー豆" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/andushcoffee/cabinet/202210/001_brazil400.jpg?_ex=600x600" alt="ブラジル深煎り400g自家焙煎コーヒー豆" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ カフェオレ推奨豆</span><span style="color: #64748b; font-size: 0.75rem;">深煎り・重厚ビター</span></div>

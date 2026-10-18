@@ -2,7 +2,7 @@
 title: '【徹底比較】コーヒードリッパーの種類と味の違い完全ガイド！ペーパー・ネル・金属・陶器・V60の選び方'
 description: 'ペーパー・ネル・金属・陶器・HARIO V60の味やオイル感、手入れの違いを徹底比較。あなたにぴったりのドリッパーが必ず見つかる選び方ガイド。'
 pubDate: '2026-09-08'
-heroImage: '/images/coffee-dripper-types-comparison-guide.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/tonya/cabinet/photo/2022/335798-1.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'dripper'
 tags:

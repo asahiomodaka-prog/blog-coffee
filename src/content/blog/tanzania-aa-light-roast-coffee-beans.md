@@ -2,7 +2,7 @@
 title: 浅煎りタンザニアAA、正直レビュー！お湯の温度で香りが全然違う？
 description: タンザニア・AA(キリマンジャロ)浅煎りコーヒー豆180g。上品な酸味と黒糖のような甘い香りが特徴のシナモンロースト。メール便で手軽に、本格的な一杯を1,880円で。お中元や内祝いにも最適です。
 pubDate: '2026-08-01'
-heroImage: https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/2019/imgrc0082051036.jpg?_ex=600x600
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/2019/imgrc0082051036.jpg?_ex=600x600'
 genre: coffee
 sidebarProducts:
   - title: '浅煎りタンザニアAA、正直レビュー'

@@ -2,7 +2,7 @@
 title: '【一生モノのアウトドア珈琲】ポーレックス コーヒーミルII プロの真価！丸洗い＆携帯性で選ぶ手挽きミル'
 description: 'キャンプや旅行、毎朝の日常に最高の一杯を。ジャパンポーレックス「コーヒーミルII プロ」の卓越した携帯性、パーツ完全水洗いの手入れ性、頑丈なステンレスボディの魅力を徹底レビューします。'
 pubDate: '2026-09-11'
-heroImage: '/images/japan-porlex-coffee-mill-ii-pro-review.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/realjapanprojectstore/cabinet/porlex/imgrc0114388142.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'grinder'
 tags:

@@ -2,7 +2,7 @@
 title: '【3つ穴抽出の科学】カリタ陶器ドリッパー101/102の真価！リブ構造と湯抜け速度で雑味を消す理論'
 description: 'カリタ独自の台形3つ穴構造と直線リブがもたらす抽出科学を徹底解剖。円すい型（V60）との湯抜け速度の差、雑味をろ過層に残すメカニズム、陶器の熱容量がもたらす安定抽出を解説します。'
 pubDate: '2026-07-25'
-heroImage: '/images/kalita-ceramic-coffee-dripper-101-102.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/simomura-kihan/cabinet/06700296/42158-60.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'dripper'
 tags:
@@ -17,7 +17,7 @@ faq:
 sidebarProducts:
   - title: 'カリタ (Kalita) 陶器製 コーヒードリッパー 101 / 102'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%AB%E3%83%AA%E3%82%BF%20%E9%99%B6%E5%99%A8%E8%A3%BD%20%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%89%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC%20101%20102%2F'
-    imageUrl: '/images/kalita-ceramic-coffee-dripper-101-102.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/simomura-kihan/cabinet/06700296/42158-60.jpg?_ex=600x600'
     price: 2980
     microCopy: '詳細を見る'
 ---
@@ -42,7 +42,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/kalita-ceramic-coffee-dripper-101-102.jpg" alt="カリタ 陶器製 コーヒードリッパー 101 102" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/simomura-kihan/cabinet/06700296/42158-60.jpg?_ex=600x600" alt="カリタ 陶器製 コーヒードリッパー 101 102" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 抽出科学の原点</span><span style="color: #64748b; font-size: 0.75rem;">3つ穴台形・直線リブ</span></div>

@@ -2,7 +2,7 @@
 title: '手挽き コーヒーミル 6段階調整で味のブレ解消！本音レビュー'
 description: '2980円で高コスパ「手挽きコーヒーミル」を探すなら必見。電動ミルに躊躇する方へ、amazonで買えるこの商品は挽きたての豊かな香りと均一な挽き目を実現。使いやすさ・メンテナンス性もレビュー。自宅で本格的な一杯を楽しみたいあなたの悩みを解決します。'
 pubDate: '2026-08-07'
-heroImage: '/images/manual-coffee-grinder-6-level.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/x-plosion/cabinet/yec/11362306/241227_wpcfl-z-co.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'grinder'
 tags:
@@ -17,7 +17,7 @@ faq:
 sidebarProducts:
   - title: '手挽き コーヒーミル 6段階粒度調整 セラミック刃'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%89%8B%E6%8C%BD%E3%81%8D%20%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%9F%E3%83%AB%206%E6%AE%B5%E9%9A%8E%E8%AA%BF%E6%95%B4%2F'
-    imageUrl: '/images/manual-coffee-grinder-6-level.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/x-plosion/cabinet/yec/11362306/241227_wpcfl-z-co.jpg?_ex=600x600'
     price: 2980
     microCopy: '詳細を見る'
 ---
@@ -42,7 +42,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/manual-coffee-grinder-6-level.jpg" alt="手挽き コーヒーミル 6段階調整" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/x-plosion/cabinet/yec/11362306/241227_wpcfl-z-co.jpg?_ex=600x600" alt="手挽き コーヒーミル 6段階調整" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
@@ -118,7 +118,7 @@ sidebarProducts:
 
 ゴリゴリと豆が砕かれる感触と、徐々に立ち上る芳しい香りは、日常に穏やかなリズムをもたらしてくれる。
 
-![手挽き コーヒーミル](/images/manual-coffee-grinder-6-level.jpg)
+![手挽き コーヒーミル](https://thumbnail.image.rakuten.co.jp/@0_mall/x-plosion/cabinet/yec/11362306/241227_wpcfl-z-co.jpg?_ex=600x600)
 
 その上、手挽きミルは構造がシンプルなので、電動ミルに比べて故障のリスクが低い。内部に複雑な電子部品がないため、突発的な故障に見舞われる可能性は極めて低い。
 
@@ -255,7 +255,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/manual-coffee-grinder-6-level.jpg" alt="手挽き コーヒーミル 6段階調整" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/x-plosion/cabinet/yec/11362306/241227_wpcfl-z-co.jpg?_ex=600x600" alt="手挽き コーヒーミル 6段階調整" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>

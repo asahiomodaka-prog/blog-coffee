@@ -2,7 +2,7 @@
 title: '【深煎り産地別飲み比べ】深煎りお試し福袋を徹底比較！ブラジル vs マンデリン vs コロンビアのコクとオイル感'
 description: '「深煎り＝苦いだけ」ではない！深煎りお試し福袋を徹底比較。ブラジルのナッツ香、マンデリンの大地のような重厚ハーブ感、コロンビアの円熟した甘みなど、焙煎度を深めても残る産地ごとの個性の選び分けを解説します。'
 pubDate: '2026-07-28'
-heroImage: '/images/dark-roast-coffee-sample-bag.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/sawaicoffee-tea/cabinet/thum/new1t/autumn3set_t.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'beans'
 tags:
@@ -15,10 +15,10 @@ faq:
   - question: 'お試し福袋の豆を飲み比べる順番にコツはありますか？'
     answer: 'ボディの軽い方から重い方へと順にテイスティングするのがコツです。「コロンビア（フルーティー＆甘み）」→「ブラジル（香ばしさ＆バランス）」→「マンデリン（濃厚重厚＆スパイシー）」の順序で飲むと、それぞれの個性を舌の上で鮮明に識別できます。'
 sidebarProducts:
-  - title: '深煎りお試し福袋 コーヒー豆セット'
-    url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%B7%B1%E7%85%8E%E3%82%8A%20%E3%81%8A%E8%A9%A6%E3%81%97%20%E7%A6%8F%E8%A2%8B%20%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E8%B1%86%2F'
-    imageUrl: '/images/dark-roast-coffee-sample-bag.jpg'
-    price: 2980
+  - title: '澤井珈琲 焙煎したて コーヒー豆 1.2kg 福袋 飲み比べセット'
+    url: 'https://hb.afl.rakuten.co.jp/hgc/g00powb1.ve2q5783.g00powb1.ve2q6ef7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsawaicoffee-tea%2F3daiwinterset%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsawaicoffee-tea%2Fi%2F10005354%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/sawaicoffee-tea/cabinet/thum/new1t/autumn3set_t.jpg?_ex=600x600'
+    price: 4480
     microCopy: '詳細を見る'
 ---
 
@@ -44,7 +44,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/dark-roast-coffee-sample-bag.jpg" alt="深煎りお試し福袋" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/sawaicoffee-tea/cabinet/thum/new1t/autumn3set_t.jpg?_ex=600x600" alt="深煎りお試し福袋" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 産地別飲み比べ</span><span style="color: #64748b; font-size: 0.75rem;">深煎りアソート・福袋</span></div>

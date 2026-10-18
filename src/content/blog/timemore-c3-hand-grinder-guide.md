@@ -2,7 +2,7 @@
 title: '初心者のための「タイムモア C3 手挽きミル」完全選び方ガイド！失敗しないポイント'
 description: 'タイムモア C3 手挽きミルの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-09-29'
-heroImage: '/images/timemore-c3-hand-grinder-guide.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/smartkitchen/cabinet/25/s10011927-001.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'grinder'
 tags:

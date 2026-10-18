@@ -2,7 +2,7 @@
 title: '多くのコーヒー愛好家が唸る！ステンレスドリッパーが紡ぐ、ペーパーレスな至福の香り'
 description: '自宅ドリップを格上げ！Amazonで2980円のステンレス製ペーパーレスドリッパーを徹底レビュー。紙臭さを解消し、コーヒーオイルを最大限に抽出する極細メッシュで、クリアかつ深みのある豊かなコクと香りを実現。コーヒー愛好家の悩みを解決します。'
 pubDate: '2026-07-06'
-heroImage: '/images/paperless-stainless-dripper.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/longlife-global/cabinet/08208996/08211510/imgrc0113115449.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'dripper'
 tags:
@@ -17,7 +17,7 @@ faq:
 sidebarProducts:
   - title: '多くのコーヒー愛好家が唸る ステンレスドリッパー'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E5%A4%9A%E3%81%8F%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E6%84%9B%E5%A5%BD%E5%AE%B6%E3%81%8C%E5%94%B8%E3%82%8B%20%E3%82%B9%E3%83%86%E3%83%B3%E3%83%AC%E3%82%B9%E3%83%89%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC%2F'
-    imageUrl: '/images/paperless-stainless-dripper.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/longlife-global/cabinet/08208996/08211510/imgrc0113115449.jpg?_ex=600x600'
     price: 2980
     microCopy: '詳細を見る'
 ---
@@ -36,7 +36,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/paperless-stainless-dripper.jpg" alt="多くのコーヒー愛好家が唸る ステンレスドリッパー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/longlife-global/cabinet/08208996/08211510/imgrc0113115449.jpg?_ex=600x600" alt="多くのコーヒー愛好家が唸る ステンレスドリッパー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
@@ -95,7 +95,7 @@ sidebarProducts:
 
 メッシュフィルターを通して、コーヒーオイルが艶やかにカップへと流れ落ちる様子は、抽出プロセスそのものを視覚的に楽しむ要素となるだろう。
 
-![ステンレス製ペーパーレスドリッパー](/images/paperless-stainless-dripper.jpg)
+![ステンレス製ペーパーレスドリッパー](https://thumbnail.image.rakuten.co.jp/@0_mall/longlife-global/cabinet/08208996/08211510/imgrc0113115449.jpg?_ex=600x600)
 
 ## 日常に溶け込む手軽さ：経済性と手入れの効率性
 
@@ -228,7 +228,7 @@ A3: このドリッパーは、豆本来の風味をストレートに引き出�
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/paperless-stainless-dripper.jpg" alt="多くのコーヒー愛好家が唸る ステンレスドリッパー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/longlife-global/cabinet/08208996/08211510/imgrc0113115449.jpg?_ex=600x600" alt="多くのコーヒー愛好家が唸る ステンレスドリッパー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>

@@ -2,7 +2,7 @@
 title: 'エチオピアモカ・ラデュースで、いつものコーヒーが劇的変化！味のブレなし淹れ方レビュー'
 description: '自宅コーヒーの悩みを「エチオピアモカ」で解決！華やかな香りとフルーティーな酸味が特徴で、初心者でも安定した抽出が可能です。Amazonで2980円から購入できるこの人気豆のレビューとスペックを徹底解説。'
 pubDate: '2026-07-27'
-heroImage: '/images/ethiopia-mocha-ladeuse-coffee-beans.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/0600/0647-15r.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'beans'
 tags:
@@ -17,7 +17,7 @@ faq:
 sidebarProducts:
   - title: 'エチオピアモカ ラデュース'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2%E3%83%A2%E3%82%AB%20%E3%83%A9%E3%83%87%E3%83%A5%E3%83%BC%E3%82%B9%2F'
-    imageUrl: '/images/ethiopia-mocha-ladeuse-coffee-beans.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/0600/0647-15r.jpg?_ex=600x600'
     price: 2980
     microCopy: '詳細を見る'
 ---
@@ -55,7 +55,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/ethiopia-mocha-ladeuse-coffee-beans.jpg" alt="エチオピアモカ ラデュース" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/0600/0647-15r.jpg?_ex=600x600" alt="エチオピアモカ ラデュース" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
@@ -138,7 +138,7 @@ sidebarProducts:
 
 忙しい朝でも、コーヒー豆を挽く香り、お湯を注いだ時のコーヒーの膨らみ、そしてカップに落ちる液体の色合い。これらの工程全てが、日々のルーティンに小さな贅沢と喜びを与えてくれる。自宅で豆から淹れる時間は、単にコーヒーを飲む以上の価値を提供すると私は考えている。
 
-![エチオピアモカ](/images/ethiopia-mocha-ladeuse-coffee-beans.jpg)
+![エチオピアモカ](https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/0600/0647-15r.jpg?_ex=600x600)
 
 ## 飲んでわかる、エチオピアモカの香り高い魅力と満足感
 
@@ -240,7 +240,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/ethiopia-mocha-ladeuse-coffee-beans.jpg" alt="エチオピアモカ ラデュース" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/0600/0647-15r.jpg?_ex=600x600" alt="エチオピアモカ ラデュース" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>

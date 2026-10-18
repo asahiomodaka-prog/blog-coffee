@@ -2,7 +2,7 @@
 title: '「ブルーマウンテン＆コピ・ルアク」をどう活かす？正直な感想と淹れ方'
 description: '「ブルーマウンテン＆コピ・ルアク 高級コーヒー豆 飲み比べ」でブルーマウンテンとコピ・ルアクを最大限に。高級コーヒー豆のポテンシャルを引き出し、複雑で奥深い香りと格別な口当たりを実現する活用法を徹底レビュー。amazonで2980円の価値を検証し、日々のコーヒー体験を格別なものにしたい方へ。'
 pubDate: '2026-08-11'
-heroImage: '/images/blue-mountain-kopi-luwak-coffee.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/komi-coffee/cabinet/03865770/imgrc0115435796.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'beans'
 tags:
@@ -17,7 +17,7 @@ faq:
 sidebarProducts:
   - title: 'ブルーマウンテン＆コピ ルアク'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%96%E3%83%AB%E3%83%BC%E3%83%9E%E3%82%A6%E3%83%B3%E3%83%86%E3%83%B3%EF%BC%86%E3%82%B3%E3%83%94%20%E3%83%AB%E3%82%A2%E3%82%AF%2F'
-    imageUrl: '/images/blue-mountain-kopi-luwak-coffee.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/komi-coffee/cabinet/03865770/imgrc0115435796.jpg?_ex=600x600'
     price: 2980
     microCopy: '詳細を見る'
 ---
@@ -46,7 +46,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/blue-mountain-kopi-luwak-coffee.jpg" alt="ブルーマウンテン＆コピ ルアク" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/komi-coffee/cabinet/03865770/imgrc0115435796.jpg?_ex=600x600" alt="ブルーマウンテン＆コピ ルアク" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
@@ -127,7 +127,7 @@ sidebarProducts:
 
 これは、カフェでは決して味わえない、自宅コーヒーならではの醍醐味である。日々のコーヒータイムに真の豊かさを求めるなら、この「ブルーマウンテン＆コピ・ルアク 高級コーヒー豆 飲み比べ」という選択は、あなたの日常に深い満足感をもたらす選択肢の一つとなるだろう。
 
-![ブルーマウンテン＆コピ・ルアク 高級コーヒー豆 飲み比べ](/images/blue-mountain-kopi-luwak-coffee.jpg)
+![ブルーマウンテン＆コピ・ルアク 高級コーヒー豆 飲み比べ](https://thumbnail.image.rakuten.co.jp/@0_mall/komi-coffee/cabinet/03865770/imgrc0115435796.jpg?_ex=600x600)
 
 ## スペックと使い勝手が生み出す高い実用性
 
@@ -256,7 +256,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/blue-mountain-kopi-luwak-coffee.jpg" alt="ブルーマウンテン＆コピ ルアク" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/komi-coffee/cabinet/03865770/imgrc0115435796.jpg?_ex=600x600" alt="ブルーマウンテン＆コピ ルアク" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>

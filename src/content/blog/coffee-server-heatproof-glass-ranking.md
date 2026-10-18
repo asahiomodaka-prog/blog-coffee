@@ -2,7 +2,7 @@
 title: '【2026年最新】コーヒーサーバー 耐熱ガラスおすすめ人気ランキング4選を徹底比較！'
 description: 'コーヒーサーバー 耐熱ガラスの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-10-15'
-heroImage: '/images/coffee-server-heatproof-glass-ranking.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/shopworld/cabinet/05902777/08018768/11762520/imgrc0170886460.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'dripper'
 heroImages:

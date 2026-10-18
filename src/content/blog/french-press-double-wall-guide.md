@@ -2,7 +2,7 @@
 title: '初心者のための「フレンチプレス ダブルウォール」完全選び方ガイド！失敗しないポイント'
 description: 'フレンチプレス ダブルウォールの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-10-04'
-heroImage: '/images/french-press-double-wall-guide.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/hrc/cabinet/tkg11/0727015322506_1.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'beans'
 tags:

@@ -2,7 +2,7 @@
 title: '【2026年最新】父の日 コーヒー ギフト セットおすすめ人気ランキング4選を徹底比較！'
 description: '父の日 コーヒー ギフト セットの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-10-06'
-heroImage: '/images/fathers-day-coffee-gift-set-ranking.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/meissen/cabinet/meissencoffee/mcof_gift_20dp_1.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'beans'
 heroImages:

@@ -2,7 +2,7 @@
 title: '波佐見焼COFILで深める、コーヒーの愉しみ。ペーパーレスが叶える至福の味覚体験'
 description: '波佐見焼COFILのセラミックフィルターが、コーヒーの雑味を吸着し、豆本来のクリアな味わいとまろやかなコクを引き出します。ペーパー不要で紙臭さもゼロ。Amazonでの価格2980円やユーザーレビュー、スペックを徹底解説。'
 pubDate: '2026-07-09'
-heroImage: '/images/cofil-paperless-coffee.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f082040-koga/cabinet/hario/5701-30034959-01.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'dripper'
 tags:
@@ -17,7 +17,7 @@ faq:
 sidebarProducts:
   - title: '波佐見焼COFIL'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%B3%A2%E4%BD%90%E8%A6%8B%E7%84%BCCOFIL%2F'
-    imageUrl: '/images/cofil-paperless-coffee.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f082040-koga/cabinet/hario/5701-30034959-01.jpg?_ex=600x600'
     price: 2980
     microCopy: '詳細を見る'
 ---
@@ -42,7 +42,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/cofil-paperless-coffee.jpg" alt="波佐見焼COFIL" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f082040-koga/cabinet/hario/5701-30034959-01.jpg?_ex=600x600" alt="波佐見焼COFIL" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
@@ -89,7 +89,7 @@ COFILの抽出速度は、ペーパーフィルターに比べてややゆっく
 
 ## 日常使いにおける利便性と経済性
 
-![波佐見焼COFIL](/images/cofil-paperless-coffee.jpg)
+![波佐見焼COFIL](https://thumbnail.image.rakuten.co.jp/@0_mall/f082040-koga/cabinet/hario/5701-30034959-01.jpg?_ex=600x600)
 
 [波佐見焼COFIL](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B3%25A2%25E4%25BD%2590%25E8%25A6%258B%25E7%2584%25BC%2520COFIL%2520%25E3%2582%25BB%25E3%2583%25A9%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2595%25E3%2582%25A3%25E3%2583%25AB%25E3%2582%25BF%25E3%2583%25BC)を自宅で使い始めて実感するのは、その経済的なメリットと、予想以上にシンプルな日常の使い勝手である。最も明白な利点は、やはりペーパーフィルターが不要になることだ。
 
@@ -222,7 +222,7 @@ COFILはペーパーフィルターのような手軽さを保ちつつ、より
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/cofil-paperless-coffee.jpg" alt="波佐見焼COFIL" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f082040-koga/cabinet/hario/5701-30034959-01.jpg?_ex=600x600" alt="波佐見焼COFIL" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>

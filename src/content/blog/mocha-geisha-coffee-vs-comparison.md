@@ -2,7 +2,7 @@
 title: 'コーヒー豆 モカ ゲイシャ G3 ナチュラル vs コーヒー豆 モカ ゲイシャ G1 ナチュラル 徹底比較！どっちを選ぶべき？'
 description: 'モカ ゲイシャの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-09-09'
-heroImage: '/images/mocha-geisha-coffee-vs-comparison.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/daisen-coffee/cabinet/items/09268149/11585518/409-00.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'beans'
 tags:

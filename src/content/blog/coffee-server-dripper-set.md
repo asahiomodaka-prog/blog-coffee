@@ -2,7 +2,7 @@
 title: 'コーヒードリップセットで味がブレる？初心者でも失敗しない淹れ方【本音レビュー】'
 description: '自宅ドリップコーヒーの味、安定しない？「コーヒードリップセット（耐熱ガラスサーバー＆ドリッパー）」は、抽出の不安定さを解消し、毎日安定した味わいを再現。amazonで2980円。その仕組みと実力を徹底レビュー。'
 pubDate: '2026-08-08'
-heroImage: '/images/coffee-server-dripper-set.jpg'
+heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/daysunny/cabinet/13460032/imgrc0128595442.jpg?_ex=600x600'
 genre: 'coffee'
 mediaType: 'dripper'
 tags:
@@ -17,7 +17,7 @@ faq:
 sidebarProducts:
   - title: 'コーヒードリップセット (ガラスサーバー & ドリッパー)'
     url: 'https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%89%E3%83%AA%E3%83%83%E3%83%97%E3%82%BB%E3%83%83%E3%83%88%20%E3%82%B5%E3%83%BC%E3%83%90%E3%83%BC%20%E3%83%89%E3%83%AA%E3%83%83%E3%83%91%E3%83%BC%2F'
-    imageUrl: '/images/coffee-server-dripper-set.jpg'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/daysunny/cabinet/13460032/imgrc0128595442.jpg?_ex=600x600'
     price: 2980
     microCopy: '詳細を見る'
 ---
@@ -44,7 +44,7 @@ sidebarProducts:
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/coffee-server-dripper-set.jpg" alt="コーヒードリップセット サーバー ドリッパー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/daysunny/cabinet/13460032/imgrc0128595442.jpg?_ex=600x600" alt="コーヒードリップセット サーバー ドリッパー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
@@ -90,7 +90,7 @@ sidebarProducts:
 挽き目についても、中細挽きから中挽きまで、様々な豆の特性に合わせて試行錯誤しましたが、このセットは比較的どの挽き目でも安定した抽出結果をもたらす対応力の高さがあります。これは、[ドリッパー](/blog/coffee-dripper-1-3-cup/)の抽出効率が高いことの表れであると筆者は考えます。
 
 [コーヒードリップセット（耐熱ガラスサーバー＆ドリッパー）](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2520%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC)
-![コーヒードリップセット（耐熱ガラスサーバー＆ドリッパー）](/images/coffee-server-dripper-set.jpg)
+![コーヒードリップセット（耐熱ガラスサーバー＆ドリッパー）](https://thumbnail.image.rakuten.co.jp/@0_mall/daysunny/cabinet/13460032/imgrc0128595442.jpg?_ex=600x600)
 
 ## 日常の使い勝手と、賢いコーヒーライフのコスパ
 
@@ -222,7 +222,7 @@ SNSやレビューサイトでは、筆者と同様に「ドリップの味が�
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="/images/coffee-server-dripper-set.jpg" alt="コーヒードリップセット サーバー ドリッパー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/daysunny/cabinet/13460032/imgrc0128595442.jpg?_ex=600x600" alt="コーヒードリップセット サーバー ドリッパー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
