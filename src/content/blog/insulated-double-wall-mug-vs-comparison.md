@@ -1,5 +1,5 @@
 ---
-title: 'ボダム ダブルウォールマグ 150ml 300ml vs ボダム ダブルウォールマグ 200ml 400ml 徹底比較！どっちを選ぶべき？'
+title: 'ボダム ダブルウォールマグ 150ml/300ml vs 200ml/400ml 徹底比較！サイズの違いと選び方'
 description: 'ダブルウォール マグカップ 保温の選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-10-15'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/bodumshop/cabinet/item/canteen/canteen-10325-10-1.jpg?_ex=600x600'

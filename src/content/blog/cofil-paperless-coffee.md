@@ -89,7 +89,7 @@ COFILの抽出速度は、ペーパーフィルターに比べてややゆっく
 
 ## 日常使いにおける利便性と経済性
 
-![波佐見焼COFIL](https://thumbnail.image.rakuten.co.jp/@0_mall/f082040-koga/cabinet/hario/5701-30034959-01.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f082040-koga/cabinet/hario/5701-30034959-01.jpg?_ex=600x600" alt="波佐見焼COFIL" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 [波佐見焼COFIL](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B3%25A2%25E4%25BD%2590%25E8%25A6%258B%25E7%2584%25BC%2520COFIL%2520%25E3%2582%25BB%25E3%2583%25A9%25E3%2583%259F%25E3%2583%2583%25E3%2582%25AF%25E3%2583%2595%25E3%2582%25A3%25E3%2583%25AB%25E3%2582%25BF%25E3%2583%25BC)を自宅で使い始めて実感するのは、その経済的なメリットと、予想以上にシンプルな日常の使い勝手である。最も明白な利点は、やはりペーパーフィルターが不要になることだ。
 

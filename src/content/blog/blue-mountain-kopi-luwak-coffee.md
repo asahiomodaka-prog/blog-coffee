@@ -127,7 +127,7 @@ sidebarProducts:
 
 これは、カフェでは決して味わえない、自宅コーヒーならではの醍醐味である。日々のコーヒータイムに真の豊かさを求めるなら、この「ブルーマウンテン＆コピ・ルアク 高級コーヒー豆 飲み比べ」という選択は、あなたの日常に深い満足感をもたらす選択肢の一つとなるだろう。
 
-![ブルーマウンテン＆コピ・ルアク 高級コーヒー豆 飲み比べ](https://thumbnail.image.rakuten.co.jp/@0_mall/komi-coffee/cabinet/03865770/imgrc0115435796.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/komi-coffee/cabinet/03865770/imgrc0115435796.jpg?_ex=600x600" alt="ブルーマウンテン＆コピ・ルアク 高級コーヒー豆 飲み比べ" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 ## スペックと使い勝手が生み出す高い実用性
 

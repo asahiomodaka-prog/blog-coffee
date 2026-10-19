@@ -102,7 +102,7 @@ sidebarProducts:
 
 筆者は気分や淹れる量に合わせて使い分けているが、「自家焙煎 ブレンドコーヒー 500g（豆・中細挽き）」の濃厚さを存分に味わいたい時は、フラットボトムを使用することが多い。
 
-![自家焙煎 ブレンドコーヒー 500g（豆・中細挽き）](https://thumbnail.image.rakuten.co.jp/@0_mall/liberty55/cabinet/biiino/item/main-image/20260724123324_1.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/liberty55/cabinet/biiino/item/main-image/20260724123324_1.jpg?_ex=600x600" alt="自家焙煎 ブレンドコーヒー 500g（豆・中細挽き）" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 さて、気になるのはコストパフォーマンスであろう。
 「自家焙煎 ブレンドコーヒー 500g（豆・中細挽き）」の具体的な価格情報は現時点ではないため一般論で語るが、筆者が普段使用している高品質なスペシャルティコーヒー豆が100gあたり約800円と仮定する。

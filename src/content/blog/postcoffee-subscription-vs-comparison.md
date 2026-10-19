@@ -1,5 +1,5 @@
 ---
-title: '選べる定期便 珈琲の王様 ブルーマウンテン No vs くるりカフェ オリジナル コーヒー ドリップ 徹底比較！どっちを選ぶべき？'
+title: 'ブルーマウンテン選べる定期便 vs くるりカフェオリジナルドリップ 徹底比較！どっちを選ぶべき？'
 description: 'ポストコーヒー 定期便の選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-10-17'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f453838-aya/cabinet/krr/19-20_01.jpg?_ex=600x600'

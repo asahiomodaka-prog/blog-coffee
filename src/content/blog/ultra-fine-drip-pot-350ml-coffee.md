@@ -97,7 +97,7 @@ sidebarProducts:
 
 極細ノズルは、抽出の物理的な側面から、コーヒーの味わいを科学的に向上させる、まさに理にかなったツールと言える。
 
-![極細3 4mmノズル ドリップポット](https://thumbnail.image.rakuten.co.jp/@0_mall/f152137-tsubame/cabinet/henreihin4/10002610_m.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f152137-tsubame/cabinet/henreihin4/10002610_m.jpg?_ex=600x600" alt="極細3 4mmノズル ドリップポット" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 ## 毎日使いたくなる：手入れのしやすさと納得のコストパフォーマンス
 

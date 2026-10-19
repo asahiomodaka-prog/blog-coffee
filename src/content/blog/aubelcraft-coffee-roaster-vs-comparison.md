@@ -1,5 +1,5 @@
 ---
-title: '遠赤 コーヒー焙煎キット アウベルクラフト 焙煎器 vs 遠赤コーヒー焙煎キット 焙煎機 コーヒーロースター 徹底比較！どっちを選ぶべき？'
+title: 'アウベルクラフト 遠赤コーヒー焙煎キット vs 手廻しコーヒーロースター 徹底比較！どっちを選ぶべき？'
 description: 'アウベルクラフト 焙煎機の選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-09-26'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/ajimura4861/cabinet/20220401-1/b0d2tzrkc5.jpg?_ex=600x600'

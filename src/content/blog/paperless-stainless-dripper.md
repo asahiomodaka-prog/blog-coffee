@@ -95,7 +95,7 @@ sidebarProducts:
 
 メッシュフィルターを通して、コーヒーオイルが艶やかにカップへと流れ落ちる様子は、抽出プロセスそのものを視覚的に楽しむ要素となるだろう。
 
-![ステンレス製ペーパーレスドリッパー](https://thumbnail.image.rakuten.co.jp/@0_mall/longlife-global/cabinet/08208996/08211510/imgrc0113115449.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/longlife-global/cabinet/08208996/08211510/imgrc0113115449.jpg?_ex=600x600" alt="ステンレス製ペーパーレスドリッパー" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 ## 日常に溶け込む手軽さ：経済性と手入れの効率性
 

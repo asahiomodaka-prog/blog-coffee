@@ -138,7 +138,7 @@ sidebarProducts:
 
 忙しい朝でも、コーヒー豆を挽く香り、お湯を注いだ時のコーヒーの膨らみ、そしてカップに落ちる液体の色合い。これらの工程全てが、日々のルーティンに小さな贅沢と喜びを与えてくれる。自宅で豆から淹れる時間は、単にコーヒーを飲む以上の価値を提供すると私は考えている。
 
-![エチオピアモカ](https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/0600/0647-15r.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/0600/0647-15r.jpg?_ex=600x600" alt="エチオピアモカ" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 ## 飲んでわかる、エチオピアモカの香り高い魅力と満足感
 

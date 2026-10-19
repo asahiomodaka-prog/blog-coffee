@@ -107,7 +107,7 @@ sidebarProducts:
 
 この一連の作業は、筆者にとって最高のコーヒー体験を提供している。
 
-![浅煎りコーヒー 飲み比べお試しセット（エチオピア・キリマンジャロ等）](https://thumbnail.image.rakuten.co.jp/@0_mall/speciltycoffeesoh/cabinet/asa/asa-niga-1.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/speciltycoffeesoh/cabinet/asa/asa-niga-1.jpg?_ex=600x600" alt="浅煎りコーヒー 飲み比べお試しセット（エチオピア・キリマンジャロ等）" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 ## 日常への溶け込み方：少量を味わう贅沢と、納得のコスパ
 

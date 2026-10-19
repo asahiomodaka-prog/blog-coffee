@@ -132,7 +132,7 @@ sidebarProducts:
 
 さらに、ペーパーフィルターや水道光熱費を加えても、一杯あたりのコストは200円前後で収まる。これは、コンビニコーヒーやカフェのテイクアウトと比較しても、経済的に優位である。
 
-![コーヒー豆 珈琲豆は温度で味が変わる](https://thumbnail.image.rakuten.co.jp/@0_mall/mellowcoffee/cabinet/07316465/07434623/010_main1.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/mellowcoffee/cabinet/07316465/07434623/010_main1.jpg?_ex=600x600" alt="コーヒー豆 珈琲豆は温度で味が変わる" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 さらに言えば、この「コーヒー豆 珈琲豆は温度で味が変わる」という豆は、一杯のコーヒーに支払う対価以上の価値を与えてくれる。同じ豆から異なる味を引き出せるということは、実質的に「一つの豆で複数のフレーバーを楽しめる」ことに他ならない。
 

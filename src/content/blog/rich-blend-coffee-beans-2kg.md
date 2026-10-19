@@ -99,7 +99,7 @@ sidebarProducts:
 
 深煎り豆は、焙煎によってガスが抜けやすくなっているため、浅煎り豆ほど劇的に膨らむことは少ないが、それでも丁寧に湯を注げば、美しい泡立ちとともに、粉層全体がゆっくりと持ち上がり、均一な抽出が視覚的に確認できる。カップに落ちるコーヒー液は、深みのある濃い茶色で、香り高く、口に含んだ瞬間に感じる滑らかな舌触りが、その抽出の成功を物語る。
 
-![IGURAMUリッチブレンド2kg](https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/0400/0403-20r.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/0400/0403-20r.jpg?_ex=600x600" alt="IGURAMUリッチブレンド2kg" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 ## 2kgの大容量がもたらす「ゆとりの日常」：計算で見る驚異のコストパフォーマンス
 

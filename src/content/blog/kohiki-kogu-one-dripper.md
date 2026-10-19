@@ -188,7 +188,7 @@ sidebarProducts:
 
 抽出後の粉を見ると、均一にお湯が透過していることがわかる「きれいなマウンド」ができている。これは、適切な抽出が行われている客観的な証拠として、淹れ手である私に確かな満足感を与えてくれる。
 
-![一杯の贅沢。珈琲考具](https://thumbnail.image.rakuten.co.jp/@0_mall/longlife-global/cabinet/08208996/08211510/imgrc0113115449.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/longlife-global/cabinet/08208996/08211510/imgrc0113115449.jpg?_ex=600x600" alt="一杯の贅沢。珈琲考具" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 ### スペック情報
 

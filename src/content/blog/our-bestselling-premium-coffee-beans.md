@@ -93,7 +93,7 @@ sidebarProducts:
 
 ## 日常のコーヒー体験に革命を起こす：賢い選択と抜群のコストパフォーマンス
 
-![プレミアム高級コーヒー豆16種飲み比べ。香り](https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/0400/0403-20r.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/gourmetcoffee/cabinet/0400/0403-20r.jpg?_ex=600x600" alt="プレミアム高級コーヒー豆16種飲み比べ。香り" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 この「プレミアム高級コーヒー豆16種飲み比べ。香り」セットの真価は、その日常的な利便性と、長期的な視点でのコストパフォーマンスにあると筆者は考える。
 

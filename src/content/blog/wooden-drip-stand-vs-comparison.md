@@ -1,5 +1,5 @@
 ---
-title: 'コーヒードリップスタンド 木製 おしゃれ 天然木 vs 飛騨クラフト kochi コチ 徹底比較！どっちを選ぶべき？'
+title: '天然木コーヒードリップスタンド vs 飛騨クラフト kochiドリップスタンド 徹底比較！どっちを選ぶべき？'
 description: 'ドリップスタンド 木製の選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-10-16'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/mukukoubou/cabinet/kochi/coffee-stand-m01s.jpg?_ex=600x600'

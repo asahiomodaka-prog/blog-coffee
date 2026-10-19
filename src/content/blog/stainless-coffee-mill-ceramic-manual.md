@@ -86,7 +86,7 @@ sidebarProducts:
 
 特にフルーティーな浅煎り豆を挽いた際には、そのキャラクターが余すところなく表現され、口の中に広がる香りの複雑さに毎回感銘を受ける。豆の個性をダイレクトに味わうためには、挽き目の安定性が最も重要な要素であると、改めて認識させられる経験であった。
 
-![ステンレスコーヒーミル](https://thumbnail.image.rakuten.co.jp/@0_mall/f462187-kirishima/cabinet/nt01/k-199_nt.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f462187-kirishima/cabinet/nt01/k-199_nt.jpg?_ex=600x600" alt="ステンレスコーヒーミル" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 ## 日常のコーヒー習慣に溶け込む使いやすさとコストパフォーマンスの考察
 

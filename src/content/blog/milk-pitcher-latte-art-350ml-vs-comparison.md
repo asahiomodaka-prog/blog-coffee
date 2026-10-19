@@ -1,5 +1,5 @@
 ---
-title: 'ミルクピッチャー350ml 600ml 900ml vs ステンレス ミルクジャグ ミルクピッチャー 徹底比較！どっちを選ぶべき？'
+title: 'ミルクピッチャー 350ml vs 600ml 徹底比較！ラテアートに最適な容量と選び方'
 description: 'ミルクピッチャー ラテアート 350mlの選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-09-28'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/happylab/cabinet/item/05979376/compass1664347853.jpg?_ex=600x600'

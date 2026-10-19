@@ -1,5 +1,5 @@
 ---
-title: '電気ケトル 0 8L 1200W 温度設定 vs 電気ケトル 温度調節 ケトル グースネック 0 徹底比較！どっちを選ぶべき？'
+title: '温度設定機能付き電気ケトル 0.8L vs グースネック細口ドリップケトル 徹底比較！どっちを選ぶべき？'
 description: '温度調節 ドリップケトル 細口の選び方・おすすめ比較まとめ。違いやメリット・デメリットを徹底解説。'
 pubDate: '2026-10-13'
 heroImage: 'https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/015/main-77678.jpg?_ex=600x600'

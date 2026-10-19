@@ -93,7 +93,7 @@ sidebarProducts:
 
 筆者自身、このグラインダーを導入してから、毎日のコーヒーの透明感が増し、豆ごとの個性をより鮮明に感じられるようになった。
 
-![挽きムラでコーヒーが不味いなら。カリタ](https://thumbnail.image.rakuten.co.jp/@0_mall/riccado/cabinet/cg430/cg400_th_flag2.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/riccado/cabinet/cg430/cg400_th_flag2.jpg?_ex=600x600" alt="挽きムラでコーヒーが不味いなら。カリタ" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 ## 日常の使い勝手と、一杯に込める価値
 

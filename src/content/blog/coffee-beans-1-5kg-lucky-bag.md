@@ -91,7 +91,7 @@ sidebarProducts:
 
 [コーヒー豆1 5kg福袋で味が劇的に変わる](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25201%25205kg%2520%25E7%25A6%258F%25E8%25A2%258B%2520%25E8%2587%25AA%25E5%25AE%25B6%25E7%2584%2599%25E7%2585%258E)
 
-![コーヒー豆1 5kg福袋で味が劇的に変わる](https://thumbnail.image.rakuten.co.jp/@0_mall/coffeeyasan/cabinet/b/09467470/shiru-new2309.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/coffeeyasan/cabinet/b/09467470/shiru-new2309.jpg?_ex=600x600" alt="コーヒー豆1 5kg福袋で味が劇的に変わる" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 ## 自宅での運用性と費用対効果の検証
 

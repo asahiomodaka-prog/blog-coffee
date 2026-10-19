@@ -93,7 +93,7 @@ sidebarProducts:
 
 つまり、「お湯の温度で味が変わる」というのは、単なる感覚的な話ではなく、コーヒー豆の物理的構造と、複雑な成分の溶解メカニズムに基づいた、非常に論理的な事実である。これを理解し、実践することで、自宅での浅煎りコーヒー体験は格段に深まるだろう。
 
-![浅煎り で失敗しない お湯の温度で味が変わる](https://thumbnail.image.rakuten.co.jp/@0_mall/speciltycoffeesoh/cabinet/asa/asa-niga-1.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/speciltycoffeesoh/cabinet/asa/asa-niga-1.jpg?_ex=600x600" alt="浅煎り で失敗しない お湯の温度で味が変わる" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 ## 日常で感じる上質な体験とコストパフォーマンス
 

@@ -118,7 +118,7 @@ sidebarProducts:
 
 ゴリゴリと豆が砕かれる感触と、徐々に立ち上る芳しい香りは、日常に穏やかなリズムをもたらしてくれる。
 
-![手挽き コーヒーミル](https://thumbnail.image.rakuten.co.jp/@0_mall/x-plosion/cabinet/yec/11362306/241227_wpcfl-z-co.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/x-plosion/cabinet/yec/11362306/241227_wpcfl-z-co.jpg?_ex=600x600" alt="手挽き コーヒーミル" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 その上、手挽きミルは構造がシンプルなので、電動ミルに比べて故障のリスクが低い。内部に複雑な電子部品がないため、突発的な故障に見舞われる可能性は極めて低い。
 

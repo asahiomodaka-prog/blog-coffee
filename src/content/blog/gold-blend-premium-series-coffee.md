@@ -89,7 +89,7 @@ sidebarProducts:
 
 それをさらに、お湯に溶ける瞬間に再現できる微細な粒子の状態に加工する。この一連のプロセスは、筆者が自宅で豆を選び、焙煎度を吟味し、挽き目を調整するのと同様に、一杯のコーヒーに込められた情熱と論理を感じさせるものだ。
 
-![ゴールドブレンドプレミアムの香りと味わい。毎](https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/fuku/imgrc0116107610.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/fuku/imgrc0116107610.jpg?_ex=600x600" alt="ゴールドブレンドプレミアムの香りと味わい。毎" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 自宅でドリップする喜びとは異なるが、「ゴールドブレンドプレミアムの香りと味わい。毎」は、時間や手間といった制約がある中で、いかに高品質なコーヒー体験を提供するかという問いに対する、一つの洗練された答えを示していると言える。
 

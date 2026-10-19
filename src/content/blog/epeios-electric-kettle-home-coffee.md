@@ -115,7 +115,7 @@ sidebarProducts:
 
 つまり、挽き目や豆の量、抽出時間といった他の要素の「正解」を見つけ出すプロセス自体が、より楽しく、そして効率的になったと感じている。湯を注ぐ際の静かで安定した湯の流れは、集中力を高め、自身のコーヒータイムをより豊かなものへと深化させてくれる。
 
-![EPEIOS](https://thumbnail.image.rakuten.co.jp/@0_mall/mpowjapan/cabinet/cp004/sp/cp004.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/mpowjapan/cabinet/cp004/sp/cp004.jpg?_ex=600x600" alt="EPEIOS" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 ## 日常で感じるEPEIOSの快適さ。手入れの容易さと経済的な満足度
 
@@ -139,7 +139,6 @@ sidebarProducts:
 
 EPEIOSの初期費用を約1万円と仮定した場合、もし毎日2杯、週5日で飲むと年間520杯となる。
 市販ドリップパックと比較すれば、（80円 - 50円）× 520杯 ＝ 15,600円となり、約1年で初期費用を回収できる計算である。
-
 
 コンビニコーヒーと比較すれば、（150円 - 80円）× 520杯 ＝ 36,400円となり、約半年で初期費用を回収できる。
 カフェのコーヒーと比較すれば、（400円 - 80円）× 520杯 ＝ 166,400円となり、これは圧倒的な差であり、数ヶ月で初期費用を回収できるレベルである。

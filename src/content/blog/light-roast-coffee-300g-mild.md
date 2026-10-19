@@ -91,7 +91,7 @@ sidebarProducts:
 
 その結果、高めの湯温でやや細挽き、そして丁寧なハンドドリップが、この豆の持つ柑橘系の爽やかさや、ほのかなフローラルな香りを一番引き出すと実感している。
 
-![浅煎りコーヒー豆は酸っぱくない](https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/2019/imgrc0082131311.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/coffeebaka/cabinet/2019/imgrc0082131311.jpg?_ex=600x600" alt="浅煎りコーヒー豆は酸っぱくない" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 ## 日常での取り扱いと、納得のコストパフォーマンス
 

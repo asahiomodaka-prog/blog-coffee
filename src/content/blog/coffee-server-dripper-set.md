@@ -90,7 +90,7 @@ sidebarProducts:
 挽き目についても、中細挽きから中挽きまで、様々な豆の特性に合わせて試行錯誤しましたが、このセットは比較的どの挽き目でも安定した抽出結果をもたらす対応力の高さがあります。これは、[ドリッパー](/blog/coffee-dripper-1-3-cup/)の抽出効率が高いことの表れであると筆者は考えます。
 
 [コーヒードリップセット（耐熱ガラスサーバー＆ドリッパー）](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2520%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC)
-![コーヒードリップセット（耐熱ガラスサーバー＆ドリッパー）](https://thumbnail.image.rakuten.co.jp/@0_mall/daysunny/cabinet/13460032/imgrc0128595442.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/daysunny/cabinet/13460032/imgrc0128595442.jpg?_ex=600x600" alt="コーヒードリップセット（耐熱ガラスサーバー＆ドリッパー）" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 ## 日常の使い勝手と、賢いコーヒーライフのコスパ
 

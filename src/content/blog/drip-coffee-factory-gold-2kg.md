@@ -109,7 +109,7 @@ sidebarProducts:
 
 筆者は数年単位でこの器具を使用するつもりであり、トータルで考えれば、カフェで消費していた金額を大幅に削減できるだけでなく、自宅でより質の高いコーヒーを毎日楽しめるようになったと評価している。
 
-![プレミアム](https://thumbnail.image.rakuten.co.jp/@0_mall/f282260-awaji/cabinet/kakou2/at14003s01.jpg?_ex=600x600)
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f282260-awaji/cabinet/kakou2/at14003s01.jpg?_ex=600x600" alt="プレミアム" loading="lazy" decoding="async" style="max-width: 100%; height: auto; border-radius: 8px; margin: 16px auto; display: block;" />
 
 初期費用は確かに一度の出費としては大きく感じられるかもしれない。しかし、「プレミアム」がもたらす日々の満足感と、長い目で見たときの経済的なメリットを考慮すれば、これは賢明な投資であると言える。
 
@@ -171,7 +171,6 @@ sidebarProducts:
 次に、様々な種類の豆を試したいコーヒー愛好家にも推奨できる。
 
 浅煎りのフルーティーな酸味、中煎りのバランスの取れた風味、深煎りの豊かなコクと苦味。豆が持つ本来の個性を、過不足なく引き出すため、豆ごとの違いをより明確に、そして深く味わうことができる。
-
 
 さらに、来客時にも重宝する。いつもと変わらない安定した味わいでゲストをもてなせるのは、ホストとして喜ばしいことである。
 
