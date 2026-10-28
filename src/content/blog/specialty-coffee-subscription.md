@@ -27,16 +27,6 @@ sidebarProducts:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-<div class="summary-box" style="margin: 24px 0; padding: 20px; background: #fffbeb; border-left: 4px solid #b45309; border-radius: 6px; font-size: 0.95rem; line-height: 1.7;">
-<p style="margin: 0 0 10px 0; font-weight: bold; color: #78350f; font-size: 1.05rem;">☕ 30秒でわかるPostCoffee（ポストコーヒー）の結論と要約</p>
-<ul style="margin: 0; padding-left: 20px;">
-<li><strong>無料AIコーヒー診断の的中率</strong>: わずか1分の診断で、酸味・苦味の好みから世界中300種以上のスペシャルティコーヒーから最適な3銘柄を自動セレクト。</li>
-<li><strong>トップロースターが集結</strong>: 自社焙煎だけでなく、FUGLENやLIGHT UP COFFEEなど国内外30店以上の有名店の豆がポストに届く。</li>
-<li><strong>安心の定期便システム</strong>: 契約期間の縛り・解約金はゼロ。マイページからいつでもワンクリックでスキップや解約が可能。</li>
-<li><strong>編集部の結論</strong>: 「いつも同じスーパーの粉で飽きてきた」「自分好みの本当のスペシャルティコーヒーに出会いたい」という方にとって、**自宅にいながら全国のロースター巡りができる至高のサブスク**です。</li>
-</ul>
-</div>
-
 世界中から届く個性豊かなスペシャルティコーヒーを自宅で楽しみたいけれど、「近所に自家焙煎店がない」「豆の種類が多すぎて何を選べばよいか分からない」と悩んだ経験はありませんか？
 
 エチオピアの華やかなジャスミンの香り、ケニアのジューシーなカシスの酸味、コロンビアの甘いキャラメル感。コーヒー豆は産地や農園、精製方法によってまるでワインのように驚くほど表情を変えます。
@@ -51,6 +41,38 @@ sidebarProducts:
 
 ---
 
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
+<div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f282260-awaji/cabinet/kakou2/at14003s01.jpg?_ex=600x600" alt="PostCoffee スペシャルティコーヒー定期便" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+</div>
+<div style="flex: 1 1 280px;">
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">PostCoffee スペシャルティコーヒー定期便</h4>
+
+<div class="live-price-box" data-product-key="postcoffee-スペシャルティコーヒー定期便" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥1,598</span>
+</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+</div>
+<div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DPostCoffee%2520%25E3%2582%25B9%25E3%2583%259A%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25AB%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E5%25AE%259A%25E6%259C%259F%25E4%25BE%25BF" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（プライム即日便）</a>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPostCoffee%20%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E3%83%86%E3%82%A3%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E5%AE%9A%E6%9C%9F%E4%BE%BF%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DPostCoffee%2520%25E3%2582%25B9%25E3%2583%259A%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25AB%25E3%2583%2586%25E3%2582%25A3%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E5%25AE%259A%25E6%259C%259F%25E4%25BE%25BF" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+
+
+</div>
+</div>
+</div>
+</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
+</div>
+
+
 ## 1. PostCoffee（ポストコーヒー）とは？毎月3種のスペシャリティ豆が届く仕組み
 
 PostCoffee（ポストコーヒー）は、株式会社POST COFFEEが運営する**国内最大級のスペシャルティコーヒー専門定期便サービス**です。
@@ -62,27 +84,6 @@ PostCoffee（ポストコーヒー）は、株式会社POST COFFEEが運営す�
 - **好みのフィードバックで精度向上**: 届いた豆をマイページで評価することで、次回の配送がより自分好みの味わいに最適化されます。
 
 ---
-
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
-<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
-<div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f282260-awaji/cabinet/kakou2/at14003s01.jpg?_ex=600x600" alt="PostCoffee スペシャルティコーヒー定期便" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
-</div>
-<div style="flex: 1 1 280px;">
-<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">AI診断・ポスト投函</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">PostCoffee スペシャルティコーヒー定期便</h4>
-
-<div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DPostCoffee" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで関連商品を見る</a>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FPostCoffee%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場で探す</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DPostCoffee" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
-</div>
-</div>
-</div>
-</div>
-<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
-</div>
 
 ---
 

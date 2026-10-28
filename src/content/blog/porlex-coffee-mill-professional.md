@@ -37,33 +37,37 @@ sidebarProducts:
 
 今回は、初代から劇的な進化を遂げた「ポーレックスII」の使い心地を徹底検証し、**使って分かったメリットだけでなく、購入前に絶対に知っておくべきデメリットやタイムモアとの違い**まで、包み隠さず本音でレビューします。
 
-<div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #b45309; border-radius: 10px; background: linear-gradient(135deg, #fffbeb, #fef3c7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
-<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
-<ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #451a03; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 全パーツ水洗いOK！古いコーヒー豆の油分や酸化臭を完全にリセットできる圧倒的な清潔さ。</li>
-<li style="margin-bottom: 6px;"><strong>向いている人</strong>: 衛生面を最優先したい人、キャンプや出張先でも壊れないタフなミルを持ち歩きたい人。</li>
-<li style="margin-bottom: 6px;"><strong>購入前の注意点</strong>: 1度に挽ける量は最大30g（約2杯分）。家族3人分以上をまとめて淹れたい人には手が疲れるため不向き。</li>
-<li><strong>競合比較</strong>: 挽きの軽さ・スピード最優先なら金属刃のタイムモア、丸洗いとタフさならポーレックス一択。</li>
-</ul>
-</div>
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f462187-kirishima/cabinet/nt01/k-199_nt.jpg?_ex=600x600" alt="ポーレックス コーヒーミルII" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/f462187-kirishima/cabinet/nt01/k-199_nt.jpg?_ex=600x600" alt="ポーレックス コーヒーミル2 プロフェッショナル" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
 </div>
 <div style="flex: 1 1 280px;">
-<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 日本製・手挽きミル</span><span style="color: #64748b; font-size: 0.75rem;">セラミック刃・全パーツ水洗い可能</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">ポーレックス コーヒーミルII</h4>
-<p style='margin: 0 0 12px 0; font-size: 0.86rem; color: #475569; line-height: 1.5;'>鹿児島県霧島市の自社工場で精密成形されたセラミックコニカル刃を採用。1クリック約37ミクロンの精密調整と完全丸洗い可能な衛生性を両立した、一生モノの携帯ミルです。</p>
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">ポーレックス コーヒーミル2 プロフェッショナル</h4>
+
+<div class="live-price-box" data-product-key="ポーレックス-コーヒーミル2-プロフェッショナル" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥30,000</span>
+</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+</div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9D%E3%83%BC%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%20%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%9F%E3%83%AB%20%E3%83%97%E3%83%AD%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場で詳細を見る</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259D%25E3%2583%25BC%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E3%2583%2597%25E3%2583%25AD" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important;">🟠 Amazonで探す</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259D%25E3%2583%25BC%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB2%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2595%25E3%2582%25A7%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%258A%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（プライム即日便）</a>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9D%E3%83%BC%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%20%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%9F%E3%83%AB%20%E3%83%97%E3%83%AD%20%E3%82%BB%E3%83%A9%E3%83%9F%E3%83%83%E3%82%AF%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%259D%25E3%2583%25BC%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB2%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2595%25E3%2582%25A7%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%258A%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+
+
+</div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
+
 
 ## ポーレックス コーヒーミルIIの基本スペックと進化点
 
@@ -209,11 +213,3 @@ A: 本体付属のシリコン製ハンドルホルダー（バンド）を握�
 しかし、**「全パーツを清潔に水洗いでき、豆の風味を100%ピュアに味わえる安心感」「落としても壊れないタフさ」「どこへでも持ち出せるコンパクトさ」**をこの価格で満たしてくれるミルは、世界中を探してもポーレックスの右に出るものはありません。
 
 朝の静かな時間に、自分の手でゆっくりと豆を挽く音と立ち上るアロマ。そんな贅沢なコーヒー時間を手に入れたい方は、ぜひ最初の1台として選んでみてください。毎日のドリップが劇的に変わります！
-
-<div style="margin: 32px 0; padding: 20px; background: #f8fafc; border: 1.5px solid #e2e8f0; border-radius: 12px; text-align: center;">
-<p style="margin: 0 0 12px 0; font-weight: bold; font-size: 1rem; color: #1e293b;">＼ 清潔に水洗いできる一生モノの相棒 ／</p>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%83%9D%E3%83%BC%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%20%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%9F%E3%83%AB%20%E3%83%97%E3%83%AD%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 12px 24px; border-radius: 8px; font-weight: bold; font-size: 0.9rem; text-decoration: none !important; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important; box-shadow: 0 2px 6px rgba(191,0,0,0.25);">🔴 楽天市場で在庫を見る</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%259D%25E3%2583%25BC%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520%25E3%2583%2597%25E3%2583%25AD" target="_blank" rel="nofollow noopener noreferrer" style="padding: 12px 24px; border-radius: 8px; font-weight: bold; font-size: 0.9rem; text-decoration: none !important; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; box-shadow: 0 2px 6px rgba(255,153,0,0.25);">🟠 Amazonで価格を見る</a>
-</div>
-</div>

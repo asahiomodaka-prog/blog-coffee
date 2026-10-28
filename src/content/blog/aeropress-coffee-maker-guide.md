@@ -35,11 +35,44 @@ sidebarProducts:
     price: 10780
     microCopy: '詳細を見る'
 ---
+
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 「自宅で手軽に、毎日安定して美味しいコーヒーを淹れたい」そう考えているなら、エアロプレスは最高の選択肢になる。ドリップのような高度な技術は不要。空気圧の力を利用して、誰でもクリアで風味豊かな一杯を短時間で抽出できるからだ。
 
 エアロプレスは、自宅でのリラックスタイムはもちろん、職場やアウトドアでも本格的なコーヒーを楽しみたい人にぴったりの万能抽出機だ。
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
+<div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/oc-shop/cabinet/item/09710650/imgrc0102524767.jpg?_ex=600x600" alt="エアロプレス オリジナル コーヒーメーカー｜公式小川珈琲" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+</div>
+<div style="flex: 1 1 280px;">
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">エアロプレス オリジナル コーヒーメーカー｜公式小川珈琲</h4>
+
+<div class="live-price-box" data-product-key="エアロプレス-オリジナル-コーヒーメーカー｜公式小川珈琲" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥9,900</span>
+</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+</div>
+<div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25A8%25E3%2582%25A2%25E3%2583%25AD%25E3%2583%2597%25E3%2583%25AC%25E3%2582%25B9%2520%25E3%2582%25AA%25E3%2583%25AA%25E3%2582%25B8%25E3%2583%258A%25E3%2583%25AB%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25BC%25EF%25BD%259C%25E5%2585%25AC%25E5%25BC%258F%25E5%25B0%258F%25E5%25B7%259D%25E7%258F%2588%25E7%2590%25B2" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（プライム即日便）</a>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00sjd21.ve2q5785.g00sjd21.ve2q66e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foc-shop%2F4996%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foc-shop%2Fi%2F10000937%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25A8%25E3%2582%25A2%25E3%2583%25AD%25E3%2583%2597%25E3%2583%25AC%25E3%2582%25B9%2520%25E3%2582%25AA%25E3%2583%25AA%25E3%2582%25B8%25E3%2583%258A%25E3%2583%25AB%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25BC%25EF%25BD%259C%25E5%2585%25AC%25E5%25BC%258F%25E5%25B0%258F%25E5%25B7%259D%25E7%258F%2588%25E7%2590%25B2" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+
+
+</div>
+</div>
+</div>
+</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
+</div>
+
 
 ## 初心者が陥りがちな「失敗」とエアロプレスが解決する理由
 

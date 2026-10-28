@@ -32,16 +32,6 @@ sidebarProducts:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-<div class="summary-box" style="margin: 24px 0; padding: 20px; background: #fefce8; border-left: 4px solid #ca8a04; border-radius: 6px; font-size: 0.95rem; line-height: 1.7;">
-<p style="margin: 0 0 10px 0; font-weight: bold; color: #854d0e; font-size: 1.05rem;">☕ 30秒でわかるタイムモアC3の結論と選び方要約</p>
-<ul style="margin: 0; padding-left: 20px;">
-<li><strong>圧倒的な挽き目均一性</strong>: 上位モデル譲りの高炭素ステンレス製「S2C660臼刃」を搭載。豆を叩き潰さず「切り刻む」ことで、過抽出やエグ味の原因となる微粉を極限まで低減。</li>
-<li><strong>驚異の軽さとスピード</strong>: デュアルベアリング支持により、浅煎りの硬い豆でも引っかかりがなく、20gの豆がわずか約25〜30秒でサクサク挽き終わる。</li>
-<li><strong>モデルの選び分け</strong>: 日常の1〜2杯（20g）ならオール金属化された**C3S（通常サイズ）**、1度に3杯分（30g）挽きたい方やアウトドア派なら**C3S MAX**がベストバイ。</li>
-<li><strong>編集部の結論</strong>: 3,000円前後のセラミック刃ミルや電動プロペラ式ミルからステップアップした瞬間、**「同じコーヒー豆とは思えないほど澄んだ果実味と甘み」**に誰もが驚愕する、1万円台最高峰の投資です。</li>
-</ul>
-</div>
-
 休日の朝、部屋いっぱいに広がる挽きたてコーヒーの芳醇なアロマ。しかし、自分で豆を挽いてハンドドリップを始めた人の多くが、ある日「なぜかお店で飲むような透明感のある美味しさにならない」「苦味ばかりが強調されて、後味に渋みやエグ味が残る」という壁にぶつかります。
 
 その原因の9割は、ドリッパーでも抽出技術でもなく、**「コーヒーミルの粒度のバラつき（不均一性と微粉）」**にあります。
@@ -53,6 +43,38 @@ sidebarProducts:
 なぜC3はこれほどまでに粒度が揃うのか？ 旧型C2や他社ミルと何が違うのか？ 抽出器具別の推奨クリック数から日々のメンテナンスまで、失敗しない選び方を徹底解説します。
 
 ---
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
+<div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/smartkitchen/cabinet/25/s10011927-001.jpg?_ex=600x600" alt="正規販売店 TIMEMORE コーヒーグラインダー" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+</div>
+<div style="flex: 1 1 280px;">
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">正規販売店 TIMEMORE コーヒーグラインダー</h4>
+
+<div class="live-price-box" data-product-key="正規販売店-timemore-コーヒーグラインダー" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥13,090</span>
+</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+</div>
+<div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25AD%25A3%25E8%25A6%258F%25E8%25B2%25A9%25E5%25A3%25B2%25E5%25BA%2597%2520TIMEMORE%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（プライム即日便）</a>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00rbhs1.ve2q5f5b.g00rbhs1.ve2q62a8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsmartkitchen%2F10011927%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsmartkitchen%2Fi%2F10011928%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25AD%25A3%25E8%25A6%258F%25E8%25B2%25A9%25E5%25A3%25B2%25E5%25BA%2597%2520TIMEMORE%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B0%25E3%2583%25A9%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2580%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+
+
+</div>
+</div>
+</div>
+</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
+</div>
+
 
 ## 1. なぜTIMEMORE C3は失敗知らずなのか？ 特許「S2C660臼刃」の粉砕科学
 

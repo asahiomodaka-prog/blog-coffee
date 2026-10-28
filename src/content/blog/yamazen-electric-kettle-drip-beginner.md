@@ -31,7 +31,40 @@ sidebarProducts:
     price: 7980
     microCopy: '詳細を見る'
 ---
+
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
+
+
+<div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
+<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
+<div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
+<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/018/main-s4x25.jpg?_ex=600x600" alt="電気ケトル 温度調節 ケトル グースネック 0 8L" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
+</div>
+<div style="flex: 1 1 280px;">
+<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
+<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">電気ケトル 温度調節 ケトル グースネック 0 8L</h4>
+
+<div class="live-price-box" data-product-key="電気ケトル-温度調節-ケトル-グースネック-0-8l" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥8,980</span>
+</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+</div>
+<div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E6%25B0%2597%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%2520%25E6%25B8%25A9%25E5%25BA%25A6%25E8%25AA%25BF%25E7%25AF%2580%2520%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%2520%25E3%2582%25B0%25E3%2583%25BC%25E3%2582%25B9%25E3%2583%258D%25E3%2583%2583%25E3%2582%25AF%25200%25208L" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（プライム即日便）</a>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
+<a href="https://hb.afl.rakuten.co.jp/hgc/g00pui91.ve2q5008.g00pui91.ve2q663b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2F76033%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10037463%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E9%259B%25BB%25E6%25B0%2597%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%2520%25E6%25B8%25A9%25E5%25BA%25A6%25E8%25AA%25BF%25E7%25AF%2580%2520%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%2520%25E3%2582%25B0%25E3%2583%25BC%25E3%2582%25B9%25E3%2583%258D%25E3%2583%2583%25E3%2582%25AF%25200%25208L" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+
+
+</div>
+</div>
+</div>
+</div>
+<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
+</div>
+
 
 ## ドリップ初心者の強い味方、温度調節ケトルが叶える安定した一杯
 
@@ -40,28 +73,6 @@ sidebarProducts:
 僕が使っている山善の電気ケトルEGL-C1281は、まさにその悩みを解決してくれる一台だ。細口ノズルで注ぎやすく、1度単位で温度設定が可能。初心者でも安定した美味しいコーヒーを淹れるための心強い味方になるだろう。
 
 [電気ケトル 温度調節 ケトル グースネック 0](https://hb.afl.rakuten.co.jp/hgc/g00pui91.ve2q5008.g00pui91.ve2q663b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2F76033%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10037463%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)は、僕の自宅ドリップを劇的に変えてくれた。これから自宅コーヒーを始めたい人にとって、最初のパートナーとして申し分ない機能を持っていると感じている。
-
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
-<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
-<div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/018/main-s4x25.jpg?_ex=600x600" alt="電気ケトル 温度調節 ケトル グースネック 0" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
-</div>
-<div style="flex: 1 1 280px;">
-<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">電気ケトル 温度調節 ケトル グースネック 0</h4>
-<p style='margin: 0 0 12px 0; font-size: 0.86rem; color: #475569; line-height: 1.5;'>山善 YAMAZEN 電気ケトル 0.8L 1200W 温度設定 50-100度 保温機能 空焚き防止 温度調節 グースネック EGL-C1281 本体サイズ 幅28.5×奥行18×高さ22.5cm　重量0.9kg 商品説明 ●電気ケトルシ</p>
-<div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E6%25B0%2597%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%2520%25E6%25B8%25A9%25E5%25BA%25A6%25E8%25AA%25BF%25E7%25AF%2580%2520%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%2520%25E3%2582%25B0%25E3%2583%25BC%25E3%2582%25B9%25E3%2583%258D%25E3%2583%2583%25E3%2582%25AF%25200" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00pui91.ve2q5008.g00pui91.ve2q663b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2F76033%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10037463%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E9%259B%25BB%25E6%25B0%2597%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%2520%25E6%25B8%25A9%25E5%25BA%25A6%25E8%25AA%25BF%25E7%25AF%2580%2520%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%2520%25E3%2582%25B0%25E3%2583%25BC%25E3%2582%25B9%25E3%2583%258D%25E3%2583%2583%25E3%2582%25AF%25200" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
-
-</div>
-</div>
-</div>
-</div>
-<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
-</div>
 
 ## 狙った温度を維持する精密さ：細口ノズルと温度制御の真価
 
@@ -72,8 +83,6 @@ sidebarProducts:
 特に、グースネックの細口ノズルは湯量をコントロールしやすい。ゆっくりと狙った箇所に円を描くように注ぐことで、均一な抽出を促し、雑味の少ないクリアなコーヒーを淹れられる。急激に湯を注ぎすぎてしまう心配がないため、初心者でも落ち着いてドリップ作業に集中できるはずだ。
 
 本体内部はニオイ移りの少ないステンレス構造になっている。コーヒー以外の用途で使っても、嫌なニオイが残ることはほとんどない。この点も、日々の使い勝手を考えると地味にありがたいポイントだ。
-
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/018/main-s4x25.jpg?_ex=600x600" alt="電気ケトル 温度調節 ケトル グースネック 0" loading="lazy" decoding="async" />
 
 ## 忙しい朝を支える手軽さ：洗いやすさと経済性
 
@@ -87,16 +96,7 @@ sidebarProducts:
 
 保温機能が付いている点も、忙しい朝には重宝する。一度設定した温度をキープしてくれるので、途中で手が離れても安心だ。淹れたての美味しさをいつでも楽しめるのは、地味だが嬉しい機能だと感じている。
 
-<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
-<div style="font-size: 0.75rem; font-weight: bold; color: #78350f; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
-<h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #78350f; line-height: 1.4;">☕ 自分好みの豆が届く！コーヒー診断＆公式定期便</h3>
-<div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【PostCoffee / [ポストコーヒー](/blog/postcoffee-subscription-ranking/)】</div>
-<p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">簡単な無料のコーヒー診断を受けるだけで、世界中の厳選ロースターからあなた好みの豆が毎月届く人気サブスク。初回お試し特別割引実施中！</p>
-<div style="text-align: center;">
-<a href="https://postcoffee.co/" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 無料でコーヒー診断を受けてみる
-</div>
-</div>
 
 ## 確かな実力：安定した美味しさを生み出すスペック検証
 
@@ -135,50 +135,6 @@ sidebarProducts:
 「湯温が安定せず、味がなかなか決まらない」「ドリップに自信がない」そんな悩みを抱えるなら、ぜひこのケトルを検討してみてほしい。きっと、あなたのコーヒーライフを次のステージへと引き上げてくれるだろう。
 
 [電気ケトル 温度調節 ケトル グースネック 0](https://hb.afl.rakuten.co.jp/hgc/g00pui91.ve2q5008.g00pui91.ve2q663b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2F76033%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10037463%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
-
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
-<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
-<div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/e-kurashi/cabinet/main-img/018/main-s4x25.jpg?_ex=600x600" alt="電気ケトル 温度調節 ケトル グースネック 0" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
-</div>
-<div style="flex: 1 1 280px;">
-<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">電気ケトル 温度調節 ケトル グースネック 0</h4>
-<p style='margin: 0 0 12px 0; font-size: 0.86rem; color: #475569; line-height: 1.5;'>山善 YAMAZEN 電気ケトル 0.8L 1200W 温度設定 50-100度 保温機能 空焚き防止 温度調節 グースネック EGL-C1281 本体サイズ 幅28.5×奥行18×高さ22.5cm　重量0.9kg 商品説明 ●電気ケトルシ</p>
-<div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%259B%25BB%25E6%25B0%2597%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%2520%25E6%25B8%25A9%25E5%25BA%25A6%25E8%25AA%25BF%25E7%25AF%2580%2520%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%2520%25E3%2582%25B0%25E3%2583%25BC%25E3%2582%25B9%25E3%2583%258D%25E3%2583%2583%25E3%2582%25AF%25200" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/g00pui91.ve2q5008.g00pui91.ve2q663b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2F76033%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10037463%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E9%259B%25BB%25E6%25B0%2597%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%2520%25E6%25B8%25A9%25E5%25BA%25A6%25E8%25AA%25BF%25E7%25AF%2580%2520%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%2520%25E3%2582%25B0%25E3%2583%25BC%25E3%2582%25B9%25E3%2583%258D%25E3%2583%2583%25E3%2582%25AF%25200" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
-
-</div>
-</div>
-</div>
-</div>
-<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
-</div>
-
-<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
-
-<h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">☕ 併せて揃えたい関連おすすめコーヒー器具</h4>
-<div style="display: flex; flex-wrap: wrap; gap: 12px;">
-<div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">手挽き[コーヒーミル](/blog/manual-coffee-grinder-6-level/)（高精度臼式グラインダー）</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">挽きたての香りでコーヒーの旨味が激変</div>
-<div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%89%8B%E6%8C%BD%E3%81%8D%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%9F%E3%83%AB%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
-</div>
-</div><div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">コーヒー[ドリッパー](/blog/coffee-dripper-1-3-cup/)スケール（0.1g単位タイマー付）</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">抽出速度と湯量を正確に計測</div>
-<div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200%25201g" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%200%201g%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
-</div>
-</div>
-</div>
-</div>
 
 ### よくある質問
 

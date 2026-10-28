@@ -32,14 +32,6 @@ sidebarProducts:
 
 本記事では、このエチオピア イルガチェフェの魅力を多角的に掘り下げ、その抽出ロジックから日常での活用法、さらには購入を検討する上での注意点まで、コーヒー専門エディターの視点から詳細に解説する。
 
-<div class="summary-box" style="margin: 28px 0; padding: 18px 22px; border-left: 4px solid #b45309; border-radius: 10px; background: linear-gradient(135deg, #fffbeb, #fef3c7); font-family: sans-serif; box-shadow: 0 2px 8px rgba(0,0,0,0.03);">
-<div class="summary-box-title" style="font-weight: 800; font-size: 0.96rem; color: #78350f; margin-bottom: 10px; display: flex; align-items: center; gap: 6px;">💡 この記事の結論＆3分まとめ</div>
-<ul class="summary-box-list" style="margin: 0; padding-left: 18px; font-size: 0.88rem; color: #451a03; line-height: 1.65;">
-<li style="margin-bottom: 6px;"><strong>最大の強み</strong>: 鮮度と焙煎度にこだわり、豆本来の豊かなアロマと奥深いコクを自宅で味わえる点。</li>
-<li style="margin-bottom: 6px;"><strong>おすすめな人</strong>: 毎日のカフェ代を抑えつつ、おうちで妥協のない本格ドリップを楽しみたいコーヒー愛好家。</li>
-<li><strong>購入前の注意点</strong>: 好みの焙煎度（浅煎り・中煎り・深煎り）と挽き目、開封後の密閉保存環境をチェック。</li>
-</ul>
-</div>
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -50,11 +42,19 @@ sidebarProducts:
 <div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
 <h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">珈琲きゃろっと エチオピアで毎日の朝が変わる</h4>
 
+<div class="live-price-box" data-product-key="珈琲きゃろっと-エチオピアで毎日の朝が変わる" style="margin: 8px 0 12px 0; padding: 10px 14px; background: #f8fafc; border-radius: 8px; border: 1px solid #edf2f7;">
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px;">
+<span style="font-size: 0.85rem; color: #64748b; font-weight: 600;">価格帯目安</span>
+<span class="live-price-display" style="font-size: 1.1rem; font-weight: 800; color: #dc2626;">参考価格: ¥2,480</span>
+</div>
+<div class="live-price-disclaimer" style="font-size: 0.7rem; color: #94a3b8; margin-top: 4px;">※表示価格・在庫は調査時点のものです。最新情報は各ストアでご確認ください。</div>
+</div>
 <div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E7%258F%2588%25E7%2590%25B2%25E3%2581%258D%25E3%2582%2583%25E3%2582%258D%25E3%2581%25A3%25E3%2581%25A8%2520%25E3%2582%25A8%25E3%2583%2581%25E3%2582%25AA%25E3%2583%2594%25E3%2582%25A2%25E3%2581%25A7%25E6%25AF%258E%25E6%2597%25A5%25E3%2581%25AE%25E6%259C%259D%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E7%258F%2588%25E7%2590%25B2%25E3%2581%258D%25E3%2582%2583%25E3%2582%258D%25E3%2581%25A3%25E3%2581%25A8%2520%25E3%2582%25A8%25E3%2583%2581%25E3%2582%25AA%25E3%2583%2594%25E3%2582%25A2%25E3%2581%25A7%25E6%25AF%258E%25E6%2597%25A5%25E3%2581%25AE%25E6%259C%259D%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値をチェック（プライム即日便）</a>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%8F%88%E7%90%B2%E3%81%8D%E3%82%83%E3%82%8D%E3%81%A3%E3%81%A8%20%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2%E3%81%A7%E6%AF%8E%E6%97%A5%E3%81%AE%E6%9C%9D%E3%81%8C%E5%A4%89%E3%82%8F%E3%82%8B%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E7%258F%2588%25E7%2590%25B2%25E3%2581%258D%25E3%2582%2583%25E3%2582%258D%25E3%2581%25A3%25E3%2581%25A8%2520%25E3%2582%25A8%25E3%2583%2581%25E3%2582%25AA%25E3%2583%2594%25E3%2582%25A2%25E3%2581%25A7%25E6%25AF%258E%25E6%2597%25A5%25E3%2581%25AE%25E6%259C%259D%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
+<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%8F%88%E7%90%B2%E3%81%8D%E3%82%83%E3%82%8D%E3%81%A3%E3%81%A8%20%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2%E3%81%A7%E6%AF%8E%E6%97%A5%E3%81%AE%E6%9C%9D%E3%81%8C%E5%A4%89%E3%82%8F%E3%82%8B%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
+<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E7%258F%2588%25E7%2590%25B2%25E3%2581%258D%25E3%2582%2583%25E3%2582%258D%25E3%2581%25A3%25E3%2581%25A8%2520%25E3%2582%25A8%25E3%2583%2581%25E3%2582%25AA%25E3%2583%2594%25E3%2582%25A2%25E3%2581%25A7%25E6%25AF%258E%25E6%2597%25A5%25E3%2581%25AE%25E6%259C%259D%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
+
 
 </div>
 </div>
@@ -62,6 +62,7 @@ sidebarProducts:
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
+
 
 ## 浅煎り豆が織りなす香りのマジック：イルガチェフェの抽出ロジック
 
@@ -96,8 +97,6 @@ sidebarProducts:
 さらに注目すべきは、冷めてもその味わいが損なわれないどころか、むしろより一層甘みや香りの輪郭がはっきりする点である。これは、質の良い酸味がベースにあるからこそ実現できる、スペシャルティコーヒーならではの奥行きと言える。
 
 この豆を通じて、コーヒーの科学的な側面と、それが生み出す感動的な味わいを深く理解することが可能になるだろう。
-
-<div style="text-align: center; margin: 28px 0;"><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/mellowcoffee/cabinet/07316465/07551229/043_main1.jpg?_ex=600x600" alt="珈琲きゃろっと 浅煎りコーヒー豆 エチオピア" style="width: 100%; max-width: 380px; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.08); border: 1px solid #edf2f7;" loading="lazy" /></div>
 
 ## 日常に溶け込む贅沢：イルガチェフェが変えるコーヒー習慣とコストパフォーマンス
 
@@ -178,16 +177,7 @@ sidebarProducts:
 | 型番/仕様 | エチオピア イルガチェフェ コチャレ G1、浅煎り焙煎、スペシャルティコーヒー、豆のまま（挽き豆も選択可）、200g |
 | 主な特徴 | 華やかなフローラル香、柑橘系の爽やかな酸味、フルーティーな甘み、クリーンな口当たり、自家焙煎、高品質な生豆（G1グレード） |
 
-<div class="affiliate-offer-box" style="margin: 32px 0; padding: 22px; border: 2px solid #fcd34d; border-radius: 14px; background: linear-gradient(135deg, #fef3c7, #fde68a); font-family: sans-serif; box-shadow: 0 4px 15px rgba(0,0,0,0.03);">
-<div style="font-size: 0.75rem; font-weight: bold; color: #78350f; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px;">RECOMMENDED SPECIAL OFFER</div>
-<h3 style="margin: 0 0 6px 0; font-size: 1.1rem; font-weight: 800; color: #78350f; line-height: 1.4;">☕ 自分好みの豆が届く！コーヒー診断＆公式定期便</h3>
-<div style="font-size: 0.85rem; font-weight: bold; color: #475569; margin-bottom: 10px;">【PostCoffee / ポストコーヒー】</div>
-<p style="margin: 0 0 16px 0; font-size: 0.88rem; color: #334155; line-height: 1.6;">簡単な無料のコーヒー診断を受けるだけで、世界中の厳選ロースターからあなた好みの豆が毎月届く人気サブスク。初回お試し特別割引実施中！</p>
-<div style="text-align: center;">
-<a href="https://postcoffee.co/" target="_blank" rel="nofollow noopener noreferrer" style="display: inline-block; width: 100%; max-width: 380px; padding: 12px 20px; background: linear-gradient(135deg, #b45309, #78350f); color: #ffffff !important; font-weight: bold; font-size: 0.95rem; text-decoration: none !important; border-radius: 8px; box-shadow: 0 4px 10px rgba(0,0,0,0.15);">
 👉 無料でコーヒー診断を受けてみる
-</div>
-</div>
 
 ## 最適な一杯のために：抽出方法とライフスタイルへの適合
 
@@ -278,52 +268,6 @@ A3: 珈琲きゃろっとの浅煎り豆は、鮮度が非常に重要です。
 200gの場合、毎日1〜2杯飲む方であれば、2週間から3週間程度で飲み切るのが理想的です。焙煎後時間が経つと、香りや風味が徐々に失われてしまいます。
 
 開封後は、付属の密閉袋に入れるか、光を遮る密閉容器に移し替えて冷蔵庫の野菜室で保存することをおすすめします。豆は非常にデリケートなため、光、空気、熱、湿気から守り、できるだけ空気に触れないようにすることが鮮度維持の重要なポイントです。
-
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%8F%88%E7%90%B2%E3%81%8D%E3%82%83%E3%82%8D%E3%81%A3%E3%81%A8%20%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2%20%E6%B5%85%E7%85%8E%E3%82%8A%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
-
-<div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
-<div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
-<div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
-<img src="https://thumbnail.image.rakuten.co.jp/@0_mall/mellowcoffee/cabinet/07316465/07551229/043_main1.jpg?_ex=600x600" alt="珈琲きゃろっと エチオピアで毎日の朝が変わる" style="width: 100%; max-width: 220px; height: auto; max-height: 220px; object-fit: contain; border-radius: 10px; border: 1px solid #edf2f7; box-shadow: 0 4px 12px rgba(0,0,0,0.06);" loading="lazy" />
-</div>
-<div style="flex: 1 1 280px;">
-<div style="display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-bottom: 8px;"><span style="background: #fffbeb; color: #78350f; padding: 2px 8px; border-radius: 4px; font-size: 0.75rem; font-weight: bold;">☕ 専門エディター厳選</span><span style="color: #64748b; font-size: 0.75rem;">雑味ゼロ・高精度抽出</span></div>
-<h4 style="margin: 0 0 10px 0; font-size: 1.15rem; font-weight: 700; color: #1a202c; line-height: 1.4;">珈琲きゃろっと エチオピアで毎日の朝が変わる</h4>
-
-<div style="display: flex; flex-direction: column; gap: 8px; margin-top: 14px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E7%258F%2588%25E7%2590%25B2%25E3%2581%258D%25E3%2582%2583%25E3%2582%258D%25E3%2581%25A3%25E3%2581%25A8%2520%25E3%2582%25A8%25E3%2583%2581%25E3%2582%25AA%25E3%2583%2594%25E3%2582%25A2%25E3%2581%25A7%25E6%25AF%258E%25E6%2597%25A5%25E3%2581%25AE%25E6%259C%259D%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff9900, #e68a00); color: #ffffff !important; font-size: 0.95rem; min-height: 46px; box-shadow: 0 3px 8px rgba(255,153,0,0.25);">🛒 Amazonで最安値を見る（プライム対応）</a>
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); gap: 8px;">
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E7%8F%88%E7%90%B2%E3%81%8D%E3%82%83%E3%82%8D%E3%81%A3%E3%81%A8%20%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2%E3%81%A7%E6%AF%8E%E6%97%A5%E3%81%AE%E6%9C%9D%E3%81%8C%E5%A4%89%E3%82%8F%E3%82%8B%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（ポイント還元）</a>
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E7%258F%2588%25E7%2590%25B2%25E3%2581%258D%25E3%2582%2583%25E3%2582%258D%25E3%2581%25A3%25E3%2581%25A8%2520%25E3%2582%25A8%25E3%2583%2581%25E3%2582%25AA%25E3%2583%2594%25E3%2582%25A2%25E3%2581%25A7%25E6%25AF%258E%25E6%2597%25A5%25E3%2581%25AE%25E6%259C%259D%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!ショッピング</a>
-
-</div>
-</div>
-</div>
-</div>
-<div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
-</div>
-
-<div class="affiliate-related-section" style="margin: 36px 0 24px 0; padding: 20px; background: #f8fafc; border-radius: 12px; border: 1px solid #f1f5f9;">
-
-<h4 style="margin: 0 0 14px 0; font-size: 0.98rem; font-weight: 800; color: #0f172a;">☕ 併せて揃えたい関連おすすめコーヒー器具</h4>
-<div style="display: flex; flex-wrap: wrap; gap: 12px;">
-<div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">手挽きコーヒーミル（高精度臼式グラインダー）</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">挽きたての香りでコーヒーの旨味が激変</div>
-<div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%2589%258B%25E6%258C%25BD%25E3%2581%258D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E6%89%8B%E6%8C%BD%E3%81%8D%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%9F%E3%83%AB%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
-</div>
-</div><div style="flex: 1 1 calc(50% - 10px); min-width: 240px; background: #ffffff; border: 1px solid #e2e8f0; border-radius: 10px; padding: 14px; box-shadow: 0 2px 6px rgba(0,0,0,0.02);">
-<div style="font-size: 0.88rem; font-weight: bold; color: #1e293b; margin-bottom: 4px;">コーヒードリッパースケール（0.1g単位タイマー付）</div>
-<div style="font-size: 0.78rem; color: #64748b; margin-bottom: 10px;">抽出速度と湯量を正確に計測</div>
-<div style="display: flex; gap: 6px;">
-<a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB%25200%25201g" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #ff9900; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">Amazonで見る</a>
-<a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AB%200%201g%2F" target="_blank" rel="nofollow noopener noreferrer" style="flex: 1; padding: 8px 4px; background: #bf0000; color: #fff !important; font-size: 0.78rem; font-weight: bold; text-align: center; text-decoration: none !important; border-radius: 6px;">楽天で見る</a>
-</div>
-</div>
-</div>
-</div>
 
 ## 毎日のコーヒー体験をワンランク引き上げるための実践的な提言
 
