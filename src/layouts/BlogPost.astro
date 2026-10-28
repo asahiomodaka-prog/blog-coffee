@@ -26,7 +26,7 @@ const defaultProducts = [
 		price: 1980
 	},
 	{
-		title: '【ふるさと納税】HARIO V60 ガラス of コーヒードリッパーセット「V60 Glass Brewing Kit」',
+		title: '【ふるさと納税】HARIO V60 ガラス コーヒードリッパーセット「V60 Glass Brewing Kit」',
 		url: 'https://hb.afl.rakuten.co.jp/hgc/g00s6nv1.ve2q5786.g00s6nv1.ve2q6d3f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff082040-koga%2F5701-30034959%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff082040-koga%2Fi%2F10000731%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b',
 		imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/f082040-koga/cabinet/hario/5701-30034959-01.jpg?_ex=600x600',
 		price: 10000
@@ -40,10 +40,7 @@ const defaultProducts = [
 ];
 
 const rawProducts = sidebarProducts && sidebarProducts.length > 0
-	? [
-			...sidebarProducts,
-			...defaultProducts.slice(sidebarProducts.length)
-		].slice(0, 3)
+	? sidebarProducts.slice(0, 3)
 	: defaultProducts;
 
 // 各商品に imageUrl が未指定の場合は heroImage または defaultProducts でフォールバック
@@ -79,7 +76,7 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 
 <html lang="ja">
 	<head>
-		<BaseHead title={title} description={description} pubDate={pubDate} updatedDate={updatedDate} faq={faq} rating={rating} products={products} />
+		<BaseHead title={title} description={description} heroImage={heroImage} pubDate={pubDate} updatedDate={updatedDate} faq={faq} rating={rating} products={products} />
 		<style>
 			main {
 				width: 100%;
@@ -1539,9 +1536,9 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 						</div>
 
 						<!-- 広告2: 汎用アフィリエイトプレースホルダー -->
+						{products && products.length > 1 && (
 						<div class="sidebar-widget ad-widget">
 							<div class="ad-label">SPONSORED</div>
-							{products && products.length > 1 && (
 								<div class="sidebar-product-card">
 									{products[1].imageUrl && (
 										<a href={products[1].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-image-link">
@@ -1560,13 +1557,13 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 										{products[1].microCopy || '詳細を見る'}
 									</a>
 								</div>
-							)}
 						</div>
+						)}
 
 						<!-- 広告3: 最下部追従広告 -->
+						{products && products.length > 2 && (
 						<div class="sidebar-widget ad-widget">
 							<div class="ad-label">SPONSORED</div>
-							{products && products.length > 2 && (
 								<div class="sidebar-product-card">
 									{products[2].imageUrl && (
 										<a href={products[2].url} target="_blank" rel="nofollow noopener noreferrer" class="sidebar-product-image-link">
@@ -1585,8 +1582,8 @@ const relatedPosts = Array.from(new Set([...genreMatched, ...mediaMatched, ...ca
 										{products[2].microCopy || '詳細を見る'}
 									</a>
 								</div>
-							)}
 						</div>
+						)}
 						</div>
 					</div>
 				</aside>
