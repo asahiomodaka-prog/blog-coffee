@@ -24,7 +24,6 @@ sidebarProducts:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -47,7 +46,6 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00tvsr1.ve2q53d5.g00tvsr1.ve2q640a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgalman%2Fkaldi0003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgalman%2Fi%2F10000479%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AB%25E3%2583%2595%25E3%2582%25A7%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%2587%25E3%2582%25A3%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%2520%25E3%2583%259E%25E3%2582%25A4%25E3%2583%25AB%25E3%2583%2589%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%2587%25E3%2582%25A3%25203%25E8%25A2%258B%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
@@ -55,18 +53,17 @@ sidebarProducts:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 
-
 ## 毎日のコーヒー選びに迷うあなたへ、マイルドカルディの答え
 
 自宅でコーヒーを淹れる日々は、豆選びから始まる。しかし、その膨大な選択肢の中で「今日の1杯」を決めるのは、時に悩ましい瞬間ではないだろうか。
 
-様々な個性を持つ豆を試すのも楽しいが、毎日の安定した美味しさを求めるなら、カルディコーヒーファームの[カルディコーヒーファーム マイルドカルディ](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%2587%25E3%2582%25A3%2520%25E3%2583%259E%25E3%2582%25A4%25E3%2583%25AB%25E3%2583%2589%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%2587%25E3%2582%25A3%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586)は非常に優れた選択肢となる。
+様々な個性を持つ豆を試すのも楽しいが、毎日の安定した美味しさを求めるなら、カルディコーヒーファームのカルディコーヒーファーム マイルドカルディは非常に優れた選択肢となる。
 
 この豆の明確な強みは、その名が示す通りの「マイルドさ」と「バランスの良さ」にある。特定の個性が突出しているわけではないが、それがかえってどんな飲み方、どんな気分にも寄り添う万能性へと繋がっているのだ。
 
 ## 中煎りブラジルベースが織りなす、安定した風味設計
 
-[カルディコーヒーファーム マイルドカルディ](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%2587%25E3%2582%25A3%2520%25E3%2583%259E%25E3%2582%25A4%25E3%2583%25AB%25E3%2583%2587%25E3%2582%25A3%2520%25E3%2583%25AB%25E3%2583%2587%25E3%2582%25A3%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586)が多くの支持を集める理由は、その風味設計にある。ブラジル産コーヒー豆をベースとした中煎りという焙煎度は、酸味と苦味の尖りを丸め、深みのあるコクを引き出すのに最適だ。
+カルディコーヒーファーム マイルドカルディが多くの支持を集める理由は、その風味設計にある。ブラジル産コーヒー豆をベースとした中煎りという焙煎度は、酸味と苦味の尖りを丸め、深みのあるコクを引き出すのに最適だ。
 
 私自身、様々なシングルオリジンを試してきたが、このマイルドカルディほど安定して美味しいと感じる豆は多くない。中煎りは、豆本来の風味を損なわずに、適度な甘みと香ばしさを引き出してくれる。
 
@@ -120,7 +117,7 @@ sidebarProducts:
 
 ## あなたのコーヒーライフに、安心と満足感を
 
-[カルディコーヒーファーム マイルドカルディ](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%2587%25E3%2582%25A3%2520%25E3%2583%259E%25E3%2582%23F%25E3%2582%25A4%25E3%2583%25AB%25E3%2583%2589%25E3%2582%25AB%25E3%2583%25AB%25E3%2583%2587%25E3%2582%25A3%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586)は、コーヒーを日常的に楽しむ全ての人に自信を持って勧められるブレンドだ。特に、豆選びに迷いがちな初心者や、毎日飲むコーヒーには安定した美味しさと手軽さを求める人には最適だろう。
+カルディコーヒーファーム マイルドカルディは、コーヒーを日常的に楽しむ全ての人に自信を持って勧められるブレンドだ。特に、豆選びに迷いがちな初心者や、毎日飲むコーヒーには安定した美味しさと手軽さを求める人には最適だろう。
 
 この豆は、特別な瞬間を演出する「ご褒美コーヒー」というより、日々の生活に溶け込み、さりげなく質を上げてくれる「信頼できる相棒」だ。その豊かなコクとマイルドな口当たりは、朝の目覚めの一杯にも、午後のリフレッシュにも、夕食後のくつろぎの時間にも見事に調和する。
 

@@ -40,7 +40,6 @@ sidebarProducts:
 
 このガイドでは、僕自身がフレンチプレスを使い始めの頃に経験した失敗を交えながら、初心者がつまずきやすいポイントと、後悔しないダブルウォールフレンチプレスの選び方を解説する。
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -63,7 +62,6 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00pwn71.ve2q5f75.g00pwn71.ve2q678c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhrc%2F0727015322506%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhrc%2Fi%2F10136888%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DBODUM%2520%25E3%2583%259C%25E3%2583%2580%25E3%2583%25A0%2520BODUM%2520COLUMBIA" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
@@ -71,14 +69,13 @@ sidebarProducts:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 
-
 ## 初心者がフレンチプレスで陥りがちな3つの落とし穴
 
 フレンチプレスはシンプルな構造だが、そのシンプルさゆえに「正しい使い方」を知らないと、せっかくの豆の個性を台無しにしてしまう場合がある。
 
 #### 落とし穴1：挽き目を間違えると、口の中に微粉が残る
 
-フレンチプレスで最も多い失敗は、[コーヒー豆](/blog/fresh-coffee-beans/)の挽き目を間違えることだ。多くの人がドリップコーヒーと同じ「中細挽き」を使ってしまいがちだが、これは大きな間違いだ。
+フレンチプレスで最も多い失敗は、コーヒー豆の挽き目を間違えることだ。多くの人がドリップコーヒーと同じ「中細挽き」を使ってしまいがちだが、これは大きな間違いだ。
 
 フレンチプレスは金属メッシュフィルターでろ過するため、中細挽きでは細かすぎる微粉がフィルターをすり抜け、カップの中に大量に入り込んでしまう。
 
@@ -104,7 +101,7 @@ sidebarProducts:
 
 #### 1. 高い保温性を生み出す構造と材質をチェック
 
-ダブルウォール（二重構造）のフレンチプレスは、外壁と内壁の間に空気層や真空層を設けることで、熱の伝導を抑え、飲み物の温度を長く保つ。特に[ステンレス](/blog/milk-pitcher-latte-art-350ml-vs-comparison/)製のダブルウォールは、その断熱性が高い。
+ダブルウォール（二重構造）のフレンチプレスは、外壁と内壁の間に空気層や真空層を設けることで、熱の伝導を抑え、飲み物の温度を長く保つ。特にステンレス製のダブルウォールは、その断熱性が高い。
 
 ガラス製のフレンチプレスは見た目は美しいが、保温性や耐久性の面でステンレス製には劣る。
 
@@ -150,7 +147,7 @@ sidebarProducts:
 
 プランジャーのフィルター部分にはシリコンとメッシュが組み合わされており、本体を傷付けずに沈殿物をしっかりとろ過してくれる。フィルターも分解して洗えるため、清潔さを保ちやすいのも高ポイントだ。多少初期投資は必要だが、長く使える相棒として後悔しない選択肢となるだろう。
 
-[ボダム ダブルウォール フレンチプレス コーヒーメーカー BODUM COLUMBIA](https://hb.afl.rakuten.co.jp/hgc/g00tocw1.ve2q5309.g00tocw1.ve2q61de/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbodumshop%2F11055-16%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbodumshop%2Fi%2F10000027%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+ボダム ダブルウォール フレンチプレス コーヒーメーカー BODUM COLUMBIA
 
 #### コスパ重視でも本格派を求めるなら「SAISON ステンレス製 ダブルウォール」
 
@@ -167,7 +164,7 @@ sidebarProducts:
 
 金属の味移りがなく、コーヒー本来の美味しさを楽しめる点は重要だ。精密フィルターが謳われているが、具体的な構造は写真で確認が必要だろう。デザインもシンプルで、モダンなキッチンにも馴染む。初めてのフレンチプレスとして、ハードル低く始めたいなら良い選択肢だ。
 
-[フレンチプレス カフェティエール ステンレス製 ダブルウォール SAISON](https://hb.afl.rakuten.co.jp/hgc/g00uqir1.ve2q5035.g00uqir1.ve2q67b5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsaisonlife%2Fpp210022371449060%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsaisonlife%2Fi%2F10002306%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+フレンチプレス カフェティエール ステンレス製 ダブルウォール SAISON
 
 #### ソロユースに最適なコンパクトモデル「XANDW ステンレス製フレンチプレス 350ml」
 
@@ -185,13 +182,13 @@ U字型の注ぎ口は液だれしにくく、ストレスなく注げる配慮�
 
 ただし、食洗機での使用は避けるよう注意書きがあるため、手洗いが前提となる点は割り切りが必要だ。価格も手頃で、フレンチプレスを気軽に試してみたい人におすすめできる。
 
-[【ステンレス製フレンチプレス 350ml】ダブルウォール構造 XANDW](https://hb.afl.rakuten.co.jp/hgc/g00tpd21.ve2q5a53.g00tpd21.ve2q62d4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fxandw%2Fchy1126%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fxandw%2Fi%2F10004382%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+【ステンレス製フレンチプレス 350ml】ダブルウォール構造 XANDW
 
 ## フレンチプレス生活を始めるための最初のステップ
 
 フレンチプレスを始めるにあたって、本体以外にもいくつか準備しておくと良いものがある。最も重要なのは、やはり「コーヒー豆」だ。
 
-フレンチプレスには「粗挽き」の豆が必須なので、購入する際は必ず粗挽きを指定するか、自分で豆を挽く場合は[コーヒーミル](/blog/manual-coffee-grinder-6-level/)を用意しよう。手動ミルでも十分だが、電動ミルがあれば忙しい朝でも挽きたての豆をすぐに用意できる。
+フレンチプレスには「粗挽き」の豆が必須なので、購入する際は必ず粗挽きを指定するか、自分で豆を挽く場合はコーヒーミルを用意しよう。手動ミルでも十分だが、電動ミルがあれば忙しい朝でも挽きたての豆をすぐに用意できる。
 
 豆は、スーパーで売られているものでも構わないが、できれば専門店でフレンチプレス用に挽いてもらうか、自宅で挽きたての豆を使うのが断然おすすめだ。
 

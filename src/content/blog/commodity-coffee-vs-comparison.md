@@ -42,10 +42,9 @@ sidebarProducts:
 
 しかし、僕は長年自宅でコーヒーを淹れる中で、コモディティコーヒーの中にも、日常を豊かにする**圧倒的なコストパフォーマンスと、奥深い魅力**が潜んでいると実感している。
 
-今回は、そんなコモディティコーヒーの世界を深掘りするため、タイプの異なる2つの人気商品を取り上げる。一つは「生豆」から焙煎を楽しむ自家焙煎派向けのアサヒコーヒーの**飲み比べセット**、もう一つはプロの焙煎による「大容量の焙煎豆」を提供するヴィディヤ[コーヒーロースター](/blog/aubelcraft-coffee-roaster-vs-comparison/)ズの**ブラジルNo.2**だ。
+今回は、そんなコモディティコーヒーの世界を深掘りするため、タイプの異なる2つの人気商品を取り上げる。一つは「生豆」から焙煎を楽しむ自家焙煎派向けのアサヒコーヒーの**飲み比べセット**、もう一つはプロの焙煎による「大容量の焙煎豆」を提供するヴィディヤコーヒーロースターズの**ブラジルNo.2**だ。
 
 この比較を通じて、あなたのコーヒーライフに最適な一杯を見つける手助けができれば嬉しい。
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -69,7 +68,6 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00tysw1.ve2q59e0.g00tysw1.ve2q6d49/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falphasynodia%2Fcoffee_brazil_no2_500gx4_cr%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falphasynodia%2Fi%2F10000092%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25A4%25A7%25E5%25AE%25B9%25E9%2587%258F%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25202kg%2520%25E6%25A5%25AD%25E5%258B%2599%25E7%2594%25A8%2520%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25B8%25E3%2583%25ABNO%25202" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
@@ -77,10 +75,9 @@ sidebarProducts:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 
-
 ## コモディティコーヒーとは何か？その設計思想と価値
 
-コモディティコーヒーとは、主に国際市場で大量に取引される[コーヒー豆](/blog/fresh-coffee-beans/)の総称だ。スペシャルティコーヒーが「特定の産地、品種、精製方法にこだわり、カップ品質が80点以上のもの」と定義されるのに対し、コモディティコーヒーはそうした特定の基準ではなく、**市場の需給バランスで価格が決まる**「一般的な商品」という側面が強い。
+コモディティコーヒーとは、主に国際市場で大量に取引されるコーヒー豆の総称だ。スペシャルティコーヒーが「特定の産地、品種、精製方法にこだわり、カップ品質が80点以上のもの」と定義されるのに対し、コモディティコーヒーはそうした特定の基準ではなく、**市場の需給バランスで価格が決まる**「一般的な商品」という側面が強い。
 
 しかし、「コモディティ」という言葉が、品質が低いことを意味するわけではない。むしろ、品質が安定しており、多くの人が日常的に消費する上で**経済的かつ手軽に楽しめる**ことを追求した結果と言える。
 
@@ -124,7 +121,7 @@ sidebarProducts:
 
 ## 「豆の形態」がもたらす体験と味わいの差
 
-この2つの商品は、生豆か焙煎豆かという、**[コーヒー豆](/blog/mocha-geisha-coffee-vs-comparison/)の根本的な形態が異なる**。これが、コーヒー体験、ひいては味にまで大きな影響を与えるのだ。
+この2つの商品は、生豆か焙煎豆かという、**コーヒー豆の根本的な形態が異なる**。これが、コーヒー体験、ひいては味にまで大きな影響を与えるのだ。
 
 ### 生豆から焙煎する愉しみと抽出科学
 

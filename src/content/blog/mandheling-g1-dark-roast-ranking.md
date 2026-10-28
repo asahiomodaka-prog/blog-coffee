@@ -36,10 +36,9 @@ sidebarProducts:
 
 朝、キッチンに漂う深く重厚なコーヒーの香り。僕にとって、一日を始める最高の儀式は、香り高い一杯のドリップコーヒーを淹れることだ。
 
-特にインドネシア・スマトラ島で育った「[マンデリン](/blog/dark-roast-coffee-sample-bag/) G1」の深煎りには、抗いがたい魅力がある。その複雑な苦味と独特の香りは、まさに大地の恵みを感じさせるものだ。
+特にインドネシア・スマトラ島で育った「マンデリン G1」の深煎りには、抗いがたい魅力がある。その複雑な苦味と独特の香りは、まさに大地の恵みを感じさせるものだ。
 
 今回は、そんなマンデリン G1の深煎り豆に焦点を当て、僕が実際に試した中からおすすめの銘柄をランキング形式で紹介する。深煎りならではのコクや香りを最大限に引き出し、最高の自宅ドリップ体験をするための豆選びのヒントになれば幸いだ。
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -63,14 +62,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00tf3i1.ve2q51d6.g00tf3i1.ve2q64f2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmellowcoffee%2F052%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmellowcoffee%2Fi%2F10000059%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25A4%25E3%2583%25B3%25E3%2583%2589%25E3%2583%258D%25E3%2582%25B7%25E3%2582%25A2%2520%25E3%2583%259E%25E3%2583%25B3%25E3%2583%2587%25E3%2583%25AA%25E3%2583%25B3%2520G1%2520%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%2520200g" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## マンデリン G1 深煎りの魅力と選び方のポイント
 
@@ -122,7 +119,7 @@ sidebarProducts:
 | 販売ショップ | SurpriseCoffee楽天市場店 |
 | レビュー評価 | 4.79 (364件) |
 
-👉 インドネシア マンデリン G1 深煎り 400g ドリップ 豆　粉 [コーヒー豆](/blog/fresh-coffee-beans/) 珈琲豆 コーヒー粉 珈琲粉 自家焙煎 コーヒー 珈琲 送料無料 人気 ギフト アイスコーヒー おしゃれ おすすめ お試し プレゼント テレワーク ドリップコーヒー ビター コク チョコレート の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00tf3i1.ve2q51d6.g00tf3i1.ve2q64f2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmellowcoffee%2F053%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmellowcoffee%2Fi%2F10000060%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+👉 インドネシア マンデリン G1 深煎り 400g ドリップ 豆　粉 コーヒー豆 珈琲豆 コーヒー粉 珈琲粉 自家焙煎 コーヒー 珈琲 送料無料 人気 ギフト アイスコーヒー おしゃれ おすすめ お試し プレゼント テレワーク ドリップコーヒー ビター コク チョコレート の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00tf3i1.ve2q51d6.g00tf3i1.ve2q64f2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmellowcoffee%2F053%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmellowcoffee%2Fi%2F10000060%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 ---
 
@@ -132,7 +129,7 @@ sidebarProducts:
 
 第1位で紹介した豆と同じSurpriseCoffee楽天市場店の、200gパックだ。品質や焙煎度合いは400gのものと全く同じで、このショップのマンデリン深煎りの安定したクオリティが、少ない容量でも楽しめるのが魅力だ。
 
-僕がこの200gパックを選ぶのは、主に「お試し」や「鮮度維持」を重視する時だ。[コーヒー豆](/blog/mocha-geisha-coffee-vs-comparison/)は生鮮食品と同じで、焙煎から時間が経つほど風味が落ちていく。
+僕がこの200gパックを選ぶのは、主に「お試し」や「鮮度維持」を重視する時だ。コーヒー豆は生鮮食品と同じで、焙煎から時間が経つほど風味が落ちていく。
 
 特に夏場の暑い時期や、僕が普段あまりコーヒーを飲まない週末などは、200gでフレッシュな状態を保ちながら飲み切るのが最適だと感じている。
 
@@ -147,8 +144,6 @@ sidebarProducts:
 | 価格 | 1,660円 |
 | 販売ショップ | SurpriseCoffee楽天市場店 |
 | レビュー評価 | 4.61 (28件) |
-
-👉 [インドネシア マンデリン G1 深煎り 200g ドリップ 豆　粉 コーヒー豆 珈琲豆 コーヒー粉 珈琲粉 自家焙煎 コーヒー 珈琲 送料無料 人気 ギフト アイスコーヒー おすすめ お試し プレゼント ドリップコーヒー の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00tf3i1.ve2q51d6.g00tf3i1.ve2q64f2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmellowcoffee%2F052%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmellowcoffee%2Fi%2F10000059%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 ---
 
@@ -171,8 +166,6 @@ sidebarProducts:
 | 価格 | 2,160円 |
 | 販売ショップ | 自家焙煎コーヒー豆 さかい珈琲店 |
 | レビュー評価 | 4.8 (5件) |
-
-👉 [マンデリンG1 200g 20杯分 コーヒー豆 送料無料 お試し 珈琲 コーヒー コーヒー豆セット レギュラー レギュラーコーヒー 送料込み 豆 粉 ドリップ エスプレッソ 深煎り インドネシア ジャワ　楽天 の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00qu9b1.ve2q5b32.g00qu9b1.ve2q687d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsakai-coffee%2Fmanderin_200%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10001517%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 ---
 
@@ -198,8 +191,6 @@ sidebarProducts:
 | :--- | :--- |
 | 価格 | 6,620円 |
 | 販売ショップ | コーヒーばかの店/楽天市場店 |
-
-👉 [送料無料 マンデリン 250g コーヒー豆 森林やハーブのような香り！ インドネシア・スマトラ・マンデリンG1スペシャル 中深煎り メール便 珈琲豆 粉 業務用 内祝い お歳暮コーヒー 孫から お返し お返し グルメ コーヒー粉 クリスマス お歳暮ギフト 御歳暮 の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00ql9b1.ve2q5a25.g00ql9b1.ve2q62a9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcoffeebaka%2Fcoffee-s-mandheling-250g%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcoffeebaka%2Fi%2F10000529%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 ---
 

@@ -44,7 +44,6 @@ sidebarProducts:
 
 それぞれの設計思想と、それがもたらす味わいの違いを深掘りしていく。
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -67,14 +66,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00smt31.ve2q5177.g00smt31.ve2q6588/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff453838-aya%2F0019-020%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff453838-aya%2Fi%2F10001035%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2581%258F%25E3%2582%258B%25E3%2582%258A%25E3%2582%25AB%25E3%2583%2595%25E3%2582%25A7%2520%25E3%2582%25AA%25E3%2583%25AA%25E3%2582%25B8%25E3%2583%258A%25E3%2583%25AB%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%2520%25E3%2583%2590%25E3%2583%2583%25E3%2582%25B0" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 【ふるさと納税】Morrow珈琲 ブルーマウンテン定期便：王道の贅沢を自宅で味わう体験
 
@@ -89,7 +86,7 @@ sidebarProducts:
 
 ブルーマウンテンが「珈琲の王様」と呼ばれる理由は、その**繊細かつ唯一無二の「黄金のバランス」**にある。ジャマイカ東部のブルーマウンテン山脈の、**標高800m以上**という限られたエリアでしか栽培されない希少性が、その価値を一層高めている。
 
-この高地特有の気候は、日中と夜間の寒暖差が大きく、[コーヒー豆](/blog/fresh-coffee-beans/)がゆっくりと成熟する環境を生み出す。これにより、豆の細胞が密になり、**複雑な酸味、芳醇な甘み、そして滑らかなコクがバランス良く育まれる**のだ。
+この高地特有の気候は、日中と夜間の寒暖差が大きく、コーヒー豆がゆっくりと成熟する環境を生み出す。これにより、豆の細胞が密になり、**複雑な酸味、芳醇な甘み、そして滑らかなコクがバランス良く育まれる**のだ。
 
 過度な苦味や尖った酸味がなく、スッと喉を通るクリアな後味は、他の品種ではなかなか味わえない特徴だ。
 
@@ -121,7 +118,7 @@ sidebarProducts:
 
 この微調整こそが、豆から淹れるコーヒーの醍醐味であり、自宅で本格的なコーヒーを追求する上での大切なプロセスだと実感する。
 
-[**Morrow珈琲 ブルーマウンテン定期便はこちら**](https://hb.afl.rakuten.co.jp/hgc/g00sxmc1.ve2q5f67.g00sxmc1.ve2q6d7d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff402168-ogori%2F53542086%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff402168-ogori%2Fi%2F10002291%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+**Morrow珈琲 ブルーマウンテン定期便はこちら**
 
 ## 【ふるさと納税】くるりカフェ ドリップバッグ定期便：忙しい日々の救世主、手軽な本格派
 
@@ -139,7 +136,7 @@ sidebarProducts:
 
 ドリップバッグは、あらかじめ**適切な粉量（10g）と挽き目**が設定されている。これにより、淹れるたびに粉を計ったり、挽き目を調整したりする手間が省ける。
 
-お湯を注ぐだけで、誰でも比較的安定した味のコーヒーを淹れられる点が、**忙しい朝やオフィスでのブレイクタイムに重宝する**理由だ。[ドリッパー](/blog/coffee-dripper-1-3-cup/)やサーバー、ミルといった器具が一切不要で、カップと熱湯さえあれば淹れられる簡便さは、まさにドリップバッグの最大の強みだろう。
+お湯を注ぐだけで、誰でも比較的安定した味のコーヒーを淹れられる点が、**忙しい朝やオフィスでのブレイクタイムに重宝する**理由だ。ドリッパーやサーバー、ミルといった器具が一切不要で、カップと熱湯さえあれば淹れられる簡便さは、まさにドリップバッグの最大の強みだろう。
 
 ### ドリップバッグの限界と、その中で最大限に楽しむための工夫
 
@@ -149,7 +146,7 @@ sidebarProducts:
 
 以降は、最初の少量のお湯で粉全体を湿らせ、20秒ほど蒸らしてから、さらにゆっくりと注ぎ足す工夫をしている。このひと手間で、**同じドリップバッグでも格段にクリアな味わい**を引き出せるようになる。
 
-[**くるりカフェ ドリップバッグ定期便はこちら**](https://hb.afl.rakuten.co.jp/hgc/g00smt31.ve2q5177.g00smt31.ve2q6588/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff453838-aya%2F0019-020%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff453838-aya%2Fi%2F10001035%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+**くるりカフェ ドリップバッグ定期便はこちら**
 
 ## 比較ポイント1：抽出体験と味わいの深掘り
 
@@ -228,7 +225,7 @@ Morrow珈琲は寄付額が**65,000円**と高額だ。しかし、選べるプ�
 A1: ふるさと納税は、実質2,000円の自己負担で返礼品を受け取れる制度です。寄付額に対する返礼品の還元率や、通常の市場価格と比較して判断する必要がありますが、特にMorrow珈琲のように高価で希少なブルーマウンテンを長期で楽しめる点は、**通常の購入では難しい「体験価値」**を提供していると言えるでしょう。
 
 **Q2: 豆と粉、どちらを選べば良いか迷っています。**
-A2: **[コーヒーミル](/blog/manual-coffee-grinder-6-level/)を持っている、または購入予定があり、挽きたての香りと抽出過程を楽しみたいなら「豆」**が断然おすすめです。
+A2: **コーヒーミルを持っている、または購入予定があり、挽きたての香りと抽出過程を楽しみたいなら「豆」**が断然おすすめです。
 
 より鮮度の高い状態で保管でき、好みに合わせて挽き目を調整できます。**ミルを持っておらず、手軽さを最優先するなら「粉」**を選びましょう。
 

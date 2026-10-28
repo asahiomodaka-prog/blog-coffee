@@ -36,10 +36,9 @@ sidebarProducts:
 
 自宅でハンドドリップコーヒーを淹れる際、「なぜか味が安定しない」「もっとクリアな味にしたい」と悩む人は少なくないだろう。そのブレの原因の多くは、実はお湯の注ぎ方、特に流速と狙ったポイントへの正確性にある。
 
-燕三条製の[極細3 4mmノズル ドリップポット 350ml](https://hb.afl.rakuten.co.jp/hgc/g00thr51.ve2q5bd7.g00thr51.ve2q62e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff152048-sanjo%2F017s004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff152048-sanjo%2Fi%2F10001188%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)は、その課題を根本から解決するために設計された。狙った湯量を正確に、そして繊細にコントロールすることで、豆が持つ本来のポテンシャルを最大限に引き出す。
+燕三条製の極細3 4mmノズル ドリップポット 350mlは、その課題を根本から解決するために設計された。狙った湯量を正確に、そして繊細にコントロールすることで、豆が持つ本来のポテンシャルを最大限に引き出す。
 
 特に浅煎り豆の複雑な風味をクリアに表現したいなら、このポットは最適な選択肢となるはずだ。
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -63,7 +62,6 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00thr51.ve2q5bd7.g00thr51.ve2q62e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff152048-sanjo%2F017s004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff152048-sanjo%2Fi%2F10001188%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25A5%25B5%25E7%25B4%25B03%25204mm%25E3%2583%258E%25E3%2582%25BA%25E3%2583%25AB%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2583%259D%25E3%2583%2583%25E3%2583%2588%2520350ml" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
@@ -71,10 +69,9 @@ sidebarProducts:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 
-
 ## 精緻な湯量を操る極細ノズルの秘密
 
-ドリップコーヒーの味の決め手は、お湯とコーヒー粉の接触時間をいかに均一にするかにかかっている。この[極細3.4mmノズル](/blog/ultra-fine-drip-pot-350ml-coffee/) ドリップポットが目指したのは、その「均一性」を極限まで高めることだ。
+ドリップコーヒーの味の決め手は、お湯とコーヒー粉の接触時間をいかに均一にするかにかかっている。この極細3.4mmノズル ドリップポットが目指したのは、その「均一性」を極限まで高めることだ。
 
 内径3.4mmという極細の吐出口から、先端がわずかに下を向いた独自のノズル形状が相まって、お湯は弧を描かずに真下へ、まるで糸のように落ちる。
 
@@ -108,7 +105,7 @@ sidebarProducts:
 
 ## 導入前の注意点と使いこなしのコツ
 
-この[極細3 4mmノズル ドリップポット 350ml](https://hb.afl.rakuten.co.jp/hgc/g00thr51.ve2q5bd7.g00thr51.ve2q62e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff152048-sanjo%2F017s004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff152048-sanjo%2Fi%2F10001188%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)は、確かに高精度なドリップを可能にするが、万能ではない部分も存在する。まず、電気ケトルのように自動で湯温を維持する機能はない。
+この極細3 4mmノズル ドリップポット 350mlは、確かに高精度なドリップを可能にするが、万能ではない部分も存在する。まず、電気ケトルのように自動で湯温を維持する機能はない。
 
 ステンレス製であるため、一般的な陶器製やガラス製に比べて保温性は高いが、それでも注ぎ始めから終わりにかけて湯温は徐々に下がっていく。
 
@@ -142,7 +139,7 @@ sidebarProducts:
 
 自宅で淹れるコーヒーは、単なる日常のルーティンではない。それは、豆の選定から挽き方、そして抽出のプロセスに至るまで、五感を研ぎ澄まし、思考を巡らせる豊かな時間だ。
 
-この[極細3 4mmノズル ドリップポット 350ml](https://hb.afl.rakuten.co.jp/hgc/g00thr51.ve2q5bd7.g00thr51.ve2q62e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff152048-sanjo%2F017s004%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff152048-sanjo%2Fi%2F10001188%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)は、そのプロセスを深く、そして確実にサポートしてくれる。
+この極細3 4mmノズル ドリップポット 350mlは、そのプロセスを深く、そして確実にサポートしてくれる。
 
 抽出の精度を高めたい。豆の風味を余すところなく引き出したい。
 

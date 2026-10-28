@@ -26,12 +26,11 @@ sidebarProducts:
 
 ・深煎りのコーヒー豆って、結局どれを飲んでもただ苦いだけで同じ味なんじゃないの？
 
-そんな先入観を持っている方にこそ、ぜひ体験していただきたいのが [深煎りお試し福袋](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2581%258A%25E8%25A9%25A6%25E3%2581%2597%25E7%25A6%258F%25E8%25A2%258B%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586) による産地別のテイスティングです。
+そんな先入観を持っている方にこそ、ぜひ体験していただきたいのが 深煎りお試し福袋 による産地別のテイスティングです。
 
 確かに焙煎を深めるほど酸味は影を潜めますが、その奥から現れる「苦味のグラデーション」「油脂分のテクスチャー」「アフターテイストのアロマ」は、豆が育った土壌や標高によって全く異なる表情を見せます。
 
 今回は、深煎りの代表的産地であるブラジル、マンデリン（インドネシア）、コロンビアの3銘柄を軸に、それぞれの味の構造と自分好みの選び分け基準を徹底比較します。
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -55,14 +54,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00powb1.ve2q5783.g00powb1.ve2q6ef7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsawaicoffee-tea%2F3daiwinterset%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsawaicoffee-tea%2Fi%2F10005354%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25BE%25A4%25E4%25BA%2595%25E7%258F%2588%25E7%2590%25B2%2520%25E7%2584%2599%25E7%2585%258E%25E3%2581%2597%25E3%2581%259F%25E3%2581%25A6%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25201%25202kg" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 3大産地徹底テイスティング比較表
 
@@ -105,4 +102,4 @@ A3: ボディの軽い方から重い方へと順にテイスティングする�
 
 ## まとめ：深煎り福袋で見つける自分だけの王道ブレンド
 
-[深煎りお試し福袋](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%25E3%2581%258A%25E8%25A9%25A6%25E3%2581%2597%25E7%25A6%258F%25E8%25A2%258B%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586)
+深煎りお試し福袋

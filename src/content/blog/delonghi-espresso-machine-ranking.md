@@ -40,7 +40,6 @@ sidebarProducts:
 
 本記事では、手間と引き換えに得られるクオリティ、日々のメンテナンス、そして一杯あたりのコスト感まで、僕のリアルな体験をもとに深掘りしていく。
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -63,14 +62,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00t7tc1.ve2q5883.g00t7tc1.ve2q6e3b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdelonghi%2F0132126050%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdelonghi%2Fi%2F10002509%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2587%25E3%2583%25AD%25E3%2583%25B3%25E3%2582%25AE%2520%25E3%2583%25A9%2520%25E3%2582%25B9%25E3%2583%259A%25E3%2582%25B7%25E3%2583%25A3%25E3%2583%25AA%25E3%2582%25B9%25E3%2582%25BF%2520%25E3%2583%2597%25E3%2583%25AC%25E3%2582%25B9%25E3%2583%2586%25E3%2582%25A3%25E3%2583%25BC%25E3%2582%25B8%25E3%2582%25AA" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## デロンギ エスプレッソマシン おすすめランキング
 
@@ -91,7 +88,7 @@ sidebarProducts:
 このモデルの最大の魅力は、その手軽さに尽きる。豆をホッパーに入れ、水タンクを満たせば、あとはボタンを押すだけ。豆を挽くところから抽出、そして内部の自動洗浄まで、すべてをマシンが担ってくれる。朝の限られた時間で、挽きたての本格的な一杯が飲めるのは、本当にありがたい。僕が初めてこのマシンを使った時、想像以上にスムーズな抽出プロセスに驚いたのを覚えている。最初の数回は水量の調整に戸惑ったが、すぐに自分好みの濃さを見つけられた。
 
 #### アロマを逃さないコーン式グラインダーの秘密
-「マグニフィカS」に搭載されているのは、コーン式（円錐形）のコーヒーグラインダーだ。一般的なプロペラ式のグラインダーが豆を高速で粉砕するのに対し、コーン式は低速でゆっくりと豆を挽く。この「低速回転」が非常に重要で、摩擦熱の発生を抑える効果がある。[コーヒー豆](/blog/fresh-coffee-beans/)のアロマ成分は熱に弱く、摩擦熱で失われがちだが、コーン式ならエスプレッソの命とも言える揮発性のアロマをしっかりと豆に閉じ込めてくれる。これにより、抽出されるエスプレッソは、香りが格段に豊かになるわけだ。粉の粒度が均一になるため、安定した抽出結果が得られるのも大きなメリットだ。
+「マグニフィカS」に搭載されているのは、コーン式（円錐形）のコーヒーグラインダーだ。一般的なプロペラ式のグラインダーが豆を高速で粉砕するのに対し、コーン式は低速でゆっくりと豆を挽く。この「低速回転」が非常に重要で、摩擦熱の発生を抑える効果がある。コーヒー豆のアロマ成分は熱に弱く、摩擦熱で失われがちだが、コーン式ならエスプレッソの命とも言える揮発性のアロマをしっかりと豆に閉じ込めてくれる。これにより、抽出されるエスプレッソは、香りが格段に豊かになるわけだ。粉の粒度が均一になるため、安定した抽出結果が得られるのも大きなメリットだ。
 
 #### 「カフェ・ジャポーネ」機能で広がるコーヒーの楽しみ
 このモデル独自の「カフェ・ジャポーネ」機能は、エスプレッソのうまみとドリップコーヒーのようなすっきりとした後味を融合させたものだ。これは、豆を「ハンドドリップのように蒸らしながら」抽出することで実現される。デロンギは、エスプレッソだけでなく、日本人の好むドリップの風味も自宅で楽しめるよう、抽出工程に工夫を凝らしている点が素晴らしい。一杯で約120mlのレギュラーコーヒーが抽出でき、香り高くクリアな味わいは、通常のドリップコーヒーとはまた違った体験を提供してくれる。
@@ -145,7 +142,7 @@ sidebarProducts:
 このモデルの最大の魅力は、幅150mmという驚異的なスリムさにある。限られたキッチンスペースでも邪魔にならず、それでいて本格的なエスプレッソ抽出が可能だ。デロンギは、コンパクトな筐体の中に、エスプレッソ抽出に最適な「9気圧」と「90度」という条件を実現している。この圧力と温度の正確な制御こそが、香り豊かでバランスの取れたエスプレッソを生み出す肝となる。初めて使った時、この小ささでカフェで飲むようなクレマ（エスプレッソの泡）がしっかりと立ち、そのギャップに感動したのを覚えている。
 
 #### 進化したミルクフロッサーとラテアートへの挑戦
-「デディカ アルテ」のミルクフロッサーは、従来モデルよりも進化しており、空気の入る量をより柔軟に調節できるようになった。これにより、ふわふわでキメ細かく滑らかなフォームミルクを作りやすくなっている。ラテアートの練習にも最適で、付属の[ミルクジャグ](/blog/milk-pitcher-latte-art-350ml-vs-comparison/)を使って、自宅で思い描くような一杯に挑戦できるのは、コーヒー愛好家にとって大きな喜びだ。僕も、ミルクの泡立て方一つでラテの口当たりが劇的に変わることをこのマシンで学んだ。理想のフォームミルクを作るのは奥深く、練習するほどに美味しくなる。
+「デディカ アルテ」のミルクフロッサーは、従来モデルよりも進化しており、空気の入る量をより柔軟に調節できるようになった。これにより、ふわふわでキメ細かく滑らかなフォームミルクを作りやすくなっている。ラテアートの練習にも最適で、付属のミルクジャグを使って、自宅で思い描くような一杯に挑戦できるのは、コーヒー愛好家にとって大きな喜びだ。僕も、ミルクの泡立て方一つでラテの口当たりが劇的に変わることをこのマシンで学んだ。理想のフォームミルクを作るのは奥深く、練習するほどに美味しくなる。
 
 #### 多彩なフィルターとカフェポッド対応の柔軟性
 このマシンには、1杯用、2杯用、そしてカフェポッド用の3種類のフィルターが付属している。特に深型設計の2杯用フィルターは、パウダー量を多めにしたい時に重宝する。挽きたての豆で本格的なエスプレッソを楽しむのはもちろん、忙しい時や手軽に済ませたい時にはカフェポッドも使えるという柔軟性も魅力だ。カフェポッドを使えば、粉の処理も不要で、後片付けがさらに楽になる。

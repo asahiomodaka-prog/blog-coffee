@@ -30,8 +30,7 @@ sidebarProducts:
 
 深煎り豆の細胞構造を理解し、お湯の温度を科学的にコントロールするだけで、トゲのある苦味は消え去り、まるで上質なビターチョコレートを溶かしたような、まろやかで奥深い「甘みとコク」へと劇的に変化します。
 
-今回は、深煎り特化ブレンド [ブラウンゴールド深煎りコーヒー豆セット](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%25B3%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%2520%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586) を題材に、82〜85℃の低温抽出がもたらす味覚の化学変化を解説します。
-
+今回は、深煎り特化ブレンド ブラウンゴールド深煎りコーヒー豆セット を題材に、82〜85℃の低温抽出がもたらす味覚の化学変化を解説します。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -55,14 +54,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00tbho1.ve2q5bdd.g00tbho1.ve2q671b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdripcoffee%2Fstrong-500-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdripcoffee%2Fi%2F10000423%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25202kg%2520%25E3%2582%25B9%25E3%2583%2588%25E3%2583%25AD%25E3%2583%25B3%25E3%2582%25B0%2520%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%2520%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 深煎り豆の多孔質構造：なぜ成分が溶け出しやすいのか？
 
@@ -107,4 +104,4 @@ A3: 中粗挽き（グラニュー糖よりやや大きめのザラメ状）を�
 
 ## まとめ：低温抽出で極めるブラウンゴールド深煎りの至福
 
-[ブラウンゴールド深煎りコーヒー豆セット](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%25B3%25E3%2582%25B4%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%2589%2520%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586)
+ブラウンゴールド深煎りコーヒー豆セット

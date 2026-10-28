@@ -34,14 +34,13 @@ sidebarProducts:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-エスプレッソを自宅で楽しむ僕にとって、抽出後のルーティンは大切な儀式だ。抽出を終えたポルタフィルターに残る、高圧で固められた使用済み[コーヒー](/blog/coffee-dripper-1-3-cup/)粉（コーヒーパス）をスムーズに処理できるかどうかで、日々のエスプレッソ体験は大きく変わる。
+エスプレッソを自宅で楽しむ僕にとって、抽出後のルーティンは大切な儀式だ。抽出を終えたポルタフィルターに残る、高圧で固められた使用済みコーヒー粉（コーヒーパス）をスムーズに処理できるかどうかで、日々のエスプレッソ体験は大きく変わる。
 
 そんな時に必要不可欠なのが「ノックボックス」だ。
 
 ノックボックスは、エスプレッソマシンの使用頻度が高い人ほど、その恩恵を実感するだろう。ポルタフィルターを叩きつける際の安定性、コーヒーパスを効率的に落とせる構造、そして何より手入れのしやすさが重要になる。
 
 今回は、僕が実際に着目したポイントを基に、おすすめのノックボックスをランキング形式で紹介していく。
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -65,14 +64,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00synl1.ve2q55bc.g00synl1.ve2q669f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falphaespace-usa%2F2009024%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falphaespace-usa%2Fi%2F10014812%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25A8%25E3%2582%25B9%25E3%2583%2597%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25BD%25E7%2594%25A8%2520%25E3%2583%258E%25E3%2583%2583%25E3%2582%25AF%25E3%2583%259C%25E3%2583%2583%25E3%2582%25AF%25E3%2582%25B9%2520%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25B3%25E3%2583%25AC%25E3%2582%25B9%2520%25E3%2582%25A4%25E3%2582%25BF%25E3%2583%25AA%25E3%2582%25A2%25E8%25A3%25BD" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## なぜノックボックスは必要なのか？その設計思想に迫る
 
@@ -91,7 +88,7 @@ sidebarProducts:
 
 この重厚な木製ベースのノックボックスに変えてからは、その問題が一切なくなった。片手でポルタフィルターを叩きつけるだけで、コーヒーパスがスルッと落ちる快適さを手に入れたのだ。
 
-[ステンレス](/blog/milk-pitcher-latte-art-350ml-vs-comparison/)製の受け皿は取り外し可能で、丸みを帯びた設計が清掃のしやすさに貢献している。コーヒーの油分がこびりつきやすい内側も、スポンジで簡単に洗い流せる。
+ステンレス製の受け皿は取り外し可能で、丸みを帯びた設計が清掃のしやすさに貢献している。コーヒーの油分がこびりつきやすい内側も、スポンジで簡単に洗い流せる。
 
 見た目も温かみのある木製で、どんなキッチンのインテリアにも馴染みやすいデザインだ。
 
@@ -109,8 +106,6 @@ sidebarProducts:
 | :--- | :--- |
 | 価格 | 5,100円 |
 | 販売ショップ | MeiyidouSHOP |
-
-👉 [コーヒーノックボックス コーヒーかすバケツ ハンドル付き エスプレッソマシーン エスプレッソ用 コーヒーカス入れ カス受け箱 ステンレス製 ゴミ入れ 収納 掃除簡単 滑り止め の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00tsit1.ve2q52f5.g00tsit1.ve2q6cbd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmeiyiduoshop%2Fjy15513%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmeiyiduoshop%2Fi%2F10000569%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 ## 第2位：コーヒーかすバケツ 3000ml コーヒーノックボックス ステンレス製 収納（ikeike0チェスト）
 
@@ -138,8 +133,6 @@ sidebarProducts:
 | :--- | :--- |
 | 価格 | 4,030円 |
 | 販売ショップ | ikeike0チェスト |
-
-👉 [コーヒーかすバケツ 3000ml コーヒーノックボックス ステンレス製 収納 カス受け箱 大容量 コーヒーカス入れ かす入れ箱 滑り止め エスプレッソ用 ゴミ箱 3000ml 家庭用 キッチン用品 の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00txbv1.ve2q5d12.g00txbv1.ve2q6e30/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fikeike-chest%2Fcjfj1233130%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fikeike-chest%2Fi%2F10011912%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 ## 第3位：エスプレッソ用 ノックボックス ステンレス イタリア製 デロンギ De'Longhi DLSC059 Knock Box
 
@@ -169,8 +162,6 @@ sidebarProducts:
 | 価格 | 19,660円 |
 | 販売ショップ | アルファエスパス米国楽天市場店 |
 
-👉 [エスプレッソ用 ノックボックス ステンレス イタリア製 コーヒーかす デロンギ De'Longhi DLSC059 Knock Box の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00synl1.ve2q55bc.g00synl1.ve2q669f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falphaespace-usa%2F2009024%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falphaespace-usa%2Fi%2F10014812%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
-
 ## 第4位：コーヒーかすバケツ 3000ml コーヒーノックボックス ステンレス製 収納（alita）
 
 このノックボックスは、第2位で紹介したikeike0チェストの製品と、スペックやデザインがほぼ同一だ。3000mlの大容量と、木製ベースによる安定性、そしてステンレス製カップの清掃性といった基本的な機能は十分に備えている。
@@ -190,8 +181,6 @@ sidebarProducts:
 | :--- | :--- |
 | 価格 | 4,550円 |
 | 販売ショップ | alita |
-
-👉 [コーヒーかすバケツ 3000ml コーヒーノックボックス ステンレス製 収納 カス受け箱 大容量 コーヒーカス入れ かす入れ箱 滑り止め エスプレッソ用 ゴミ箱 3000ml 家庭用 キッチン用品 の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00txo41.ve2q5e5f.g00txo41.ve2q6fa9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Falita%2Fruru03395%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Falita%2Fi%2F10023509%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 ## まとめ：あなたのエスプレッソルーティンに最適な一台を選ぶ
 

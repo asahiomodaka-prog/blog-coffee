@@ -40,10 +40,9 @@ sidebarProducts:
 
 朝、コーヒーを淹れる時間は、僕にとって一日を整える大切な儀式だ。ただ熱いお湯を注ぐだけでなく、豆の個性を最大限に引き出すためには、**湯温と湯量の緻密なコントロールが欠かせない**。
 
-特に自宅ドリップの質を劇的に高めるのが、温度調節機能付きの細口[ドリップケトル](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB)だ。今回は山善からリリースされている「EGL-C1281」と「EKG-C801」という2つの人気モデルを、僕自身の使用経験から徹底比較する。
+特に自宅ドリップの質を劇的に高めるのが、温度調節機能付きの細口ドリップケトルだ。今回は山善からリリースされている「EGL-C1281」と「EKG-C801」という2つの人気モデルを、僕自身の使用経験から徹底比較する。
 
 どちらも優れたケトルだが、細かな仕様や使い勝手には明確な違いがある。
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -67,14 +66,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00pui91.ve2q5008.g00pui91.ve2q663b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2F39885%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10029958%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E9%259B%25BB%25E6%25B0%2597%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%2520%25E6%25B8%25A9%25E5%25BA%25A6%25E8%25AA%25BF%25E7%25AF%2580%2520%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%2520%25E3%2582%25B0%25E3%2583%25BC%25E3%2582%25B9%25E3%2583%258D%25E3%2583%2583%25E3%2582%25AF%25200%25208L" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 山善 EGL-C1281: プロ仕様の緻密なコントロールを日常に
 
@@ -124,7 +121,7 @@ EKG-C801もまた、1度単位での温度設定と保温機能を備えてい�
 
 ### 湯温がコーヒーの風味を司るメカニズム
 
-[コーヒー豆](/blog/fresh-coffee-beans/)の細胞壁には、苦味、酸味、甘味、香りといった様々な成分が閉じ込められている。これらの成分は、**湯温によって溶け出す速度や種類が大きく変わる**のだ。
+コーヒー豆の細胞壁には、苦味、酸味、甘味、香りといった様々な成分が閉じ込められている。これらの成分は、**湯温によって溶け出す速度や種類が大きく変わる**のだ。
 
 例えば、浅煎りの豆はフレーバーが繊細で複雑なため、高めの湯温（90〜95℃）で抽出することで、その酸味やフルーティーな香りをしっかりと引き出せる。逆に深煎りの豆を高温で抽出すると、苦味成分が過剰に溶け出し、エグみのある味になりやすい。
 
@@ -140,7 +137,7 @@ EKG-C801もまた、1度単位での温度設定と保温機能を備えてい�
 
 グースネックと呼ばれるS字型の細口ノズルは、**湯量を点滴のように絞ったり、細く安定した線で注いだり**と、自由自在にコントロールできる。これにより、粉全体に均一にお湯を浸透させ、ムラのない抽出を可能にするのだ。
 
-[ドリッパー](/blog/coffee-dripper-1-3-cup/)のリブを伝って空気がスムーズに抜けることで、抽出が滞ることもない。
+ドリッパーのリブを伝って空気がスムーズに抜けることで、抽出が滞ることもない。
 
 僕も以前は普通の電気ケトルでドリップしていたが、お湯が暴れてしまい、湯量のコントロールに苦労した経験がある。初めて細口ケトルを使った時の、**お湯が静かに、そして意図通りに落ちていく感覚**は、まさに衝撃だった。
 
@@ -232,7 +229,7 @@ EKG-C801の0.9mは、この手のケトルとしては比較的長めであり�
 A1: 一般的なコーヒーカップ1杯を約150〜180mlとすると、0.8L（800ml）で**約4〜5杯分**のコーヒーを淹れることが可能です。一人暮らしや夫婦二人分には十分な容量と言えます。
 
 **Q2: お手入れは簡単ですか？**
-A2: どちらのモデルも内側はニオイ移りの少ない[ステンレス](/blog/milk-pitcher-latte-art-350ml-vs-comparison/)構造で、洗いやすい広口設計のため、日常的なお手入れは簡単です。ただし、本体は丸洗いできないため、濡れた布で拭く程度に留める必要があります。
+A2: どちらのモデルも内側はニオイ移りの少ないステンレス構造で、洗いやすい広口設計のため、日常的なお手入れは簡単です。ただし、本体は丸洗いできないため、濡れた布で拭く程度に留める必要があります。
 
 **Q3: 保温機能はどれくらい使えますか？**
 A3: 両モデルともに保温機能が搭載されており、設定温度で一定時間（多くの場合、購入時の設定で30分〜1時間程度）キープされます。2杯目以降をすぐに淹れたい時や、湯温を一定に保ちたい場合に便利です。

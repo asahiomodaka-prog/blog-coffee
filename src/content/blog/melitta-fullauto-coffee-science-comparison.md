@@ -26,10 +26,9 @@ sidebarProducts:
 
 自宅で毎日、安定して美味しいコーヒーを淹れたい。しかし、手挽きミルや手ドリップでは、抽出ごとに味がブレてしまう。忙しい朝にそんな手間はかけられないと悩む人も多いだろう。
 
-Melitta 全自動コーヒーメーカーは、豆の挽きから抽出、保温までを全自動で行い、僕たちのそんな悩みに応えてくれる。特に、メリタ独自の台形[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC)と計算された抽出システムが、いつでも安定してクリアな一杯を提供する秘密だ。
+Melitta 全自動コーヒーメーカーは、豆の挽きから抽出、保温までを全自動で行い、僕たちのそんな悩みに応えてくれる。特に、メリタ独自の台形ドリッパーと計算された抽出システムが、いつでも安定してクリアな一杯を提供する秘密だ。
 
 この一台が、日々のコーヒータイムに確かな「美味しさ」と「ゆとり」をもたらしてくれるだろう。
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -53,7 +52,6 @@ Melitta 全自動コーヒーメーカーは、豆の挽きから抽出、保温
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00pssb1.ve2q5288.g00pssb1.ve2q60f7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhomeshop%2Fs5406-mel-9123%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhomeshop%2Fi%2F10340320%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%25A1%25E3%2583%25AA%25E3%2582%25BF%2520%25E3%2583%259F%25E3%2583%25AB%25E4%25BB%2598%25E3%2581%258D%2520AFT1022-1B%2520%25E3%2582%25A2%25E3%2583%25AD%25E3%2583%259E%25E3%2583%2595%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
@@ -61,12 +59,11 @@ Melitta 全自動コーヒーメーカーは、豆の挽きから抽出、保温
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 
-
 ## なぜ毎朝、安定して「僕好みの味」が楽しめるのか？メリタの設計思想を深掘り
 
 自宅で安定した味を再現するのは難しい。その最大の要因は抽出のバラつきにある。Melitta 全自動コーヒーメーカーが「いつもの味」を高い精度で提供できるのは、メリタ独自の抽出設計思想が貫かれているからだ。
 
-特に注目すべきは、その台形[ドリッパー](/blog/coffee-dripper-1-3-cup/)と抽出穴が一つである「メリタ式」の構造にある。これは、お湯の流れる速度を極めて安定させるための工夫だ。
+特に注目すべきは、その台形ドリッパーと抽出穴が一つである「メリタ式」の構造にある。これは、お湯の流れる速度を極めて安定させるための工夫だ。
 
 一般的な円すい形ドリッパーが、粉の層を薄くすることで流速を重視し、スッキリとした味を引き出すのに対し、メリタ式は粉の層を厚く、抽出時間を長く取ることで、コーヒーの成分を均一に抽出しきることを目指す。お湯が粉全体に浸透し、ゆっくりと滴下することで、過抽出や未抽出による雑味の発生を抑え、バランスの取れたクリアな風味を引き出す。
 
@@ -141,7 +138,7 @@ Melitta 全自動コーヒーメーカーのドリッパー部分はプラスチ
 
 ## 毎日の一杯を「最高の体験」に変えるために
 
-[Melitta 全自動コーヒーメーカー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25A1%25E3%2583%25AA%25E3%2582%25BF%2520%25E3%2582%25A2%25E3%2583%25AD%25E3%2583%259E%25E3%2583%2595%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%2520%25E3%2582%25A2%25E3%2583%25BC%25E3%2583%25A2)は、自宅でのコーヒー体験に「安定した品質」と「圧倒的な手軽さ」を求める人に最適な選択肢だ。メリタ式の抽出原理と、それを実現するための細かな設計思想を理解すれば、このマシンがただ便利なだけでなく、いかにコーヒーの味に真摯に向き合っているかがわかるはずだ。
+Melitta 全自動コーヒーメーカーは、自宅でのコーヒー体験に「安定した品質」と「圧倒的な手軽さ」を求める人に最適な選択肢だ。メリタ式の抽出原理と、それを実現するための細かな設計思想を理解すれば、このマシンがただ便利なだけでなく、いかにコーヒーの味に真摯に向き合っているかがわかるはずだ。
 
 忙しい朝でも挽きたての香りを楽しみたい人、何度も手ドリップに失敗して安定した味に諦めかけていた人、そして何より、毎日飲むコーヒーを特別な一杯にしたいと考える人に、この全自動コーヒーメーカーはきっと寄り添ってくれるだろう。これは、単なる家電製品ではなく、日々の生活を豊かに彩るパートナーとなるはずだ。
 

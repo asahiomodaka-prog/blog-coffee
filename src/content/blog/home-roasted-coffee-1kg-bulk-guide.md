@@ -38,12 +38,11 @@ sidebarProducts:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-「自宅で挽きたてのコーヒーを毎日楽しみたいけれど、毎回少量ずつ買うのはコストも手間もかかる。」そう考えて、**自家焙煎の[コーヒー豆](/blog/commodity-coffee-vs-comparison/)1kgまとめ買い**に興味を持っている人も多いだろう。僕も最初は同じような思いで、何も考えずに大容量の豆を購入し、結果として鮮度を落としてしまった苦い経験がある。
+「自宅で挽きたてのコーヒーを毎日楽しみたいけれど、毎回少量ずつ買うのはコストも手間もかかる。」そう考えて、**自家焙煎のコーヒー豆1kgまとめ買い**に興味を持っている人も多いだろう。僕も最初は同じような思いで、何も考えずに大容量の豆を購入し、結果として鮮度を落としてしまった苦い経験がある。
 
 まとめ買いは確かにコストパフォーマンスに優れるが、**選び方や保存方法を間違えると、せっかくの美味しい豆が台無しになってしまう**。特にコーヒー初心者にとっては、銘柄や焙煎度の違いが何をもたらすのか、なかなか想像しにくいものだ。
 
 この記事では、僕が経験から学んだ「失敗しないまとめ買いのコツ」を、専門知識を交えながら深掘りして解説する。
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -67,14 +66,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00tc6l1.ve2q5be3.g00tc6l1.ve2q67c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmamekohboh%2F0003-1000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmamekohboh%2Fi%2F10000097%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2581%25BE%25E3%2581%25A8%25E3%2582%2581%25E8%25B2%25B7%25E3%2581%2584%252030%2525%25E3%2582%25AA%25E3%2583%2595" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 初心者が陥りがちな「自家焙煎豆まとめ買い」の落とし穴
 
@@ -172,8 +169,6 @@ sidebarProducts:
 | 産地 | コロンビア・ウイラ県サンアグスティン村 |
 | 標高 | 1,800m |
 
-[コロンビア・サンアグスティン 1kgの詳細はこちら](https://hb.afl.rakuten.co.jp/hgc/g00tc6l1.ve2q5be3.g00tc6l1.ve2q67c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmamekohboh%2F0020-1000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmamekohboh%2Fi%2F10000109%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
-
 ### 2. 濃厚なコクとビターな味わいでリラックスしたいなら：カロシ・トラジャ
 
 **「朝はしっかり苦味のあるコーヒーで気合を入れたい」「ミルクと合わせても負けない深いコクが好き」**という人には、カロシ・トラジャが最適だろう。
@@ -197,8 +192,6 @@ sidebarProducts:
 | 精選方法 | スマトラ式 |
 | 産地 | インドネシア・スラウェシ島トラジャ高原カロシ地区スロトコ農園 |
 | 標高 | – |
-
-[カロシ・トラジャ 1kgの詳細はこちら](https://hb.afl.rakuten.co.jp/hgc/g00tc6l1.ve2q5be3.g00tc6l1.ve2q67c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmamekohboh%2F0003-1000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmamekohboh%2Fi%2F10000097%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 ### 3. バランスの取れた軽やかさで毎日飲みたいなら：グァテマラ・アゾティアSHB
 
@@ -224,11 +217,9 @@ sidebarProducts:
 | 産地 | グァテマラ・サカテベケケ県アンティグア地区アゾティア農園 |
 | 標高 | 1,645m |
 
-[グァテマラ・アゾティアSHB 1kgの詳細はこちら](https://hb.afl.rakuten.co.jp/hgc/g00tc6l1.ve2q5be3.g00tc6l1.ve2q67c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmamekohboh%2F0399-1000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmamekohboh%2Fi%2F10000480%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
-
 ### 4. 安定感と調和を求めるならブレンドを試す：神田ブレンド
 
-**「[シングルオリジン](/blog/maruyama-coffee-single-origin-guide/)はまだ難しい」「失敗したくないから安心感のある豆が良い」**と考えるなら、ブレンド豆から始めるのが賢い選択だ。
+**「シングルオリジンはまだ難しい」「失敗したくないから安心感のある豆が良い」**と考えるなら、ブレンド豆から始めるのが賢い選択だ。
 
 神田ブレンドは、グァテマラ・アゾティア、マンデリン・ラスナ・リントン、ブラジル・樹上完熟豆（DOT）の3種をブレンドすることで、それぞれの豆の長所が引き出され、**程良い苦さと甘さの調和が心地よい一杯**に仕上がっている。シングルオリジン豆は、品種や産地の個性が強く出るため、時に「尖った」風味に感じることもある。
 
@@ -247,8 +238,6 @@ sidebarProducts:
 | 内容量 | 1000g（500gずつ2袋） |
 | 使用豆 | グァテマラ・アゾティア、マンデリン・ラスナ・リントン、ブラジル・樹上完熟豆（DOT） |
 
-[神田ブレンド 1kgの詳細はこちら](https://hb.afl.rakuten.co.jp/hgc/g00tc6l1.ve2q5be3.g00tc6l1.ve2q67c6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmamekohboh%2F0053-1000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmamekohboh%2Fi%2F10000113%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
-
 ## 自家焙煎豆1kgを最大限に楽しむための初めの一歩
 
 自家焙煎豆のまとめ買いは、少しハードルが高そうに感じるかもしれない。しかし、いくつかの準備と心構えがあれば、自宅でのコーヒー体験を格段に豊かなものにできる。
@@ -257,7 +246,7 @@ sidebarProducts:
 
 少量で「これは！」と感じた豆を、次に1kgでまとめ買いする、というステップを踏むのが賢明だ。正直なところ、1kgは決して軽い買い物ではないので、このプロセスは重要だ。
 
-次に、**必要な器具が揃っているか確認しよう**。豆の鮮度を最大限に保つためには、飲む直前に挽くのが鉄則だから、**[コーヒーミル](/blog/manual-coffee-grinder-6-level/)（グラインダー）**は必須だ。
+次に、**必要な器具が揃っているか確認しよう**。豆の鮮度を最大限に保つためには、飲む直前に挽くのが鉄則だから、**コーヒーミル（グラインダー）**は必須だ。
 
 手動でも電動でも構わないが、均一に挽けるコニカル刃のものが理想。また、挽いた豆や未開封の豆を保管するための**密閉容器**も忘れずに準備したい。
 

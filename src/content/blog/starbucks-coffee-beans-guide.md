@@ -46,7 +46,6 @@ sidebarProducts:
 
 このガイドを読めば、あなたの自宅コーヒーライフが、より豊かになるはずだ。
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -69,14 +68,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00qoax1.ve2q52ef.g00qoax1.ve2q63dc/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbaby-alice%2F6979200-twd%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbaby-alice%2Fi%2F10005672%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 【知識編】「ハウスブレンド」と「エスプレッソブレンド」どう違う？
 
@@ -102,11 +99,11 @@ sidebarProducts:
 
 ### 1. 自宅の抽出器具と飲みたい味で選ぶブレンド
 
-どのブレンドを選ぶかは、自宅にある抽出器具と、あなたがどんなコーヒーを飲みたいかによって変わる。もし普段、ハンドドリップや[コーヒーメーカー](/blog/aeropress-coffee-maker-guide/)でブラックコーヒーを飲むことが多いなら、ハウスブレンドがおすすめだ。
+どのブレンドを選ぶかは、自宅にある抽出器具と、あなたがどんなコーヒーを飲みたいかによって変わる。もし普段、ハンドドリップやコーヒーメーカーでブラックコーヒーを飲むことが多いなら、ハウスブレンドがおすすめだ。
 
 そのバランスの取れた味わいをストレートで存分に楽しめる。
 
-対して、エスプレッソマシンや、[フレンチプレス](/blog/french-press-double-wall-guide/)などで濃いめに淹れてミルクと合わせたいなら、エスプレッソブレンドを選ぼう。ダークローストの力強い風味が、ミルクの甘みに負けず、リッチなカフェドリンクを作り上げてくれる。
+対して、エスプレッソマシンや、フレンチプレスなどで濃いめに淹れてミルクと合わせたいなら、エスプレッソブレンドを選ぼう。ダークローストの力強い風味が、ミルクの甘みに負けず、リッチなカフェドリンクを作り上げてくれる。
 
 抽出方法と豆の特性を合わせることで、狙った味わいにより近づくことができる。
 
@@ -198,7 +195,7 @@ sidebarProducts:
 
 これは、スタバのドリップコーヒーが1杯350円前後することを考えると、驚くべきコスパの良さだ。
 
-最初は手軽な[ドリッパー](/blog/coffee-dripper-1-3-cup/)とケトル、そして手挽きミルから始めても全く問題ない。コーヒーを淹れるプロセス自体が、日常の小さな喜びになるはずだ。
+最初は手軽なドリッパーとケトル、そして手挽きミルから始めても全く問題ない。コーヒーを淹れるプロセス自体が、日常の小さな喜びになるはずだ。
 
 このガイドを参考に、ぜひあなたも自宅での贅沢なコーヒータイムをスタートさせてほしい。
 
@@ -212,7 +209,7 @@ A1: カークランド シグネチャーの「スターバックス風」ブレ
 **Q2: 大容量すぎて使い切れるか心配。保存方法はどうすればいい？**
 A2: 1.13kgという大容量でも、適切な保存をすれば風味を保てます。
 
-まず、開封後はすぐに密閉容器（[キャニスター](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25AD%25E3%2583%25A3%25E3%2583%258B%25E3%2582%25B9%25E3%2582%25BF%25E3%2583%25BC)など）に移し替えてください。さらに、長期間保存する場合は、1週間〜2週間で使い切る量に小分けし、密閉袋に入れて冷凍庫で保存することをおすすめします。
+まず、開封後はすぐに密閉容器（キャニスターなど）に移し替えてください。さらに、長期間保存する場合は、1週間〜2週間で使い切る量に小分けし、密閉袋に入れて冷凍庫で保存することをおすすめします。
 
 使用する際は、必要な分だけ取り出してすぐに密閉し、残りは冷凍庫に戻すようにしましょう。
 

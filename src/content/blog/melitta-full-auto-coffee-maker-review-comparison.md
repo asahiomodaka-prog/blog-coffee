@@ -26,10 +26,9 @@ sidebarProducts:
 
 毎朝のコーヒー、豆の鮮度が落ちるのが気になったり、淹れる手間を負担に感じたりしていないだろうか。そんな悩みを抱える僕がたどり着いたのが、Melitta（メリタ）の全自動コーヒーメーカーだ。
 
-豆挽きから抽出までボタン一つで完結し、挽きたての香りと安定したクリアな味わいを自宅で毎日楽しめる。特に、メリタ独自の台形[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC)の設計思想とステンレス製真空二重ポットの保温性が、忙しい日々の中で「最高の1杯」を約束してくれる。
+豆挽きから抽出までボタン一つで完結し、挽きたての香りと安定したクリアな味わいを自宅で毎日楽しめる。特に、メリタ独自の台形ドリッパーの設計思想とステンレス製真空二重ポットの保温性が、忙しい日々の中で「最高の1杯」を約束してくれる。
 
-日々のコーヒータイムを格段に向上させてくれる[Melitta 全自動コーヒーメーカー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25A1%25E3%2583%25AA%25E3%2582%25BF%2520%25E3%2582%25A2%25E3%2583%25AD%25E3%2583%259E%25E3%2583%2595%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%25A2%2520%25E5%2585%25A8%25E8%2587%25AA%25E5%258B%2595)が、なぜ多くのコーヒー愛好家から支持されるのか、その深層を紐解いていこう。
-
+日々のコーヒータイムを格段に向上させてくれるMelitta 全自動コーヒーメーカーが、なぜ多くのコーヒー愛好家から支持されるのか、その深層を紐解いていこう。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -53,7 +52,6 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00u5nc1.ve2q54c6.g00u5nc1.ve2q6ed3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmelittajapan%2Faft1022%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmelittajapan%2Fi%2F10000119%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%25A1%25E3%2583%25AA%25E3%2582%25BF%2520%25E3%2582%25A2%25E3%2583%25AD%25E3%2583%259E%25E3%2583%2595%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%2520%25E3%2583%259F%25E3%2583%25AB%25E4%25BB%2598%2520%25E5%2585%25A8%25E8%2587%25AA%25E5%258B%2595" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
@@ -61,9 +59,8 @@ sidebarProducts:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 
-
 ## 全自動でも専門店のような味わい？ メリタ独自の抽出理論
-全自動コーヒーメーカーでありながら、本格的なクリアな味わいを実現できるのは、メリタが長年培ってきた抽出理論に基づいた設計にある。特に注目すべきは、メリタが採用する「台形[ドリッパー](/blog/coffee-dripper-1-3-cup/)」と「一つ穴」という構造だ。
+全自動コーヒーメーカーでありながら、本格的なクリアな味わいを実現できるのは、メリタが長年培ってきた抽出理論に基づいた設計にある。特に注目すべきは、メリタが採用する「台形ドリッパー」と「一つ穴」という構造だ。
 
 一般的な円すい形ドリッパーは、湯が素早く落ちやすく、微調整が難しいため、抽出者の技術が味に大きく影響する。一方、メリタの台形ドリッパーは、一つ穴にすることで抽出液の流速を意図的にコントロールしている。
 
@@ -150,7 +147,7 @@ Melitta 全自動コーヒーメーカーは、コーヒーを「淹れる手間
 
 - 温度変化による味の劣化を避けたいと考える人。
 
-もしあなたが、自宅で手軽に、しかし妥協のない味わいのコーヒーを求めているなら、[Melitta 全自動コーヒーメーカー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%25A1%25E3%2583%25AA%25E3%2583%2583%25E3%2582%25BF%2520%25E3%2582%25A2%25E3%2583%25AD%25E3%2583%259E%25E3%2583%2595%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A5%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%25A2%2520%25E5%2585%25A8%25E8%2587%25AA%25E5%258B%2595)が、あなたのコーヒーライフに新たな扉を開いてくれるはずだ。
+もしあなたが、自宅で手軽に、しかし妥協のない味わいのコーヒーを求めているなら、Melitta 全自動コーヒーメーカーが、あなたのコーヒーライフに新たな扉を開いてくれるはずだ。
 
 ### よくある質問
 **Q1: ミルのお手入れは本当に簡単か？**

@@ -28,7 +28,6 @@ sidebarProducts:
 
 この記事では、自宅でドリップコーヒーを楽しむ僕が、丸山珈琲のシングルオリジンで「失敗しない」選び方を徹底解説する。初心者でも安心して自分好みの一杯を見つけられるように、具体的な選び方のポイントと、おすすめの商品を紹介しよう。
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -51,14 +50,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00ty7i1.ve2q5f57.g00ty7i1.ve2q6719/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaruyamacoffee%2Fmost145%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaruyamacoffee%2Fi%2F10001024%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E4%25B8%25B8%25E5%25B1%25B1%25E7%258F%2588%25E7%2590%25B2%25E3%2582%25B7%25E3%2583%25B3%25E3%2582%25B0%25E3%2583%25AB%25E3%2582%25AA%25E3%2583%25AA%25E3%2582%25B8%25E3%2583%25B3%25E3%2582%25BB%25E3%2583%25AC%25E3%2582%25AF%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%25B3%25E3%2582%25A2%25E3%2582%25A4%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 初心者が陥りがちな「シングルオリジン」選びの落とし穴
 
@@ -88,7 +85,7 @@ sidebarProducts:
 
 一方で「淹れる楽しさ」や「自分好みに抽出を調整したい」という欲求があるなら、やはり豆から始めるのが王道だ。豆を挽くときの香ばしいアロマ、お湯を注いだときの膨らみ具合など、五感で感じる体験は格別だ。
 
-ただし、ミルや[ドリッパー](/blog/coffee-dripper-1-3-cup/)、ケトルといった抽出器具が必要になる。ここは自分のライフスタイルと、どの程度コーヒーに時間を割きたいかで判断するといい。
+ただし、ミルやドリッパー、ケトルといった抽出器具が必要になる。ここは自分のライフスタイルと、どの程度コーヒーに時間を割きたいかで判断するといい。
 
 ### 2. 「焙煎度合」で失敗しない！好みの味を見つける
 
@@ -132,8 +129,6 @@ sidebarProducts:
 | 販売ショップ | 丸山珈琲 公式楽天市場店 |
 | レビュー評価 | 5.0 (5件) |
 
-[丸山珈琲 ドリップバッグ カフェインレスコーヒー 深煎り 5個入の詳細はこちら](https://hb.afl.rakuten.co.jp/hgc/g00ty7i1.ve2q5f57.g00ty7i1.ve2q6719/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaruyamacoffee%2Fmodb003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaruyamacoffee%2Fi%2F10000187%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
-
 ### 「本格的な味わいを日常に」求めるなら
 
 「抽出する手間はかけられないけれど、妥協のない本格的な味を楽しみたい」という人には、リキッドコーヒーがおすすめだ。特に暑い時期には、冷蔵庫で冷やしておくだけで、上質なアイスコーヒーがすぐに楽しめる。
@@ -149,17 +144,15 @@ sidebarProducts:
 | 価格 | 3,700円 |
 | 販売ショップ | 丸山珈琲 公式楽天市場店 |
 
-[丸山珈琲シングルオリジンセレクションアイスコーヒー ニエリ・ヒル 中煎り 720mlの詳細はこちら](https://hb.afl.rakuten.co.jp/hgc/g00ty7i1.ve2q5f57.g00ty7i1.ve2q6719/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fmaruyamacoffee%2Fmost145%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fmaruyamacoffee%2Fi%2F10001024%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
-
 ## 初めての丸山珈琲シングルオリジン 失敗しないための最初の一歩
 
 丸山珈琲のシングルオリジンを選ぶことは、あなた自身の「好き」を探す旅のようなものだ。最初のステップとしては、まずドリップバッグやリキッドコーヒーで、手軽にいくつかの種類を試してみることをおすすめする。
 
 これにより、自分は酸味と苦味のどちらを好むのか、どんな香りに心惹かれるのかといった、具体的な好みの傾向を掴みやすくなるだろう。
 
-もし、さらに本格的にコーヒーを淹れる楽しさを追求したくなった時には、[コーヒー豆](/blog/fresh-coffee-beans/)と基本的な抽出器具を揃えてみよう。ハンドドリップなら、まずはシンプルなドリッパーとフィルター、細口のケトルがあれば十分だ。
+もし、さらに本格的にコーヒーを淹れる楽しさを追求したくなった時には、コーヒー豆と基本的な抽出器具を揃えてみよう。ハンドドリップなら、まずはシンプルなドリッパーとフィルター、細口のケトルがあれば十分だ。
 
-豆を挽くための[コーヒーミル](/blog/manual-coffee-grinder-6-level/)も、手動・電動と様々あるので、予算と相談して選ぶといい。
+豆を挽くためのコーヒーミルも、手動・電動と様々あるので、予算と相談して選ぶといい。
 
 丸山珈琲のシングルオリジンは、生産者との信頼関係を築き、豆の個性を最大限に引き出す焙煎技術によって作られている。その一つ一つにストーリーがあり、飲んだ瞬間に感じる風味の豊かさは格別だ。
 

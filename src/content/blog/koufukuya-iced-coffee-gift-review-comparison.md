@@ -36,10 +36,9 @@ sidebarProducts:
 
 自宅で美味しいアイスコーヒーを安定して淹れるのは、実はかなり難しいものだ。豆の種類、挽き目、湯温、抽出時間。
 
-夏場は急冷で香りが飛びやすく、氷で薄まってしまう悩みも尽きない。そんな悩みを一瞬で解決し、自宅でプロの味が手軽に楽しめるのが、[敬老の日 コーヒー ギフト アイスコーヒー](https://hb.afl.rakuten.co.jp/hgc/g00qpk51.ve2q5d69.g00qpk51.ve2q6723/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkomi-coffee%2F10000296%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkomi-coffee%2Fi%2F10000296%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)の無糖アイスコーヒー2本セットだ。
+夏場は急冷で香りが飛びやすく、氷で薄まってしまう悩みも尽きない。そんな悩みを一瞬で解決し、自宅でプロの味が手軽に楽しめるのが、敬老の日 コーヒー ギフト アイスコーヒーの無糖アイスコーヒー2本セットだ。
 
 ビターとスイートの2つの個性が、グラスに注ぐだけで贅沢なコーヒー体験を約束してくれる。
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -63,7 +62,6 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00qpk51.ve2q5d69.g00qpk51.ve2q6723/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkomi-coffee%2F10000296%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkomi-coffee%2Fi%2F10000296%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%2595%25AC%25E8%2580%2581%25E3%2581%25AE%25E6%2597%25A5%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520%25E3%2582%25AE%25E3%2583%2595%25E3%2583%2588%2520%25E3%2582%25A2%25E3%2582%25A4%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520500ml" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
@@ -71,14 +69,13 @@ sidebarProducts:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 
-
 ## グラスに注ぐだけで、プロの味が常に安定する秘密
 
 私自身、自宅でハンドドリップを楽しんでいる。その中で、毎回同じクオリティのアイスコーヒーを淹れる難しさを痛感してきた。
 
 湯温が少し変わるだけでも、抽出される成分のバランスは大きく変動する。細挽きすぎれば過抽出で雑味が出やすく、粗挽きすぎれば薄く物足りない味になる。
 
-特に微粉はフィルターを詰まらせ、抽出時間を延ばし、苦味やエグ味の原因となりやすい。[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC)のリブ構造による空気の抜け具合や、注ぐお湯の流速ひとつで、狙ったクリアな味わいから遠ざかることがあるのだ。
+特に微粉はフィルターを詰まらせ、抽出時間を延ばし、苦味やエグ味の原因となりやすい。ドリッパーのリブ構造による空気の抜け具合や、注ぐお湯の流速ひとつで、狙ったクリアな味わいから遠ざかることがあるのだ。
 
 香福屋のアイスコーヒーが「濃厚なのに、すっと澄む」味わいを実現できるのは、これらの不安定要素をプロの技術で徹底的に管理しているからだろう。彼らは「コーヒー豆1.6倍」という贅沢な量を使い、最適な抽出プロファイルを見つけ出している。
 
@@ -98,7 +95,7 @@ sidebarProducts:
 
 しかし、このリキッドタイプなら、グラスに氷を入れ、サッと注ぐだけ。約1分もかからずに、本格的なアイスコーヒーが完成する。
 
-コーヒー器具の準備や、使用後の[ドリッパー](/blog/coffee-dripper-1-3-cup/)やサーバー、ミルなどの洗浄も一切不要。グラスを洗うだけで済むのは、日々の手間を考えれば本当にありがたい。
+コーヒー器具の準備や、使用後のドリッパーやサーバー、ミルなどの洗浄も一切不要。グラスを洗うだけで済むのは、日々の手間を考えれば本当にありがたい。
 
 コストパフォーマンスも気になる点だ。このセットは500mlボトルが2本で4,536円。
 
@@ -128,7 +125,7 @@ sidebarProducts:
 
 ## 香福屋のアイスコーヒー、その品質とこだわりをスペックから読み解く
 
-この[敬老の日 コーヒー ギフト アイスコーヒー](https://hb.afl.rakuten.co.jp/hgc/g00qpk51.ve2q5d69.g00qpk51.ve2q6723/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkomi-coffee%2F10000296%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkomi-coffee%2Fi%2F10000296%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)は、いくつかの客観的スペックから品質への強いこだわりが読み取れる。まず「無添加・無香料」であること。
+この敬老の日 コーヒー ギフト アイスコーヒーは、いくつかの客観的スペックから品質への強いこだわりが読み取れる。まず「無添加・無香料」であること。
 
 これは、コーヒー豆本来の風味を損なわずに届けたいという、香福屋の強い意思の表れだ。人工的な香料でごまかすことなく、焙煎士が厳選した豆のポテンシャルを最大限に引き出している。
 
@@ -158,7 +155,7 @@ sidebarProducts:
 
 コーヒー器具の手入れが面倒だと感じる人。自宅でいつでも安定した品質のアイスコーヒーを楽しみたい人。
 
-そして、コーヒーが好きなご両親や大切な人へのギフトを探している人にも、この[敬老の日 コーヒー ギフト アイスコーヒー](https://hb.afl.rakuten.co.jp/hgc/g00qpk51.ve2q5d69.g00qpk51.ve2q6723/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkomi-coffee%2F10000296%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkomi-coffee%2Fi%2F10000296%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)は最高の選択となるだろう。手間をかけることなく、純粋に「飲む」という行為そのものに集中できる、そんな贅沢な時間を提供してくれるはずだ。
+そして、コーヒーが好きなご両親や大切な人へのギフトを探している人にも、この敬老の日 コーヒー ギフト アイスコーヒーは最高の選択となるだろう。手間をかけることなく、純粋に「飲む」という行為そのものに集中できる、そんな贅沢な時間を提供してくれるはずだ。
 
 ### よくある質問
 

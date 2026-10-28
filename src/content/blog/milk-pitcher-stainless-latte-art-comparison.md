@@ -38,8 +38,7 @@ sidebarProducts:
 
 僕も以前は適当な容器で泡立てていたが、このピッチャーに変えてからミルクの泡立ちが格段に安定した。特に注目すべきは、その素材と形状に隠された泡立ちの科学と、繊細なラテアートを可能にする注ぎ口の設計にある。
 
-手軽に本格的なラテアートを楽しむための第一歩として、[ミルクピッチャー350ml 600ml 900ml](https://hb.afl.rakuten.co.jp/hgc/g00u72u1.ve2q5c7b.g00u72u1.ve2q6200/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funibuyoutdoor%2Fmilkpot-580ml%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funibuyoutdoor%2Fi%2F10000035%2F&rafcid=wsc_i_is_732732a1-5b08-44e0-a7a6-bdd68daad98b)が強力な味方となるだろう。
-
+手軽に本格的なラテアートを楽しむための第一歩として、ミルクピッチャー350ml 600ml 900mlが強力な味方となるだろう。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -63,7 +62,6 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00u72u1.ve2q5c7b.g00u72u1.ve2q6200/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funibuyoutdoor%2Fmilkpot-580ml%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funibuyoutdoor%2Fi%2F10000035%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%259F%25E3%2583%25AB%25E3%2582%25AF%25E3%2583%2594%25E3%2583%2583%25E3%2583%2581%25E3%2583%25A3%25E3%2583%25BC350ml%2520600ml%2520900ml" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
@@ -71,12 +69,11 @@ sidebarProducts:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 
-
 ## なぜあのカフェラテはなめらかなのか？ピッチャー形状と泡立ちの秘密
 
 カフェで飲むラテのミルクフォームは、なぜあんなにもキメ細かく、口当たりがなめらかなのだろうか。その秘密は、ミルクピッチャーの素材と形状、そしてスチーミングの技術に集約される。
 
-この[ミルクピッチャー350ml 600ml 900ml](https://hb.afl.rakuten.co.jp/hgc/g00u72u1.ve2q5c7b.g00u72u1.ve2q6200/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funibuyoutdoor%2Fmilkpot-580ml%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funibuyoutdoor%2Fi%2F10000035%2F&rafcid=wsc_i_is_732732a1-5b08-44e0-a7a6-bdd68daad98b)がステンレス製であることには明確な理由がある。ステンレスは熱伝導率が高く、ミルクの温度変化がダイレクトに手のひらに伝わる。
+このミルクピッチャー350ml 600ml 900mlがステンレス製であることには明確な理由がある。ステンレスは熱伝導率が高く、ミルクの温度変化がダイレクトに手のひらに伝わる。
 
 これにより、ミルクの適温とされる60〜65℃の範囲を正確に把握しやすくなるのだ。この温度帯で加熱することで、乳糖の自然な甘みが引き出され、タンパク質が変性しすぎず安定した泡を形成できる。
 
@@ -164,7 +161,7 @@ sidebarProducts:
 
 これらの細やかな配慮が、毎日の自宅コーヒー体験を豊かなものへと引き上げているのだ。
 
-[ミルクピッチャー350ml 600ml 900ml](https://hb.afl.rakuten.co.jp/hgc/g00u72u1.ve2q5c7b.g00u72u1.ve2q6200/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funibuyoutdoor%2Fmilkpot-580ml%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funibuyoutdoor%2Fi%2F10000035%2F&rafcid=wsc_i_is_732732a1-5b08-44e0-a7a6-bdd68daad98b)
+ミルクピッチャー350ml 600ml 900ml
 
 ## 日常に溶け込む、本格ラテへの一歩
 
@@ -176,7 +173,7 @@ sidebarProducts:
 
 このピッチャーは、単なる道具ではなく、自宅でのコーヒー体験をワンランク引き上げるための確かな投資となるだろう。
 
-[ミルクピッチャー350ml 600ml 900ml](https://hb.afl.rakuten.co.jp/hgc/g00u72u1.ve2q5c7b.g00u72u1.ve2q6200/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Funibuyoutdoor%2Fmilkpot-580ml%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Funibuyoutdoor%2Fi%2F10000035%2F&rafcid=wsc_i_is_732732a1-5b08-44e0-a7a6-bdd68daad98b)
+ミルクピッチャー350ml 600ml 900ml
 
 ### よくある質問
 **Q1: どのサイズを選べばいいですか？**

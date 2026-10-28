@@ -40,10 +40,9 @@ sidebarProducts:
 
 ドリップコーヒーの魅力は、豆の種類や焙煎度、そして淹れ方によって無限に広がる香りと味わいにある。しかし、「毎回同じように美味しく淹れられない」「味がブレてしまう」と悩む初心者も多いのではないだろうか。
 
-そんな安定しない抽出の悩みを解決してくれるのが、カリタの「**ウェーブフィルター 185**」だ。このフィルターは、ウェーブ[ドリッパー](/blog/coffee-dripper-1-3-cup/)専用に設計された特徴的な形状で、誰でも**ムラなく安定したクリアなコーヒーを淹れることを可能にする**。
+そんな安定しない抽出の悩みを解決してくれるのが、カリタの「**ウェーブフィルター 185**」だ。このフィルターは、ウェーブドリッパー専用に設計された特徴的な形状で、誰でも**ムラなく安定したクリアなコーヒーを淹れることを可能にする**。
 
 僕も最初、様々なフィルターを試しては味のブレに悩まされたが、このフィルターと出会ってからは、毎朝のドリップが格段に安定した。
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -67,14 +66,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00qrnl1.ve2q59eb.g00qrnl1.ve2q66dd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhoonkichin%2F22212%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhoonkichin%2Fi%2F10006524%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AB%25E3%2583%25AA%25E3%2582%25BFKalita%25E3%2582%25A6%25E3%2582%25A7%25E3%2583%25BC%25E3%2583%2596%25E3%2583%2595%25E3%2582%25A3%25E3%2583%25AB%25E3%2582%25BF%25E3%2583%25BC185" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## なぜか美味しくない？ ドリップコーヒー初心者が陥る「抽出の偏り」
 
@@ -146,7 +143,7 @@ sidebarProducts:
 | 販売ショップ | ホーオンキッチン           |
 | レビュー評価 | 5.0 (1件)                  |
 
-[商品詳細・最新価格を見る](https://hb.afl.rakuten.co.jp/hgc/g00qrnl1.ve2q59eb.g00qrnl1.ve2q66dd/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhoonkichin%2F22212%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhoonkichin%2Fi%2F10006524%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+商品詳細・最新価格を見る
 
 ### ヘビーユーザーに最適！まとめ買いで賢くストック
 
@@ -160,7 +157,7 @@ sidebarProducts:
 | 販売ショップ | FRESH ROASTER珈琲問屋 楽天市場店 |
 | レビュー評価 | 5.0 (6件)                          |
 
-[商品詳細・最新価格を見る](https://hb.afl.rakuten.co.jp/hgc/g00pwd71.ve2q5f14.g00pwd71.ve2q6007/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftonya%2F303197%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftonya%2Fi%2F10021834%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+商品詳細・最新価格を見る
 
 ## ウェーブフィルターを最大限に活かすための準備
 
@@ -168,7 +165,7 @@ sidebarProducts:
 
 まず、当然ながら**カリタ ウェーブドリッパー185本体**は必須だ。フィルターとドリッパーが一体となって初めて、その設計思想が生きる。
 
-また、美味しいコーヒーを淹れるには、**コーヒー豆の鮮度**と**挽き方**も欠かせない要素だ。豆は飲む直前に挽くのがベストで、可能であれば電動または手動の**[コーヒーミル](/blog/manual-coffee-grinder-6-level/)**を用意したい。
+また、美味しいコーヒーを淹れるには、**コーヒー豆の鮮度**と**挽き方**も欠かせない要素だ。豆は飲む直前に挽くのがベストで、可能であれば電動または手動の**コーヒーミル**を用意したい。
 
 ウェーブフィルターには**中細挽き〜中挽き**が適している。
 

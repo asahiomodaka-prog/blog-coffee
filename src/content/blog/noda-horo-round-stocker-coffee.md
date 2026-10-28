@@ -24,12 +24,11 @@ sidebarProducts:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-[コーヒー豆](/blog/fresh-coffee-beans/)の鮮度維持は、自宅で美味しい一杯を淹れる上で最も重要な要素の一つだ。光や湿気、酸素は豆の劣化を早め、せっかくの風味が失われてしまう。
+コーヒー豆の鮮度維持は、自宅で美味しい一杯を淹れる上で最も重要な要素の一つだ。光や湿気、酸素は豆の劣化を早め、せっかくの風味が失われてしまう。
 
-そんな悩みを解決してくれるのが、今回紹介する[野田琺瑯 ホーロー密閉容器 ラウンドストッカー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%2587%258E%25E7%2594%25B0%25E7%2590%25BA%25E7%2591%25AF%2520%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B9%25E3%2583%2588%25E3%2583%2583%25E3%2582%25AB%25E3%2583%25BC%252018cm)だ。
+そんな悩みを解決してくれるのが、今回紹介する野田琺瑯 ホーロー密閉容器 ラウンドストッカーだ。
 
 このホーロー容器は、日本の老舗メーカー野田琺瑯が手がけた逸品だ。優れた遮光性と密閉性で、大切なコーヒー豆の風味をしっかりと守ってくれる。長く愛用できる実用性とメンテナンス性にも優れており、自宅コーヒーを追求する僕にとって欠かせない存在となった。
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -53,14 +52,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00s8b01.ve2q5b75.g00s8b01.ve2q6694/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgbft-ltd%2Fnt-n13n-ur82%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgbft-ltd%2Fi%2F10013976%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E9%2587%258E%25E7%2594%25B0%25E7%2590%25BA%25E7%2591%25AF%2520%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B9%25E3%2583%2588%25E3%2583%2583%25E3%2582%25AB%25E3%2583%25BC%252018cm%2520%25E3%2583%259B%25E3%2583%25AF%25E3%2582%25A4%25E3%2583%2588%25E3%2582%25B7%25E3%2583%25AA%25E3%2583%25BC%25E3%2582%25BA" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 琺瑯素材が叶えるコーヒー豆の鮮度保持
 野田琺瑯のラウンドストッカーは、その名の通り琺瑯（ホーロー）製だ。この素材がコーヒー豆の鮮度保持において重要な役割を果たす。琺瑯はガラス質の釉薬を金属の表面に焼き付けたもので、光を一切通さない特性がある。
@@ -87,7 +84,7 @@ sidebarProducts:
 👉 無料でコーヒー診断を受けてみる
 
 ## 愛用者が語るリアルな満足感
-僕が実際に[野田琺瑯 ホーロー密閉容器 ラウンドストッカー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%2587%258E%25E7%2594%25B0%25E7%2590%25BA%25E7%2591%25AF%2520%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B9%25E3%2583%2588%25E3%2583%2583%25E3%2582%25AB%252018cm)を使ってみて感じたのは、まずそのデザインの美しさだ。真っ白でシンプルなフォルムは、どんなキッチンのインテリアにもすんなり馴染む。余計な装飾がなく、道具としての機能美が際立っている。
+僕が実際に野田琺瑯 ホーロー密閉容器 ラウンドストッカーを使ってみて感じたのは、まずそのデザインの美しさだ。真っ白でシンプルなフォルムは、どんなキッチンのインテリアにもすんなり馴染む。余計な装飾がなく、道具としての機能美が際立っている。
 
 僕のキッチンでは、コーヒーメーカーの隣にこのストッカーが置かれている。清潔感があり、まるでそこにずっとあったかのような安心感がある。コーヒーを淹れるたびに目にするたびに、ちょっとした満足感を感じられるのだ。
 
@@ -120,7 +117,7 @@ sidebarProducts:
 
 この容器を選ぶことは、単に豆を保存するだけでなく、日々の暮らしに上質な道具を取り入れ、丁寧にコーヒーと向き合う時間を作り出すことにも繋がる。あなたのコーヒーライフをきっと充実させてくれるだろう。
 
-[野田琺瑯 ホーロー密閉容器 ラウンドストッカー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E9%2587%258E%25E7%2594%25B0%25E7%2590%25BA%25E7%2591%25AF%2520%25E3%2583%25A9%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B9%25E3%2583%2588%25E3%2583%2583%25E3%2582%25AB%252018cm)
+野田琺瑯 ホーロー密閉容器 ラウンドストッカー
 
 ### よくある質問
 **Q1: ホーロー容器の手入れで特に気をつけることはありますか？**

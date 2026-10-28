@@ -38,8 +38,7 @@ sidebarProducts:
 
 自宅ハンドドリップで「味が重く濁る」「豆の華やかな酸味が引き出せない」と悩むコーヒー愛好家にとって、**ハリオ V60 円すい形ドリッパー** はまさに世界基準の解答と言える。
 
-世界中の競技会バリスタが愛用するV60の抽出理論を、実用的な耐熱ガラスポットと一体化させたのが [VDIR-02-B V60ドリップイン](https://hb.afl.rakuten.co.jp/hgc/g00r1361.ve2q5ebd.g00r1361.ve2q616e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4977642143296%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11176711%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b) だ。ドリッパーがサーバー内にすっぽり収まる省スペース性と、電子レンジ対応のガラスポットにより、**「道具としての機能美」と「毎朝の時短」** を高い次元で両立している。
-
+世界中の競技会バリスタが愛用するV60の抽出理論を、実用的な耐熱ガラスポットと一体化させたのが VDIR-02-B V60ドリップイン だ。ドリッパーがサーバー内にすっぽり収まる省スペース性と、電子レンジ対応のガラスポットにより、**「道具としての機能美」と「毎朝の時短」** を高い次元で両立している。
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -63,14 +62,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00r1361.ve2q5ebd.g00r1361.ve2q616e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4977642143296%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11176711%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DVDIR-02-B%2520V60%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2597%25E3%2582%25A4%25E3%2583%25B3" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 円すい形60度とスパイラルリブが解き明かす抽出の科学
 
@@ -92,7 +89,7 @@ sidebarProducts:
 
 本格的なハンドドリップを毎朝続ける上で、最大の敵となるのが「器具の散らかり」と「冷めてしまったときの手間」だ。
 
-本製品 [VDIR-02-B V60ドリップイン](https://hb.afl.rakuten.co.jp/hgc/g00r1361.ve2q5ebd.g00r1361.ve2q616e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4977642143296%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11176711%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b) は、使用後に **付属のV60ドリッパーがポットの中に完全に逆さ収納** できる設計を採用している。外形寸法は **幅185×奥行127×高さ176mm**。棚のわずかな隙間に収まり、キッチンの作業台を圧迫しない。
+本製品 VDIR-02-B V60ドリップイン は、使用後に **付属のV60ドリッパーがポットの中に完全に逆さ収納** できる設計を採用している。外形寸法は **幅185×奥行127×高さ176mm**。棚のわずかな隙間に収まり、キッチンの作業台を圧迫しない。
 
 また、付属のドリッパーはポリプロピレン（樹脂）製だ。陶器製ドリッパーは事前にお湯を通す予熱を怠るとお湯の熱を急激に奪ってしまうが、**樹脂製は熱伝導率が低いため予熱なしでも抽出湯温が安定** する。冬場の忙しい朝でも、ケトルから注いだ適温のお湯をそのまま活かせるのは非常に実用的だ。
 
@@ -161,7 +158,7 @@ V60で失敗しないための、焙煎度別の **推奨粉量・湯温・注�
 
 ## 日常のコーヒー時間を一段引き上げるための総括
 
-[VDIR-02-B V60ドリップイン](https://hb.afl.rakuten.co.jp/hgc/g00r1361.ve2q5ebd.g00r1361.ve2q616e/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frakuten24%2F4977642143296%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frakuten24%2Fi%2F11176711%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b) は、単なる初心者向けの安価なセット器具ではない。
+VDIR-02-B V60ドリップイン は、単なる初心者向けの安価なセット器具ではない。
 
 世界基準の抽出理論が詰め込まれた円すい形ドリッパーと、日本のガラス職人技が宿る耐熱ポットが組み合わさることで、**「自分の注湯技術がそのまま味になって返ってくる」というハンドドリップ本来の歓び** を日々の生活に届けてくれる。
 

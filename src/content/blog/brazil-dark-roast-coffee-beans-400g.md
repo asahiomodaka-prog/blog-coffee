@@ -24,12 +24,11 @@ sidebarProducts:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-「毎朝カフェオレを飲んでいるけれど、市販の豆だとミルクに負けて薄いコーヒー牛乳になってしまう」「夏にキリッと冷えた、香ばしくて苦味の効いたアイスコーヒーを自宅で飲みたい」そんな日常の贅沢を叶えてくれるのが、[ブラジル深煎り400g自家焙煎コーヒー豆](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25B8%25E3%2583%25AB%2520%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%2520400g) です。
+「毎朝カフェオレを飲んでいるけれど、市販の豆だとミルクに負けて薄いコーヒー牛乳になってしまう」「夏にキリッと冷えた、香ばしくて苦味の効いたアイスコーヒーを自宅で飲みたい」そんな日常の贅沢を叶えてくれるのが、ブラジル深煎り400g自家焙煎コーヒー豆 です。
 
 浅煎りブームの昨今ですが、牛乳の脂肪分や氷の希釈に負けない「圧倒的なボディ感」を持つ豆は、やはりしっかりと芯まで焼き切った良質な深煎りブラジル豆に勝るものはありません。
 
 今回は、忙しい毎朝の食卓を彩るカフェオレや、仕事の合間のリフレッシュに欠かせない急冷アイスコーヒーに特化して、その魅力と美味しく飲むレシピを徹底解説します。
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -53,14 +52,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00tl781.ve2q5962.g00tl781.ve2q66b9/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fandushcoffee%2Fbrazilsantos400nekopos%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fandushcoffee%2Fi%2F10000433%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25B8%25E3%2583%25AB%2520%25E3%2582%25B5%25E3%2583%25B3%25E3%2583%2588%25E3%2582%25B9%2520400g%2520%25E4%25B8%25AD%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%2520%25E7%258F%2588%25E7%2590%25B2%25E8%25B1%2586" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 牛乳に負けない圧倒的ボディ感：カフェオレが激変する理由
 
@@ -107,4 +104,4 @@ A3: サーバーにあらかじめ氷を150gほど入れておき、粉25gに対
 
 ## まとめ：深煎りブラジル400gで毎日のコーヒー習慣を格上げ
 
-[ブラジル深煎り400g自家焙煎コーヒー豆](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25B8%25E3%2583%25AB%2520%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%2520400g)
+ブラジル深煎り400g自家焙煎コーヒー豆

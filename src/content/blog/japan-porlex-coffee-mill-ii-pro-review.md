@@ -34,12 +34,11 @@ sidebarProducts:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-澄んだ空気の朝のキャンプ場や、旅先のベランダで飲む「淹れたてのコーヒー」。あの特別な一杯を自宅でも外でも手軽に味わいたい方に、世界中のアウトドア愛好家から絶大な支持を集め続けている名機が [コーヒーミル・II / プロフェッショナル](https://hb.afl.rakuten.co.jp/hgc/g00r9tv1.ve2q5135.g00r9tv1.ve2q6507/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frealjapanprojectstore%2F0121r003%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frealjapanprojectstore%2Fi%2F10005594%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b) です。
+澄んだ空気の朝のキャンプ場や、旅先のベランダで飲む「淹れたてのコーヒー」。あの特別な一杯を自宅でも外でも手軽に味わいたい方に、世界中のアウトドア愛好家から絶大な支持を集め続けている名機が コーヒーミル・II / プロフェッショナル です。
 
 一般的な木製ミルや据え置き型の電動グラインダーは水洗いができず、重くて持ち運べません。一方、ポーレックスは鹿児島県の精密技術が生んだ「完全丸洗い可能×高剛性ステンレスボディ」という圧倒的な機動力を誇ります。
 
 今回は、初心者が最初の1台として選ぶべき実用性、パッキングの快適さ、そして一生モノとして付き合える手入れのしやすさにフォーカスしてレビューします。
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -63,14 +62,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00r9tv1.ve2q5135.g00r9tv1.ve2q6507/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frealjapanprojectstore%2F0121r002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frealjapanprojectstore%2Fi%2F10005593%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%259F%25E3%2583%25AB%2520II%2520%25E3%2583%2597%25E3%2583%25AD%25E3%2583%2595%25E3%2582%25A7%25E3%2583%2583%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%258A%25E3%2583%25AB" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## バッグの隙間にすっぽり！荷物を減らしたいアウトドアでのパッキング革命
 
@@ -112,7 +109,7 @@ sidebarProducts:
 
 自宅のキッチンでのデイリーユースはもちろん、週末のピクニック、本格的な登山やソロキャンプまで。どこへ連れて行っても変わらぬ信頼感で最高の一杯を約束してくれるポーレックス コーヒーミルIIは、まさに一生モノと呼ぶにふさわしい逸品です。
 
-[コーヒーミル・II / プロフェッショナル](https://hb.afl.rakuten.co.jp/hgc/g00r9tv1.ve2q5135.g00r9tv1.ve2q6507/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frealjapanprojectstore%2F0121r002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frealjapanprojectstore%2Fi%2F10005593%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+コーヒーミル・II / プロフェッショナル
 
 ### よくある質問
 

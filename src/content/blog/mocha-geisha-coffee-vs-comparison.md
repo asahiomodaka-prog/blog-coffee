@@ -34,12 +34,11 @@ sidebarProducts:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-自宅で淹れる一杯の[コーヒー](/blog/coffee-dripper-1-3-cup/)は、僕にとって単なる飲み物ではない。それは一日の始まりを彩り、時には忙しい仕事の合間の心を落ち着かせる大切な時間だ。
+自宅で淹れる一杯のコーヒーは、僕にとって単なる飲み物ではない。それは一日の始まりを彩り、時には忙しい仕事の合間の心を落ち着かせる大切な時間だ。
 
 特に、その華やかな香りで多くのコーヒー愛好家を魅了する「ゲイシャ種」には、並々ならぬこだわりがある。
 
 今回は、コーヒー&パン専門店DripTripが扱う「エチオピア産モカ ゲイシャ」の中から、異なるグレードを持つ2つの商品を比較検討する。どちらを選べば良いか迷っている人や、ゲイシャの奥深さを知りたい人にとって、今回の比較が最適な一杯を見つける手助けになれば幸いだ。
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -63,14 +62,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00tsao1.ve2q59ec.g00tsao1.ve2q65f8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdaisen-coffee%2Fcoffee-409-r400g%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdaisen-coffee%2Fi%2F10001863%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%2520%25E3%2583%25A2%25E3%2582%25AB%2520%25E3%2582%25B2%25E3%2582%25A4%25E3%2582%25B7%25E3%2583%25A3%2520G1%2520%25E3%2583%258A%25E3%2583%2581%25E3%2583%25A5%25E3%2583%25A9%25E3%2583%25AB%2520Q%25E3%2582%25B0%25E3%2583%25AC%25E3%2583%25BC%25E3%2583%2589" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## ゲイシャ種コーヒーとは？その魅力とエチオピア産の特徴
 
@@ -95,7 +92,7 @@ sidebarProducts:
 
 日々のコーヒータイムにゲイシャの魅力を気軽に体験したいなら、このG3ナチュラルは素晴らしい選択肢になるだろう。
 
-[DripTrip モカ ゲイシャ G3 ナチュラルはこちら](https://hb.afl.rakuten.co.jp/hgc/g00tsao1.ve2q59ec.g00tsao1.ve2q65f8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdaisen-coffee%2Fcoffee-036-r400g%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdaisen-coffee%2Fi%2F10000552%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+DripTrip モカ ゲイシャ G3 ナチュラルはこちら
 
 ## DripTrip モカ ゲイシャ G1 ナチュラル Qグレード：特別な一杯
 
@@ -117,7 +114,7 @@ sidebarProducts:
 
 週末の朝や、大切な来客時など、とっておきの一杯を淹れたいときに、このG1ナチュラル Qグレードは最高の選択肢になるだろう。
 
-[DripTrip モカ ゲイシャ G1 ナチュラル Qグレードはこちら](https://hb.afl.rakuten.co.jp/hgc/g00tsao1.ve2q59ec.g00tsao1.ve2q65f8/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fdaisen-coffee%2Fcoffee-409-r400g%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fdaisen-coffee%2Fi%2F10001863%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+DripTrip モカ ゲイシャ G1 ナチュラル Qグレードはこちら
 
 ## 徹底比較！2種類のモカゲイシャ、どこが違う？
 
@@ -183,7 +180,7 @@ A1: ゲイシャ種は繊細な香りが特徴のため、浅煎りで提供さ�
 **Q2: 浅煎りと深煎り、どちらを選ぶべき？**
 A2: ゲイシャ種本来のフローラルやフルーティな香りは、浅煎りで最も引き立つ。深煎りにすると、その繊細な個性が失われ、一般的な苦味やコクが前面に出てしまう場合がある。まずは浅煎りを試すのが良いだろう。
 
-**Q3: [コーヒー豆](/blog/fresh-coffee-beans/)の最適な保存方法は？**
+**Q3: コーヒー豆の最適な保存方法は？**
 A3: 豆の劣化を防ぐには、密閉容器に入れて冷暗所で保存することが基本だ。豆は酸素や光、熱、湿気に弱いため、直射日光が当たる場所や高温多湿な場所は避けるべきだ。
 
 長期保存する場合は、冷凍保存も有効だが、結露に注意し、解凍後は再冷凍しないように気をつけたい。

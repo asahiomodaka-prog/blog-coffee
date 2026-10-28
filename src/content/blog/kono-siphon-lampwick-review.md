@@ -37,10 +37,9 @@ sidebarProducts:
 
 自宅でのコーヒータイム、特にサイフォン抽出に魅せられた僕にとって、クリアで安定した味わいは追求し続ける目標だ。しかし、火力が不安定だと湯温が変動し、せっかくの豆の個性が台無しになる。
 
-そんな悩みを解決に導いてくれたのが、この[KONO コーノ ランプ芯 セト口付 サイフォン](https://hb.afl.rakuten.co.jp/hgc/g00twes1.ve2q5361.g00twes1.ve2q6fb7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftobidasu-baisenjo%2Fkig-syphon-lampwick%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftobidasu-baisenjo%2Fi%2F10000247%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)だった。
+そんな悩みを解決に導いてくれたのが、このKONO コーノ ランプ芯 セト口付 サイフォンだった。
 
 この部品は、サイフォン抽出の根幹を支えるアルコールランプの心臓部だ。安定した熱量を供給し、雑味のない、豆本来の風味を最大限に引き出すコーヒーを淹れるために欠かせない。サイフォニストなら、ぜひ手元に置いておきたい必須アイテムと言える。
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -64,7 +63,6 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00twes1.ve2q5361.g00twes1.ve2q6fb7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftobidasu-baisenjo%2Fkig-syphon-flask4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftobidasu-baisenjo%2Fi%2F10000248%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DKONO%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%258E%2520%25E3%2583%2595%25E3%2583%25A9%25E3%2582%25B9%25E3%2582%25B34%25E4%25BA%25BA%25E7%2594%25A8%2520%25E3%2582%25B5%25E3%2582%25A4%25E3%2583%2595%25E3%2582%25A9%25E3%2583%25B3%2520PR%25E5%259E%258B" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
@@ -72,14 +70,13 @@ sidebarProducts:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 
-
 ## サイフォン抽出を司るランプ芯の秘密
 
 サイフォン抽出の成否は、適切な湯温と抽出時間を維持できるかにかかっている。その安定性を左右するのが、アルコールランプの炎、つまりランプ芯の品質だ。KONOのランプ芯は、セラミック製のセト口とレーヨン製の芯地がセットになっている。
 
 この組み合わせが、均一で安定した炎を生み出す最大の強みだ。安価な互換品では、炎が揺らいだり、変な臭いがしたりすることがあった。しかしKONO製は素材の質が高く、アルコールを効率的に吸い上げ、常に安定した熱量をフラスコに供給する。
 
-安定した火力は、抽出温度の急激な変化を防ぐ。これにより、過抽出や低抽出といった[味のブレ](/blog/soto-portable-coffee-maker/)のリスクが大きく減るのだ。
+安定した火力は、抽出温度の急激な変化を防ぐ。これにより、過抽出や低抽出といった味のブレのリスクが大きく減るのだ。
 
 豆の焙煎度や挽き目に関わらず、その豆が持つ本来の風味をクリアに引き出すことができる。深煎り豆の豊かなボディ感も、浅煎り豆の繊細なフルーティーさも、このランプ芯の安定性があればこそ際立つ。
 
@@ -127,7 +124,7 @@ KONOのランプ芯は、サイフォン抽出の品質にこだわりたい人�
 
 安定した火力は、抽出の精度を格段に高める。結果として、豆本来の風味を損なうことなく、クリアで深みのある一杯を自宅で楽しめるようになるだろう。サイフォンの持つ魅力を最大限に引き出し、僕のコーヒーライフを豊かにしてくれた。
 
-この[KONO コーノ ランプ芯 セト口付 サイフォン](https://hb.afl.rakuten.co.jp/hgc/g00twes1.ve2q5361.g00twes1.ve2q6fb7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftobidasu-baisenjo%2Fkig-syphon-lampwick%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftobidasu-baisenjo%2Fi%2F10000247%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)は、サイフォン抽出を愛する全ての人に、自信を持って推薦できる。日々のコーヒータイムが、より一層充実したものになるはずだ。
+このKONO コーノ ランプ芯 セト口付 サイフォンは、サイフォン抽出を愛する全ての人に、自信を持って推薦できる。日々のコーヒータイムが、より一層充実したものになるはずだ。
 
 ### よくある質問
 

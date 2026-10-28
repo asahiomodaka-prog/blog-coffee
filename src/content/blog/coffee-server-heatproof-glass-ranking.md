@@ -44,12 +44,11 @@ sidebarProducts:
 
 サーバー選びで重要なポイントはいくつかある。まず、**普段何杯淹れるかという「容量」**。
 
-一人暮らしなら2杯用（[300ml](/blog/insulated-double-wall-mug-vs-comparison/)程度）、家族で飲むなら4杯用（500ml〜[600ml](/blog/milk-pitcher-latte-art-350ml-vs-comparison/)）が目安だ。次に、**「デザイン」と「機能性」**。
+一人暮らしなら2杯用（300ml程度）、家族で飲むなら4杯用（500ml〜600ml）が目安だ。次に、**「デザイン」と「機能性」**。
 
-キッチンやカップとの調和、食洗機や電子レンジ対応の有無も日々の使い勝手に直結する。そして、最も重要なのは、**[ドリッパー](/blog/coffee-dripper-1-3-cup/)との相性と抽出の安定性**だ。
+キッチンやカップとの調和、食洗機や電子レンジ対応の有無も日々の使い勝手に直結する。そして、最も重要なのは、**ドリッパーとの相性と抽出の安定性**だ。
 
 ---
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -73,14 +72,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00qe941.ve2q513f.g00qe941.ve2q61a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshopworld%2F10128069%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshopworld%2Fi%2F10128069%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D14%25E6%2597%25A520%25E6%2599%2582%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B5%25E3%2583%25BC%25E3%2583%2590%25E3%2583%25BC%2520%25E8%2580%2590%25E7%2586%25B1%25E3%2582%25AC%25E3%2583%25A9%25E3%2582%25B9%2520%25E3%2582%25AB%25E3%2583%25AA%25E3%2582%25BF" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## コーヒーサーバー 耐熱ガラス 総合比較一覧表
 
@@ -121,8 +118,6 @@ KINTOの「SLOW COFFEE STYLE SPECIALTY SCS-S02」は、その**圧倒的なデ�
 | 販売ショップ | お弁当グッズのカラフルボックス |
 | レビュー評価 | 4.81 (53件) |
 
-👉 [KINTO キントー SLOW COFFEE STYLE SPECIALTY SCS-S02 コーヒーサーバー 2cups 4cups （ 300ml 2杯用 600ml 4杯用 スローコーヒースタイル 耐熱ガラス 食洗機対応 ガラス製 ジャグ コーヒーポット コーヒー ピッチャー ポット ）【3980円以上送料無料】 の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00s2jf1.ve2q514d.g00s2jf1.ve2q6852/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fcolorfulbox%2F4963264500999%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fcolorfulbox%2Fi%2F10044899%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
-
 ---
 
 ## 第2位: IwaiLoft 世界各国で高い評価を得ている コーヒーサーバー ガラスドリッパー セット
@@ -153,8 +148,6 @@ IwaiLoftのコーヒーサーバーは、**木製のハンドルとドリッパ�
 | 販売ショップ | ラッキーカバンFREESTYLE |
 | レビュー評価 | 4.39 (67件) |
 
-👉 [IwaiLoft 世界各国で高い評価を得ている 300ml/600ml コーヒーサーバー ガラスドリッパー セット コーヒーポット V60 コーヒードリッパー 耐熱ガラス 1~4cup 円錐型 ハンドドリッパー ドリッパーコーヒー コーヒー用品 珈琲 コーヒー器具 おしゃれ の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00tzo21.ve2q56d0.g00tzo21.ve2q6add/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fiwailoft%2Fiw-gcst02set%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fiwailoft%2Fi%2F10000449%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
-
 ---
 
 ## 第3位: カリタ 電子レンジ用サーバー N
@@ -181,8 +174,6 @@ IwaiLoftのコーヒーサーバーは、**木製のハンドルとドリッパ�
 | 販売ショップ | ショップワールド |
 | レビュー評価 | 4.69 (16件) |
 
-👉 [【先着★3％OFFクーポン】14日20時～ コーヒーサーバー 耐熱ガラス カリタ 電子レンジ用サーバー Kalita ドリッパー用 耐熱ガラス製 電子レンジ レンジ 300 500 800 サーバー N 300ml 500ml 800ml ハンドドリップ 喫茶店 家庭用 ドリッパー 濾紙 珈琲 コーヒー 送料無料 の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00qe941.ve2q513f.g00qe941.ve2q61a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshopworld%2F10128069%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fi%2F10128069%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
-
 ---
 
 ## 第4位: カリタ Kalita コーヒーサーバー500ml 500サーバーG
@@ -204,8 +195,6 @@ IwaiLoftのコーヒーサーバーは、**木製のハンドルとドリッパ�
 | 価格 | 1,678円 |
 | 販売ショップ | いまどき本舗 |
 | レビュー評価 | 5.0 (4件) |
-
-👉 [【送料無料】カリタ Kalita コーヒーサーバー500ml(約4カップ分) 耐熱ガラス製 500サーバーG【スーパーロジ】【あす楽対応】 の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00quqf1.ve2q5429.g00quqf1.ve2q64e6/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fimadoki%2F500g%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fi%2F10003958%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 ---
 

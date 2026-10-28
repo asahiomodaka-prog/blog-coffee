@@ -36,14 +36,13 @@ sidebarProducts:
 
 自宅でコーヒーを淹れるたび、抽出の安定性に悩む人は少なくないだろう。豆の個性を引き出しきれなかったり、毎回味がブレてしまったり。
 
-そんな課題を抱える僕がたどり着いたのが、このカリタ [ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC) WDC-155 銅製 ツバメだ。
+そんな課題を抱える僕がたどり着いたのが、このカリタ ドリッパー WDC-155 銅製 ツバメだ。
 
-この[ドリッパー](/blog/coffee-dripper-1-3-cup/)は、抽出科学に基づいた独自の設計と、熱伝導に優れた銅素材が融合している。おかげで、誰でも狙い通りのクリアな味わいを安定して楽しめる。
+このドリッパーは、抽出科学に基づいた独自の設計と、熱伝導に優れた銅素材が融合している。おかげで、誰でも狙い通りのクリアな味わいを安定して楽しめる。
 
 毎日のコーヒー体験をワンランク上げたいなら、ぜひ注目してほしい逸品だ。
 
-[カリタ ドリッパー WDC-155 銅製 ツバメ](https://hb.afl.rakuten.co.jp/hgc/g00qe941.ve2q513f.g00qe941.ve2q61a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshopworld%2F000000114357%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshopworld%2Fi%2F10139735%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
-
+カリタ ドリッパー WDC-155 銅製 ツバメ
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -67,14 +66,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00qe941.ve2q513f.g00qe941.ve2q61a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshopworld%2F000000114357%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshopworld%2Fi%2F10139735%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25AB%25E3%2583%25AA%25E3%2582%25BF%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC%2520WDC-155%2520%25E9%258A%2585%25E8%25A3%25BD%2520%25E3%2583%2584%25E3%2583%2590%25E3%2583%25A1%2520%25E6%2597%25A5%25E6%259C%25AC%25E8%25A3%25BD" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## なぜ雑味なくクリアな一杯が淹れられるのか？銅とウェーブ構造の科学
 

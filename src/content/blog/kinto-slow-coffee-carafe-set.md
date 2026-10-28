@@ -30,8 +30,7 @@ sidebarProducts:
 
 私自身、このセットから自宅ドリップの世界に足を踏み入れた一人として、その魅力を詳しく紹介する。
 
-[KINTO SLOW COFFEE STYLE コーヒーカラフェセット 300ml](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DKINTO%20%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%AB%E3%83%A9%E3%83%95%E3%82%A7%E3%82%BB%E3%83%83%E3%83%88)
-
+KINTO SLOW COFFEE STYLE コーヒーカラフェセット 300ml
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -55,14 +54,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2FKINTO%20%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%AB%E3%83%A9%E3%83%95%E3%82%A7%E3%82%BB%E3%83%83%E3%83%88%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DKINTO%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25A9%25E3%2583%2595%25E3%2582%25A7%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588%2520%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25B3%25E3%2583%25AC%25E3%2582%25B9" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## コーヒーオイルが織りなす、風味豊かな一杯の秘密
 
@@ -80,7 +77,7 @@ KINTO SLOW COFFEE STYLE コーヒーカラフェセットが「豆本来の風�
 
 抽出時には、フィルター内部でコーヒー粉がお湯と触れ合い、コーヒー成分が抽出される。この際、お湯の温度管理、そして注ぐスピードと量、つまり「対流」が非常に重要となる。
 
-一般的な[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DKINTO%20%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%AB%E3%83%A9%E3%83%95%E3%82%A7%E3%82%BB%E3%83%83%E3%83%88)でドリップする際も同様だが、特にステンレスフィルターは透過速度がペーパーフィルターに比べて速い傾向にあるため、湯温が下がりやすい。理想的な抽出温度は90℃前後と言われているが、ここが安定しないと、狙った風味が出にくくなる。
+一般的なドリッパーでドリップする際も同様だが、特にステンレスフィルターは透過速度がペーパーフィルターに比べて速い傾向にあるため、湯温が下がりやすい。理想的な抽出温度は90℃前後と言われているが、ここが安定しないと、狙った風味が出にくくなる。
 
 私の経験上、湯温計付きのケトルで常に適温を保ち、中心から「の」の字を描くように細くゆっくりと注ぐことが、抽出効率と安定した味わいを引き出す上で有効である。最初は少し難しいかもしれないが、慣れてくると自身の抽出がコーヒーの味わいを左右する実感を得られるだろう。
 
@@ -102,7 +99,7 @@ KINTO SLOW COFFEE STYLE コーヒーカラフェセットが「豆本来の風�
 
 これ以上何を足すことも引くこともない、極めてミニマルな構成であるため、準備も片付けも非常にスムーズに行える。朝の忙しい時間帯でも、手早くコーヒーを淹れられるのは大きなメリットである。
 
-特に洗いやすさは特筆すべき点である。ペーパーフィルター式では、[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC)の複雑なリブにコーヒー粉が詰まったり、フィルターホルダーの隙間に水垢が溜まったりすることがある。
+特に洗いやすさは特筆すべき点である。ペーパーフィルター式では、ドリッパーの複雑なリブにコーヒー粉が詰まったり、フィルターホルダーの隙間に水垢が溜まったりすることがある。
 
 しかし、このセットの場合、フィルターはステンレス製なので、使用後すぐに熱いお湯で洗い流せば、ほとんどの粉は簡単に落ちる。カラフェもシンプルな筒状で、口が広いため、スポンジが奥まで届きやすく、底までしっかりと洗える。
 
@@ -159,7 +156,7 @@ KINTO SLOW COFFEE STYLE コーヒーカラフェセットが「豆本来の風�
 
 自宅で淹れるコーヒーの満足度は、単に味が良いというだけでなく、その過程を楽しむこと、そしてそれが日常の一部として定着することによって、より一層高まるものだ。このKINTOのカラフェは、自宅コーヒーの喜びを体験させてくれる、自宅でのコーヒー体験の出発点として最適である。
 
-[KINTO SLOW COFFEE STYLE コーヒーカラフェセット 300ml](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DKINTO%20%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%AB%E3%83%A9%E3%83%95%E3%82%A7%E3%82%BB%E3%83%83%E3%83%88)
+KINTO SLOW COFFEE STYLE コーヒーカラフェセット 300ml
 
 👉 無料でコーヒー診断を受けてみる
 
@@ -173,7 +170,7 @@ KINTO SLOW COFFEE STYLE コーヒーカラフェセットが「豆本来の風�
 
 フレンチプレスほど重厚なボディは求めないが、ペーパーフィルターでは物足りない、という人に適している。
 
-一般的なペーパードリップ（円錐形や台形[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC)）と比較すると、KINTOのカラフェはペーパーフィルター不要という点で、ランニングコストと手軽さに優れている。ペーパードリップは、紙が微粉やコーヒーオイルを吸着するため、非常にクリアで雑味のない、すっきりとした味わいが特徴だ。
+一般的なペーパードリップ（円錐形や台形ドリッパー）と比較すると、KINTOのカラフェはペーパーフィルター不要という点で、ランニングコストと手軽さに優れている。ペーパードリップは、紙が微粉やコーヒーオイルを吸着するため、非常にクリアで雑味のない、すっきりとした味わいが特徴だ。
 
 湯の注ぎ方や抽出速度によって味わいが大きく変わるため、繊細なコントロールを楽しみたい人には向いている。しかし、その分、抽出技術が求められる側面もある。
 
@@ -241,7 +238,7 @@ KINTO SLOW COFFEE STYLE コーヒーカラフェセット 300mlは、自宅で�
 
 まずは、お気に入りのコーヒー豆を一つ見つけ、このカラフェで淹れてみてほしい。きっと、これまで知らなかったコーヒーの新たな魅力と、自身の手で美味しい一杯を淹れる喜びを発見できるはずである。このセットは、日々のコーヒー体験をより豊かにする一助となるはずだ。
 
-[KINTO SLOW COFFEE STYLE コーヒーカラフェセット 300ml](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3DKINTO%20%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%82%AB%E3%83%A9%E3%83%95%E3%82%A7%E3%82%BB%E3%83%83%E3%83%88)
+KINTO SLOW COFFEE STYLE コーヒーカラフェセット 300ml
 
 ### よくある質問
 **Q1: ペーパーフィルター不要とのことですが、一般的なドリップコーヒーとの味の違いはありますか？**

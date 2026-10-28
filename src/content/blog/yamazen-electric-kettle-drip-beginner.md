@@ -34,7 +34,6 @@ sidebarProducts:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -57,7 +56,6 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00pui91.ve2q5008.g00pui91.ve2q663b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2F76033%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10037463%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E9%259B%25BB%25E6%25B0%2597%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%2520%25E6%25B8%25A9%25E5%25BA%25A6%25E8%25AA%25BF%25E7%25AF%2580%2520%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%2520%25E3%2582%25B0%25E3%2583%25BC%25E3%2582%25B9%25E3%2583%258D%25E3%2583%2583%25E3%2582%25AF%25200%25208L" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
@@ -65,14 +63,13 @@ sidebarProducts:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 
-
 ## ドリップ初心者の強い味方、温度調節ケトルが叶える安定した一杯
 
 自宅で淹れるコーヒーは、温度が安定しないと味が大きくブレる。そんな悩みを抱えるドリップ初心者にとって、適切な湯温で確実に抽出できるケトルは欠かせない。
 
 僕が使っている山善の電気ケトルEGL-C1281は、まさにその悩みを解決してくれる一台だ。細口ノズルで注ぎやすく、1度単位で温度設定が可能。初心者でも安定した美味しいコーヒーを淹れるための心強い味方になるだろう。
 
-[電気ケトル 温度調節 ケトル グースネック 0](https://hb.afl.rakuten.co.jp/hgc/g00pui91.ve2q5008.g00pui91.ve2q663b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2F76033%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10037463%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)は、僕の自宅ドリップを劇的に変えてくれた。これから自宅コーヒーを始めたい人にとって、最初のパートナーとして申し分ない機能を持っていると感じている。
+電気ケトル 温度調節 ケトル グースネック 0は、僕の自宅ドリップを劇的に変えてくれた。これから自宅コーヒーを始めたい人にとって、最初のパートナーとして申し分ない機能を持っていると感じている。
 
 ## 狙った温度を維持する精密さ：細口ノズルと温度制御の真価
 
@@ -100,7 +97,7 @@ sidebarProducts:
 
 ## 確かな実力：安定した美味しさを生み出すスペック検証
 
-僕がこの[電気ケトル 温度調節 ケトル グースネック 0](https://hb.afl.rakuten.co.jp/hgc/g00pui91.ve2q5008.g00pui91.ve2q663b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2F76033%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10037463%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)を選んだのは、多くのユーザーからの高いレビュー評価も決め手の一つだった。くらしのeショップでのレビュー評価は4.39（1082件）と非常に高く、多くの人がその実力を認めていることがわかる。
+僕がこの電気ケトル 温度調節 ケトル グースネック 0を選んだのは、多くのユーザーからの高いレビュー評価も決め手の一つだった。くらしのeショップでのレビュー評価は4.39（1082件）と非常に高く、多くの人がその実力を認めていることがわかる。
 
 実際に僕自身も、このケトルを使ってから自宅コーヒーの質が格段に上がったと感じている。以前は湯温が安定せず、日によって味がブレてしまうことがあった。しかし、このケトルを導入してからは、狙った通りの温度で安定した抽出ができるようになった。
 
@@ -134,7 +131,7 @@ sidebarProducts:
 
 「湯温が安定せず、味がなかなか決まらない」「ドリップに自信がない」そんな悩みを抱えるなら、ぜひこのケトルを検討してみてほしい。きっと、あなたのコーヒーライフを次のステージへと引き上げてくれるだろう。
 
-[電気ケトル 温度調節 ケトル グースネック 0](https://hb.afl.rakuten.co.jp/hgc/g00pui91.ve2q5008.g00pui91.ve2q663b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fe-kurashi%2F76033%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fe-kurashi%2Fi%2F10037463%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+電気ケトル 温度調節 ケトル グースネック 0
 
 ### よくある質問
 

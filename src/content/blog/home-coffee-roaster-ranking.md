@@ -34,7 +34,6 @@ sidebarProducts:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -57,14 +56,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00ujmt1.ve2q5d99.g00ujmt1.ve2q6b70/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsandboxsmart%2Fr2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsandboxsmart%2Fi%2F10000000%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25AD%25A3%25E8%25A6%258F%25E5%2593%2581%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E7%2584%2599%25E7%2585%258E%25E6%25A9%259F%2520SANDBOX%2520SMART%2520R2" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 自宅で最高の1杯を！家庭用コーヒー焙煎機おすすめランキング
 
@@ -112,7 +109,7 @@ sidebarProducts:
 | 販売ショップ | Sandbox Smart |
 | レビュー評価 | 4.0 (7件) |
 
-👉 正規品 送料無料 コーヒー焙煎機 SANDBOX SMART R2 コーヒーロースター R2 珈琲焙煎機 [コーヒー豆](/blog/fresh-coffee-beans/) 焙煎器 生豆 コーヒー 自家焙煎 家庭用焙煎機 の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00ujmt1.ve2q5d99.g00ujmt1.ve2q6b70/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsandboxsmart%2Fr2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsandboxsmart%2Fi%2F10000000%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+👉 正規品 送料無料 コーヒー焙煎機 SANDBOX SMART R2 コーヒーロースター R2 珈琲焙煎機 コーヒー豆 焙煎器 生豆 コーヒー 自家焙煎 家庭用焙煎機 の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00ujmt1.ve2q5d99.g00ujmt1.ve2q6b70/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsandboxsmart%2Fr2%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsandboxsmart%2Fi%2F10000000%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 ## 第2位：SANDBOX SMART R2 サンドボックススマートコーヒーロースター R2（Kオンラインショップ）
 
@@ -132,7 +129,7 @@ sidebarProducts:
 | 販売ショップ | Kオンラインショップ |
 | レビュー評価 | 5.0 (1件) |
 
-👉 コーヒー焙煎機 SANDBOX SMART R2 サンドボックススマートコーヒーロースター R2 珈琲焙煎機 [コーヒー豆](/blog/mocha-geisha-coffee-vs-comparison/) 焙煎器 生豆 コーヒー 自家焙煎 家庭用焙煎機 国内正規品 の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00ud9c1.ve2q5ac7.g00ud9c1.ve2q69a0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-online-shop%2F10000001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-online-shop%2Fi%2F10000001%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+👉 コーヒー焙煎機 SANDBOX SMART R2 サンドボックススマートコーヒーロースター R2 珈琲焙煎機 コーヒー豆 焙煎器 生豆 コーヒー 自家焙煎 家庭用焙煎機 国内正規品 の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00ud9c1.ve2q5ac7.g00ud9c1.ve2q69a0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-online-shop%2F10000001%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-online-shop%2Fi%2F10000001%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 ## 第3位：家庭用コーヒー焙煎機 THE ROASTER Lite版
 
@@ -157,8 +154,6 @@ Lite版は上位モデルから一部機能をシンプル化し、メーカー1
 | 価格 | 24,800円 |
 | 販売ショップ | つなぐマルシェ |
 
-👉 [【家電の日SALE20%OFFクーポン配布】家庭用コーヒー焙煎機 THE ROASTER 自宅で簡単ロースト・自家焙煎入門モデル ボルテックス熱風式 ウィーロースト 挽きたて コーヒー 珈琲 生豆 コーヒーロースター コーヒー焙煎機 の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00u2tg1.ve2q5221.g00u2tg1.ve2q6010/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsunagu-marche%2Fweroas-002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsunagu-marche%2Fi%2F10000165%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
-
 ### 補足：SANDBOX SMART R2 コーヒーロースター R2（中古・未使用）
 
 今回比較した商品の中に、同モデルの「中古・未使用品」として、異常に高額な80万円以上の価格で販売されているものがあった。これは一般的な家庭用焙煎機の価格帯とはかけ離れており、通常の商品比較の対象とはならないため、ランキングからは除外した。
@@ -169,8 +164,6 @@ Lite版は上位モデルから一部機能をシンプル化し、メーカー1
 | --- | --- |
 | 価格 | 808,560円 |
 | 販売ショップ | AJIMURA-SHOP |
-
-👉 [【中古】【未使用】コーヒー焙煎機 SANDBOX SMART R2 コーヒーロースター R2 珈琲焙煎機 コーヒー豆 焙煎器 生豆 コーヒー 自家焙煎 家庭用焙煎機 の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00tywq1.ve2q50f4.g00tywq1.ve2q643b/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fajimura4861%2Fsb0b49jvgyz%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fajimura4861%2Fi%2F12823328%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 ## まとめ：あなたにぴったりの自家焙煎機を見つけよう
 

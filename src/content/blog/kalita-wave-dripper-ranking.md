@@ -39,14 +39,13 @@ sidebarProducts:
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
 「いつものコーヒー、もっとクリアで美味しくならないかな」
-もしあなたがそう感じているなら、カリタのウェーブ[ドリッパー](/blog/coffee-dripper-1-3-cup/)は試す価値のある選択肢だ。このドリッパーは、抽出が安定しにくいというドリップコーヒーの課題に対し、**誰もが均一でクリアな味わいを再現できる**よう設計されている。
+もしあなたがそう感じているなら、カリタのウェーブドリッパーは試す価値のある選択肢だ。このドリッパーは、抽出が安定しにくいというドリップコーヒーの課題に対し、**誰もが均一でクリアな味わいを再現できる**よう設計されている。
 
 僕もウェーブドリッパーを使い始めてから、朝のコーヒータイムが格段に充実したと感じている。
 
 この記事では、カリタ ウェーブドリッパーの選び方から、各モデルの特徴、そして僕が実際に使ってみた上での率直な感想をランキング形式で紹介しよう。素材やサイズで悩んでいるなら、ぜひ参考にしてほしい。
 
 ---
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -70,7 +69,6 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00qe941.ve2q513f.g00qe941.ve2q61a3/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fshopworld%2F000000114360%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fshopworld%2Fi%2F10139792%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D14%25E6%2597%25A520%25E6%2599%2582%2520%25E3%2582%25AB%25E3%2583%25AA%25E3%2582%25BF%2520%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC%2520WDS-185" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
@@ -78,14 +76,13 @@ sidebarProducts:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 
-
 ## カリタ ウェーブドリッパー総合比較一覧
 
 僕が厳選したカリタ ウェーブドリッパーの主要モデルを比較表にまとめた。それぞれの特徴を掴んで、あなたにぴったりの一台を見つけてほしい。
 
 | 順位 | 商品名 | 主な特徴 | 価格帯 | おすすめな人 |
 | :--- | :--- | :--- | :--- | :--- |
-| **第1位** | WDS-185 [ステンレス](/blog/milk-pitcher-latte-art-350ml-vs-comparison/)製 | 安定した抽出、耐久性、手入れのしやすさ、汎用性の高い2〜4人用。**コスパと実用性のバランスが最高**。 | 5,478円 | 家族や来客とコーヒーを楽しむ人、日常使いのしやすさを重視する人 |
+| **第1位** | WDS-185 ステンレス製 | 安定した抽出、耐久性、手入れのしやすさ、汎用性の高い2〜4人用。**コスパと実用性のバランスが最高**。 | 5,478円 | 家族や来客とコーヒーを楽しむ人、日常使いのしやすさを重視する人 |
 | **第2位** | 185S ステンレス製 | WDS-185と同等の機能。**最も手頃な価格**でウェーブドリッパーを試したい人向け。 | 4,235円 | 初めてウェーブドリッパーを使う人、価格を抑えたい人 |
 | **第3位** | WDC-155 銅製 ツバメ | 銅の高い熱伝導率で、**繊細な味を安定抽出**。メイド・イン・ツバメの高級感。1〜2人用。 | 7,080円 | 1〜2人分のコーヒーにこだわりたい人、所有感を重視する人 |
 | **第4位** | WDC-185 銅製 ツバメ | 銅製の魅力を多人数で。最高の抽出体験と**燕の職人技を求める**、こだわり派向け。2〜4人用。 | 7,980円 | 最高の素材で最高のコーヒーを抽出したい人、来客が多い人 |
@@ -162,8 +159,6 @@ WDS-185との具体的な違いについて公式説明からは判別が難し�
 | 販売ショップ | リブレ |
 | レビュー評価 | 5.0 (2件) |
 
-👉 [Kalita　カリタ　ウェーブドリッパー　185S　05151 の販売ページをチェックする](https://hb.afl.rakuten.co.jp/hgc/g00qybx1.ve2q54aa.g00qybx1.ve2q684a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Flibret%2F10050125%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Flibret%2Fi%2F10050125%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
-
 ### 第3位: WDC-155 銅製 ツバメ｜少人数で味わう、熱伝導の恩恵
 
 このWDC-155は、**1〜2人分のコーヒーを極上の状態で楽しみたい**僕のようなこだわり派にはたまらない逸品だ。素材に銅が使われていることが最大のポイントで、銅は**非常に高い熱伝導率**を誇る。
@@ -196,7 +191,7 @@ WDC-185 銅製は、先のWDC-155の2〜4人分に対応する大型モデルだ
 
 銅製ドリッパーを使うと、豆の持つポテンシャルを最大限に引き出せるように感じる。特に、豆の個性を際立たせたいスペシャルティコーヒーを淹れる際に、その真価を発揮する。
 
-抽出後のコーヒーは、**口当たりが驚くほど滑らかで、後味も非常にクリア**だ。雑味が一切なく、[コーヒー豆](/blog/fresh-coffee-beans/)本来の風味がダイレクトに伝わってくる。
+抽出後のコーヒーは、**口当たりが驚くほど滑らかで、後味も非常にクリア**だ。雑味が一切なく、コーヒー豆本来の風味がダイレクトに伝わってくる。
 
 これは、銅が持つ温度安定性と、ウェーブドリッパーの均一な抽出メカニズムが融合した結果だと僕は考えている。
 

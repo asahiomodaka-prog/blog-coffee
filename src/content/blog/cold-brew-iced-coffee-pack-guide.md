@@ -42,7 +42,6 @@ sidebarProducts:
 
 僕も以前はハンドドリップで淹れていたが、夏の朝に氷で薄まるのが気になっていた。水出しコーヒーパックは、**抽出の科学を理解すれば、驚くほど美味しい一杯**を安定して作れるのだ。
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -65,14 +64,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00pl5f1.ve2q5fd0.g00pl5f1.ve2q6f99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F1202-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10007300%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%25B0%25B4%25E5%2587%25BA%25E3%2581%2597%25E3%2582%25A2%25E3%2582%25A4%25E3%2582%25B9%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2590%25E3%2583%2583%25E3%2582%25B0%2520%25E7%25B0%25A1%25E5%258D%2598%2520%25E4%25BE%25BF%25E5%2588%25A9%2520%25E3%2581%258A%25E3%2581%2584%25E3%2581%2597%25E3%2581%2584" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 初心者が陥りがちな落とし穴：水出しコーヒーの「常識」を疑う
 
@@ -88,7 +85,7 @@ sidebarProducts:
 
 水出しコーヒーは、お湯ではなく水で時間をかけて抽出する。この**低温抽出のプロセス**が、味に大きな影響を与えるのだ。
 
-熱湯で抽出するホットコーヒーでは、[コーヒー豆](/blog/fresh-coffee-beans/)の油分や、苦味・酸味の成分が効率よく溶け出す。一方で、雑味やエグみにつながる成分も出やすくなる。
+熱湯で抽出するホットコーヒーでは、コーヒー豆の油分や、苦味・酸味の成分が効率よく溶け出す。一方で、雑味やエグみにつながる成分も出やすくなる。
 
 水出しの場合、これらの**熱によって抽出しやすい成分（例えば苦味の強いクロロゲン酸の一部やシュウ酸など）が溶け出しにくい**。だから、酸味が穏やかになり、角の取れたまろやかな口当たりになるのだ。
 
@@ -98,7 +95,7 @@ sidebarProducts:
 
 水出しコーヒーを試すなら、まずは**深煎りでアラビカ豆100%のブレンド**を選んでみてほしい。まろやかなコクとクリアな味わいを存分に楽しめるだろう。
 
-#### 【おすすめ商品】本格的な深煎り派に：グルメコーヒー豆専門[加藤珈琲店](/blog/kato-coffee-shachi-blend-2/) 水出しアイスコーヒーバッグ
+#### 【おすすめ商品】本格的な深煎り派に：グルメコーヒー豆専門加藤珈琲店 水出しアイスコーヒーバッグ
 
 | 項目 | 詳細 |
 | :--- | :--- |
@@ -108,9 +105,9 @@ sidebarProducts:
 
 **スペシャルティコーヒーを100%使用**し、フレンチロースト（深煎り）に仕上げられている。水出しによって、この深煎りの持つ「まろやかなコク」と「穏やかな苦味」が最大限に引き出される設計だ。
 
-1バッグで約5杯分（[600ml](/blog/milk-pitcher-latte-art-350ml-vs-comparison/)）と抽出量も多めで、毎日本格的なコーヒーを楽しみたい人におすすめだ。
+1バッグで約5杯分（600ml）と抽出量も多めで、毎日本格的なコーヒーを楽しみたい人におすすめだ。
 
-[グルメコーヒー豆専門!加藤珈琲店 水出しアイスコーヒーバッグ](https://hb.afl.rakuten.co.jp/hgc/g00pl5f1.ve2q5fd0.g00pl5f1.ve2q6f99/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgourmetcoffee%2F1202-4%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgourmetcoffee%2Fi%2F10007300%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+グルメコーヒー豆専門!加藤珈琲店 水出しアイスコーヒーバッグ
 
 ## 忙しい朝の「浸漬時間」と「抽出効率」の関係
 
@@ -134,7 +131,7 @@ sidebarProducts:
 
 アラビカ豆100%使用で、雑味のないクリアな味わいが特徴。1バッグで250ml〜500mlと抽出量の幅があるため、濃さの調整もしやすい。
 
-[MJB アイスコーヒー 水出し バッグ](https://hb.afl.rakuten.co.jp/hgc/g00uolg1.ve2q51fe.g00uolg1.ve2q6f9d/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Frvjapan%2Fcompass1750669595%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Frvjapan%2Fi%2F10000050%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+MJB アイスコーヒー 水出し バッグ
 
 ## 1杯あたりの「コスパ」と「大容量」の賢い選び方
 
@@ -158,7 +155,7 @@ sidebarProducts:
 
 ブラジル、コロンビア他を原産国とする本格的なブレンドで、喫茶店のような味わいが自宅で手軽に再現できる。コーヒーを毎日たくさん消費する家庭には、この大容量は非常にありがたい。
 
-[キーコーヒー 水だしコーヒーパック](https://hb.afl.rakuten.co.jp/hgc/g00tux11.ve2q5f66.g00tux11.ve2q671f/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fs-kodawari%2F7163352%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fs-kodawari%2Fi%2F10002203%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+キーコーヒー 水だしコーヒーパック
 
 #### 【おすすめ商品】バランスの取れた味わいで「毎日ごくごく」飲みたい派に：ティーライフ 水出し珈琲
 
@@ -172,7 +169,7 @@ sidebarProducts:
 
 これにより、酸味を抑えつつ、コクとビターテイストのバランスが良い「すっきりとした後味」が特徴だ。ミルクや砂糖を入れてもコーヒーの風味をしっかり感じられる設計になっている。
 
-[ティーライフ 水出し珈琲](https://hb.afl.rakuten.co.jp/hgc/g00pufz1.ve2q51be.g00pufz1.ve2q6a02/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftea-life%2F90919%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftea-life%2Fi%2F10001910%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+ティーライフ 水出し珈琲
 
 ## 【比較表】水出しコーヒーパック、タイプ別おすすめ
 

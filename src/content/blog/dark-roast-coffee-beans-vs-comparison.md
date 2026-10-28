@@ -46,7 +46,6 @@ sidebarProducts:
 
 ---
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -69,14 +68,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00qpzd1.ve2q531d.g00qpzd1.ve2q6b51/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-koten%2Fco-koten-001_1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-koten%2Fi%2F10002453%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%2520%25E3%2583%2596%25E3%2583%25AC%25E3%2583%25B3%25E3%2583%2589%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%2520500g%2520%25E6%25B7%25B1%25E7%2585%258E%25E3%2582%258A%2520%25E4%25B8%25AD%25E7%2585%258E%25E3%2582%258A" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## KOTENブレンド 深煎り：毎日飲める、バランスの取れた深煎り
 
@@ -90,7 +87,7 @@ sidebarProducts:
 
 特に朝、目覚めの一杯として淹れるには最適だ。香ばしいアロマが穏やかに広がり、頭をゆっくりと起動させてくれる。
 
-公式説明にある通り、[アイスコーヒー](/blog/cold-brew-iced-coffee-pack-guide/)にしても美味しく、キレの良い苦味が喉を潤してくれる。
+公式説明にある通り、アイスコーヒーにしても美味しく、キレの良い苦味が喉を潤してくれる。
 
 ### KOTENブレンド 深煎り スペック
 
@@ -105,7 +102,7 @@ sidebarProducts:
 | レビュー評価 | 4.05 (689件) |
 
 **毎日飲むならこれだね。**
-[KOTENブレンド 深煎り 500g](https://hb.afl.rakuten.co.jp/hgc/g00qpzd1.ve2q531d.g00qpzd1.ve2q6b51/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-koten%2Fco-koten-001_1%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-koten%2Fi%2F10002453%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+KOTENブレンド 深煎り 500g
 
 ---
 
@@ -133,7 +130,7 @@ sidebarProducts:
 | レビュー評価 | 4.75 (8件) |
 
 **純喫茶の味がここに。**
-[珈琲工房リバティ 深煎りリバティブレンド 200g](https://hb.afl.rakuten.co.jp/hgc/g00tgnt1.ve2q5121.g00tgnt1.ve2q69fb/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fliberty55%2Fi%2F10000355%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fliberty55%2Fi%2F10000355%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+珈琲工房リバティ 深煎りリバティブレンド 200g
 
 ---
 
@@ -236,7 +233,7 @@ A1: 深煎り豆は油分が多いため、酸化しやすく、風味が飛び�
 
 A2: ミルクと合わせるカフェオレやラテでは、コーヒーの風味がミルクに負けないように、**やや細かめの挽き目（中細挽き〜細挽き）**がおすすめです。細かく挽くことで抽出効率が上がり、コーヒーの濃厚な成分がより多く抽出され、ミルクと混ぜても存在感が際立ちます。
 
-抽出方法は、短時間で濃く抽出できる**エスプレッソや[フレンチプレス](/blog/french-press-double-wall-guide/)**が特に適しています。ドリップで淹れる場合は、湯温をやや高め（90℃前後）にし、抽出時間を短くすることで、濃いめに仕上げると良いでしょう。
+抽出方法は、短時間で濃く抽出できる**エスプレッソやフレンチプレス**が特に適しています。ドリップで淹れる場合は、湯温をやや高め（90℃前後）にし、抽出時間を短くすることで、濃いめに仕上げると良いでしょう。
 
 ### Q3: 深煎り豆はドリップ以外でも美味しく淹れられますか？
 

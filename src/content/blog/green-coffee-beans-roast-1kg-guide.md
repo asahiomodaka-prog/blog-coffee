@@ -38,7 +38,6 @@ sidebarProducts:
 
 今回は、そんな自家焙煎初心者が生豆選びで失敗しないためのポイントと、僕がおすすめする生豆を紹介する。
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -61,14 +60,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00s9rc1.ve2q5c3a.g00s9rc1.ve2q6c40/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F8coffee%2F8coffee-bra-01-02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F8coffee%2Fi%2F10005731%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E5%25AE%2585%25E9%2585%258D%25E4%25BE%25BF%2520%25E3%2583%2596%25E3%2583%25A9%25E3%2582%25B8%25E3%2583%25AB%2520%25E3%2583%2597%25E3%2583%25AC%25E3%2583%259F%25E3%2582%25A2%25E3%2583%25A0%25E3%2582%25B7%25E3%2583%25A7%25E3%2582%25B3%25E3%2583%25A9%2520%25EF%25BC%259C%25E5%2586%2585%25E5%25AE%25B9%25E9%2587%258F%25EF%25BC%259E1kg" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 初心者が陥りがちな「生豆選び」の落とし穴
 
@@ -86,7 +83,7 @@ sidebarProducts:
 
 #### 生産国と品種で好みの味を探す
 
-[コーヒー豆](/blog/fresh-coffee-beans/)の風味は、生産国や品種によって大きく異なる。まず、どんな味のコーヒーを飲みたいかをイメージしてみよう。
+コーヒー豆の風味は、生産国や品種によって大きく異なる。まず、どんな味のコーヒーを飲みたいかをイメージしてみよう。
 
 一般的に流通しているのは、繊細な香りと酸味が特徴の「アラビカ種」と、苦味が強くカフェイン含有量の多い「ロブスタ種」だ。自家焙煎で楽しむなら、複雑な風味を持つアラビカ種から始めるのがおすすめだ。
 
@@ -96,7 +93,7 @@ sidebarProducts:
 
 #### 精製方法に注目する
 
-生豆の精製方法も、風味に大きな影響を与える要素だ。主に「ウォッシュド」と「[ナチュラル](/blog/mocha-geisha-coffee-vs-comparison/)」がある。
+生豆の精製方法も、風味に大きな影響を与える要素だ。主に「ウォッシュド」と「ナチュラル」がある。
 
 「ウォッシュド」は、収穫したコーヒーチェリーの果肉を除去し、水洗いで粘液質を洗い流してから乾燥させる方法だ。この製法で作られた豆は、クリーンでクリアな酸味と、豆本来の風味をストレートに楽しめる。初心者には、雑味が少なく扱いやすいウォッシュド精製がおすすめだ。
 
@@ -129,9 +126,9 @@ sidebarProducts:
 | 価格 | 3,520円 |
 | 販売ショップ | YAMATO屋 |
 
-[コーヒー生豆 コロンビア　スプレモ 1kg](https://hb.afl.rakuten.co.jp/hgc/g00u3y41.ve2q540c.g00u3y41.ve2q603a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyamatoshop%2F7130%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyamatoshop%2Fi%2F10000030%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+コーヒー生豆 コロンビア　スプレモ 1kg
 
-#### 親しみやすい風味を楽しみたいなら！ブラジル [プレミアム](/blog/drip-coffee-factory-gold-2kg/)ショコラ
+#### 親しみやすい風味を楽しみたいなら！ブラジル プレミアムショコラ
 
 「ナッツやチョコレートのような、まろやかで親しみやすい風味が好み」という人には、ブラジル プレミアムショコラが良い選択肢になる。ブラジル豆特有の香ばしさと優しい甘みが特徴で、ホットでもアイスでも楽しめる。
 
@@ -142,7 +139,7 @@ sidebarProducts:
 | 価格 | 4,137円 |
 | 販売ショップ | 8coffee 楽天市場店 |
 
-[コーヒー生豆 ブラジル プレミアムショコラ 1kg](https://hb.afl.rakuten.co.jp/hgc/g00s9rc1.ve2q5c3a.g00s9rc1.ve2q6c40/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F8coffee%2F8coffee-bra-01-02%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F8coffee%2Fi%2F10005731%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+コーヒー生豆 ブラジル プレミアムショコラ 1kg
 
 #### 個性的な風味に挑戦したいなら！ベトナム RADAR FARM Dungさんのアラビカ カティモール アナエロビック Natural
 
@@ -155,7 +152,7 @@ sidebarProducts:
 | 価格 | 4,431円 |
 | 販売ショップ | 8coffee 楽天市場店 |
 
-[コーヒー生豆 ベトナム RADAR FARM Dungさんのアラビカ カティモール アナエロビック Natural 1kg](https://hb.afl.rakuten.co.jp/hgc/g00s9rc1.ve2q5c3a.g00s9rc1.ve2q6c40/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2F8coffee%2F8coffee-vet-05%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2F8coffee%2Fi%2F10005822%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+コーヒー生豆 ベトナム RADAR FARM Dungさんのアラビカ カティモール アナエロビック Natural 1kg
 
 ## 自家焙煎デビューのための最初のステップ
 

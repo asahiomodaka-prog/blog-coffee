@@ -38,7 +38,6 @@ sidebarProducts:
 
 僕がOutin Nanoに惹かれたのは、その携帯性と本格的な抽出性能の両立だった。水からでもエスプレッソが作れる点や、コーヒー粉とカプセルの両方に対応する柔軟性は、日々のコーヒー体験を大きく変える可能性を秘めていると感じたのだ。
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -61,14 +60,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00pjxl1.ve2q5c8f.g00pjxl1.ve2q69e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fesports%2F6000000144016%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fesports%2Fi%2F11594365%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25A8%25E3%2582%25B9%25E3%2583%2597%25E3%2583%25AC%25E3%2583%2583%25E3%2582%25BD%25E3%2583%259E%25E3%2582%25B7%25E3%2583%25B3%2520%25E5%25B0%258F%25E5%259E%258B%2520%25E6%258C%2581%25E3%2581%25A1%25E9%2581%258B%25E3%2581%25B3%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AC%25E3%2582%25B9" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 小型ボディに宿る本格エスプレッソ抽出の秘密
 Outin Nanoの最大の魅力は、そのコンパクトな見た目からは想像できない本格的な抽出性能にある。ただお湯を通すだけではない。エスプレッソに不可欠な「高圧抽出」を実現している点が重要だ。
@@ -89,12 +86,12 @@ Outin Nanoの最大の魅力は、そのコンパクトな見た目からは想�
 
 これにより、クリアな口当たりとバランスの取れたエスプレッソが実現するのだ。手動でポンプを操作するタイプでは、押す力の均一性が抽出の成否を分けるが、電動のOutin Nanoは、常に一定の圧力を保ち、安定した品質を提供する点で優れていると言える。
 
-[Outin Nano エスプレッソマシン 小型 持ち運び コードレス](https://hb.afl.rakuten.co.jp/hgc/g00pjxl1.ve2q5c8f.g00pjxl1.ve2q69e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fesports%2F6000000144016%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fesports%2Fi%2F11594365%2F&rafcid=wsc_i_is_732732a1-5b08-44e6-a7a6-bdd68daad98b)
+Outin Nano エスプレッソマシン 小型 持ち運び コードレス
 
 👉 無料でコーヒー診断を受けてみる
 
 ## 忙しい朝もアウトドアもサッと本格。手軽さとコスパを両立できるか
-Outin Nanoは、その手軽さも特筆すべき点だ。温水抽出なら約20秒、冷水からでも約3分でエスプレッソが完成する。朝の慌ただしい時間でも、コーヒーショップに立ち寄るより早く、本格的な一杯を手にできる。僕自身、初めて使った時、極細挽きの豆の量を付属スプーンで適当に測っていたため、抽出が早すぎたり、遅すぎたりと味が安定しなかった経験がある。だが、一度[スケール](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&pl_id=27060&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2582%25B9%25E3%2582%25B1%25E3%2583%25BC%25E3%2583%25AB)で正確に16gを計量するようになってからは、狙い通りのクレマが出る安定したエスプレッソが淹れられるようになった。このひと手間が、味の安定には重要だと実感した部分だ。
+Outin Nanoは、その手軽さも特筆すべき点だ。温水抽出なら約20秒、冷水からでも約3分でエスプレッソが完成する。朝の慌ただしい時間でも、コーヒーショップに立ち寄るより早く、本格的な一杯を手にできる。僕自身、初めて使った時、極細挽きの豆の量を付属スプーンで適当に測っていたため、抽出が早すぎたり、遅すぎたりと味が安定しなかった経験がある。だが、一度スケールで正確に16gを計量するようになってからは、狙い通りのクレマが出る安定したエスプレッソが淹れられるようになった。このひと手間が、味の安定には重要だと実感した部分だ。
 
 手入れの簡便さも日々の使用を継続させる大きな要因となる。使用後は粉を捨てて軽く水洗いするだけで十分だ。
 
@@ -126,7 +123,7 @@ Outin Nanoは非常に優れたマシンだが、使う上で知っておくべ�
 ## Outin Nanoの設計と実用性、競合との比較
 Outin Nanoのサイズは約240mm×75mm×75mm、重量は約670gだ。これは500mlペットボトルより一回り大きく、重い程度。バックパックのサイドポケットや付属の専用ケースにすっぽり収まるサイズ感で、この中にエスプレッソ抽出に必要な全ての機能が凝縮されているのは驚異的だ。材質には食品グレードのステンレス鋼とBPAフリーの部品が使われており、安全性と耐久性への配慮が伺える。
 
-「2 in 1 Brewer」としてコーヒー粉とカプセルの両方に対応する点は、ユーザーの利便性を大きく高める。自宅ではお気に入りの[シングルオリジン](/blog/maruyama-coffee-single-origin-guide/)豆を挽いてこだわりを追求し、時間のない朝やアウトドアでは手軽にカプセルで済ませるといった、シーンに応じた柔軟な使い分けが可能だ。
+「2 in 1 Brewer」としてコーヒー粉とカプセルの両方に対応する点は、ユーザーの利便性を大きく高める。自宅ではお気に入りのシングルオリジン豆を挽いてこだわりを追求し、時間のない朝やアウトドアでは手軽にカプセルで済ませるといった、シーンに応じた柔軟な使い分けが可能だ。
 
 特にネスプレッソオリジナルサイズのカプセルが使えるため、フレーバーの選択肢も豊富に用意されている。
 
@@ -151,7 +148,7 @@ Outin Nanoは、自宅のキッチンが手狭で大型のエスプレッソマ�
 
 Outin Nano エスプレッソマシンは、あなたのコーヒーライフに新たな価値と自由をもたらす、頼れる相棒となるに違いない。
 
-[Outin Nano エスプレッソマシン 小型 持ち運び コードレス](https://hb.afl.rakuten.co.jp/hgc/g00pjxl1.ve2q5c8f.g00pjxl1.ve2q69e4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fesports%2F6000000144016%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fesports%2Fi%2F11594365%2F&rafcid=wsc_i_is_732732a1-5b08-44e6-a7a6-bdd68daad98b)
+Outin Nano エスプレッソマシン 小型 持ち運び コードレス
 
 ### よくある質問
 **Q1: 清掃は本当に簡単ですか？**

@@ -30,7 +30,6 @@ sidebarProducts:
 
 厳選された高品質な豆が複数種類詰め合わせられており、それぞれの豆が持つ個性を存分に引き出すことで、これまでの自宅コーヒーの概念を文字通り塗り替えるだろう。新たな風味の発見と、それに伴う抽出への探求心が、あなたのコーヒーライフを次のレベルへと誘うはずだ。
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -53,14 +52,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E8%B1%861%205kg%E7%A6%8F%E8%A2%8B%E3%81%A7%E5%91%B3%E3%81%8C%E5%8A%87%E7%9A%84%E3%81%AB%E5%A4%89%E3%82%8F%E3%82%8B%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%25861%25205kg%2520%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%258A%2587%25E7%259A%2584%25E3%2581%25AB%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 複数の豆が織りなす風味の「構造設計」
 
@@ -90,7 +87,7 @@ sidebarProducts:
 
 これにより、その日の気分や合わせる食事によって豆を選び分けたり、時には異なる豆をブレンドして自分だけのオリジナルフレーバーを作り出すことも可能となる。それぞれの豆が持つ個性的な「風味の構造」を理解し、その相性を探ることは、まさに味覚の冒険であり、自宅でしか味わえない贅沢な探求と言える。
 
-[コーヒー豆1 5kg福袋で味が劇的に変わる](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25201%25205kg%2520%25E7%25A6%258F%25E8%25A2%258B%2520%25E8%2587%25AA%25E5%25AE%25B6%25E7%2584%2599%25E7%2585%258E)
+コーヒー豆1 5kg福袋で味が劇的に変わる
 
 ## 自宅での運用性と費用対効果の検証
 
@@ -106,7 +103,7 @@ sidebarProducts:
 
 コーヒー豆は、酸素、光、熱、湿気に弱く、これらに触れることで酸化が進み、風味が劣化していく。特に福袋の場合、一度に複数の豆が届くため、それぞれの鮮度をいかに保つかが、最後まで風味の変化を楽しむための鍵となる。
 
-筆者が実践しているのは、届いた豆をまず小分けにすることだ。密閉できる保存袋や[キャニスター](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25201%25205kg%2520%25E7%25A6%258F%25E8%25A2%258B%2520%25E8%2587%25AA%25E5%25AE%25B6%25E7%2584%2599%25E7%2585%258E)に、1週間分程度の量を分けて入れ、残りは冷凍庫で保存する。
+筆者が実践しているのは、届いた豆をまず小分けにすることだ。密閉できる保存袋やキャニスターに、1週間分程度の量を分けて入れ、残りは冷凍庫で保存する。
 
 冷凍保存する際は、酸化防止のために極力空気を抜いて密閉することが重要である。こうすることで、豆の劣化を最小限に抑えつつ、常に新鮮な状態で様々な豆を試せる。
 
@@ -134,7 +131,7 @@ sidebarProducts:
 
 自宅でコーヒーを淹れることのリアルな満足度は、単に味が良いというだけにとどまらない。それは、豆を選び、挽き、お湯を注ぐ一連の動作を通して、五感をフルに使う体験そのものにある。
 
-[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25201%25205kg%2520%25E7%25A6%258F%25E8%25A2%258B%2520%25E8%2587%25AA%25E5%25AE%25B6%25E7%2584%2599%25E7%2585%258E)からゆっくりと落ちるコーヒーの雫を眺め、立ち上る香りを深く吸い込み、温かいカップを両手で包み込む。この一連の儀式が、日々の喧騒から離れ、自分だけの静かな時間を作り出してくれるのだ。
+ドリッパーからゆっくりと落ちるコーヒーの雫を眺め、立ち上る香りを深く吸い込み、温かいカップを両手で包み込む。この一連の儀式が、日々の喧騒から離れ、自分だけの静かな時間を作り出してくれるのだ。
 
 この福袋で多様な豆に触れることで、筆者は自身の味覚がより繊細になることを実感した。一口に「苦味」と言っても、チョコレートのような甘い苦味もあれば、焦げ付いたような苦味もある。
 
@@ -213,7 +210,7 @@ sidebarProducts:
 
 新しいコーヒーの扉を開き、自宅で味わえる無限の可能性に触れる一歩を踏み出すきっかけとなることを期待する。
 
-[コーヒー豆1 5kg福袋で味が劇的に変わる](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%25201%25205kg%2520%25E7%25A6%258F%25E8%25A2%258B%2520%25E8%2587%25AA%25E5%25AE%25B6%25E7%2584%2599%25E7%2585%258E)
+コーヒー豆1 5kg福袋で味が劇的に変わる
 
 ## よくある質問
 

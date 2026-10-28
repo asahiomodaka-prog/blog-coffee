@@ -40,12 +40,11 @@ sidebarProducts:
 
 コーヒーを淹れる朝のひととき、淹れたての香りと温度を長く保ちたい。しかし、一般的なマグカップではすぐに冷めてしまったり、アイスドリンクでは結露でデスクが濡れてしまったりする。
 
-そんな悩みを解決してくれるのが、**ボダムの[ダブルウォール](/blog/french-press-double-wall-guide/)マグ**だ。
+そんな悩みを解決してくれるのが、**ボダムのダブルウォールマグ**だ。
 
 今回は、ボダムの数あるシリーズの中から、特に人気の高い「BISTRO（ビストロ）」と「CANTEEN（キャンティーン）」の2種類を徹底的に比較する。どちらも耐熱ガラス製の二重構造マグだが、そのデザイン思想や細部の仕様には明確な違いがある。
 
 それぞれの特性を深く掘り下げ、あなたのライフスタイルに最適な一杯を見つける手助けができればと思う。
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -69,14 +68,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00tocw1.ve2q5309.g00tocw1.ve2q61de/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fbodumshop%2F10325-10%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fbodumshop%2Fi%2F10000011%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2583%259C%25E3%2583%2580%25E3%2583%25A0%2520%25E3%2583%2580%25E3%2583%2596%25E3%2583%25AB%25E3%2582%25A6%25E3%2582%25A9%25E3%2583%25BC%25E3%2583%25AB%25E3%2583%259E%25E3%2582%25B0%2520200ml%2520400ml" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## ボダム BISTRO（ビストロ）シリーズの特徴
 
@@ -134,9 +131,9 @@ BISTROは**ミニマルな機能美**を追求したデザインだ。マグカ�
 
 BISTROは**150ml、300ml、450ml**と幅広い容量展開がされている。150mlはエスプレッソやカプチーノに最適で、300mlは日常のレギュラーコーヒーにぴったりだ。
 
-特に450mlという大容量は、ドリップコーヒーをたっぷりと淹れて、**時間をかけてゆっくりと味わいたい**時に重宝する。自宅で[コーヒー豆](/blog/fresh-coffee-beans/)を挽き、丁寧にハンドドリップする私のような人間には、この選択肢は非常にありがたい。
+特に450mlという大容量は、ドリップコーヒーをたっぷりと淹れて、**時間をかけてゆっくりと味わいたい**時に重宝する。自宅でコーヒー豆を挽き、丁寧にハンドドリップする私のような人間には、この選択肢は非常にありがたい。
 
-CANTEENは**200mlと400ml**の2種類だ。200mlは紅茶や小さめのコーヒーに、400mlは一般的なコーヒーはもちろん、[アイスコーヒー](/blog/cold-brew-iced-coffee-pack-guide/)やたっぷりのカフェオレに適している。
+CANTEENは**200mlと400ml**の2種類だ。200mlは紅茶や小さめのコーヒーに、400mlは一般的なコーヒーはもちろん、アイスコーヒーやたっぷりのカフェオレに適している。
 
 BISTROの450mlと比べるとやや小さいものの、十分な容量で、日常使いには不便を感じることはないだろう。
 

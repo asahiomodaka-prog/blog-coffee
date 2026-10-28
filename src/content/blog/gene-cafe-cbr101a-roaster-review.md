@@ -36,10 +36,9 @@ sidebarProducts:
 
 コーヒーの味を決定づける要因のうち、実に6〜7割を占めると言われるのが「焙煎プロファイル」です。同じ銘柄・同じ標高のスペシャルティコーヒー豆であっても、投入熱量のカーブ（RoR: Rate of Rise）や排気効率、ハゼの持続時間によって、明るいフルーティーな酸味にも、チョコレートのような濃厚なボディにも変化します。
 
-市販の家庭用焙煎機の多くはオン・オフ制御しかできず、緻密な風味コントロールは困難でした。しかし、[Gene Cafe ジェネカフェ CBR-101A](https://hb.afl.rakuten.co.jp/hgc/g00ud9c1.ve2q5ac7.g00ud9c1.ve2q69a0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-online-shop%2F10000000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-online-shop%2Fi%2F10000000%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b) は、電子制御熱風ヒーターと独自の撹拌構造により、業務用ロースターに匹敵するプロファイル再現性を家庭にもたらします。
+市販の家庭用焙煎機の多くはオン・オフ制御しかできず、緻密な風味コントロールは困難でした。しかし、Gene Cafe ジェネカフェ CBR-101A は、電子制御熱風ヒーターと独自の撹拌構造により、業務用ロースターに匹敵するプロファイル再現性を家庭にもたらします。
 
 今回は、CBR-101Aの内部機構を科学的に解き明かし、浅煎りから深煎りまで狙った風味を正確に引き出すプロファイル設計論を深掘りします。
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -63,14 +62,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00ud9c1.ve2q5ac7.g00ud9c1.ve2q69a0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-online-shop%2F10000057%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-online-shop%2Fi%2F10000087%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DGene%2520Cafe%2520%25E3%2582%25B8%25E3%2582%25A7%25E3%2583%258D%25E3%2582%25AB%25E3%2583%2595%25E3%2582%25A7%2520CBR-101A" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 3Dオフセンター回転×間接熱風が生み出す「焼きムラゼロ」の仕組みと使いやすさの秘密
 
@@ -118,7 +115,7 @@ CBR-101Aでは、停止ボタンを押した瞬間にヒーター給電が完全
 
 科学的アプローチで自分だけの最高の一杯をデザインしたい愛好家にとって、Gene Cafe CBR-101Aは家庭で到達できる究極のロースティング環境を提供してくれるはずです。
 
-[Gene Cafe ジェネカフェ CBR-101A](https://hb.afl.rakuten.co.jp/hgc/g00ud9c1.ve2q5ac7.g00ud9c1.ve2q69a0/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fk-online-shop%2F10000000%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fk-online-shop%2Fi%2F10000000%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+Gene Cafe ジェネカフェ CBR-101A
 
 ### よくある質問
 

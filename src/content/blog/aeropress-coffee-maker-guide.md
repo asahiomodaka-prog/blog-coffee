@@ -42,7 +42,6 @@ sidebarProducts:
 
 エアロプレスは、自宅でのリラックスタイムはもちろん、職場やアウトドアでも本格的なコーヒーを楽しみたい人にぴったりの万能抽出機だ。
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -65,7 +64,6 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00sjd21.ve2q5785.g00sjd21.ve2q66e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Foc-shop%2F4996%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Foc-shop%2Fi%2F10000937%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25A8%25E3%2582%25A2%25E3%2583%25AD%25E3%2583%2597%25E3%2583%25AC%25E3%2582%25B9%2520%25E3%2582%25AA%25E3%2583%25AA%25E3%2582%25B8%25E3%2583%258A%25E3%2583%25AB%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%25A1%25E3%2583%25BC%25E3%2582%25AB%25E3%2583%25BC%25EF%25BD%259C%25E5%2585%25AC%25E5%25BC%258F%25E5%25B0%258F%25E5%25B7%259D%25E7%258F%2588%25E7%2590%25B2" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
@@ -73,12 +71,11 @@ sidebarProducts:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 
-
 ## 初心者が陥りがちな「失敗」とエアロプレスが解決する理由
 
 多くの人がコーヒーを自宅で淹れる際、「味が安定しない」「なんだか薄い、あるいは濃すぎる」「後片付けが面倒」といった課題に直面しがちだ。特にドリップコーヒーは、湯温、お湯を注ぐ速さ、挽き目、蒸らし時間など、複数の要素が複雑に絡み合うため、安定した味を出すには熟練の技術が求められる。
 
-[フレンチプレス](/blog/french-press-double-wall-guide/)なら手軽だが、金属フィルターのため微粉がカップに入りやすく、ザラつきが気になる人もいるだろう。これらの課題をエアロプレスは見事に解決してくれる。
+フレンチプレスなら手軽だが、金属フィルターのため微粉がカップに入りやすく、ザラつきが気になる人もいるだろう。これらの課題をエアロプレスは見事に解決してくれる。
 
 エアロプレスは、密閉されたチャンバーの中でコーヒー粉と熱湯を混ぜ合わせ、プランジャーで空気圧をかけて抽出する。この「浸漬（しんし）式」と「透過（とうか）式」を組み合わせた独自の抽出方法には、計算された設計思想がある。
 
@@ -117,7 +114,7 @@ sidebarProducts:
 
 しかし、エアロプレス本体だけではコーヒーを淹れられない。美味しい一杯を安定して淹れるためには、いくつか追加で揃えたいものがある。
 
-特に重要なのが「[コーヒーミル](/blog/manual-coffee-grinder-6-level/)」だ。エアロプレスは中細挽きから極細挽きまで幅広く対応するため、豆の挽き目で味わいが大きく変わる。
+特に重要なのが「コーヒーミル」だ。エアロプレスは中細挽きから極細挽きまで幅広く対応するため、豆の挽き目で味わいが大きく変わる。
 
 手挽きでも電動でも良いので、必ず用意したい。
 
@@ -149,8 +146,6 @@ sidebarProducts:
 | 素材 | ポリプロピレン、シリコーン |
 | 付属 | プランジャー、チャンバー、フィルターキャップ、スクープ、パドル、ファンネル、ペーパー100枚 |
 
-[エアロプレス オリジナル コーヒーメーカーの詳細はこちら](https://hb.afl.rakuten.co.jp/hgc/g00r28j1.ve2q50e5.g00r28j1.ve2q6622/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fgreenzone%2F101024202010%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fgreenzone%2Fi%2F10005321%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
-
 #### 職場やアウトドアに連れていくなら「エアロプレス ゴー コーヒーメーカー」
 
 外で淹れるなら、やはり「エアロプレス ゴー」が圧倒的に便利だ。専用のマグカップにすべてのパーツがぴったり収まるため、カバンの中で散らばることもない。このマグカップはそのまま抽出カップとしても使えるため、別途カップを用意する手間も省ける。
@@ -167,15 +162,13 @@ sidebarProducts:
 | 素材 | ポリプロピレン、シリコーン |
 | 付属 | プランジャー、チャンバー、フィルターキャップ、パドル、スクープ、ペーパー100枚、フィルターホルダー、マグカップ、フタ |
 
-[エアロプレス ゴー コーヒーメーカーの詳細はこちら](https://hb.afl.rakuten.co.jp/hgc/g00pxzh1.ve2q5efb.g00pxzh1.ve2q638c/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ftsujimoto%2Faeropressgo%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ftsujimoto%2Fi%2F10001278%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd60daad98b)
-
 ## エアロプレスを始めるためのファーストステップ
 
 エアロプレス本体を手に入れたら、次に揃えるべきは「コーヒーミル」と「ケトル」だ。特にミルは重要で、豆を挽く細かさでコーヒーの味が大きく変わる。手挽きミルでゴリゴリと豆を挽く時間も楽しいものだし、電動ミルなら手間なく均一な挽き目を得られる。
 
 僕も最初、挽き目が粗すぎると水っぽいコーヒーになることに戸惑った経験がある。エアロプレスは挽き目の調整で味が大きく変わるため、自分の好みに合わせた挽き目を見つけるのが、この器具の醍醐味の一つでもある。
 
-さらに、正確な抽出のためには「デジタルスケール」もおすすめしたい。[コーヒー豆](/blog/fresh-coffee-beans/)の量、お湯の量を正確に計ることで、毎回同じ味を再現できるようになる。
+さらに、正確な抽出のためには「デジタルスケール」もおすすめしたい。コーヒー豆の量、お湯の量を正確に計ることで、毎回同じ味を再現できるようになる。
 
 慣れてくれば感覚で淹れることもできるが、最初はレシピ通りに試すのが失敗しないコツだ。
 

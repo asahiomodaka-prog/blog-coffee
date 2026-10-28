@@ -30,7 +30,6 @@ sidebarProducts:
 
 抽出の奥深さに触れ、自身の好みを探求したいと願うすべての自宅バリスタに、本稿でその魅力と活用法を提示する。
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -53,14 +52,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/06bf284d.0ec76ac0.06bf284e.9bf246b7/?pc=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E8%B1%86%20%E7%8F%88%E7%90%B2%E8%B1%86%E3%81%AF%E6%B8%A9%E5%BA%A6%E3%81%A7%E5%91%B3%E3%81%8C%E5%A4%89%E3%82%8F%E3%82%8B%2F" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%2520%25E7%258F%2588%25E7%2590%25B2%25E8%25B1%2586%25E3%2581%25AF%25E6%25B8%25A9%25E5%25BA%25A6%25E3%2581%25A7%25E5%2591%25B3%25E3%2581%258C%25E5%25A4%2589%25E3%2582%258F%25E3%2582%258B" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 抽出の扉を開く「温度」の科学
 
@@ -83,7 +80,7 @@ sidebarProducts:
 筆者が普段好んで淹れる中深煎りの豆で実験した結果を以下に示す。
 
 **ケース1: 92℃で抽出**
-湯を[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E8%2587%25AA%25E5%25AE%25B6%25E7%2584%2599%25E7%2585%258E%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%2520%25E9%25AE%25AE%25E5%25BA%25A6%2520%25E9%25A3%25B2%25E3%2581%25BF%25E6%25AF%2594%25E3%2581%25B9)に注ぎ始めた瞬間から、コーヒーの芳醇な香りが部屋いっぱいに広がる。抽出される液体は、しっかりとしたコクと心地よい苦味が特徴で、後味には焙煎由来のチョコレートのような甘みが残る。
+湯をドリッパーに注ぎ始めた瞬間から、コーヒーの芳醇な香りが部屋いっぱいに広がる。抽出される液体は、しっかりとしたコクと心地よい苦味が特徴で、後味には焙煎由来のチョコレートのような甘みが残る。
 
 力強く、深みのある味わいは、朝、思考をクリアにしたい時や、集中して仕事に取り組む前の一杯に最適だと感じる。
 
@@ -99,7 +96,7 @@ sidebarProducts:
 
 フレッシュで軽やかな印象は、食後や、気分転換したい時に心地よい体験を提供する。
 
-このように、わずか数度の湯温の違いで、同じ豆からこれほど多様な味わいを引き出せることに、筆者は改めてコーヒーの奥深さを認識した。もちろん、湯温だけでなく、挽き目の細かさ、注湯の速度やリズム、抽出時間、そして[ドリッパー](/blog/coffee-dripper-1-3-cup/)の形状など、抽出を構成する要素は多岐にわたる。
+このように、わずか数度の湯温の違いで、同じ豆からこれほど多様な味わいを引き出せることに、筆者は改めてコーヒーの奥深さを認識した。もちろん、湯温だけでなく、挽き目の細かさ、注湯の速度やリズム、抽出時間、そしてドリッパーの形状など、抽出を構成する要素は多岐にわたる。
 
 しかし、この豆は、その中でも特に湯温が持つポテンシャルを最大限に引き出し、明確な味の変化として提示してくれるのである。
 
@@ -113,7 +110,7 @@ sidebarProducts:
 
 もし日々のコーヒーに新たな発見を求めているのであれば、この「温度で味が変わる」というコンセプトにぜひ触れてみてほしい。筆者もそうであったように、きっとコーヒーの奥深い世界にさらに引き込まれることであろう。
 
-[コーヒー豆 珈琲豆は温度で味が変わる](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E8%2587%25AA%25E5%25AE%25B6%25E7%2584%2599%25E7%2585%258E%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%2520%25E9%25AE%25AE%25E5%25BA%25A6%2520%25E9%25A3%25B2%25E3%2581%25BF%25E6%25AF%2594%25E3%2581%25B9)
+コーヒー豆 珈琲豆は温度で味が変わる
 
 ## 日常への溶け込みと賢いコストパフォーマンス
 
@@ -141,7 +138,7 @@ sidebarProducts:
 
 洗いやすさについても、豆自体に特筆すべき点はないが、温度管理を前提とした抽出は、器具の清潔さを保つことにもつながる。温度計付きケトルは、内部がシンプルな構造のものが多く、手入れも比較的容易である。
 
-筆者が使用しているプラスチック製の[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC)も、さっと水洗いするだけで十分であり、複雑なパーツを組み立てたり、分解したりする手間がないため、忙しい朝でも手軽に準備し、片付けることが可能である。
+筆者が使用しているプラスチック製のドリッパーも、さっと水洗いするだけで十分であり、複雑なパーツを組み立てたり、分解したりする手間がないため、忙しい朝でも手軽に準備し、片付けることが可能である。
 
 この「温度で味が変わる」というコンセプトは、単に高価な豆や複雑な器具を買い揃えることだけを意味しない。むしろ、今ある抽出器具に「温度管理」という視点を加えるだけで、これまで見えてこなかったコーヒーの可能性を引き出し、日々のコーヒー体験を豊かにしてくれる。
 
@@ -191,7 +188,7 @@ SNSやコーヒー愛好家のフォーラムでは、以下のような声が�
 
 手軽なコーヒーメーカーの場合、湯温管理ができないものがほとんどで、この豆の持つポテンシャルを十分に引き出すことは難しいだろう。
 
-その点、ハンドドリップは、湯温、注湯速度、蒸らしの時間、挽き目など、すべての要素を抽出者がコントロールできる。特に湯温は、注湯時に[ドリッパー](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E3%2583%2589%25E3%2583%25AA%25E3%2583%2583%25E3%2583%2591%25E3%2583%25BC)内の温度が変化しやすいので、狙った温度帯を維持しながら淹れる技術が求められるが、それができるからこそ、この「温度で味が変わる」豆の多様な表情を最大限に引き出すことができるのだ。
+その点、ハンドドリップは、湯温、注湯速度、蒸らしの時間、挽き目など、すべての要素を抽出者がコントロールできる。特に湯温は、注湯時にドリッパー内の温度が変化しやすいので、狙った温度帯を維持しながら淹れる技術が求められるが、それができるからこそ、この「温度で味が変わる」豆の多様な表情を最大限に引き出すことができるのだ。
 
 注湯の開始から終わりまで、湯温の変化が抽出に与える影響をダイレクトに感じられるのは、ハンドドリップならではの醍醐味だといえる。
 
@@ -254,7 +251,7 @@ SNSやコーヒー愛好家のフォーラムでは、以下のような声が�
 
 今日の気分に合わせて、あるいは合わせる食事に合わせて、湯温を微調整し、豆の持つ隠された魅力を引き出す。そんな日常が、あなたの毎日に確かな彩りを与えてくれるだろう。
 
-[コーヒー豆 珈琲豆は温度で味が変わる](https://af.moshimo.com/af/c/click?a_id=5750806&p_id=170&pc_id=185&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fwww.amazon.co.jp%2Fs%3Fk%3D%25E8%2587%25AA%25E5%25AE%25B6%25E7%2584%2599%25E7%2585%258E%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E8%25B1%2586%2520%25E9%25AE%25AE%25E5%25BA%25A6%2520%25E9%25A3%25B2%25E3%2581%25BF%25E6%25AF%2594%25E3%2581%25B9)
+コーヒー豆 珈琲豆は温度で味が変わる
 
 ## よくある質問
 

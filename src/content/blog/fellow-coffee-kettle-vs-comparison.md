@@ -44,7 +44,6 @@ sidebarProducts:
 
 どちらのケトルが、あなたのコーヒーライフに最適か、詳しく見ていこう。
 
-
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
 <div style="flex: 0 0 220px; max-width: 240px; min-width: 180px; margin: 0 auto; text-align: center;">
@@ -67,7 +66,6 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00qb281.ve2q5f34.g00qb281.ve2q6e27/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finter-c%2Ffs-pk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finter-c%2Fi%2F10007009%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3DFELLOW%2520%25E3%2583%2595%25E3%2582%25A7%25E3%2583%25AD%25E3%2583%25BC%2520%25E3%2582%25B1%25E3%2583%2588%25E3%2583%25AB%2520Stagg" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
@@ -75,14 +73,13 @@ sidebarProducts:
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
 
-
 ## Stagg EKG PRO：デジタル制御が叶える「抽出の科学」
 
 Fellow Stagg EKG PROは、まさに**抽出の科学を追求する**ための電気ケトルだ。一見するとシンプルなデザインだが、その内部にはコーヒーの味を決定づける高度な制御技術が詰まっている。
 
 #### グースネックが生み出す「流速の再現性」
 
-このケトルの象徴である細くカーブしたグースネック（鶴の首のような注ぎ口）は、単に見た目が美しいだけではない。注ぎ口の太さやカーブの設計は、**お湯が[ドリッパー](/blog/coffee-dripper-1-3-cup/)の中心に、一定の細さで正確に着地するためのもの**だ。
+このケトルの象徴である細くカーブしたグースネック（鶴の首のような注ぎ口）は、単に見た目が美しいだけではない。注ぎ口の太さやカーブの設計は、**お湯がドリッパーの中心に、一定の細さで正確に着地するためのもの**だ。
 
 急いでお湯を注ごうとケトルを傾けすぎると、蓋の隙間からお湯が吹き出すことがある。これは設計が緻密である証拠だ。
 
@@ -120,7 +117,7 @@ EKG PROには、抽出の安定性と効率を高めるための先進機能が�
 | 設定可能温度 | 40-100 ℃ (0.5度単位) |
 | 特徴 | グースネック、デジタル温度設定、スケジュール機能、プレボイル機能、Wi-Fi接続（日本国内は準備中） |
 
-Fellow Stagg EKG PRO フェロースタッグ 温度計付き電気ケトル [900ml](/blog/milk-pitcher-latte-art-350ml-vs-comparison/) (楽天) ](https://hb.afl.rakuten.co.jp/hgc/g00qb281.ve2q5f34.g00qb281.ve2q6e27/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finter-c%2Ffs-ekpro%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finter-c%2Fi%2F10007299%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+Fellow Stagg EKG PRO フェロースタッグ 温度計付き電気ケトル 900ml (楽天) ](https://hb.afl.rakuten.co.jp/hgc/g00qb281.ve2q5f34.g00qb281.ve2q6e27/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finter-c%2Ffs-ekpro%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finter-c%2Fi%2F10007299%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
 
 ## Stagg Pour-Over Kettle：アナログの魅力と日々の使いやすさ
 
@@ -157,7 +154,7 @@ EKG PROが約1250gなのに対し、こちらは**約530g**と半分以下の軽
 | 熱源 | 直火、IH（一部非対応）、電気コンロ |
 | 特徴 | グースネック、蓋にアナログ温度計、軽量、熱源を選ばない |
 
-[ FELLOW フェロー ケトル Stagg Pour-Over Kettle 1リットル (楽天) ](https://hb.afl.rakuten.co.jp/hgc/g00qb281.ve2q5f34.g00qb281.ve2q6e27/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Finter-c%2Ffs-pk%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Finter-c%2Fi%2F10007009%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+FELLOW フェロー ケトル Stagg Pour-Over Kettle 1リットル (楽天)
 
 ## どちらを選ぶ？ フェローケトル徹底比較表
 

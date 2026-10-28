@@ -34,12 +34,11 @@ sidebarProducts:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-「高級[コーヒー豆](/blog/fresh-coffee-beans/)をギフトに贈りたいが、種類が多くて何を選べばいいか分からない」「せっかく贈るなら、相手に本当に喜んでもらいたい」
+「高級コーヒー豆をギフトに贈りたいが、種類が多くて何を選べばいいか分からない」「せっかく贈るなら、相手に本当に喜んでもらいたい」
 
 そう考える方は多いはずだ。コーヒーは嗜好品ゆえに好みが分かれやすく、ギフト選びは意外と難しい。しかし、いくつかのポイントを押さえれば、あなたの気持ちが伝わる最高のコーヒーギフトを選べる。
 
 この記事では、僕自身の体験も踏まえ、コーヒー豆ギフトで失敗しないための選び方を紹介する。
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -63,14 +62,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00tyfv1.ve2q5e1a.g00tyfv1.ve2q6ca4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyorozuya462%2Fcompass1776425596%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyorozuya462%2Fi%2F10000459%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E6%259C%25A8%25E7%25AE%25B1%25E5%2585%25A5%2520%25E3%2583%2596%25E3%2583%25AB%25E3%2583%25BC%25E3%2583%259E%25E3%2582%25A6%25E3%2583%25B3%25E3%2583%2586%25E3%2583%25B3%2520%25EF%25BC%2586%2520%25E3%2582%25B3%25E3%2583%2594%2520%25E3%2583%25AB%25E3%2582%25A2%25E3%2582%25AF%2520%25E3%2582%25AE%25E3%2583%2595%25E3%2583%2588%25E3%2582%25BB%25E3%2583%2583%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## ギフト選びで初心者が陥りがちな失敗
 
@@ -85,7 +82,7 @@ sidebarProducts:
 コーヒー豆は生鮮食品と同じで、焙煎から時間が経つと風味が著しく落ちてしまう。ギフトだからこそ、最高の状態で味わってほしいものだ。いつ焙煎されたものか、注文後に焙煎されるのか、といった鮮度に関する情報を見落とさないようにしたい。
 
 **3. 相手の抽出器具を把握していない**
-コーヒー豆を贈る際、最も重要なのが「挽き方」だ。相手が[コーヒーミル](/blog/manual-coffee-grinder-6-level/)を持っているか、それとも持っていないか。
+コーヒー豆を贈る際、最も重要なのが「挽き方」だ。相手がコーヒーミルを持っているか、それとも持っていないか。
 
 ドリップで淹れるのか、エスプレッソマシンを使うのか。これらを考慮せずに「豆のまま」や「中挽き」を選んでしまうと、相手は戸惑ってしまうかもしれない。
 
@@ -143,7 +140,7 @@ sidebarProducts:
 
 澤井珈琲は注文を受けてから焙煎してくれるため、鮮度も非常に高い。木樽のパッケージは見た目にも華やかで、どんな相手にも安心して贈れる王道の一品だ。
 
-[澤井珈琲の「ブルーマウンテン2樽ギフトセット」を見る](https://hb.afl.rakuten.co.jp/hgc/g00powb1.ve2q5783.g00powb1.ve2q6ef7/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fsawaicoffee-tea%2F210406%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fsawaicoffee-tea%2Fi%2F10000479%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+澤井珈琲の「ブルーマウンテン2樽ギフトセット」を見る
 
 #### とっておきの体験を贈る！希少銘柄で差をつけるなら
 
@@ -160,7 +157,7 @@ sidebarProducts:
 
 方向性の異なる二つの高級コーヒーを飲み比べることで、深いコーヒー体験ができるだろう。コーヒー愛好家への特別なギフトとして、記憶に残る一品となる。
 
-[あたごコーヒーの「木箱入 ブルーマウンテン ＆ コピ・ルアク ギフトセット」を見る](https://hb.afl.rakuten.co.jp/hgc/g00tyfv1.ve2q5e1a.g00tyfv1.ve2q6ca4/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fyorozuya462%2Fcompass1776425596%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fyorozuya462%2Fi%2F10000459%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+あたごコーヒーの「木箱入 ブルーマウンテン ＆ コピ・ルアク ギフトセット」を見る
 
 #### 一味違うこだわり派に！ユニークな熟成コーヒー
 
@@ -178,7 +175,7 @@ sidebarProducts:
 
 価格も比較的手頃なので、気軽に「いつもと違う」体験を贈りたい時に良い。
 
-[香福屋の「雪の下熟成珈琲 ギフト」を見る](https://hb.afl.rakuten.co.jp/hgc/g00qpk51.ve2q5d69.g00qpk51.ve2q6723/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fkomi-coffee%2Fyukibeensgift400%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fkomi-coffee%2Fi%2F10000663%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+香福屋の「雪の下熟成珈琲 ギフト」を見る
 
 #### 手軽に本格エスプレッソ！日常使いの贅沢を
 
@@ -195,7 +192,7 @@ sidebarProducts:
 
 日常に本格的なコーヒー体験を贈りたい時に検討したい。
 
-[NICO coffee and bakeryの「スペシャルティコーヒー エスプレッソブレンド」を見る](https://hb.afl.rakuten.co.jp/hgc/g00ujbz1.ve2q586f.g00ujbz1.ve2q64e2/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fnico-coffee-and-bakery%2F0009-200g%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fnico-coffee-and-bakery%2Fi%2F10000077%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+NICO coffee and bakeryの「スペシャルティコーヒー エスプレッソブレンド」を見る
 
 ## 高級コーヒー豆ギフトを贈る前に知っておきたいこと
 
@@ -208,7 +205,7 @@ sidebarProducts:
 「どんなシーンで飲んでほしいか」「この豆を選んだ理由」などを手書きのメッセージカードに添えると、ギフトに込められたあなたの気持ちがより伝わる。一言でも良いので、添えてみてほしい。
 
 **3. 簡易的なドリップ器具を一緒に贈るのも一考**
-もし相手が普段あまりハンドドリップをしない場合、コーヒー豆だけだと淹れるのが億劫になるかもしれない。そんな時は、数百円程度で手に入る簡易的なコーヒー[ドリッパー](/blog/coffee-dripper-1-3-cup/)やフィルターを添えるのも親切な心遣いになる。
+もし相手が普段あまりハンドドリップをしない場合、コーヒー豆だけだと淹れるのが億劫になるかもしれない。そんな時は、数百円程度で手に入る簡易的なコーヒードリッパーやフィルターを添えるのも親切な心遣いになる。
 
 ### よくある質問
 

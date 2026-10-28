@@ -34,12 +34,11 @@ sidebarProducts:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-自宅でカフェのような本格的なラテアートに挑戦したい人は多いだろう。僕もその一人だ。エスプレッソマシンや[コーヒー豆](/blog/fresh-coffee-beans/)にこだわる一方で、意外と見落としがちなのがミルクピッチャーの選び方だと感じる。
+自宅でカフェのような本格的なラテアートに挑戦したい人は多いだろう。僕もその一人だ。エスプレッソマシンやコーヒー豆にこだわる一方で、意外と見落としがちなのがミルクピッチャーの選び方だと感じる。
 
-今回は、特に家庭で使いやすい350ml容量のミルクピッチャーに焦点を当て、人気の2商品を[徹底比較](/blog/coffee-dripper-types-comparison-guide/)する。ただの機能紹介にとどまらず、それぞれのピッチャーが持つ「なぜその形状なのか」という設計思想まで深く掘り下げて解説する。
+今回は、特に家庭で使いやすい350ml容量のミルクピッチャーに焦点を当て、人気の2商品を徹底比較する。ただの機能紹介にとどまらず、それぞれのピッチャーが持つ「なぜその形状なのか」という設計思想まで深く掘り下げて解説する。
 
 この記事を読めば、自宅でのラテアートを次のレベルへと引き上げる最適なピッチャーが見つかるはずだ。
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -63,14 +62,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00slqj1.ve2q58b7.g00slqj1.ve2q6e2a/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fhappylab%2F10000011%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fhappylab%2Fi%2F10000011%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E3%2582%25B9%25E3%2583%2586%25E3%2583%25B3%25E3%2583%25AC%25E3%2582%25B9%2520%25E3%2583%259F%25E3%2583%25AB%25E3%2582%25AF%25E3%2582%25B8%25E3%2583%25A3%25E3%2582%25B0%2520%25E3%2583%259F%25E3%2583%25AB%25E3%2582%25AF%25E3%2583%2594%25E3%2583%2583%25E3%2583%2581%25E3%2583%25A3%25E3%2583%25BC%2520%25E3%2583%25A9%25E3%2583%2586%25E3%2582%25A2%25E3%2583%25BC%25E3%2583%2588" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## 比較対象商品の概要とスペック
 

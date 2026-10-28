@@ -34,10 +34,9 @@ sidebarProducts:
 
 > 💡 **PR/Notice**: 本ページはアフィリエイトプログラムによる収益を得ています。
 
-「自宅で焙煎したてのコーヒーを飲みたい」その願いを、手軽さと本格性を両立して叶えてくれるのが、この[アウベルクラフト 遠赤コーヒー焙煎キット](https://hb.afl.rakuten.co.jp/hgc/g00u30q1.ve2q5a1b.g00u30q1.ve2q6ce5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff232165-tokoname%2Fdh002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff232165-tokoname%2Fi%2F10000734%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)だ。特に、豆の均一な加熱と効率的な熱伝導に着目した独自の設計は、僕が求めていた「いつでも安定して美味しい一杯」を実現する上で欠かせない要素だった。
+「自宅で焙煎したてのコーヒーを飲みたい」その願いを、手軽さと本格性を両立して叶えてくれるのが、このアウベルクラフト 遠赤コーヒー焙煎キットだ。特に、豆の均一な加熱と効率的な熱伝導に着目した独自の設計は、僕が求めていた「いつでも安定して美味しい一杯」を実現する上で欠かせない要素だった。
 
 一般的な手回し焙煎機が抱える「焼きムラ」という課題に対し、このキットは素材と形状の工夫で明確な解決策を提示している。初めて自宅焙煎に挑戦する初心者から、より質の高い焙煎を追求したい上級者まで、納得のいく仕上がりを手軽に楽しめるだろう。
-
 
 <div class="affiliate-product-card" style="margin: 28px 0; padding: 24px; border: 1px solid #e2e8f0; border-radius: 14px; background-color: #ffffff; box-shadow: 0 4px 15px rgba(0,0,0,0.04); font-family: sans-serif;">
 <div style="display: flex; flex-wrap: wrap; gap: 24px; align-items: center;">
@@ -61,14 +60,12 @@ sidebarProducts:
 <a href="https://hb.afl.rakuten.co.jp/hgc/g00u30q1.ve2q5a1b.g00u30q1.ve2q6ce5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff232165-tokoname%2Fdh002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff232165-tokoname%2Fi%2F10000734%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #bf0000, #9e0000); color: #ffffff !important;">🔴 楽天市場（楽天ポイント還元）</a>
 <a href="https://af.moshimo.com/af/c/click?a_id=5750806&p_id=1225&pc_id=1925&pl_id=27061&s_v=b5Rz2dtPAnup&url=https%3A%2F%2Fshopping.yahoo.co.jp%2Fsearch%3Fp%3D%25E9%2581%25A0%25E8%25B5%25A4%2520%25E3%2582%25B3%25E3%2583%25BC%25E3%2583%2592%25E3%2583%25BC%25E7%2584%2599%25E7%2585%258E%25E3%2582%25AD%25E3%2583%2583%25E3%2583%2588%2520%25E3%2582%25A2%25E3%2582%25A6%25E3%2583%2599%25E3%2583%25AB%25E3%2582%25AF%25E3%2583%25A9%25E3%2583%2595%25E3%2583%2588%2520%25E7%2584%2599%25E7%2585%258E%25E5%2599%25A8" target="_blank" rel="nofollow noopener noreferrer" style="padding: 10px 8px; border-radius: 8px; font-weight: 700; font-size: 0.84rem; text-align: center; text-decoration: none !important; display: flex; align-items: center; justify-content: center; min-height: 42px; box-shadow: 0 2px 4px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s; background: linear-gradient(135deg, #ff0033, #cc0029); color: #ffffff !important;">🟣 Yahoo!（PayPayポイント）</a>
 
-
 </div>
 </div>
 </div>
 </div>
 <div style="margin-top: 12px; text-align: right; font-size: 0.75rem; color: #a0aec0;">※各ECサイトの最新価格や在庫状況は各リンク先でご確認ください。</div>
 </div>
-
 
 ## なぜこの焙煎機は豆を均一に焼き上げ、クリアな風味を生むのか
 
@@ -106,7 +103,7 @@ sidebarProducts:
 
 使わない時はコンパクトに収納できるのも、限られたキッチンスペースには助かる。組み立てキットであるため、初期に約20～30分かけて組み立てる手間はあるものの、一度組み立ててしまえば、あとは焙煎のたびにさっと出して使える。この手軽さも、僕が自家焙煎を習慣化できた大きな理由の一つだ。
 
-[アウベルクラフト 遠赤コーヒー焙煎キット](https://hb.afl.rakuten.co.jp/hgc/g00u30q1.ve2q5a1b.g00u30q1.ve2q6ce5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff232165-tokoname%2Fdh002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff232165-tokoname%2Fi%2F10000734%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)
+アウベルクラフト 遠赤コーヒー焙煎キット
 
 ## 手回し焙煎だからこそ感じる課題と乗り越えるコツ
 
@@ -146,7 +143,7 @@ sidebarProducts:
 
 ## 自宅でプロの味を追求するあなたへ
 
-[アウベルクラフト 遠赤コーヒー焙煎キット](https://hb.afl.rakuten.co.jp/hgc/g00u30q1.ve2q5a1b.g00u30q1.ve2q6ce5/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Ff232165-tokoname%2Fdh002%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Ff232165-tokoname%2Fi%2F10000734%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b)は、単なるコーヒー器具ではない。それは、自宅で最高のコーヒー体験を追求するための「パートナー」のような存在だ。
+アウベルクラフト 遠赤コーヒー焙煎キットは、単なるコーヒー器具ではない。それは、自宅で最高のコーヒー体験を追求するための「パートナー」のような存在だ。
 
 豆の選定から焙煎、そして抽出まで、一連のプロセス全てに自分で関わることで、市販のコーヒーでは味わえない格別の満足感と、奥深いコーヒーの世界への探求心が生まれる。
 
