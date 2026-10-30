@@ -29,7 +29,7 @@ sidebarProducts:
     microCopy: '詳細を見る'
   - title: 'カリタ／Kalita ナイスカットG (プレミアムブラウン)　選べるコーヒー豆付 電動ミル 61119 　コーヒーミル グラインダー コーヒー豆 家庭用 業務用 上町珈琲 日本製 新品 ナイスカットミル 贈り物 包装無料'
     url: 'https://hb.afl.rakuten.co.jp/hgc/g00qg4l1.ve2q5126.g00qg4l1.ve2q6818/?pc=https%3A%2F%2Fitem.rakuten.co.jp%2Fauc-uemachicoffee%2Fsm-nicecutg_pb%2F&m=http%3A%2F%2Fm.rakuten.co.jp%2Fauc-uemachicoffee%2Fi%2F10000792%2F&rafcid=wsc_i_is_732732a1-5b08-44e2-a7a6-bdd68daad98b'
-    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/kalita/nicecutg-pb480.jpg?_ex=600x600'
+    imageUrl: 'https://thumbnail.image.rakuten.co.jp/@0_mall/auc-uemachicoffee/cabinet/kalita/nicecutg-ir.jpg?_ex=600x600'
     price: 39800
     microCopy: '詳細を見る'
   - title: 'ナイスカットG ナイスカットミル ブラウン インディアンレッド カリタ 小型 電動ミル コーヒーグラインダーコーヒーミル 電動 おしゃれ コーヒー カリタナイスカットG kalita ナイスカットミル コーヒーグラインダーギフト プレゼント 退職祝い 誕生日 母の日 父の日 シール'
